@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Fields>
+    <Field shortName="status">
+        <Enum>
+            <Item>
+                <Label>Active</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>New</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>NRFND</Label>
+                <Value>3</Value>
+                <Description>Not Recommended For New Design</Description>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="topologies">
+        <Enum>
+            <Item>
+                <Label>Buck</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Boost</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Buck/Boost</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Charge Pump</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>LLC</Label>
+                <Value>5</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>LIPS (LLC)</Label>
+                <Value>6</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="powermosfet">
+        <Enum>
+            <Item>
+                <Label>Integrated</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>External</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="dimmingoutput">
+        <Enum>
+            <Item>
+                <Label>P-Dim</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>A-Dim</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Smart-Dim</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="typicallcdscreensizes">
+        <Enum>
+            <Item>
+                <Label>Small (&lt;10")</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Medium (10"-29")</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Large (30"-45")</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Large+ (&gt;45")</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="grade">
+        <Enum>
+            <Item>
+                <Label>Catalog</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Industrial</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Automotive</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="stepmode">
+        <Enum>
+            <Item>
+                <Label>Full</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Half</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="softstart">
+        <Enum>
+            <Item>
+                <Label>Internal</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>External</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="22khztonesignalgenerated">
+        <Enum>
+            <Item>
+                <Label>Internal</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="topology">
+        <Enum>
+            <Item>
+                <Label>Flyback</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Forward</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Charge Pump</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Boost</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="chargetype">
+        <Enum>
+            <Item>
+                <Label>CV</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>CC Controller</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>CC Linear</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>CC</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>CV Controller</Label>
+                <Value>5</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>CV Linear</Label>
+                <Value>6</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Xenon Flash</Label>
+                <Value>7</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="enable">
+        <Enum>
+            <Item>
+                <Label>Y</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>N</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Active High</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Active Low</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="controltopology">
+        <Enum>
+            <Item>
+                <Label>HV Half-Bridge</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Push-Pull</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Half-Bridge</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Nu-Pulse</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Full-Bridge</Label>
+                <Value>5</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="batterytype">
+        <Enum>
+            <Item>
+                <Label>Li-Ion</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Li-FePO4</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label> Li-Polymer</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+
+
+    <Field shortName="controlmethod">
+        <Enum>
+            <Item>
+                <Label>On-Off</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Quasi-Resonant</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Variable Frequency</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Fixed Frequency</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Fixed Frequency with Frequency Foldback when Load Get Lighter</Label>
+                <Value>5</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Primary-side control</Label>
+                <Value>6</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>LC/PRC</Label>
+                <Value>7</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>LLC/SRC</Label>
+                <Value>8</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Boost/Buck Boost</Label>
+                <Value>9</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="faultflag">
+        <Enum>
+            <Item>
+                <Label>Thermal Fault = Tri-State</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Current-Limit</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Thermal Shut-Down and Damaged MOSFET</Label>
+                <Value>3</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Over-Current</Label>
+                <Value>4</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Active Low</Label>
+                <Value>5</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Over-Temperature</Label>
+                <Value>6</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+    <Field shortName="acdcappearance">
+        <Enum>
+            <Item>
+                <Label>Show on AC/DC Designer</Label>
+                <Value>1</Value>
+                <Description/>
+            </Item>
+            <Item>
+                <Label>Show on MPSmart</Label>
+                <Value>2</Value>
+                <Description/>
+            </Item>
+        </Enum>
+    </Field>
+</Fields>
