@@ -1,0 +1,633 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Topology","Control Mode","fsw Typ (kHz)","Stand-by Mode","UVLO (V)","Short Circuit Protection","Latch","Soft Start","VCC Max (V)","Drive Cap. (mA)","Package Type"
+"on","AC-DC控制器和稳压器---离线控制器","CS51221","CS51221EDR16G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS51221EDR16G","http://www.onsemi.com/pub/Collateral/CS51221-D.PDF","Enhanced Voltage Mode PWM Controller for Forward or Flyback","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Enhanced Voltage Mode PWM Controller for Forward or Flyback","Forward","Voltage Mode","Up to 1000","No","Yes","No","Yes","Yes","15","1000","SOIC-16"
+"on","AC-DC控制器和稳压器---离线控制器","MC33025","MC33025DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33025DWR2G","http://www.onsemi.com/pub/Collateral/MC34025-D.PDF","Up-to-1 MHz Dual Output (Push-pull or H-Bridge) Voltage-or-Current-Mode PWM Controller","Pb-free
+Halide free","Active","Up-to-1 MHz Dual Output (Push-pull or H-Bridge) Voltage-or-Current-Mode PWM Controller","Push-Pull","Current/Voltage Mode","1000","No","Yes","Yes","No","Yes","30","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC33025","MC33025PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33025PG","http://www.onsemi.com/pub/Collateral/MC34025-D.PDF","Up-to-1 MHz Dual Output (Push-pull or H-Bridge) Voltage-or-Current-Mode PWM Controller","Pb-free
+Halide free","Active","Up-to-1 MHz Dual Output (Push-pull or H-Bridge) Voltage-or-Current-Mode PWM Controller","Push-Pull","Current/Voltage Mode","1000","No","Yes","Yes","No","Yes","30","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC33067","MC33067DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33067DWG","http://www.onsemi.com/pub/Collateral/MC34067-D.PDF","High Performance Resonant Mode Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Resonant Mode Controller","Flyback","Voltage Mode","1000","No","Yes","Yes","No","Yes","20","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC33067","MC33067DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33067DWR2G","http://www.onsemi.com/pub/Collateral/MC34067-D.PDF","High Performance Resonant Mode Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Resonant Mode Controller","Flyback","Voltage Mode","1000","No","Yes","Yes","No","Yes","20","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC33067","MC33067PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33067PG","http://www.onsemi.com/pub/Collateral/MC34067-D.PDF","High Performance Resonant Mode Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Resonant Mode Controller","Flyback","Voltage Mode","1000","No","Yes","Yes","No","Yes","20","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC33067","MC34067DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34067DWG","http://www.onsemi.com/pub/Collateral/MC34067-D.PDF","High Performance Resonant Mode Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Resonant Mode Controller","Flyback","Voltage Mode","1000","No","Yes","Yes","No","Yes","20","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC33067","MC34067DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34067DWR2G","http://www.onsemi.com/pub/Collateral/MC34067-D.PDF","High Performance Resonant Mode Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Resonant Mode Controller","Flyback","Voltage Mode","1000","No","Yes","Yes","No","Yes","20","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC33067","MC34067PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34067PG","http://www.onsemi.com/pub/Collateral/MC34067-D.PDF","High Performance Resonant Mode Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Resonant Mode Controller","Flyback","Voltage Mode","1000","No","Yes","Yes","No","Yes","20","200 / 200","PDIP-16
+SOIC-16W"
+"on","AC-DC控制器和稳压器---离线控制器","MC34060A","MC34060ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34060ADG","http://www.onsemi.com/pub/Collateral/MC34060A-D.PDF","Fixed Frequency,  Single Ended, Voltage Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Frequency,  Single Ended, Voltage Mode PWM Controller","Step-Up/Step-Down","Voltage Mode","200","No","Yes","No","No","No","42","200","SOIC-14"
+"on","AC-DC控制器和稳压器---离线控制器","MC34060A","MC34060ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34060ADR2G","http://www.onsemi.com/pub/Collateral/MC34060A-D.PDF","Fixed Frequency,  Single Ended, Voltage Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Frequency,  Single Ended, Voltage Mode PWM Controller","Step-Up/Step-Down","Voltage Mode","200","No","Yes","No","No","No","42","200","SOIC-14"
+"on","AC-DC控制器和稳压器---离线控制器","NCL30002","NCL30002DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30002DR2G","http://www.onsemi.com/pub/Collateral/NCL30002-D.PDF","LED Driver, Offline Buck, Power Factor Corrected","Pb-free
+Halide free","Active","LED Driver, Offline Buck, Power Factor Corrected","Step-Down","Voltage Mode","Up to 250","No","Yes",,"No",,"20","500 / 800","SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCL30081","NCL30081ASNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30081ASNT1G","http://www.onsemi.com/pub/Collateral/NCL30081-D.PDF","Step Dimmable Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting, , Latching for Critical Faults","Pb-free
+Halide free","Active","Step Dimmable Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting","Flyback","Current Mode","Up to 150","Yes","4.5","Yes","No
+Yes","Yes","35","300 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCL30081","NCL30081BSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30081BSNT1G","http://www.onsemi.com/pub/Collateral/NCL30081-D.PDF","Step Dimmable Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting, , Auto recoverable","Pb-free
+Halide free","Active","Step Dimmable Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting","Flyback","Current Mode","Up to 150","Yes","4.5","Yes","No
+Yes","Yes","35","300 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1200","NCP1200D100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1200D100R2G","http://www.onsemi.com/pub/Collateral/NCP1200-D.PDF","PWM Controller, Fixed Frequency, Flyback, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Flyback, Current Mode","Flyback","Current Mode","40
+60
+100","Yes","No","Yes","No","No","16","250 / 250","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1200","NCP1200D40R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1200D40R2G","http://www.onsemi.com/pub/Collateral/NCP1200-D.PDF","PWM Controller, Fixed Frequency, Flyback, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Flyback, Current Mode","Flyback","Current Mode","40
+60
+100","Yes","No","Yes","No","No","16","250 / 250","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1200","NCP1200D60R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1200D60R2G","http://www.onsemi.com/pub/Collateral/NCP1200-D.PDF","PWM Controller, Fixed Frequency, Flyback, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Flyback, Current Mode","Flyback","Current Mode","40
+60
+100","Yes","No","Yes","No","No","16","250 / 250","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1200","NCP1200P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1200P100G","http://www.onsemi.com/pub/Collateral/NCP1200-D.PDF","PWM Controller, Fixed Frequency, Flyback, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Flyback, Current Mode","Flyback","Current Mode","40
+60
+100","Yes","No","Yes","No","No","16","250 / 250","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1200","NCP1200P40G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1200P40G","http://www.onsemi.com/pub/Collateral/NCP1200-D.PDF","PWM Controller, Fixed Frequency, Flyback, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Flyback, Current Mode","Flyback","Current Mode","40
+60
+100","Yes","No","Yes","No","No","16","250 / 250","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1200","NCP1200P60G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1200P60G","http://www.onsemi.com/pub/Collateral/NCP1200-D.PDF","PWM Controller, Fixed Frequency, Flyback, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Flyback, Current Mode","Flyback","Current Mode","40
+60
+100","Yes","No","Yes","No","No","16","250 / 250","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1207A","NCP1207ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1207ADR2G","http://www.onsemi.com/pub/Collateral/NCP1207A-D.PDF","PWM Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","PWM Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Up to 1000","Yes","yes","Yes","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1207A","NCP1207APG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1207APG","http://www.onsemi.com/pub/Collateral/NCP1207A-D.PDF","PWM Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","PWM Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Up to 1000","Yes","yes","Yes","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1216","NCP1216D100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1216D100R2G","http://www.onsemi.com/pub/Collateral/NCP1216-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","No","Yes","No","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1216","NCP1216D133R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1216D133R2G","http://www.onsemi.com/pub/Collateral/NCP1216-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","No","Yes","No","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1216","NCP1216D65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1216D65R2G","http://www.onsemi.com/pub/Collateral/NCP1216-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","No","Yes","No","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1216","NCP1216P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1216P100G","http://www.onsemi.com/pub/Collateral/NCP1216-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","No","Yes","No","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1216","NCP1216P133G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1216P133G","http://www.onsemi.com/pub/Collateral/NCP1216-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","No","Yes","No","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1216","NCP1216P65G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1216P65G","http://www.onsemi.com/pub/Collateral/NCP1216-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","No","Yes","No","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1217","NCP1217D100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1217D100R2G","http://www.onsemi.com/pub/Collateral/NCP1217-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1217","NCP1217D133R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1217D133R2G","http://www.onsemi.com/pub/Collateral/NCP1217-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1217","NCP1217D65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1217D65R2G","http://www.onsemi.com/pub/Collateral/NCP1217-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1217","NCP1217P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1217P100G","http://www.onsemi.com/pub/Collateral/NCP1217-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1217","NCP1217P133G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1217P133G","http://www.onsemi.com/pub/Collateral/NCP1217-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1217","NCP1217P65G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1217P65G","http://www.onsemi.com/pub/Collateral/NCP1217-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","No","16","500","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1218","NCP1218AD65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1218AD65R2G","http://www.onsemi.com/pub/Collateral/NCP1218-D.PDF","PWM Controller with Adjustable Skip Level and External Latch Input","Pb-free
+Halide free","Active","PWM Controller with Adjustable Skip Level and External Latch Input ","Flyback","Current Mode","65","Yes","9.4","Yes","Yes","Yes","20","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1230","NCP1230D100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1230D100R2G","http://www.onsemi.com/pub/Collateral/NCP1230-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","Yes","18","500 / 800","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1230","NCP1230D133R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1230D133R2G","http://www.onsemi.com/pub/Collateral/NCP1230-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","Yes","18","500 / 800","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1230","NCP1230D165R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1230D165R2G","http://www.onsemi.com/pub/Collateral/NCP1230-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","Yes","18","500 / 800","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1230","NCP1230D65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1230D65R2G","http://www.onsemi.com/pub/Collateral/NCP1230-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","Yes","18","500 / 800","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1230","NCP1230P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1230P100G","http://www.onsemi.com/pub/Collateral/NCP1230-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","Yes","18","500 / 800","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1230","NCP1230P133G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1230P133G","http://www.onsemi.com/pub/Collateral/NCP1230-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","Yes","18","500 / 800","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1230","NCP1230P65G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1230P65G","http://www.onsemi.com/pub/Collateral/NCP1230-D.PDF","PWM Controller, Fixed Frequency, Current Mode","Pb-free
+Halide free","Active","PWM Controller, Fixed Frequency, Current Mode","Flyback","Current Mode","65
+100
+133","Yes","Yes","Yes","Yes","Yes","18","500 / 800","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1236","NCP1236AD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1236AD100R2G","http://www.onsemi.com/pub/Collateral/NCP1236-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.5","Yes","Yes","Yes","28","500 / 500","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1236","NCP1236AD65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1236AD65R2G","http://www.onsemi.com/pub/Collateral/NCP1236-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.5","Yes","Yes","Yes","28","500 / 500","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1236","NCP1236BD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1236BD100R2G","http://www.onsemi.com/pub/Collateral/NCP1236-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.5","Yes","Yes","Yes","28","500 / 500","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1236","NCP1236BD65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1236BD65R2G","http://www.onsemi.com/pub/Collateral/NCP1236-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.5","Yes","Yes","Yes","28","500 / 500","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1236","NCP1236DD65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1236DD65R2G","http://www.onsemi.com/pub/Collateral/NCP1236-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.5","Yes","Yes","Yes","28","500 / 500","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1238","NCP1238AD65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1238AD65R2G","http://www.onsemi.com/pub/Collateral/NCP1238-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65","Yes","9.5","Yes","Yes","Yes","28","1000 / 1000","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1238","NCP1238BD65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1238BD65R2G","http://www.onsemi.com/pub/Collateral/NCP1238-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65","Yes","9.5","Yes","Yes","Yes","28","1000 / 1000","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1240","NCP1240AD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1240AD065R2G","http://www.onsemi.com/pub/Collateral/NCP1240-D.PDF","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters, Latched OCP, 65kHz","Pb-free
+Halide free","ActiveNEW","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.3","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1240","NCP1240AD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1240AD100R2G","http://www.onsemi.com/pub/Collateral/NCP1240-D.PDF","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters, Latched OCP, 100kHz","Pb-free
+Halide free","ActiveNEW","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.3","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1240","NCP1240BD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1240BD065R2G","http://www.onsemi.com/pub/Collateral/NCP1240-D.PDF","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters, Autorecovery, 65KHz","Pb-free
+Halide free","ActiveNEW","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.3","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1240","NCP1240BD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1240BD100R2G","http://www.onsemi.com/pub/Collateral/NCP1240-D.PDF","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters, Autorecovery, 100kHz","Pb-free
+Halide free","ActiveNEW","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.3","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1240","NCP1240ED065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1240ED065R2G","http://www.onsemi.com/pub/Collateral/NCP1240-D.PDF","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters, Latched","Pb-free
+Halide free","ActiveNEW","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.3","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1240","NCP1240FD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1240FD065R2G","http://www.onsemi.com/pub/Collateral/NCP1240-D.PDF","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters, Autorecovery","Pb-free
+Halide free","ActiveNEW","Controller, Fixed Frequency, Current Mode, Dual OCP for Flyback Converters","Flyback","Current Mode","65
+100","Yes","9.3","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246AD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246AD065R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246AD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246AD100R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246ALD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246ALD065R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters, , OVL Latch, Lower Limits","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246ALD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246ALD100R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters, , OVL Latch, Lower Limits","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246BD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246BD065R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246BD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246BD100R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246BLD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246BLD065R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters, , OVL Autorecovery, Lower Limits","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1246","NCP1246BLD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1246BLD100R2G","http://www.onsemi.com/pub/Collateral/NCP1246-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters, , OVL Autorecovery, Lower Limits","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1248","NCP1248AD065R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1248AD065R2G","http://www.onsemi.com/pub/Collateral/NCP1248-D.PDF","Fixed Frequency Current Mode Controller for Flyback Converters","Pb-free
+Halide free","Active","Fixed Frequency Current Mode Controller for Flyback Converters","Step-Up/Step-Down","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1248","NCP1248AD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1248AD100R2G","http://www.onsemi.com/pub/Collateral/NCP1248-D.PDF","Fixed Frequency Current Mode Controller for Flyback Converters","Pb-free
+Halide free","Active","Fixed Frequency Current Mode Controller for Flyback Converters","Step-Up/Step-Down","Current Mode","65
+100","Yes","8.9","Yes","Yes","Yes","28","500 / 800","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1250","NCP1250ASN100T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1250ASN100T1G","http://www.onsemi.com/pub/Collateral/NCP1250-D.PDF","PWM Controller, Current Mode, for Offline Power Supplies","PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Offline Power Supplies","Flyback","Current Mode","65
+100","Yes","8.8","Yes","Yes","Yes","28","300 / 500","PDIP-8
+TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1250","NCP1250ASN65T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1250ASN65T1G","http://www.onsemi.com/pub/Collateral/NCP1250-D.PDF","PWM Controller, Current Mode, for Offline Power Supplies","PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Offline Power Supplies","Flyback","Current Mode","65
+100","Yes","8.8","Yes","Yes","Yes","28","300 / 500","PDIP-8
+TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1250","NCP1250BP65G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1250BP65G","http://www.onsemi.com/pub/Collateral/NCP1250-D.PDF","PWM Controller, Current Mode, for Offline Power Supplies","PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Offline Power Supplies","Flyback","Current Mode","65
+100","Yes","8.8","Yes","Yes","Yes","28","300 / 500","PDIP-8
+TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1250","NCP1250BSN100T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1250BSN100T1G","http://www.onsemi.com/pub/Collateral/NCP1250-D.PDF","PWM Controller, Current Mode, for Offline Power Supplies","PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Offline Power Supplies","Flyback","Current Mode","65
+100","Yes","8.8","Yes","Yes","Yes","28","300 / 500","PDIP-8
+TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1250","NCP1250BSN65T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1250BSN65T1G","http://www.onsemi.com/pub/Collateral/NCP1250-D.PDF","PWM Controller, Current Mode, for Offline Power Supplies","PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Offline Power Supplies","Flyback","Current Mode","65
+100","Yes","8.8","Yes","Yes","Yes","28","300 / 500","PDIP-8
+TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1252","NCP1252ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1252ADR2G","http://www.onsemi.com/pub/Collateral/NCP1252-D.PDF","PWM Controller, Current Mode, for Forward and Flyback Applications","Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Forward and Flyback Applications","Flyback
+Forward","Current Mode","Up to 500","Yes","9 to 10","Yes","Yes","Yes","28","500 / 800","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1252","NCP1252APG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1252APG","http://www.onsemi.com/pub/Collateral/NCP1252-D.PDF","PWM Controller, Current Mode, for Forward and Flyback Applications","Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Forward and Flyback Applications","Flyback
+Forward","Current Mode","Up to 500","Yes","9 to 10","Yes","Yes","Yes","28","500 / 800","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1252","NCP1252BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1252BDR2G","http://www.onsemi.com/pub/Collateral/NCP1252-D.PDF","PWM Controller, Current Mode, for Forward and Flyback Applications","Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Forward and Flyback Applications","Flyback
+Forward","Current Mode","Up to 500","Yes","9 to 10","Yes","Yes","Yes","28","500 / 800","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1252","NCP1252CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1252CDR2G","http://www.onsemi.com/pub/Collateral/NCP1252-D.PDF","PWM Controller, Current Mode, for Forward and Flyback Applications","Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Forward and Flyback Applications","Flyback
+Forward","Current Mode","Up to 500","Yes","9 to 10","Yes","Yes","Yes","28","500 / 800","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1252","NCP1252DDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1252DDR2G","http://www.onsemi.com/pub/Collateral/NCP1252-D.PDF","PWM Controller, Current Mode, for Forward and Flyback Applications","Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Forward and Flyback Applications","Flyback
+Forward","Current Mode","Up to 500","Yes","9 to 10","Yes","Yes","Yes","28","500 / 800","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1254","NCP1254ASN65T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1254ASN65T1G","http://www.onsemi.com/pub/Collateral/NCP1254-D.PDF","PWM Controller, Current Mode, for Offline Power Supplies","PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Offline Power Supplies","Flyback","Current Mode","65","Yes","8.8","Yes","Yes","Yes","35","300 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1254","NCP1254BSN65T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1254BSN65T1G","http://www.onsemi.com/pub/Collateral/NCP1254-D.PDF","PWM Controller, Current Mode, for Offline Power Supplies","PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Current Mode, for Offline Power Supplies","Flyback","Current Mode","65","Yes","8.8","Yes","Yes","Yes","35","300 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1256","NCP1256ASN100T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1256ASN100T1G","http://www.onsemi.com/pub/Collateral/NCP1256-D.PDF","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","PPAP Capable
+Pb-free
+Halide free","Product Preview","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","Flyback","Current Mode","65
+100","Yes","8.3","Yes","No
+Yes","Yes","35","500 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1256","NCP1256ASN65T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1256ASN65T1G","http://www.onsemi.com/pub/Collateral/NCP1256-D.PDF","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","PPAP Capable
+Pb-free
+Halide free","Product Preview","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","Flyback","Current Mode","65
+100","Yes","8.3","Yes","No
+Yes","Yes","35","500 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1256","NCP1256BSN100T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1256BSN100T1G","http://www.onsemi.com/pub/Collateral/NCP1256-D.PDF","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","PPAP Capable
+Pb-free
+Halide free","Product Preview","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","Flyback","Current Mode","65
+100","Yes","8.3","Yes","No
+Yes","Yes","35","500 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1256","NCP1256BSN65T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1256BSN65T1G","http://www.onsemi.com/pub/Collateral/NCP1256-D.PDF","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","PPAP Capable
+Pb-free
+Halide free","Product Preview","Low Power Offline PWM Current Mode Controller with Brown-Out Protection","Flyback","Current Mode","65
+100","Yes","8.3","Yes","No
+Yes","Yes","35","500 / 500","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1288","NCP1288BD65R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1288BD65R2G","http://www.onsemi.com/pub/Collateral/NCP1288-D.PDF","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Pb-free
+Halide free","Active","Controller, Fixed Frequency, Current Mode, for Flyback Converters","Flyback","Current Mode","65","Yes","10","Yes","Yes","Yes","28","1000 / 1000","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1308","NCP1308DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1308DR2G","http://www.onsemi.com/pub/Collateral/NCP1308-D.PDF","Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","Yes","Yes","Yes","Yes","16","500 / 500","SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1337","NCP1337DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1337DR2G","http://www.onsemi.com/pub/Collateral/NCP1337-D.PDF","Controller, Quasi-Resonant Current Mode, with Overpower Compensation","Pb-free
+Halide free","Active","Controller, Quasi-Resonant Current Mode, with Overpower Compensation","Flyback","Current Mode","Variable","Yes","Yes","Yes","Yes","Yes","20","500 / 500","PDIP-8
+SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1337","NCP1337PG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1337PG","http://www.onsemi.com/pub/Collateral/NCP1337-D.PDF","Controller, Quasi-Resonant Current Mode, with Overpower Compensation","Pb-free
+Halide free","Active","Controller, Quasi-Resonant Current Mode, with Overpower Compensation","Flyback","Current Mode","Variable","Yes","Yes","Yes","Yes","Yes","20","500 / 500","PDIP-8
+SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1339","NCP1339CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1339CDR2G","http://www.onsemi.com/pub/Collateral/NCP1339-D.PDF","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode","Pb-free
+Halide free","ActiveNEW","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode ","Flyback","Current Mode","Variable","Yes","9","Yes","Yes","Yes","30","500 / 800","SOIC-14 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1339","NCP1339DDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1339DDR2G","http://www.onsemi.com/pub/Collateral/NCP1339-D.PDF","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode","Pb-free
+Halide free","ActiveNEW","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode ","Flyback","Current Mode","Variable","Yes","9","Yes","Yes","Yes","30","500 / 800","SOIC-14 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1339","NCP1339EDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1339EDR2G","http://www.onsemi.com/pub/Collateral/NCP1339-D.PDF","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode","Pb-free
+Halide free","ActiveNEW","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode ","Flyback","Current Mode","Variable","Yes","9","Yes","Yes","Yes","30","500 / 800","SOIC-14 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1339","NCP1339FDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1339FDR2G","http://www.onsemi.com/pub/Collateral/NCP1339-D.PDF","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode","Pb-free
+Halide free","ActiveNEW","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode ","Flyback","Current Mode","Variable","Yes","9","Yes","Yes","Yes","30","500 / 800","SOIC-14 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1339","NCP1339GDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1339GDR2G","http://www.onsemi.com/pub/Collateral/NCP1339-D.PDF","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode","Pb-free
+Halide free","ActiveNEW","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode ","Flyback","Current Mode","Variable","Yes","9","Yes","Yes","Yes","30","500 / 800","SOIC-14 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1339","NCP1339HDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1339HDR2G","http://www.onsemi.com/pub/Collateral/NCP1339-D.PDF","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode , 0.7 us Blanking","Pb-free
+Halide free","ActiveNEW","High-Voltage, Quasi-Resonant, Controller Featuring Valley Lock-Out and Power Saving Mode ","Flyback","Current Mode","Variable","Yes","9","Yes","Yes","Yes","30","500 / 800","SOIC-14 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1360","NCP1360AABCYSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1360AABCYSNT1G","http://www.onsemi.com/pub/Collateral/NCP1360-D.PDF","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Pb-free
+Halide free","ActiveNEW","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Flyback","Current Mode","Variable","Yes","6.5","Yes","No
+Yes","Yes","28","2000 / 1000","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1360","NCP1360BABCYSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1360BABCYSNT1G","http://www.onsemi.com/pub/Collateral/NCP1360-D.PDF","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Pb-free
+Halide free","ActiveNEW","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Flyback","Current Mode","Variable","Yes","6.5","Yes","No
+Yes","Yes","28","2000 / 1000","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1360","NCP1360BBCCYSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1360BBCCYSNT1G","http://www.onsemi.com/pub/Collateral/NCP1360-D.PDF","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Pb-free
+Halide free","ActiveNEW","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Flyback","Current Mode","Variable","Yes","6.5","Yes","No
+Yes","Yes","28","2000 / 1000","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1360","NCP1360BCCCYSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1360BCCCYSNT1G","http://www.onsemi.com/pub/Collateral/NCP1360-D.PDF","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Pb-free
+Halide free","ActiveNEW","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller","Flyback","Current Mode","Variable","Yes","6.5","Yes","No
+Yes","Yes","28","2000 / 1000","TSOP-6"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1365","NCP1365AABCYDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1365AABCYDR2G","http://www.onsemi.com/pub/Collateral/NCP1360-D.PDF","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller with High Voltage Startup Current Source","Pb-free
+Halide free","Active","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller with High Voltage Startup Current Source","Flyback","Current Mode","Variable","Yes","6.5","Yes","Yes","Yes","28","2000 / 1000","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1365","NCP1365BABCYDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1365BABCYDR2G","http://www.onsemi.com/pub/Collateral/NCP1360-D.PDF","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller with High Voltage Startup Current Source","Pb-free
+Halide free","Active","Low Power Offline Constant Current & Constant Voltage Primary Side PWM Current-Mode Controller with High Voltage Startup Current Source","Flyback","Current Mode","Variable","Yes","6.5","Yes","Yes","Yes","28","2000 / 1000","SOIC-7"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1377","NCP1377BD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1377BD1R2G","http://www.onsemi.com/pub/Collateral/NCP1377-D.PDF","Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","Yes","No","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1377","NCP1377BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1377BDR2G","http://www.onsemi.com/pub/Collateral/NCP1377-D.PDF","Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","Yes","No","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1377","NCP1377BPG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1377BPG","http://www.onsemi.com/pub/Collateral/NCP1377-D.PDF","Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","Yes","No","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1377","NCP1377D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1377D1R2G","http://www.onsemi.com/pub/Collateral/NCP1377-D.PDF","Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","Yes","No","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1377","NCP1377DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1377DR2G","http://www.onsemi.com/pub/Collateral/NCP1377-D.PDF","Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","Yes","No","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1377","NCP1377PG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1377PG","http://www.onsemi.com/pub/Collateral/NCP1377-D.PDF","Controller, Free Running Quasi-Resonant Current Mode","Pb-free
+Halide free","Active","Controller, Free Running Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","Yes","No","Yes","Yes","16","500 / 500","PDIP-8
+SOIC-7
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1380","NCP1380ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1380ADR2G","http://www.onsemi.com/pub/Collateral/NCP1380-D.PDF","Controller, Quasi-Resonant Current Mode, overvoltage, overtemperature, latched overpower protection","Pb-free
+Halide free","Active","Controller, Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","9","Yes","No
+Yes","Yes","28","500 / 800","SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1380","NCP1380BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1380BDR2G","http://www.onsemi.com/pub/Collateral/NCP1380-D.PDF","Controller, Quasi-Resonant Current Mode, overvoltage, overtemperature, auto-recovery overpower protection","Pb-free
+Halide free","Active","Controller, Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","9","Yes","No
+Yes","Yes","28","500 / 800","SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1380","NCP1380CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1380CDR2G","http://www.onsemi.com/pub/Collateral/NCP1380-D.PDF","Controller, Quasi-Resonant Current Mode, brownout, overvoltage, latched overpower protection","Pb-free
+Halide free","Active","Controller, Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","9","Yes","No
+Yes","Yes","28","500 / 800","SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1380","NCP1380DDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1380DDR2G","http://www.onsemi.com/pub/Collateral/NCP1380-D.PDF","Controller, Quasi-Resonant Current Mode, brownout, overvoltage, auto-recovery overpower protection","Pb-free
+Halide free","Active","Controller, Quasi-Resonant Current Mode","Flyback","Current Mode","Variable","Yes","9","Yes","No
+Yes","Yes","28","500 / 800","SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1395","NCP1395ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1395ADR2G","http://www.onsemi.com/pub/Collateral/NCP1395-D.PDF","Controller, High Performance Resonant Mode","Pb-free
+Halide free","Active","Controller, High Performance Resonant Mode","Push-Pull","Voltage Mode","1000","Yes","Yes","Yes","Yes","Yes","20","180 / 180","SOIC-16"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1395","NCP1395BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1395BDR2G","http://www.onsemi.com/pub/Collateral/NCP1395-D.PDF","Controller, High Performance Resonant Mode","Pb-free
+Halide free","Active","Controller, High Performance Resonant Mode","Push-Pull","Voltage Mode","1000","Yes","Yes","Yes","Yes","Yes","20","180 / 180","SOIC-16"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1397","NCP1397ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1397ADR2G","http://www.onsemi.com/pub/Collateral/NCP1397-D.PDF","Controller, High Performance, Resonant Mode, with Integrated High Voltage Drivers","PPAP Capable
+Pb-free
+Halide free","Active","Controller, High Performance, Resonant Mode, with Integrated High Voltage Drivers","Half-Bridge","Current/Voltage Mode","Up to 500","No","9.5/10.5","Yes","Yes","Yes","20","500 / 1000","SOIC-16"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1397","NCP1397BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1397BDR2G","http://www.onsemi.com/pub/Collateral/NCP1397-D.PDF","Controller, High Performance, Resonant Mode, with Integrated High Voltage Drivers","PPAP Capable
+Pb-free
+Halide free","Active","Controller, High Performance, Resonant Mode, with Integrated High Voltage Drivers","Half-Bridge","Current/Voltage Mode","Up to 500","No","9.5/10.5","Yes","Yes","Yes","20","500 / 1000","SOIC-16"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1399","NCP1399AADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1399AADR2G","http://www.onsemi.com/pub/Collateral/NCP1399-D.PDF","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance","Pb-free
+Halide free","Intro Pending","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance",,,,,,,,,,,"SOIC-16 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1399","NCP1399ABDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1399ABDR2G","http://www.onsemi.com/pub/Collateral/NCP1399-D.PDF","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance","Pb-free
+Halide free","Intro Pending","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance",,,,,,,,,,,"SOIC-16 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1399","NCP1399ACDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1399ACDR2G","http://www.onsemi.com/pub/Collateral/NCP1399-D.PDF","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance","Pb-free
+Halide free","Intro Pending","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance",,,,,,,,,,,"SOIC-16 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1399","NCP1399BADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1399BADR2G","http://www.onsemi.com/pub/Collateral/NCP1399-D.PDF","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance","Pb-free
+Halide free","Intro Pending","Current Mode Resonant Controller with Integrated High Voltage Drivers, High Performance",,,,,,,,,,,"SOIC-16 NB"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1565","NCP1565MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1565MNTXG","http://www.onsemi.com/pub/Collateral/NCP1565-D.PDF","PWM Controller, Highly Integrated Dual-Mode Active Clamp","Pb-free
+Halide free","Product Preview","PWM Controller, Highly Integrated Dual-Mode Active Clamp","Forward","Current/Voltage Mode","Up to 1.5 MHz","Yes","Yes","Yes","Yes","Yes","20 V","2000 / 3000","QFN-24"
+"on","AC-DC控制器和稳压器---离线控制器","NCP1927","NCP1927DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1927DR2G","http://www.onsemi.com/pub/Collateral/NCP1927-D.PDF","PFC and Flyback Controller for Flat Panel TVs","Pb-free
+Halide free","Active","PFC and Flyback Controller for Flat Panel TVs","Flyback","Current Mode","0.065","Yes","Yes","Yes","No","Yes","30","800 / 800","SOIC-16"
+"on","AC-DC控制器和稳压器---离线控制器","NCV3843B","NCV3843BVD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3843BVD1R2G","http://www.onsemi.com/pub/Collateral/NCV3843BV-D.PDF","Current Mode PWM Controller","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","Yes","30","200 / 200","SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","NCV3843B","NCV3843BVDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3843BVDR2G","http://www.onsemi.com/pub/Collateral/NCV3843BV-D.PDF","Current Mode PWM Controller","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","Yes","30","200 / 200","SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2843B","UC2843BD1G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2843BD1G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2843B","UC2843BD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2843BD1R2G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2843B","UC2843BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2843BDG","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2843B","UC2843BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2843BDR2G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2843B","UC2843BNG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2843BNG","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2845B","UC2845BD1G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2845BD1G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2845B","UC2845BD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2845BD1R2G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2845B","UC2845BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2845BDG","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2845B","UC2845BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2845BDR2G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC2845B","UC2845BNG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC2845BNG","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BD1G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BD1G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BD1R2G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BDG","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BDR2G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BNG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BNG","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BVD1G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BVD1G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BVD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BVD1R2G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BVDG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BVDG","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BVDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BVDR2G","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3843B","UC3843BVNG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3843BVNG","http://www.onsemi.com/pub/Collateral/UC3842B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback","Current Mode","52","No","Yes","Yes","No","No
+Yes","30","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BD1G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BD1G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BD1R2G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BDG","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BDR2G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BNG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BNG","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BVD1G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BVD1G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BVD1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BVD1R2G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BVDG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BVDG","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BVDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BVDR2G","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"
+"on","AC-DC控制器和稳压器---离线控制器","UC3845B","UC3845BVNG","http://www.onsemi.cn/PowerSolutions/product.do?id=UC3845BVNG","http://www.onsemi.com/pub/Collateral/UC3844B-D.PDF","High Performance Current Mode PWM Controller","PPAP Capable
+Pb-free
+Halide free","Active","High Performance Current Mode PWM Controller","Flyback
+Forward
+Step-Down
+Step-Up","Current Mode","52","No","Yes","Yes","No","No
+Yes","25","200 / 200","PDIP-8
+SOIC-14
+SOIC-8"

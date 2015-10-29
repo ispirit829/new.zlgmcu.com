@@ -1,0 +1,3 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Channels","Power(W)","THD+N","PSRR(dB)","Vdd(V)","ISD(uA)","ICC(mA)","Pkg-Pin(mm)","Document","Status"
+"issi","Analog-Audio Amplifiers---Class-G Speaker Amplifier","IS31AP2031","http://www.issi.com/US/product-analog-audio-amp.shtml","http://www.issi.com/WW/pdf/31AP2031.pdf","1","2W(8Ω Speaker)","0.33%"," - ","2.7-4.5","1","5","QFN-20/28(3x3,4x4)","-","Prod"
+"issi","Analog-Audio Amplifiers---Class-G Speaker Amplifier","IS31AP4915A","http://www.issi.com/US/product-analog-audio-amp.shtml","http://www.issi.com/WW/pdf/31AP4915A.pdf","1","20VP-P","0.01%","100","2.5-5.5","1","6","QFN-16(4x4)","-","Prod"

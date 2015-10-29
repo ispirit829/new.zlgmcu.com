@@ -1,0 +1,109 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Motor Control---Stepper","E910.01","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e910-01_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=205&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=4de0115c343e464623c0625c956cac0f","Stepper Motor 8 x Low Side Driver","SPI™ -compatible (5V)  "," "," "," "," "," "," "," "," "," "," "," "," "," ","5.5V to 25.5V  "," "," ","8x 350mA  "," ","≈8x 8.75W  "," "," "," "," ","1.5Ω "," "," "," ","SOIC20 "," "," Short circuit protection
+Thermal circuit protection
+Cascadable
+T
+ peak = +150°C"
+"elmos","Motor Control---Stepper","E523.60","http://www.elmos.com/-","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=126&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=46f70014f9c2e15ee6b91277ec990b0b","Stepper Motor Driver with Stall Detection (LIN/PWM Interface)"," LIN 2.x (1.3 comp.) or
+SAE-J2602 or
+LIN/PWM Interface
+Fast LIN Flash update 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 18V (5.5V to 42V)  "," "," ","2x 190mA H-Bridge  "," ","≈5.4W  "," "," "," "," ","2Ω (HS)
+2Ω (LS) "," "," "," ","QFN32L6 "," "," 8bit CPU, 8k FLASH, 64Byte E2PROM
+Current chopper motor control
+Supply and read-out of up to 3,
+potentiometers or sensors
+Excellent performing stall detection
+T
+ peak = +150°C
+(Contact supplier for higher temperatures)"
+"elmos","Motor Control---Stepper","E523.40","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e523-40-41_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=479&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=8dca32133b9750418712ae4fd4a90110","3-Phase Stepper Controller with Stall Detection (LIN / PWM Interface)"," LIN 2.x (1.3 comp.) or
+SAE-J2602 or
+LIN/PWM Interface
+Fast LIN Flash update 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","8V to 18V (6.5V to 42V)  "," "," ","3x±240mA  "," ","≈4.3W  "," "," "," "," ","3Ω (HS)
+3Ω (LS) "," "," "," ","QFN32L6 "," "," 8bit CPU, 8k FLASH, 8Byte E2PROM
+Sensor supply
+4 GPIO pins for analog or digital sensor
+Excellent performing stall detection
+(* Plug & Play) Standard HVAC actuator
+software available
+T
+ peak = +150°C
+(Contact supplier for higher temperatures)"
+"elmos","Motor Control---Stepper","E523.37","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e523-30b-38b_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=183&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=e76a11c5fbf866e30bbaf07b9b97613b","Power Stepper Controller with Stall Detection (LIN/PWM Interface)"," LIN 2.x (1.3 comp.) or
+SAE-J2602  or
+PWM Interface
+Optional LIN
+Auto-Addressing
+(SNPD) only E523.30 or
+LIN Flash update 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","5.5V to 20V (42V)  "," "," ","2x800mA H-Bridge  "," ","≈25W  "," "," "," "," ","550mΩ (HS)
+450mΩ (HS) "," "," "," ","QFN32L6 "," "," Current chopper motor control
+Supply and read-out of up to 3 sensors
+Embedded 8bit µC
+8k FLASH
+T
+ peak = +170°C"
+"elmos","Motor Control---Stepper","E523.31","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e523-30b-38b_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=181&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=8c3806eaf0ea8d52958f100d48a42e8c","Power Stepper Controller with Stall Detection and standard application software (LIN Interface)"," LIN 2.x (1.3 comp.) or
+SAE-J2602 
+LIN Flash update 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","5.5V to 20V (42V)  "," "," ","2x800mA H-Bridge  "," ","≈25W  "," "," "," "," ","550mΩ (HS)
+450mΩ (HS) "," "," "," ","QFN32L6 "," "," Current chopper motor control
+Supply and read-out of up to 3 sensors
+Embedded 8bit µC
+8k FLASH
+T
+ peak = +170°C"
+"elmos","Motor Control---Stepper","E523.34","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e523-30b-38b_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=182&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=7c8157fa96d0b829c03017696ac9bc1c","Power Stepper Controller with Stall Detection (PWM Interface)"," PWM Interface
+Flash-Update via PWM line possible
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","5.5V to 20V (42V)  "," "," ","2x800mA H-Bridge  "," ","≈25W  "," "," "," "," ","550mΩ (HS)
+450mΩ (LS) "," "," "," ","QFN32L6 "," "," Current chopper motor control
+Various Configuration
+Feature via LIN commands
+T
+ peak = +170°C"
+"elmos","Motor Control---Stepper","E523.30","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e523-30b-38b_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=180&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=a911d781dd76c4803b718c9041184150","Power Stepper Controller with Stall Detection and Auto Addressing (LIN/PWM Interface)"," LIN 2.x (1.3 comp.) or
+SAE-J2602  or
+PWM Interface
+Optional LIN
+Auto-Addressing
+(SNPD) only E523.30 or
+LIN Flash update 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","5.5V to 20V (42V)  "," "," ","2x800mA H-Bridge  "," ","≈25W  "," "," "," "," ","550mΩ(HS)
+450mΩ(LS) "," "," "," ","QFN32L6 "," "," Current chopper motor control
+Supply and read-out of up to 3 sensors
+Embedded 8bit µC
+8k FLASH
+T
+ peak = +170°C"
+"elmos","Motor Control---Stepper","E520.08","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e520-01-02-03-08_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=447&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=f323c5c6c96cc949c80975001e675451","8x Low-Side for 2 Stepper Motors","SPI-compatible (3.3/5V)  "," "," "," "," "," "," "," "," "," "," "," "," "," ","3V to 25V (42V)  "," "," ","8x 350mA  "," ","≈8x 8,75W  "," "," "," "," ","1.5Ω "," "," "," ","QFN20L5
+QFN32L5
+SOIC28 "," "," Stall detection for stepper motors (E520.03) suitable for Full Step, Half Step, Wave Drive
+245Hz LED mode
+25kHz relay mode
+25kHz linear PWM
+T
+ peak = +150°C"
+"elmos","Motor Control---Stepper","E520.01","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e520-01-02-03-08_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=53&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=133317933b374f0723db592686a3ba07","12x Low-Side for 3 Stepper Motors with Stall Detection","SPI-compatible (3.3/5V)  "," "," "," "," "," "," "," "," "," "," "," "," "," ","3V to 25V (42V)  "," "," ","12x 350mA  "," ","≈12x 8,75W  "," "," "," "," ","1.5Ω "," "," "," ","QFN32L5
+SOIC28 "," "," Stall detection for stepper motors (E520.01) suitable for Full Step, Half Step, Wave Drive
+245Hz LED mode 
+25kHz relay mode
+25kHz linear PWM
+T
+ peak = +150°C"
+"elmos","Motor Control---Stepper","E520.03","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e520-01-02-03-08_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=446&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=d02ab6dcf8e0bdc94e9fa74947264648","8x Low-Side for 2 Stepper Motors with Stall Detection","SPI-compatible (3.3/5V)  "," "," "," "," "," "," "," "," "," "," "," "," "," ","3V to 25V (42V)  "," "," ","8x 350mA  "," ","≈8x 8,75W  "," "," "," "," ","1.5Ω "," "," "," ","QFN20L5
+QFN32L5
+SOIC28 "," "," Stall detection for stepper motors (E520.03) suitable for Full Step, Half Step, Wave Drive
+245Hz LED mode
+25kHz relay mode
+25kHz linear PWM
+T
+ peak = +150°C"
+"elmos","Motor Control---Stepper","E520.02","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e520-01-02-03-08_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/stepper-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=445&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=6f10507015f763a116b7db07813e517f","12x Low-Side for 3 Stepper Motors","SPI-compatible (3.3/5V)  "," "," "," "," "," "," "," "," "," "," "," "," "," ","3V to 25V (42V)  "," "," ","12x 350mA  "," ","≈12x 8,75W  "," "," "," "," ","1.5Ω "," "," "," ","QFN32L5
+SOIC28 "," "," Stall detection for stepper motors (E520.01) suitable for Full Step, Half Step, Wave Drive
+245Hz LED mode 
+25kHz relay mode
+25kHz linear PWM
+T
+ peak = +150°C"

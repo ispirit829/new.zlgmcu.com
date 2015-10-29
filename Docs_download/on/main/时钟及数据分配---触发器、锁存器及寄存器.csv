@@ -1,0 +1,359 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Bits","Input Level","Output Level","VCC Typ (V)","tJitter Typ (ps)","tpd Typ (ns)","tsu Min (ns)","th Min (ns)","trec Typ (ns)","tR & tF Max (ps)","fToggle Typ (MHz)","Package Type"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E131","MC100E131FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E131FNG","http://www.onsemi.com/pub/Collateral/MC10E131-D.PDF","ECL 4-Bit D Flip-Flop","Pb-free
+Halide free","Active","ECL 4-Bit D Flip-Flop","D-Type","4","ECL","ECL","5","1","0.5","0.15","0.175","0.15","725","1400","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E131","MC100E131FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E131FNR2G","http://www.onsemi.com/pub/Collateral/MC10E131-D.PDF","ECL 4-Bit D Flip-Flop","Pb-free
+Halide free","Active","ECL 4-Bit D Flip-Flop","D-Type","4","ECL","ECL","5","1","0.5","0.15","0.175","0.15","725","1400","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E143","MC100E143FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E143FNG","http://www.onsemi.com/pub/Collateral/MC10E143-D.PDF","ECL 9-Bit Hold Register","Pb-free
+Halide free","Active","ECL 9-Bit Hold Register","Register","9","ECL","ECL","5","1","0.8","0.05","0.3","0.7","800",,"PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E143","MC100E143FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E143FNR2G","http://www.onsemi.com/pub/Collateral/MC10E143-D.PDF","ECL 9-Bit Hold Register","Pb-free
+Halide free","Active","ECL 9-Bit Hold Register","Register","9","ECL","ECL","5","1","0.8","0.05","0.3","0.7","800",,"PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E151","MC100E151FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E151FNG","http://www.onsemi.com/pub/Collateral/MC10E151-D.PDF","ECL 6-Bit D Flip-Flop Register","Pb-free
+Halide free","Active","ECL 6-Bit D Flip-Flop Register","Register","6","ECL","ECL","5","1","0.65","0.15","0.35","0.55","700","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E151","MC100E151FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E151FNR2G","http://www.onsemi.com/pub/Collateral/MC10E151-D.PDF","ECL 6-Bit D Flip-Flop Register","Pb-free
+Halide free","Active","ECL 6-Bit D Flip-Flop Register","Register","6","ECL","ECL","5","1","0.65","0.15","0.35","0.55","700","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E431","MC100E431FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E431FNR2G","http://www.onsemi.com/pub/Collateral/MC10E431-D.PDF","ECL 3-Bit Differential D Flip-Flop","Pb-free
+Halide free","Active","ECL 3-Bit Differential D Flip-Flop","D-Type","3","ECL","ECL","5","1","0.7","0.2","0.2","0.4","700","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E452","MC100E452FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E452FNG","http://www.onsemi.com/pub/Collateral/MC10E452-D.PDF","5.0 V ECL 5-Bit Differential Register","Pb-free
+Halide free","Active","5.0 V ECL 5-Bit Differential Register","Register","5","ECL","ECL","5","1","0.6","0.15","0.2","0.45","0.725","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100E452","MC100E452FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E452FNR2G","http://www.onsemi.com/pub/Collateral/MC10E452-D.PDF","5.0 V ECL 5-Bit Differential Register","Pb-free
+Halide free","Active","5.0 V ECL 5-Bit Differential Register","Register","5","ECL","ECL","5","1","0.6","0.15","0.2","0.45","0.725","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL30","MC100EL30DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL30DWG","http://www.onsemi.com/pub/Collateral/MC100EL30-D.PDF","ECL Triple D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL Triple D Flip-Flop with Set and Reset","D-Type","3","ECL","ECL","5","1","0.695","0.15","0.2","0.2","550","1200","SOIC-20W"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL30","MC100EL30DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL30DWR2G","http://www.onsemi.com/pub/Collateral/MC100EL30-D.PDF","ECL Triple D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL Triple D Flip-Flop with Set and Reset","D-Type","3","ECL","ECL","5","1","0.695","0.15","0.2","0.2","550","1200","SOIC-20W"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL35","MC100EL35DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL35DG","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","ECL JK Flip-Flop","Pb-free
+Halide free","Active","ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.252
+0.525","0.15","0.25","0.2","350","2200","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL35","MC100EL35DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL35DR2G","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","ECL JK Flip-Flop","Pb-free
+Halide free","Active","ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.252
+0.525","0.15","0.25","0.2","350","2200","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL35","MC100EL35DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL35DTG","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","ECL JK Flip-Flop","Pb-free
+Halide free","Active","ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.252
+0.525","0.15","0.25","0.2","350","2200","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL35","MC100EL35DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL35DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","ECL JK Flip-Flop","Pb-free
+Halide free","Active","ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.252
+0.525","0.15","0.25","0.2","350","2200","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL35","MC100EL35MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL35MNR4G","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","ECL JK Flip-Flop","Pb-free
+Halide free","Active","ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.252
+0.525","0.15","0.25","0.2","350","2200","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL52","MC100EL52DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL52DG","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL52","MC100EL52DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL52DR2G","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL52","MC100EL52DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL52DTG","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EL52","MC100EL52DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL52DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP142","MC100EP142FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP142FAG","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP142","MC100EP142FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP142FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP142","MC100EP142MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP142MNG","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP142","MC100EP142MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP142MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP31","MC100EP31DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP31DG","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP31","MC100EP31DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP31DR2G","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP31","MC100EP31DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP31DTG","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP31","MC100EP31DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP31DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP31","MC100EP31MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP31MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP451","MC100EP451FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP451FAG","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP451","MC100EP451FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP451FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP451","MC100EP451MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP451MNG","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP451","MC100EP451MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP451MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP52","MC100EP52DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP52DG","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP52","MC100EP52DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP52DR2G","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP52","MC100EP52DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP52DTG","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP52","MC100EP52DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP52DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100EP52","MC100EP52MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP52MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100LVEL30","MC100LVEL30DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL30DWG","http://www.onsemi.com/pub/Collateral/MC100LVEL30-D.PDF","ECL Triple D-Type Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL Triple D-Type Flip-Flop with Set and Reset","D-Type","3","ECL","ECL","3.3","1","0.695","0.15","0.2","0.2","550","1200","SOIC-20W"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100LVEL30","MC100LVEL30DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL30DWR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL30-D.PDF","ECL Triple D-Type Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","ECL Triple D-Type Flip-Flop with Set and Reset","D-Type","3","ECL","ECL","3.3","1","0.695","0.15","0.2","0.2","550","1200","SOIC-20W"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100LVEL51","MC100LVEL51DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL51DG","http://www.onsemi.com/pub/Collateral/MC100LVEL51-D.PDF","ECL Differential Clock D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock D Flip-Flop","D-Type","1","ECL","ECL","3.3","1","0.475","0.15","0.2","0.2","320","2800","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100LVEL51","MC100LVEL51DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL51DR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL51-D.PDF","ECL Differential Clock D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock D Flip-Flop","D-Type","1","ECL","ECL","3.3","1","0.475","0.15","0.2","0.2","320","2800","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100LVEL51","MC100LVEL51DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL51DTG","http://www.onsemi.com/pub/Collateral/MC100LVEL51-D.PDF","ECL Differential Clock D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock D Flip-Flop","D-Type","1","ECL","ECL","3.3","1","0.475","0.15","0.2","0.2","320","2800","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100LVEL51","MC100LVEL51DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL51DTR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL51-D.PDF","ECL Differential Clock D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock D Flip-Flop","D-Type","1","ECL","ECL","3.3","1","0.475","0.15","0.2","0.2","320","2800","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC100LVEL51","MC100LVEL51MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL51MNR4G","http://www.onsemi.com/pub/Collateral/MC100LVEL51-D.PDF","ECL Differential Clock D Flip-Flop","Pb-free
+Halide free","Active","ECL Differential Clock D Flip-Flop","D-Type","1","ECL","ECL","3.3","1","0.475","0.15","0.2","0.2","320","2800","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E141","MC10E141FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E141FNG","http://www.onsemi.com/pub/Collateral/MC10E141-D.PDF","ECL 8-Bit Shift Register","Pb-free
+Halide free","Active","ECL 8-Bit Shift Register","Shift Register","8","ECL","ECL","5","1","0.75","0.175","0.2","0.7","800","900","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E141","MC10E141FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E141FNR2G","http://www.onsemi.com/pub/Collateral/MC10E141-D.PDF","ECL 8-Bit Shift Register","Pb-free
+Halide free","Active","ECL 8-Bit Shift Register","Shift Register","8","ECL","ECL","5","1","0.75","0.175","0.2","0.7","800","900","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E143","MC10E143FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E143FNR2G","http://www.onsemi.com/pub/Collateral/MC10E143-D.PDF","5.0 V ECL 9-Bit Hold Register","Pb-free
+Halide free","Active","5.0 V ECL 9-Bit Hold Register","Register","9","ECL","ECL","5","1","0.8","0.05","0.3","0.7","800",,"PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E151","MC10E151FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E151FNG","http://www.onsemi.com/pub/Collateral/MC10E151-D.PDF","ECL 6-Bit D Register","Pb-free
+Halide free","Active","ECL 6-Bit D Register","Register","6","ECL","ECL","5","1","0.65","0","0.35","0.55","700","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E151","MC10E151FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E151FNR2G","http://www.onsemi.com/pub/Collateral/MC10E151-D.PDF","ECL 6-Bit D Register","Pb-free
+Halide free","Active","ECL 6-Bit D Register","Register","6","ECL","ECL","5","1","0.65","0","0.35","0.55","700","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E431","MC10E431FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E431FNG","http://www.onsemi.com/pub/Collateral/MC10E431-D.PDF","ECL 3-Bit Differential Flip-Flop","Pb-free
+Halide free","Active","ECL 3-Bit Differential Flip-Flop","D-Type","3","CML
+ECL","ECL","5","1","0.7","0.2","0.2","0.4","700","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E431","MC10E431FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E431FNR2G","http://www.onsemi.com/pub/Collateral/MC10E431-D.PDF","ECL 3-Bit Differential Flip-Flop","Pb-free
+Halide free","Active","ECL 3-Bit Differential Flip-Flop","D-Type","3","CML
+ECL","ECL","5","1","0.7","0.2","0.2","0.4","700","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10E452","MC10E452FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E452FNR2G","http://www.onsemi.com/pub/Collateral/MC10E452-D.PDF","5.0 V ECL 5-Bit Differential Register","Pb-free
+Halide free","Active","5.0 V ECL 5-Bit Differential Register","Register","5","ECL","ECL","5","1","0.6","0.15","0.2","0.45","725","1100","PLCC-28"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL35","MC10EL35DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL35DG","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","5.0 V ECL JK Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.525","0.15","0.25","0.2","350","2200","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL35","MC10EL35DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL35DR2G","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","5.0 V ECL JK Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.525","0.15","0.25","0.2","350","2200","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL35","MC10EL35DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL35DTG","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","5.0 V ECL JK Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.525","0.15","0.25","0.2","350","2200","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL35","MC10EL35DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL35DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL35-D.PDF","5.0 V ECL JK Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL JK Flip-Flop","JK-Type","1","ECL","ECL","5","1","0.525","0.15","0.25","0.2","350","2200","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL52","MC10EL52DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL52DG","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","5.0 V ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL52","MC10EL52DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL52DR2G","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","5.0 V ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL52","MC10EL52DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL52DTG","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","5.0 V ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EL52","MC10EL52DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL52DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL52-D.PDF","5.0 V ECL  Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","5.0 V ECL  Differential Clock/Data D Flip-Flop","D-Type","1","ECL","ECL","5","1","0.365","0.125","0.15",,"350","2800","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP142","MC10EP142FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP142FAG","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","3.3 V / 5.0 V ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP142","MC10EP142FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP142FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","3.3 V / 5.0 V ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP142","MC10EP142MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP142MNG","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","3.3 V / 5.0 V ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP142","MC10EP142MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP142MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP142-D.PDF","3.3 V / 5.0 V ECL 9-Bit Shift Register","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 9-Bit Shift Register","Shift Register","9","CML
+ECL","ECL","3.3
+5","1","0.675","0.05","0.1","0.8","250","2800","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP31","MC10EP31DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP31DG","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP31","MC10EP31DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP31DR2G","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP31","MC10EP31DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP31DTG","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP31","MC10EP31DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP31DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP31","MC10EP31MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP31MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP31-D.PDF","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL D Flip-Flop with Set and Reset","D-Type","1","CML
+ECL","ECL","3.3
+5","0.2","0.34","0.1","0.15","0.225","180","3000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP451","MC10EP451FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP451FAG","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP451","MC10EP451FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP451FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP451","MC10EP451MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP451MNG","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP451","MC10EP451MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP451MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP451-D.PDF","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 6-Bit Differential Register with Master Reset","Register","6","CML
+ECL","ECL","3.3
+5","0.2","0.45","0.08","0.08","0.15","250","3000","LQFP-32
+QFN-32"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP52","MC10EP52DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP52DG","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","1","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP52","MC10EP52DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP52DR2G","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","1","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP52","MC10EP52DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP52DTG","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","1","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP52","MC10EP52DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP52DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","1","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10EP52","MC10EP52MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP52MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP52-D.PDF","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Differential Clock/Data D Flip-Flop","D-Type","1","CML
+ECL","ECL","3.3
+5","1","0.33","0.05","0",,"170","4000","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10H135","MC10H135FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H135FNG","http://www.onsemi.com/pub/Collateral/MC10H135-D.PDF","Dual  Master-Slave JK Flip-Flop","Pb-free
+Halide free","Active","Dual  Master-Slave JK Flip-Flop","JK-Type","2","ECL","ECL","-5.2",,"1.65","1.5","1",,"2200","250","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10H135","MC10H135FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H135FNR2G","http://www.onsemi.com/pub/Collateral/MC10H135-D.PDF","Dual  Master-Slave JK Flip-Flop","Pb-free
+Halide free","Active","Dual  Master-Slave JK Flip-Flop","JK-Type","2","ECL","ECL","-5.2",,"1.65","1.5","1",,"2200","250","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10H135","MC10H135PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H135PG","http://www.onsemi.com/pub/Collateral/MC10H135-D.PDF","Dual  Master-Slave JK Flip-Flop","Pb-free
+Halide free","Active","Dual  Master-Slave JK Flip-Flop","JK-Type","2","ECL","ECL","-5.2",,"1.65","1.5","1",,"2200","250","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10H176","MC10H176FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H176FNG","http://www.onsemi.com/pub/Collateral/MC10H176-D.PDF","Hex Master-Slave D Flip-Flop","Pb-free
+Halide free","Active","Hex Master-Slave D Flip-Flop","D-Type","6","ECL","ECL","-5.2",,"1.55","1.5","0.9",,"1900","250","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10H176","MC10H176FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H176FNR2G","http://www.onsemi.com/pub/Collateral/MC10H176-D.PDF","Hex Master-Slave D Flip-Flop","Pb-free
+Halide free","Active","Hex Master-Slave D Flip-Flop","D-Type","6","ECL","ECL","-5.2",,"1.55","1.5","0.9",,"1900","250","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---触发器、锁存器及寄存器","MC10H176","MC10H176PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H176PG","http://www.onsemi.com/pub/Collateral/MC10H176-D.PDF","Hex Master-Slave D Flip-Flop","Pb-free
+Halide free","Active","Hex Master-Slave D Flip-Flop","D-Type","6","ECL","ECL","-5.2",,"1.55","1.5","0.9",,"1900","250","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---触发器、锁存器及寄存器","NB7V52M","NB7V52MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V52MMNG","http://www.onsemi.com/pub/Collateral/NB7V52M-D.PDF","D Flip Flop, 1.8 V / 2.5 V Differential, with Reset and CML Outputs","Pb-free
+Halide free","Active","D Flip Flop, 1.8 V / 2.5 V Differential, with Reset and CML Outputs","D-Type","1","CML
+ECL
+LVDS","CML","1.8
+2.5","0.2","0.2","0.04","0.05","0.2","50","12000","QFN-16"
+"on","时钟及数据分配---触发器、锁存器及寄存器","NB7V52M","NB7V52MMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V52MMNHTBG","http://www.onsemi.com/pub/Collateral/NB7V52M-D.PDF","D Flip Flop, 1.8 V / 2.5 V Differential, with Reset and CML Outputs","Pb-free
+Halide free","Active","D Flip Flop, 1.8 V / 2.5 V Differential, with Reset and CML Outputs","D-Type","1","CML
+ECL
+LVDS","CML","1.8
+2.5","0.2","0.2","0.04","0.05","0.2","50","12000","QFN-16"
+"on","时钟及数据分配---触发器、锁存器及寄存器","NB7V52M","NB7V52MMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V52MMNTXG","http://www.onsemi.com/pub/Collateral/NB7V52M-D.PDF","D Flip Flop, 1.8 V / 2.5 V Differential, with Reset and CML Outputs","Pb-free
+Halide free","Active","D Flip Flop, 1.8 V / 2.5 V Differential, with Reset and CML Outputs","D-Type","1","CML
+ECL
+LVDS","CML","1.8
+2.5","0.2","0.2","0.04","0.05","0.2","50","12000","QFN-16"

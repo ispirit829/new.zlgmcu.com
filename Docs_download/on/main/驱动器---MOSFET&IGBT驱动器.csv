@@ -1,0 +1,147 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Number of Drivers","Vin Max (V)","VCC Max (V)","Drive Source/Sink Typ (mA)","Rise Time (ns)","Fall Time (ns)","tp Max (ns)","Package Type"
+"on","驱动器---MOSFET/IGBT驱动器","ADP3110A","ADP3110AKCPZ-RL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADP3110AKCPZ-RL","http://www.onsemi.com/pub/Collateral/ADP3110A-D.PDF","Dual Bootstrapped, 12 V MOSFET Driver","Pb-free
+Halide free","Active","Dual Bootstrapped, 12 V MOSFET Driver","MOSFET","2","35","15","1000 / 1000","40","20","65","DFN-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","ADP3110A","ADP3110AKRZ-RL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADP3110AKRZ-RL","http://www.onsemi.com/pub/Collateral/ADP3110A-D.PDF","Dual Bootstrapped, 12 V MOSFET Driver","Pb-free
+Halide free","Active","Dual Bootstrapped, 12 V MOSFET Driver","MOSFET","2","35","15","1000 / 1000","40","20","65","DFN-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","ADP3611","ADP3611JRMZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADP3611JRMZ-REEL","http://www.onsemi.com/pub/Collateral/ADP3611-D.PDF","Dual Bootstrapped, High Voltage MOSFET Driver with Output Disable","Pb-free
+Halide free","Active","Dual Bootstrapped, High Voltage MOSFET Driver with Output Disable","MOSFET","2",,"5.5",,,,"40","Micro10"
+"on","驱动器---MOSFET/IGBT驱动器","MC33152","MC33152DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33152DG","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","MOSFET Driver, High Speed, Dual","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Driver, High Speed, Dual","MOSFET","2","18","18","1500 / 1500","14","15","120","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","MC33152","MC33152DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33152DR2G","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","MOSFET Driver, High Speed, Dual","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Driver, High Speed, Dual","MOSFET","2","18","18","1500 / 1500","14","15","120","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","MC33152","MC33152PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33152PG","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","MOSFET Driver, High Speed, Dual","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Driver, High Speed, Dual","MOSFET","2","18","18","1500 / 1500","14","15","120","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","MC33152","MC33152VDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33152VDR2G","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","MOSFET Driver, High Speed, Dual","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Driver, High Speed, Dual","MOSFET","2","18","18","1500 / 1500","14","15","120","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","MC33152","MC34152DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34152DG","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","MOSFET Driver, High Speed, Dual","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Driver, High Speed, Dual","MOSFET","2","18","18","1500 / 1500","14","15","120","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","MC33152","MC34152DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34152DR2G","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","MOSFET Driver, High Speed, Dual","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Driver, High Speed, Dual","MOSFET","2","18","18","1500 / 1500","14","15","120","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","MC33152","MC34152PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34152PG","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","MOSFET Driver, High Speed, Dual","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Driver, High Speed, Dual","MOSFET","2","18","18","1500 / 1500","14","15","120","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP1392","NCP1392BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1392BDR2G","http://www.onsemi.com/pub/Collateral/NCP1392-D.PDF","MOSFET Driver, High Voltage, Half Bridge, with Inbuilt Oscillator","Pb-free
+Halide free","Active","MOSFET Driver, High Voltage, Half Bridge, with Inbuilt Oscillator","MOSFET","2",,"16","500 / 1000","40","20","500","SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP1392","NCP1392DDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1392DDR2G","http://www.onsemi.com/pub/Collateral/NCP1392-D.PDF","MOSFET Driver, High Voltage, Half Bridge, with Inbuilt Oscillator","Pb-free
+Halide free","Active","MOSFET Driver, High Voltage, Half Bridge, with Inbuilt Oscillator","MOSFET","2",,"16","500 / 1000","40","20","500","SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP3420","NCP3420DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3420DR2G","http://www.onsemi.com/pub/Collateral/NCP3420-D.PDF","MOSFET Driver with Dual Outputs for Synchronous Buck Converters","Pb-free
+Halide free","Active","MOSFET Driver with Dual Outputs for Synchronous Buck Converters","MOSFET","2","35","15",,"16","11","45","SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5106","NCP5106ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5106ADR2G","http://www.onsemi.com/pub/Collateral/NCP5106-D.PDF","MOSFET / IGBT Drivers, High Voltage, High and Low Side","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET / IGBT Drivers, High Voltage, High and Low Side","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5106","NCP5106APG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5106APG","http://www.onsemi.com/pub/Collateral/NCP5106-D.PDF","MOSFET / IGBT Drivers, High Voltage, High and Low Side","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET / IGBT Drivers, High Voltage, High and Low Side","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5106","NCP5106BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5106BDR2G","http://www.onsemi.com/pub/Collateral/NCP5106-D.PDF","MOSFET / IGBT Drivers, High Voltage, High and Low Side","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET / IGBT Drivers, High Voltage, High and Low Side","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5106","NCP5106BPG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5106BPG","http://www.onsemi.com/pub/Collateral/NCP5106-D.PDF","MOSFET / IGBT Drivers, High Voltage, High and Low Side","PPAP Capable
+Pb-free
+Halide free","Active","MOSFET / IGBT Drivers, High Voltage, High and Low Side","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5111","NCP5111DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5111DR2G","http://www.onsemi.com/pub/Collateral/NCP5111-D.PDF","Power MOSFET / IGBT Driver, Single Input, Half-Bridge","PPAP Capable
+Pb-free
+Halide free","Active","Power MOSFET / IGBT Driver, Single Input, Half-Bridge","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5111","NCP5111PG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5111PG","http://www.onsemi.com/pub/Collateral/NCP5111-D.PDF","Power MOSFET / IGBT Driver, Single Input, Half-Bridge","PPAP Capable
+Pb-free
+Halide free","Active","Power MOSFET / IGBT Driver, Single Input, Half-Bridge","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5304","NCP5304DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5304DR2G","http://www.onsemi.com/pub/Collateral/NCP5304-D.PDF","MOSFET / IGBT Drivers, High Voltage, High and Low Side, Dual Input","Pb-free
+Halide free","Active","MOSFET / IGBT Drivers, High Voltage, High and Low Side, Dual Input","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5304","NCP5304PG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5304PG","http://www.onsemi.com/pub/Collateral/NCP5304-D.PDF","MOSFET / IGBT Drivers, High Voltage, High and Low Side, Dual Input","Pb-free
+Halide free","Active","MOSFET / IGBT Drivers, High Voltage, High and Low Side, Dual Input","MOSFET or IGBT","2","600","23","250 / 500","85","35","170","PDIP-8
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5359","NCP5359DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5359DR2G","http://www.onsemi.com/pub/Collateral/NCP5359-D.PDF","MOSFET Gate Driver for Notebook Power Systems","Pb-free
+Halide free","Active","MOSFET Gate Driver for Notebook Power Systems","MOSFET","2",,"15","1500 / 1500","16","11","35","DFN-10
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5359","NCP5359MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5359MNR2G","http://www.onsemi.com/pub/Collateral/NCP5359-D.PDF","MOSFET Gate Driver for Notebook Power Systems","Pb-free
+Halide free","Active","MOSFET Gate Driver for Notebook Power Systems","MOSFET","2",,"15","1500 / 1500","16","11","35","DFN-10
+SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5901","NCP5901MNTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5901MNTBG","http://www.onsemi.com/pub/Collateral/NCP5901-D.PDF","MOSFET Driver, VR12 Compatible, Synchronous Buck","Pb-free
+Halide free","Active","MOSFET Driver, VR12 Compatible, Synchronous Buck","MOSFET","2","35","15",,"16","11",,"DFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP5911","NCP5911MNTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5911MNTBG","http://www.onsemi.com/pub/Collateral/NCP5911 DS.PDF","MOSFET Driver, IMVP7.0 Compatible, Synchronous Buck","Pb-free
+Halide free","Active","MOSFET Driver, IMVP7.0 Compatible, Synchronous Buck","MOSFET","2","35","6.5",,"16","11",,"DFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071ADR2G","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071AMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071AMNTXG","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071AZR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071AZR2G","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071BDR2G","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071BMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071BMNTXG","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071BZR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071BZR2G","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071CDR2G","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071CMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071CMNTXG","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81071","NCP81071CZR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81071CZR2G","http://www.onsemi.com/pub/Collateral/NCP81071-D.PDF","High Speed 5A Dual Low Side MOSFET driver","Pb-free
+Halide free","Active","High Speed 5A Dual Low Side MOSFET driver","MOSFET","2",,"24","5000 / 5000","8","8","20","MSOP-8 EP
+SOIC-8
+WDFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81145","NCP81145MNTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81145MNTBG","http://www.onsemi.com/pub/Collateral/NCP81145-D.PDF","VR12.5 Buck MOSFET Driver, Buck MOSFET Driver","Pb-free
+Halide free","Active","VR12.5 Buck MOSFET Driver","MOSFET","2","35","6.5",,"16","11",,"DFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81151","NCP81151MNTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81151MNTAG","http://www.onsemi.com/pub/Collateral/NCP81151-D.PDF","VR12.5 Compatible Synchronous Buck MOSFET Driver, MOSFET Driver","Pb-free
+Halide free","Active","VR12.5 Compatible Synchronous Buck MOSFET Driver","MOSFET or IGBT","2","35","6.5",,"16","11","25","DFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81151","NCP81151MNTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81151MNTBG","http://www.onsemi.com/pub/Collateral/NCP81151-D.PDF","VR12.5 Compatible Synchronous Buck MOSFET Driver, MOSFET Driver","Pb-free
+Halide free","Active","VR12.5 Compatible Synchronous Buck MOSFET Driver","MOSFET or IGBT","2","35","6.5",,"16","11","25","DFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCP81161","NCP81161MNTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81161MNTBG","http://www.onsemi.com/pub/Collateral/NCP81161-D.PDF","MOSFET Driver, VR12.5 Compatible, Synchronous Buck","Pb-free
+Halide free","Active","MOSFET Driver, VR12.5 Compatible, Synchronous Buck","MOSFET","2","35","15",,"16","11",,"DFN-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCV33152","NCV33152DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33152DR2G","http://www.onsemi.com/pub/Collateral/MC34152-D.PDF","High Speed Dual MOSFET Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","High Speed Dual MOSFET Driver","MOSFET","2",,"18","1500 / 1500","15","36","120","SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","NCV7517B","NCV7517BFTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7517BFTR2G","http://www.onsemi.com/pub/Collateral/NCV7517B-D.PDF","MOSFET Pre-Driver, Hex, Low-Side","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","MOSFET Pre-Driver, Hex, Low-Side","MOSFET or IGBT","6",,"5.25",,"277","277","1000","LQFP-32"
+"on","驱动器---MOSFET/IGBT驱动器","NCV7519","NCV7519MWTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7519MWTXG","http://www.onsemi.com/pub/Collateral/NCV7519-D.PDF","FLEXMOS™ Hex Low-side MOSFET Pre-driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","FLEXMOS™ Hex Low-side MOSFET Pre-driver","MOSFET","6",,"5.25",,"277","277","1000","QFN-32"
+"on","驱动器---MOSFET/IGBT驱动器","TND315S","TND315S-TL-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=TND315S-TL-2H","http://www.onsemi.com/pub/Collateral/ENA0421-D.PDF","Excellent Power Device, Dual buffer driver for general purpose, Dual SOIC8","Pb-free
+Halide free","Active","Excellent Power Device, Dual buffer driver for general purpose, Dual SOIC8","MOSFET or IGBT","2","25","25",,"30","30",,"SOIC-8"
+"on","驱动器---MOSFET/IGBT驱动器","TND321VD","TND321VD-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=TND321VD-TL-H","http://www.onsemi.com/pub/Collateral/TND321VD-D.PDF","Excellent Power Device, Dual Inverter Driver for General Purpose","Pb-free
+Halide free","Active","Excellent Power Device, Dual Inverter Driver for General Purpose","MOSFET or IGBT","2","25","25",,"35","30","60","SOT-28FL / VEC-8"
+"on","驱动器---MOSFET/IGBT驱动器","TND323VD","TND323VD-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=TND323VD-TL-H","http://www.onsemi.com/pub/Collateral/TND323VD-D.PDF","Excellent Power Device, Inverter and Buffer Driver for General Purpose","Pb-free
+Halide free","Active","Excellent Power Device, Inverter and Buffer Driver for General Purpose","MOSFET or IGBT","2","25","25",,"35","30","60","SOT-28FL / VEC-8"
+"on","驱动器---MOSFET/IGBT驱动器","TND524VS","TND524VS-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=TND524VS-TL-H","http://www.onsemi.com/pub/Collateral/EN9053-D.PDF","Excellent Power Device, Single-phase High Side Drive, Single VEC8","Pb-free
+Halide free","Active","Excellent Power Device, Single-phase High Side Drive, Single VEC8","MOSFET or IGBT","1","625","25",,"80","35","120","SOT-28FL / VEC-8"

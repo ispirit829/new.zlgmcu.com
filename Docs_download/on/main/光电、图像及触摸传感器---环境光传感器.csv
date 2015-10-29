@@ -1,0 +1,10 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","IOTyp  (microA)","Output Interface","Vin Min (V)","Vin Max (V)","TA Min (&#0176;C)","TA Max (&#0176;C)","Package Type"
+"on","光电、图像及触摸传感器---环境光传感器","LA0151CS","LA0151CS-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA0151CS-TLM-E","http://www.onsemi.com/pub/Collateral/LA0151CS-D.PDF","Ambient Light Sensor, Linear Current Output, with 2-Stage Gain Switching","Pb-free
+Halide free","Active","Ambient Light Sensor, Linear Current Output, with 2-Stage Gain Switching","1.6
+80","Analog","2.2","5.5","-30","85","ODCSP-4"
+"on","光电、图像及触摸传感器---环境光传感器","LV0104CS","LV0104CS-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV0104CS-TLM-H","http://www.onsemi.com/pub/Collateral/LV0104CS-D.PDF","Ambient Light Sensor, I","Pb-free
+Halide free","Active","Ambient Light Sensor, I<sup>2</sup>C Interface","70","I2C","2.3","3.6","-30","85","ODCSP-4"
+"on","光电、图像及触摸传感器---环境光传感器","NOA1212","NOA1212CUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NOA1212CUTAG","http://www.onsemi.com/pub/Collateral/NOA1212-D.PDF","Ambient Light Sensor with Dark Current Compensation","Pb-free
+Halide free","Active","Ambient Light Sensor with Dark Current Compensation","64","Analog","2","5.5","-40","85","CUDFN-6"
+"on","光电、图像及触摸传感器---环境光传感器","NOA1305","NOA1305CUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NOA1305CUTAG","http://www.onsemi.com/pub/Collateral/NOA1305-D.PDF","Ambient Light Sensor","Pb-free
+Halide free","Active","Ambient Light Sensor",,"I2C","2.4","3.6","-40","85","CUDFN-6"

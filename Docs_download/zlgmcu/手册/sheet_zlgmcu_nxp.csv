@@ -1,0 +1,300 @@
+﻿"brand","Series","FileType","Title","Url"
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【硬件资料】LPC175x最小系统电路与器件封装库,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC175x_ku.zip
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【硬件资料】LPC176x最小系统电路与器件封装库,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC176x_ku.zip
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【入门书籍】《深入浅出Cortex-M3--LPC175X（上册）》,http://www.zlgmcu.com/download/downs.asp?ID=6416
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【入门书籍】《深入浅出Cortex-M3--LPC175X（下册）》,http://www.zlgmcu.com/download/downs.asp?ID=6417
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【硬件资料】EasyCortex M3-1752 V2.00 原理图及封装,http://www.zlgmcu.com/NXP/LPC1000/lpc1700/EasyCortexM3-1752_ku.zip
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【硬件资料】开发板硬件参考资料,http://www.zlgmcu.com/NXP/LPC1000/ds/deve_board_resources.rar
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【配套例程】KEIL工程模板及配套例程,http://www.zlgmcu.com/NXP/LPC1000/ds/KEIL_PT_DEMO.rar
+NXP,MCU---Cortex_M3---LPC1700,最小系统与快速入门,【用户手册】EasyCortex M3-1752用户使用手册V1.02,http://www.zlgmcu.com/download/downs.asp?ID=6408
+NXP,MCU---Cortex_M3---LPC1700,工具与软件,【工具软件】串口调试软件EasyARM,http://www.zlgmcu.com/download/downs.asp?ID=6404
+NXP,MCU---Cortex_M3---LPC1700,工具与软件,【工具软件】串口下载软件FlashMagic v7.02,http://www.zlgmcu.com/NXP/LPC1000/ds/SF_FlashMagic.rar
+NXP,MCU---Cortex_M3---LPC1700,工具与软件,【工具软件】LPC177x_8x_PinMux,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC177x_8x_PinMux.rar
+NXP,MCU---Cortex_M3---LPC1700,工具与软件,【工具软件】LCD带宽计算工具,http://www.lpcware.com/content/nxpfile/lcd-bus-bandwidth-calculator-lpc177x8x
+NXP,MCU---Cortex_M3---LPC1700,工具与软件,【工具软件】代码校验工具,http://www.lpcware.com/content/nxpfile/lpc177x8x-checksum-insertion-program
+NXP,MCU---Cortex_M3---LPC1700,工具与软件,【工具软件】PLL计算工具,http://www.lpcware.com/content/nxpfile/lpc17xx-pll0-calculator
+NXP,MCU---Cortex_M3---LPC1700,工具与软件,【仿真软件】板载USB仿真器软件,http://www.zlg.cn/uploadfiles/rar/20130609043508281.rar
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700 SPI/SSP访问SD/MMC卡,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11070.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】AES加密及解密的软件实现,http://www.zlgmcu.com/download/downs.asp?ID=6501
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】emWin使用指南,http://www.zlgmcu.com/download/downs.asp?ID=6519
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】emWin移植指南,http://www.zlgmcu.com/download/downs.asp?ID=6518
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】Full-speed USB使用指南,http://www.zlgmcu.com/download/downs.asp?ID=6503
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】I2C Bootloader,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11258.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700 DMA应用之Mem到DAC的数据传输,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10917.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700 EFSL和FatFs移植 ,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10916.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700 IAP使用指南,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11071.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700 MP3播放器解决方案,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11178.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700 Power Modes使用指南,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10915.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700 USB Bootloader,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10866.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700/LCP1300 DSP库介绍 ,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10913_CM3_DSP.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700符合IEC 60601-1-8标准的声音报警器的实现,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10875.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700无刷直流电机控制,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10898.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700系列快速入门指导,http://www.zlgmcu.com/download/downs.asp?ID=6507
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700以太网MII管理,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10859.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC175x/6x 12位ADC设计指南,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10974_12bit_ADC_design.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC175x/6x Speex应用,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11085.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC175x/6x电容触摸感应方案,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11095.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】PMBus 软件堆栈的实现,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11318.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】SPI Bootloader,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11257.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】表面贴装回流焊指导,http://www.zlgmcu.com/download/downs.asp?ID=6486
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】基于LPC系列单片机M3内核的IEC60335 B类库 ,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10918_ClassB_CM3.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC176x5x系列微控制器12位ADC设计指导,http://www.zlgmcu.com/NXP/LPC1000/lpc1700/LPC176x5x_ADCdesign.zip
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】emWin图形库用户手册,http://www.zlgmcu.com/download/downs.asp?ID=5703
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】emWin图形库用户手册(英),http://www.zlgmcu.com/download/downs.asp?ID=5702
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】NXP微控制器BGA封装的PCB布线指南,http://www.zlgmcu.com/download/downs.asp?ID=5701
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】NXP芯片表面贴装—回流焊技术,http://www.zlgmcu.com/download/downs.asp?ID=5700
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700系列Cortex-M3内核微控制器教学课件,http://www.zlgmcu.com/nxp/lpc1000/ds/LPC1700_ppt_all.rar
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】LPC1700以太网（MIIM）接口应用笔记(英),http://www.zlgmcu.com/download/downs.asp?ID=3929
+NXP,MCU---Cortex_M3---LPC1700,技术应用文档,【应用文档】NXP Cortex-M3 LPC1700系列微控制器简介,http://www.zlgmcu.com/download/downs.asp?ID=3875
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【配套例程】EasyARM-824M0+配套实验例程V1.01,http://www.zlgmcu.com/download/downs.asp?ID=6629
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【快速入门】EasyARM-824M0+开发工具快速入门 V1.00,http://www.zlgmcu.com/NXP/LPC800/pdf/EasyARM_824M0_fast.pdf
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【硬件资料】EasyARM-824M0+硬件使用手册V1.00,http://www.zlgmcu.com/NXP/LPC800/pdf/EasyARM_824M0_um.pdf
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【硬件资料】LPC81x系列微控制器最小系统原理图,http://www.zlgmcu.com/download/downs.asp?ID=5922
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【硬件资料】EasyARM-824M0+开发板原理图,http://www.zlgmcu.com/NXP/LPC800/pdf/EasyARM-824M0.pdf
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【硬件资料】LPC82x系列微控制器最小系统原理图及封装库,http://www.zlgmcu.com/download/downs.asp?ID=6622
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【配套例程】LPC81x系列微控制器实验例程 V1.10,http://www.zlgmcu.com/download/downs.asp?ID=6061
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【配套教材】《新编计算机基础教程》-基于TinyM0+实践与制作,http://www.zlgmcu.com/download/downs.asp?ID=6567
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【快速入门】TinyM0+ 开发工具快速入门 V1.10,http://www.zlgmcu.com/NXP/LPC800/pdf/TinyM0-plus_fast.pdf
+NXP,MCU---Cortex_M0/M0+---LPC800,最小系统与快速入门,【硬件资料】TinyM0+开发工具原理图库,http://www.zlgmcu.com/download/downs.asp?ID=6144
+NXP,MCU---Cortex_M0/M0+---LPC800,工具与软件,【配套软件】FlashMagic V7.02,http://www.zlgmcu.com/download/downs.asp?ID=6143
+NXP,MCU---Cortex_M0/M0+---LPC800,工具与软件,【配套工具】LPC81x系列微控制器GPIO位置分配工具,http://www.zlgmcu.com/download/downs.asp?ID=5921
+NXP,MCU---Cortex_M0/M0+---LPC800,工具与软件,【配套工具】LPC800系列微控制器时钟配置工具,http://www.lpcware.com/content/nxpfile/lpc8xx-clock-and-pll-configuration-tool
+NXP,MCU---Cortex_M0/M0+---LPC800,工具与软件,【配套工具】LPC81x开关矩阵配置工具,http://www.lpcware.com/content/nxpfile/nxp-switch-matrix-tool-lpc800
+NXP,MCU---Cortex_M0/M0+---LPC800,工具与软件,【配套工具】LPC系列微控制器初始化和引脚配置工具Online,http://www.lpcware.com/content/tools/lpc-initializer
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,NXP在线引脚配置工具使用说明V1.00,http://www.zlgmcu.com/NXP/LPC800/pdf/NXP_um.pdf
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC800系列微控制器SCTimer/PWM 电容式触摸按键中的应用,http://www.zlgmcu.com/download/downs.asp?ID=6631
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC800系列微控制器低功耗模式和唤醒时间,http://www.zlgmcu.com/download/downs.asp?ID=6632
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x_LPC1100系列微控制器实现红外遥控解码（支持NEC和RC5协议）,http://www.zlgmcu.com/download/downs.asp?ID=6559
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x基于I2C中断的掉电模式唤醒研究,http://www.zlgmcu.com/download/downs.asp?ID=6141
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x基于模拟比较器的∑ -Δ ADC实现,http://www.zlgmcu.com/download/downs.asp?ID=6140
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x系列微控制器IAP编程说明,http://www.zlgmcu.com/download/downs.asp?ID=6243
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x系列微控制器SCT外设使用说明 V1.01,http://www.zlgmcu.com/NXP/LPC800/pdf/LPC800_um.pdf
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x系列微控制器SCT外设应用示例,http://www.zlgmcu.com/download/downs.asp?ID=6195
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x系列微控制器介绍PPT,http://www.zlgmcu.com/download/downs.asp?ID=6060
+NXP,MCU---Cortex_M0/M0+---LPC800,技术应用文档,LPC81x系列微控制器时钟配置指南,http://www.zlgmcu.com/download/downs.asp?ID=6183
+NXP,MCU---ARM7---LPC2100_LPC2200,工具与软件,【工具软件】LPC2000系列ARM微控制器ISP软件V2.2.3,http://www.zlgmcu.com/philips/arm/about/LPC_ARM_ISP_V2.2.3.zip
+NXP,MCU---ARM7---LPC2100_LPC2200,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】LPC2119芯片版本的识别方法,http://www.zlgmcu.com/download/downs.asp?ID=4035
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】LPC系列全速USB使用指导,http://www.lpcware.com/content/nxpfile/an11392-guidelines-full-speed-usb-nxps-lpc-microcontrollers
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】LP214x USB的虚拟串口,http://www.lpcware.com/content/nxpfile/an10420-usb-virtual-com-port-lpc214x
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】LPC2138的掉电模式解析,http://www.lpcware.com/content/nxpfile/an10535-lpc2138-extreme-power-down-application-note
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】在LPC2138的掉电模式下利用USB唤醒,http://www.lpcware.com/content/nxpfile/an10493-lpc214x-power-down-mode-and-usb-wake
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】如何有效利用LPC213x的RTC,http://www.lpcware.com/content/nxpfile/an10382-using-rtc-efficiently-lpc213x
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】LPC21xx和LPC22xx全速Can传输,http://www.lpcware.com/content/nxpfile/an10324-implementing-full-can-message-handling-lpc21xx-and-lpc22xx
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】如何从用户代码进入ISP模式,http://www.lpcware.com/content/nxpfile/an10356-entering-isp-mode-user-code
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】LPC2214的eCos运行,http://www.lpcware.com/content/nxpfile/an10605-running-ecos-lpc2214
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】LPC2200于NAND flash的连接,http://www.lpcware.com/content/nxpfile/an10600-connecting-nxp-arm-based-microcontroller-lpc2200-small-page-nand-flash
+NXP,MCU---ARM7---LPC2100_LPC2200,技术应用文档,【应用文档】以太网的IAP,http://www.lpcware.com/content/nxpfile/an10744-ethernet-secondary-isp-bootloader
+NXP,MCU---Cortex_M4---LPC54100,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---Cortex_M4---LPC54100,技术应用文档,【应用文档】SCT设计指导,http://www.lpcware.com/content/nxpfile/an11538-sctimerpwm-cookbook 
+NXP,MCU---Cortex_M4---LPC54100,技术应用文档,【应用文档】双核应用笔记,http://www.lpcware.com/content/nxpfile/lpc54100-dual-core-usage-application-note
+NXP,MCU---Cortex_M4---LPC54100,技术应用文档,【应用文档】低功耗模式与唤醒时间,http://www.lpcware.com/content/nxpfile/lpc54100-low-power-modes-and-wake-times-application-note
+NXP,MCU---Cortex_M3---LPC1500,最小系统与快速入门,【快速入门】TinyM3-1500快速入门 V1.00,http://www.zlgmcu.com/download/downs.asp?ID=6590
+NXP,MCU---Cortex_M3---LPC1500,最小系统与快速入门,【平台简介】TinyM3-1500开发平台介绍,http://www.zlgmcu.com/download/downs.asp?ID=6588
+NXP,MCU---Cortex_M3---LPC1500,最小系统与快速入门,【配套例程】LPC1500系列微控制器配套例程V1.01,http://www.zlgmcu.com/NXP/LPC1000/LPC1500/LPC1500_routine.zip
+NXP,MCU---Cortex_M3---LPC1500,最小系统与快速入门,【硬件资料】TinyM3-1500开发板器件库,http://www.zlgmcu.com/NXP/LPC1000/ds/TinyM3-1500_ku.zip
+NXP,MCU---Cortex_M3---LPC1500,最小系统与快速入门,【硬件资料】TinyM3-1500开发板原理图,http://www.zlgmcu.com/download/downs.asp?ID=6578
+NXP,MCU---Cortex_M3---LPC1500,最小系统与快速入门,【硬件资料】LPC1500系列微控制器最小系统原理图,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC1500_system_sd.zip
+NXP,MCU---Cortex_M3---LPC1500,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---Cortex_M3---LPC1500,技术应用文档,【应用文档】LPC1500系列微控制器CAN ISP升级方法,http://www.zlgmcu.com/NXP/LPC1000/LPC1500/LPC1500_can_isp.zip
+NXP,MCU---Cortex_M3---LPC1500,技术应用文档,【应用文档】LPC1500微控制器的IAP使用指南,http://www.zlgmcu.com/NXP/LPC1000/LPC1500/LPC1500_user.zip
+NXP,MCU---Cortex_M3---LPC1500,技术应用文档,【应用文档】LPC1500微控制器的SCT应用大全,http://www.zlgmcu.com/NXP/LPC1000/LPC1500/LPC1500_SCT.zip
+NXP,MCU---Cortex_M3---LPC1500,技术应用文档,【应用文档】LPC1500微控制器—让电机控制更简单,http://www.zlgmcu.com/download/downs.asp?ID=6581
+NXP,MCU---Cortex_M3---LPC1500,技术应用文档,【应用文档】LPC1500微控制器使用FOC控制PMSM电机,http://www.zlgmcu.com/NXP/LPC1000/LPC1500/LPC1500_FOC.zip
+NXP,MCU---Cortex_M3---LPC1500,技术应用文档,【应用文档】LPC1500系列微控制器实现BLDC电机控制应用,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC15xxBLDC_motor_control.zip
+NXP,MCU---Cortex_M3---LPC1500,技术应用文档,【应用文档】NXP在线引脚配置工具使用说明V1.00,http://www.zlgmcu.com/download/downs.asp?ID=6635
+NXP,MCU---Cortex_M3---LPC1300,最小系统与快速入门,【硬件资料】LPC1300最小系统电路与器件封装库,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC1300_ku.zip
+NXP,MCU---Cortex_M3---LPC1300,最小系统与快速入门,【用户手册】EasyCortex M3-1300用户使用手册V1.05,http://www.zlg.cn/uploadfiles/rar/20130609043508281.rar
+NXP,MCU---Cortex_M3---LPC1300,最小系统与快速入门,【配套例程】LPC1300_KEIL工程模板及配套例程,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC1300_KEIL_PT_DEMO.rar
+NXP,MCU---Cortex_M3---LPC1300,最小系统与快速入门,【硬件资料】LPC1300开发板硬件参考资料,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC1300_deve_board_resources.rar
+NXP,MCU---Cortex_M3---LPC1300,最小系统与快速入门,【仿真软件】板载USB仿真器软件,undefined
+NXP,MCU---Cortex_M3---LPC1300,工具与软件,【工具软件】【工具软件】串口调试软件EasyARM,http://www.zlgmcu.com/NXP/LPC1000/ds/SF_EasyARM.rar
+NXP,MCU---Cortex_M3---LPC1300,工具与软件,【工具软件】串口下载软件FlashMagic v7.02,http://www.zlgmcu.com/NXP/LPC1000/ds/SF_FlashMagic.rar
+NXP,MCU---Cortex_M3---LPC1300,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com/
+NXP,MCU---Cortex_M3---LPC1300,工具与软件,【配套软件】PLL计算工具,http://www.lpcware.com/content/nxpfile/lpc13xx-main-pll-calculator
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】AES加密及解密的软件实现 ,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11241.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】BGA封装PCB设计指南 ,http://www.zlgmcu.com/download/downs.asp?ID=6487
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】DSP库应用之FFT功能软件解码DTMF音调,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10943.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】DSP库应用之数字滤波,http://www.zlgmcu.com/download/downs.asp?ID=6492
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】Full-speed USB使用指南,http://www.zlgmcu.com/download/downs.asp?ID=6503
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC1100/LPC1300 PCB布局和ADC电路的建议,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11031v1.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC1100和LPC1300使用代码读保护,http://www.zlgmcu.com/download/downs.asp?ID=6495
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC111x/LPC13xx 全双工UART软件实现,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC13xx_duplex_software.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC11xx/LPC13xx DALI协议应用2.0,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11174_DALI.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC1300 USB在系统编程,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC1300_USB_programming.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC1300 片上驱动实现USB HID类,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10904.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC134x I2C接口收音机方案,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10900.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC134x USB复合设备的实现,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC134x_USB_device.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPC1700/LCP1300 DSP库介绍,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10913_CM3_DSP.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】LPCXpresso下使用LPC13xx低功耗模式指南,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC13xx_LPCXpresso.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】PMBus 软件堆栈的实现,http://www.zlgmcu.com/NXP/LPC1000/ds/AN11318.zip
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】表面贴装回流焊指导,http://www.zlgmcu.com/download/downs.asp?ID=6486
+NXP,MCU---Cortex_M3---LPC1300,技术应用文档,【应用文档】基于LPC系列单片机M3内核的IEC60335 B类库,http://www.zlgmcu.com/NXP/LPC1000/ds/AN10918_ClassB_CM3.zip
+NXP,MCU---Cortex_M3---LPC1800,最小系统与快速入门,【配套例程】LPC1800系列微控制器配套例程及工程模板 V1.00,http://www.zlgmcu.com/NXP/LPC1000/LPC1800/LPC1800_routine.rar
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【工具软件】LPC1800 PinMux工具 V1.00,http://www.zlgmcu.com/NXP/LPC1000/lpc1800/LPC1800_PinMux.rar
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【工具软件】SCT工具安装软件 V1.00,http://www.zlgmcu.com/NXP/LPC1000/lpc1800/SCT.rar
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【工具软件】音频PLL计算工具 V1.00,http://www.zlgmcu.com/NXP/LPC1000/lpc1800/PLL.rar
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【配套软件】SCT-Tool,http://www.lpcware.com/content/nxpfile/sct-tools
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【配套软件】LCD带宽计算工具,http://www.lpcware.com/content/nxpfile/lcd-bandwidth-calculator-lpc18xx-and-lpc43xx
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【配套软件】DFU工具,http://www.lpcware.com/content/nxpfile/nxp-lpc18xx43xx-dfu-download-and-secure-image-generator
+NXP,MCU---Cortex_M3---LPC1800,工具与软件,【配套软件】DFU驱动,http://www.lpcware.com/lpclink2-config-tool
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800AES编码和解码 ,http://www.zlgmcu.com/NXP/LPC1000/ds/AES_en_de.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800电源管理总线(PMBus)软件,http://www.zlgmcu.com/NXP/LPC1000/ds/lpc_PMBus_software.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800基于SCT的摄像头接口设计,http://www.zlgmcu.com/NXP/LPC4000/ds/SCTCameraInterface_design.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800上MxMEMMAP的技术笔记,http://www.zlgmcu.com/download/downs.asp?ID=6268
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800上UART ISP的UU编码 ,http://www.zlgmcu.com/download/downs.asp?ID=6269
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800通过ULPI连接的高速USB ,http://www.zlgmcu.com/NXP/LPC4000/ds/ULPI_USBPHY.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800为新的Flash添加编程算法,http://www.zlgmcu.com/NXP/LPC4000/ds/MCB_flash.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800一次性可编程(OTP)的配置,http://www.zlgmcu.com/NXP/LPC4000/ds/AN11292_otp.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC1800在线系统编程(ISP),http://www.zlgmcu.com/NXP/LPC1000/ds/LPC1800Flash_isp.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】LPC18xx上使用SPIFI传输到LCD,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC18xx_SPIFI_LCD.zip
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】emWin图形库用户手册,http://www.zlgmcu.com/download/downs.asp?ID=5703
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】emWin图形库用户手册(英),http://www.zlgmcu.com/download/downs.asp?ID=5702
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】NXP微控制器BGA封装的PCB布线指南,http://www.zlgmcu.com/download/downs.asp?ID=5701
+NXP,MCU---Cortex_M3---LPC1800,技术应用文档,【应用文档】NXP芯片表面贴装—回流焊技术,http://www.zlgmcu.com/download/downs.asp?ID=5700
+NXP,MCU---Cortex_M4---LPC4000,工具与软件,【配套软件】LPC4000 PinMux工具 V1.00,http://www.lpcware.com/content/nxpfile/lpc407x8x-pin-mux-tool
+NXP,MCU---Cortex_M4---LPC4000,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---Cortex_M4---LPC4000,工具与软件,【配套软件】PLL计算工具,http://www.lpcware.com/content/nxpfile/lpc407x8x177x8x-pll-setting-calculator
+NXP,MCU---Cortex_M4---LPC4000,技术应用文档,【应用文档】使用SGPIO模拟实现SPI主机接口(英) ,http://www.zlgmcu.com/download/downs.asp?ID=5785
+NXP,MCU---Cortex_M4---LPC4000,技术应用文档,【应用文档】emWin图形库用户手册,http://www.zlgmcu.com/download/downs.asp?ID=5703
+NXP,MCU---Cortex_M4---LPC4000,技术应用文档,【应用文档】emWin图形库用户手册(英),http://www.zlgmcu.com/download/downs.asp?ID=5702
+NXP,MCU---Cortex_M4---LPC4000,技术应用文档,【应用文档】NXP微控制器BGA封装的PCB布线指南,http://www.zlgmcu.com/download/downs.asp?ID=5701
+NXP,MCU---Cortex_M4---LPC4000,技术应用文档,【应用文档】NXP芯片表面贴装—回流焊技术,http://www.zlgmcu.com/download/downs.asp?ID=5700
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,最小系统与快速入门,【硬件资料】TinyM0原理图与器件封装库,http://www.zlgmcu.com/download/downs.asp?ID=4115
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,最小系统与快速入门,【配套教材】《深入浅出Cortex-M0——LPC1100系列》,http://www.zlgmcu.com/download/downs.asp?ID=4211
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,最小系统与快速入门,【配套例程】TinyM0开发板实验例程（Keil）V2.00,http://www.zlgmcu.com/download/downs.asp?ID=4143
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,最小系统与快速入门,【快速入门】TinyM0系列开发套件快速入门 V1.11,http://www.zlgmcu.com/NXP/LPC1000/lpc1110/TinyM0_um.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,最小系统与快速入门,【硬件资料】LPC1100系列最小系统原理图与封装库,http://www.zlgmcu.com/download/downs.asp?ID=4770
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,最小系统与快速入门,【硬件资料】LPC1110最小系统原理图,http://www.zlgmcu.com/NXP/LPC1000/ds/LPC1110_system.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,工具与软件,【配套软件】FlashMagic V7.02,http://www.zlgmcu.com/download/downs.asp?ID=6143
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,工具与软件,【配套软件】LPCXpresso Linux Installer,http://www.lpcware.com/lpcxpresso/downloads/linux
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,工具与软件,【配套软件】LPCXpresso Windows Installer,http://www.lpcware.com/lpcxpresso/downloads/windows
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,工具与软件,【配套工具】LPC11xx系列微控制器主时钟配置指南,http://www.lpcware.com/content/nxpfile/lpc11xx-main-pll-calculator
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,工具与软件,【配套工具】LPC1100LV系列微控制器主时钟配置指南,http://www.lpcware.com/content/nxpfile/lpc1100lv-main-pll-calculator
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC81x_LPC1100系列微控制器实现红外遥控解码（支持NEC和RC5协议）,http://www.zlgmcu.com/download/downs.asp?ID=6559
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC11XX系列微控制器PMBus方案,http://www.zlgmcu.com/download/downs.asp?ID=6554
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC11xx/13xx系列微控制器DALI方案 V2.0,http://www.zlgmcu.com/download/downs.asp?ID=6556
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC11xx/LPC11Uxx系列微控制器带RDM的DMX512协议方案,http://www.zlgmcu.com/download/downs.asp?ID=6555
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC11xx系列微控制器电容触摸方案 V1.0,http://www.zlgmcu.com/download/downs.asp?ID=6552
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC11xx系列微控制器直流无刷电机控制方案,http://www.zlgmcu.com/download/downs.asp?ID=6553
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,用I/O Handler实现UART/I2S/I2C/CRC/DALI功能,http://www.zlgmcu.com/download/downs.asp?ID=6370
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,I2C bootloader,http://www.zlgmcu.com/download/downs.asp?ID=5917
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,SPI bootloader,http://www.zlgmcu.com/download/downs.asp?ID=5918
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,软件实现AES加密解密算法,http://www.zlgmcu.com/download/downs.asp?ID=5915
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC1100L功率配置应用笔记,http://www.zlgmcu.com/download/downs.asp?ID=4765
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC1100L系列微控制器概述,http://www.zlgmcu.com/NXP/LPC1000/lpc1110/LPC1100L_um.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,微控制器将何去何从,http://www.zlgmcu.com/NXP/LPC1000/ds/microcontrol_where.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,将8051应用程序迁移到ARM Cortex-M处理器上,http://www.zlgmcu.com/NXP/LPC1000/ds/8051_2_ARM_Cortex-M.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC1102 简介,http://www.zlgmcu.com/NXP/LPC1000/lpc1110/LPC1102.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,Cortex-M0微控制器概述及性能分析,http://www.zlgmcu.com/NXP/LPC1000/ds/Cortex-M0_fenxi.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,NXP LPC1100 ARM Cortex-M0性能分析,http://www.zlgmcu.com/nxp/lpc1000/ds/LPC1100_ARM_Cortex-M0.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,利用LPC1100系列实现低功耗设计,http://www.zlgmcu.com/nxp/lpc1000/ds/LPC1100_dgh.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,ARM公司《IQ》杂志Cortex-M0处理器介绍(英),http://www.zlgmcu.com/NXP/LPC1000/ds/ARM_IQ_Cortex-M0.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,NXP Cortex-M0 LPC1100系列微控制器简介,http://www.zlgmcu.com/NXP/LPC1000/ds/cortex-m0_brief.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1100（基本型）,技术应用文档,LPC1100/LPC1300 ADC设计指南,http://www.lpcware.com/content/nxpfile/an11031-pcb-layout-and-adc-circuit-recommendations-lpc1100-and-lpc1300-software-v10
+NXP,MCU---Cortex_M4---LPC4300,最小系统与快速入门,【硬件资料】TinyM4原理图和封装库,http://www.zlgmcu.com/NXP/LPC4000/ds/TinyM4_yl_fz.zip
+NXP,MCU---Cortex_M4---LPC4300,最小系统与快速入门,【快速入门】TinyM4开发平台介绍 V1.00,http://www.zlgmcu.com/download/downs.asp?ID=6135
+NXP,MCU---Cortex_M4---LPC4300,最小系统与快速入门,【快速入门】TinyM4快速入门 V1.02,http://www.zlgmcu.com/download/downs.asp?ID=6134
+NXP,MCU---Cortex_M4---LPC4300,最小系统与快速入门,【配套例程】TinyM4配套例程及工程模板 V1.01,http://www.zlgmcu.com/NXP/LPC4000/ds/TinyM4_example.rar
+NXP,MCU---Cortex_M4---LPC4300,工具与软件,【配套软件】LPC4300 PinMux工具 V1.00,http://www.zlgmcu.com/NXP/LPC4000/ds/LPC4300_PinMux.rar
+NXP,MCU---Cortex_M4---LPC4300,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---Cortex_M4---LPC4300,工具与软件,【配套软件】SCT-Tool,http://www.lpcware.com/content/nxpfile/sct-tools
+NXP,MCU---Cortex_M4---LPC4300,工具与软件,【配套软件】LCD带宽计算工具,http://www.lpcware.com/content/nxpfile/lcd-bandwidth-calculator-lpc18xx-and-lpc43xx
+NXP,MCU---Cortex_M4---LPC4300,工具与软件,【配套软件】DFU工具,http://www.lpcware.com/content/nxpfile/nxp-lpc18xx43xx-dfu-download-and-secure-image-generator
+NXP,MCU---Cortex_M4---LPC4300,工具与软件,【配套软件】DFU驱动,http://www.lpcware.com/lpclink2-config-tool
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xxFlash的在线系统编程(ISP),http://www.zlgmcu.com/NXP/LPC4000/ds/LPC43xxFlash_isp.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xxSGPIO模拟的SPI主机,http://www.zlgmcu.com/NXP/LPC4000/ds/SGPIO_spi.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx基于SCT的摄像头接口设计 ,http://www.zlgmcu.com/NXP/LPC4000/ds/SCTCameraInterface_design.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx基于SGPIO的PWM ,http://www.zlgmcu.com/NXP/LPC4000/ds/SGPIOPWM.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】 LPC43xx基于SGPIO的摄像头接口 ,http://www.zlgmcu.com/NXP/LPC4000/ds/SGPIOP_CamLCD.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx基于SGPIO的摄像头模块设计,http://www.zlgmcu.com/NXP/LPC4000/ds/SGPIOCameraInterfaceAN.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx上MxMEMMAP的技术笔记,http://www.zlgmcu.com/download/downs.asp?ID=6250
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx上UART ISP的UU编码,http://www.zlgmcu.com/download/downs.asp?ID=6253
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx上使用SPIFI传输到LCD,http://www.zlgmcu.com/NXP/LPC4000/ds/LPC43xx_LCD.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx通过ULPI连接的高速USB PHY,http://www.zlgmcu.com/NXP/LPC4000/ds/ULPI_USBPHY.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx为新的Flash添加编程算法,http://www.zlgmcu.com/NXP/LPC4000/ds/MCB_flash.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx一次性可编程(OTP)的配置,http://www.zlgmcu.com/NXP/LPC4000/ds/AN11292_otp.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC43xx用SGPIO模拟UART,http://www.zlgmcu.com/NXP/LPC4000/ds/SGPIO_Uart.zip
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】LPC4300内部双核通信(英),http://www.zlgmcu.com/download/downs.asp?ID=5784
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】使用SGPIO模拟实现SPI主机接口(英),http://www.zlgmcu.com/download/downs.asp?ID=5785
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】emWin图形库用户手册,http://www.zlgmcu.com/download/downs.asp?ID=5703
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】emWin图形库用户手册(英),http://www.zlgmcu.com/download/downs.asp?ID=5702
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】NXP微控制器BGA封装的PCB布线指南,http://www.zlgmcu.com/download/downs.asp?ID=5701
+NXP,MCU---Cortex_M4---LPC4300,技术应用文档,【应用文档】NXP芯片表面贴装—回流焊技术,http://www.zlgmcu.com/download/downs.asp?ID=5700
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【配套例程】LPC11U6x实验例程（KEIL）,http://www.zlgmcu.com/download/downs.asp?ID=6412
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【硬件资料】LPC11U6x最小系统原理图,http://www.zlgmcu.com/download/downs.asp?ID=6411
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【硬件资料】TinyM0plus-USB原理图与器件封装库,http://www.zlgmcu.com/download/downs.asp?ID=4700
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【配套例程】LPC11E00系列微控制器实验例程,http://www.zlgmcu.com/download/downs.asp?ID=5914
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【配套例程】LPC11A00系列微控制器实验例程,http://www.zlgmcu.com/download/downs.asp?ID=5886
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【配套例程】TinyM0-CAN（LPC11C00）开发板实验例程（Keil）V2.00,http://www.zlgmcu.com/download/downs.asp?ID=4143
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【硬件资料】TinyM0-CAN-T原理图与器件封装库,http://www.zlgmcu.com/download/downs.asp?ID=4804
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【配套例程】TinyM0-USB开发板实验例程,http://www.zlgmcu.com/download/downs.asp?ID=4991
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),最小系统与快速入门,【硬件资料】TinyM0-USB原理图与器件封装库,http://www.zlgmcu.com/download/downs.asp?ID=5454
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),工具与软件,【配套工具】LPC11Ax系列微控制器主时钟配置指南,http://www.lpcware.com/content/nxpfile/lpc11xx-main-pll-calculator
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),工具与软件,【配套软件】LPCXpresso Linux Installer,http://www.lpcware.com/lpcxpresso/downloads/linux
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),工具与软件,【配套软件】LPCXpresso Windows Installer,http://www.lpcware.com/lpcxpresso/downloads/windows
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),工具与软件,【配套软件】FlashMagic V7.02,http://www.zlgmcu.com/download/downs.asp?ID=6143
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),工具与软件,【配套工具】LPC11Cx系列微控制器主时钟配置指南,http://www.lpcware.com/content/nxpfile/lpc11cxx-main-pll-calculator
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),工具与软件,【配套工具】LPC11Ex系列微控制器主时钟配置指南,http://www.lpcware.com/content/nxpfile/lpc11exx-main-pll-calculator
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,NXP在线引脚配置工具使用说明V1.00 ,http://www.zlgmcu.com/NXP/LPC800/pdf/NXP_um.pdf
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11Cxx CANopen 组网实验 ,http://www.zlgmcu.com/download/downs.asp?ID=5916
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11CXX CAN ISP升级方法V1.01 ,http://www.zlgmcu.com/NXP/LPC1000/lpc1110/M0_CAN_ISP.pdf
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11xx/13xx系列微控制器DALI方案 V2.0 ,http://www.zlgmcu.com/download/downs.asp?ID=6556
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11xx/LPC11Uxx系列微控制器带RDM的DMX512协议方案,http://www.zlgmcu.com/download/downs.asp?ID=6555
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11xx系列微控制器电容触摸方案 V1.0,http://www.zlgmcu.com/download/downs.asp?ID=6552
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11xx系列微控制器直流无刷电机控制方案,http://www.zlgmcu.com/download/downs.asp?ID=6553
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,用I/O Handler实现UART/I2S/I2C/CRC/DALI功能 ,http://www.zlgmcu.com/download/downs.asp?ID=6370
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,I2C bootloader,http://www.zlgmcu.com/download/downs.asp?ID=5917
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,SPI bootloader,http://www.zlgmcu.com/download/downs.asp?ID=5918
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,软件实现AES加密解密算法,http://www.zlgmcu.com/download/downs.asp?ID=5915
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,Cortex-M0微控制器概述及性能分析,http://www.zlgmcu.com/NXP/LPC1000/ds/Cortex-M0_fenxi.pdf
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11Ax系列微控制器IAP应用,http://www.lpcware.com/content/nxpfile/an11387-application-programming-lpc11axx
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11Ax系列微控制器ROM I2C实现,http://www.lpcware.com/content/nxpfile/an11249-rom-i2c-driver-usage-lpc11axx
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11Ax系列微控制器模拟比较器频率计实现,http://www.lpcware.com/content/nxpfile/an11242-frequency-counter-using-analog-comparator-lpc11axx
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11Ax系列微控制器EEPROM（内部ROM）应用,http://www.lpcware.com/content/nxpfile/an11073-using-lpc11axx-eeprom-iap-v10
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11xx系列微控制器UART IPS Uuencoding 指南,http://www.lpcware.com/content/nxpfile/an11229-uuencoding-uart-isp
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11xx系列微控制器低功耗以及唤醒时间研究,http://www.lpcware.com/content/nxpfile/an11027-using-lpc1100-low-power-modes-and-wake-times-lpcxpresso-software-v10
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11xx系列微控制器表面贴装回流焊指南,http://www.lpcware.com/content/nxpfile/an10365-surface-mount-reflow-soldering
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,NXP单片机的PCB布局指南在BGA封装包,http://www.lpcware.com/content/nxpfile/an10778-pcb-layout-guidelines-nxp-mcus-bga-packages
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11U/E6x低功耗模式以及唤醒时间,http://www.lpcware.com/content/nxpfile/an11612-lpc11u/e6x-low-power-modes-and-wake-up-times
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11U6x与LPC11U3x特征比较,http://www.lpcware.com/content/nxpfile/an11528-lpc11u6x-vs-lpc11u3x-feature-comparison
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11U6x系列微控制器IAP编程说明,http://www.lpcware.com/content/nxpfile/an11511-lpc11u6x-application-programming
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC系列微控制器全速USB使用指南,http://www.lpcware.com/content/nxpfile/an11392-guidelines-full-speed-usb-nxps-lpc-microcontrollers
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,cmsis-dap移植调试Cortex-M0平台,http://www.lpcware.com/content/nxpfile/an11321-porting-cmsis-dap-debugger-cortex-m0-platform
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11U3X/LPC11U2X系列微控制器ISP升级,http://www.lpcware.com/content/nxpfile/an11305-usb-system-programming-lpc11u3xlpc11u2x
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11Uxx系列微控制器USB device,http://www.lpcware.com/content/nxpfile/an11232-usb-composite-device-lpc11uxx
+NXP,MCU---Cortex_M0/M0+---LPC11x00(增强型),技术应用文档,LPC11U14 USB CDC音频和FFT应用,http://www.lpcware.com/content/nxpfile/an11115-usb-audio-and-usb-cdc-fft-lpc11u14-v10
+NXP,MCU---Cortex_M0/M0+---LPC1200,最小系统与快速入门,【快速入门】TinyM0系列开发套件快速入门 V1.11,http://www.zlgmcu.com/NXP/LPC1000/lpc1110/TinyM0_um.pdf
+NXP,MCU---Cortex_M0/M0+---LPC1200,最小系统与快速入门,【配套例程】LPC1200开发实验例程 ,http://www.zlgmcu.com/download/downs.asp?ID=4743
+NXP,MCU---Cortex_M0/M0+---LPC1200,最小系统与快速入门,【硬件资料】TinyM0 T12(M)原理图与器件封装库,http://www.zlgmcu.com/download/downs.asp?ID=4742
+NXP,MCU---Cortex_M0/M0+---LPC1200,工具与软件,【配套软件】FlashMagic V7.02,http://www.zlgmcu.com/download/downs.asp?ID=6143
+NXP,MCU---Cortex_M0/M0+---LPC1200,技术应用文档,【配套软件】FlashMagic V7.02,http://www.lpcware.com/content/nxpfile/an11229-uuencoding-uart-isp
+NXP,MCU---Cortex_M0/M0+---LPC1200,技术应用文档,LPC122x功耗设计,http://www.lpcware.com/content/nxpfile/lpc122x-power-modes
+NXP,MCU---Cortex_M0/M0+---LPC1200,技术应用文档,NXP Cortex-M0 IEC60335 B库文件,http://www.lpcware.com/content/nxpfile/an11208-nxp-lpc-cortex-m0-iec60335-class-b-library
+NXP,MCU---Cortex_M0/M0+---LPC1200,技术应用文档,基于fips197标准的AES加密算法实现,http://www.lpcware.com/content/nxpfile/an11241-aes-encryption-and-decryption-software-lpc-microcontrollers
+NXP,MCU---Cortex_M0/M0+---LPC1200,技术应用文档,lpc122x ROM除法使用例程,http://www.lpcware.com/content/nxpfile/using-lpc122x-rom-division-routines
+NXP,MCU---Cortex_M0/M0+---LPC1200,技术应用文档,NXP微控制器PCB设计指南,http://www.lpcware.com/content/nxpfile/an10778-pcb-layout-guidelines-nxp-mcus-bga-packages
+NXP,MCU---ARM9---LPC3000,工具与软件,【工具软件】LCD带宽计算工具,http://www.lpcware.com/content/nxpfile/lcd-bus-load-calculator-lpc3250
+NXP,MCU---ARM9---LPC3000,工具与软件,【工具软件】音频PLL计算工具,http://www.lpcware.com/content/nxpfile/audio-pll-settings-calculation-tool
+NXP,MCU---ARM9---LPC3000,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---ARM9---LPC3000,技术应用文档,【应用文档】LPC32x0电源供电举例,http://www.lpcware.com/content/nxpfile/an10777-lpc32x0-power-supply-design-examples
+NXP,MCU---ARM9---LPC3000,技术应用文档,【应用文档】LPC32xxSRAM 、NOR FLASH的boot问题,http://www.lpcware.com/content/nxpfile/an10931-lpc32xx-sdram-and-nor-flash-boot-issue
+NXP,MCU---ARM9---LPC3000,技术应用文档,【应用文档】LPC32xx的SDR/DDR、SDRAM 存储 ,http://www.lpcware.com/content/nxpfile/an10935-using-sdrddr-sdram-memories-lpc32xx
+NXP,MCU---ARM9---LPC3000,技术应用文档,【应用文档】LPC32xx的VFP利用,http://www.lpcware.com/content/nxpfile/an10902-using-lpc32xx-vfp
+NXP,MCU---ARM9---LPC3000,技术应用文档,【应用文档】BGA封装MCU的PCB布局向导,http://www.lpcware.com/content/nxpfile/an10778-pcb-layout-guidelines-nxp-mcus-bga-packages
+NXP,MCU---ARM7---LPC2300_LPC2400,最小系统与快速入门,【硬件资料】LPC2400系列ARM元件库V1.4,http://www.zlgmcu.com/philips/arm/lpc24xx/lpc2400_arm_tuku.zip
+NXP,MCU---ARM7---LPC2300_LPC2400,工具与软件,【工具软件】LPC2000系列ARM微控制器ISP软件V2.2.3,http://www.zlgmcu.com/philips/arm/about/LPC_ARM_ISP_V2.2.3.zip
+NXP,MCU---ARM7---LPC2300_LPC2400,工具与软件,【配套软件】PLL计算工具,http://www.lpcware.com/content/nxpfile/lpc23xx-and-lpc24xx-pll-calculator
+NXP,MCU---ARM7---LPC2300_LPC2400,工具与软件,【配套软件】FlashMagic V8.80,http://www.flashmagictool.com
+NXP,MCU---ARM7---LPC2300_LPC2400,工具与软件,【工具软件】LCD带宽计算工具,http://www.lpcware.com/content/nxpfile/lpc247x-lcd-bus-load-calculator
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】LPC系列全速USB使用指导,http://www.lpcware.com/content/nxpfile/an11392-guidelines-full-speed-usb-nxps-lpc-microcontrollers
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】如何从用户代码进入ISP模式,http://www.lpcware.com/content/nxpfile/an10356-entering-isp-mode-user-code
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】LPC23xx/24xx的UIP 1.0 端口,http://www.lpcware.com/content/nxpfile/an10799-porting-uip-10-lpc23xx24xx
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】以太网的IAP,http://www.lpcware.com/content/nxpfile/an10744-ethernet-secondary-isp-bootloader
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】TKScope仿真LPC2300使用指南,http://www.zlgmcu.com/download/downs.asp?ID=4226
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】TKScope仿真LPC2300使用指南及Demo例程,http://www.embedtools.com/pro_tools/emluator/TKScope/TKScope_LPC2300_um_Demo.zip
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】IAP在应用中编程及其应用,http://www.zlgmcu.com/download/downs.asp?ID=2098
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】LPC247x的触摸屏应用,http://www.lpcware.com/content/nxpfile/an10675-interfacing-4-wire-and-5-wire-resistive-touchscreens-lpc247x
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】LPC24xx的EMI使用举例,http://www.lpcware.com/content/nxpfile/an10950-lpc24xx-external-memory-bus-example
+NXP,MCU---ARM7---LPC2300_LPC2400,技术应用文档,【应用文档】SmartARM2400通用教学/竞赛/工控开发平台简介,http://www.zlgmcu.com/download/downs.asp?ID=2962

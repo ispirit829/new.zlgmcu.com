@@ -1,0 +1,268 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Topology","Phases","Control Mode","VCC Min (V)","VCC Max (V)","fSW Typ (kHz)","tres Typ (ns)","Package Type"
+"on","DC-DC控制器、转换器和稳压器---控制器","ADP3211","ADP3211AMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=ADP3211AMNR2G","http://www.onsemi.com/pub/Collateral/ADP3211-D.PDF","Synchronous Buck Controller, 7-Bit, Programmable, Single-Phase","Pb-free
+Halide free","Active","Synchronous Buck Controller, 7-Bit, Programmable, Single-Phase","Step-Down","1",,"3.3","22",,,"QFN-32"
+"on","DC-DC控制器、转换器和稳压器---控制器","ADP3211","ADP3211MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=ADP3211MNR2G","http://www.onsemi.com/pub/Collateral/ADP3211-D.PDF","Synchronous Buck Controller, 7-Bit, Programmable, Single-Phase","Pb-free
+Halide free","Active","Synchronous Buck Controller, 7-Bit, Programmable, Single-Phase","Step-Down","1",,"3.3","22",,,"QFN-32"
+"on","DC-DC控制器、转换器和稳压器---控制器","ADP4100","ADP4100JCPZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADP4100JCPZ-REEL","http://www.onsemi.com/pub/Collateral/ADP4100-D.PDF","Synchronous Buck Converter, Programmable Multiphase","Pb-free
+Halide free","Active","Synchronous Buck Converter, Programmable Multiphase","Step-Down","4/5/6","Current/Voltage Mode","4.7","5.75","250 - 9000",,"LFCSP-48"
+"on","DC-DC控制器、转换器和稳压器---控制器","CS51022A","CS51022ADBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS51022ADBR2G","http://www.onsemi.com/pub/Collateral/CS51021-D.PDF","Enhanced Current Mode PWM Controller for Forward or Flyback (36-72 V Telecom)","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Enhanced Current Mode PWM Controller for Forward or Flyback (36-72 V Telecom)","Buck","1","Current Mode","8.2","20","Up to 1000","60","SOIC-16
+TSSOP-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","CS51022A","CS51022AEDR16G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS51022AEDR16G","http://www.onsemi.com/pub/Collateral/CS51021-D.PDF","Enhanced Current Mode PWM Controller for Forward or Flyback (36-72 V Telecom)","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Enhanced Current Mode PWM Controller for Forward or Flyback (36-72 V Telecom)","Buck","1","Current Mode","8.2","20","Up to 1000","60","SOIC-16
+TSSOP-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","CS5124","CS5124XD8G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS5124XD8G","http://www.onsemi.com/pub/Collateral/CS5124-D.PDF","PWM Controller, Integrated, Current Mode, for Forward or Flyback (36 - 75 V Telecom Supply)","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Integrated, Current Mode, for Forward or Flyback (36 - 75 V Telecom Supply)","Flyback
+Forward
+Step-Down","1","Current Mode","7.6","75","400","35","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","CS5124","CS5124XDR8G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS5124XDR8G","http://www.onsemi.com/pub/Collateral/CS5124-D.PDF","PWM Controller, Integrated, Current Mode, for Forward or Flyback (36 - 75 V Telecom Supply)","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","PWM Controller, Integrated, Current Mode, for Forward or Flyback (36 - 75 V Telecom Supply)","Flyback
+Forward
+Step-Down","1","Current Mode","7.6","75","400","35","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","LV5068V","LV5068V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5068V-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1875-D.PDF","Non-Synchronous Buck Controller, Switching, 1-Channel","Pb-free
+Halide free","Active","Non-Synchronous Buck Controller, Switching, 1-Channel","Step-Down","1","Current Mode","4.5","40","330
+300-2200",,"SSOP-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","LV5725JA","LV5725JA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5725JA-AH","http://www.onsemi.com/pub/Collateral/ENA2054-D.PDF","Buck Converter, DC-DC, 1-Channel","Pb-free
+Halide free","Active","Buck Converter, DC-DC, 1-Channel","Step-Down","1","Current Mode","4.5","50","365
+50-500",,"SSOP-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","LV5762QA","LV5762QA-NH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5762QA-NH","http://www.onsemi.com/pub/Collateral/ENA2331-D.PDF","Step-down Switching Regulator","Pb-free
+Halide free","Active","Step-down Switching Regulator","Step-Down","1","Current Mode","8","42","1000",,"WQFN-16 / VQFN-16J"
+"on","DC-DC控制器、转换器和稳压器---控制器","LV5769V","LV5769VZ-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5769VZ-TLM-E","http://www.onsemi.com/pub/Collateral/ENA1920-D.PDF","Switching Regulator, 1-Channel Step-down","Pb-free","Active","Switching Regulator, 1-Channel Step-down ","Step-Down","1","Current Mode","8.5","42","125
+80-500",,"SSOP-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1034","NCP1034DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1034DR2G","http://www.onsemi.com/pub/Collateral/NCP1034-D.PDF","100 V Synchronous Buck Controller","Pb-free
+Halide free","Active","100 V Synchronous Buck Controller","Step-Down","1","Voltage Mode","8","40
+42
+57
+75
+100","Up to 500","17","SOIC-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1081","NCP1081DEG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1081DEG","http://www.onsemi.com/pub/Collateral/NCP1081-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W","Flyback","1","Current Mode","0","57","250","37","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1081","NCP1081DER2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1081DER2G","http://www.onsemi.com/pub/Collateral/NCP1081-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W","Flyback","1","Current Mode","0","57","250","37","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1083","NCP1083DEG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1083DEG","http://www.onsemi.com/pub/Collateral/NCP1083-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support","Flyback","1","Current Mode","0","57","250","37","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1083","NCP1083DER2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1083DER2G","http://www.onsemi.com/pub/Collateral/NCP1083-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support","Flyback","1","Current Mode","0","57","250","37","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1091","NCP1091DBRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1091DBRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Programmable UVLO","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Programmable UVLO",,,,"36","57",,,"SOIC-8
+TSSOP-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1091","NCP1091DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1091DG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Programmable UVLO","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Programmable UVLO",,,,"36","57",,,"SOIC-8
+TSSOP-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1091","NCP1091DRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1091DRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Programmable UVLO","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Programmable UVLO",,,,"36","57",,,"SOIC-8
+TSSOP-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1093","NCP1093MNRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1093MNRG","http://www.onsemi.com/pub/Collateral/NCP1093-D.PDF","IEEE802.3at PoE-PD Interface Controller","Pb-free
+Halide free","Active","IEEE802.3at PoE-PD Interface Controller",,,,,"57",,,"DFN-10"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1294","NCP1294EDBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1294EDBR2G","http://www.onsemi.com/pub/Collateral/NCP1294-D.PDF","PWM Controller for Flyback or Forward Converters","Pb-free
+Halide free","Active","PWM Controller for Flyback or Forward Converters","Flyback
+Forward
+Half-Bridge
+Step-Down
+Step-Up","1","Current Mode","4.7","100","Up to 1000","60","TSSOP-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1581","NCP1581DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1581DR2G","http://www.onsemi.com/pub/Collateral/NCP1581-D.PDF","Synchronous Buck Controller, High Frequency, PWM, for Tracking Applications","Pb-free
+Halide free","Active","Synchronous Buck Controller, High Frequency, PWM, for Tracking Applications","Step-Down","1","Voltage Mode","7","20","400","20","SOIC-14"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1587A","NCP1587ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1587ADR2G","http://www.onsemi.com/pub/Collateral/NCP1587-D.PDF","Synchronous Buck Controller, Low Voltage","Pb-free
+Halide free","Active","Synchronous Buck Controller, Low Voltage","Step-Down","1","Voltage Mode","4.5","13.2","180 - 220",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP1589D","NCP1589DMNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1589DMNTWG","http://www.onsemi.com/pub/Collateral/NCP1589D-D.PDF","Snychronous Buck Controller","Pb-free","Active","Snychronous Buck Controller","Step-Down",,,"4.5","13.2",,,"DFN-10"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP3011","NCP3011DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3011DTBR2G","http://www.onsemi.com/pub/Collateral/NCP3011-D.PDF","Synchronous PWM Controller","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Synchronous PWM Controller","Step-Down","1","Voltage Mode","4.7
+4.75
+6
+7
+7.6","12.6
+13.2
+14
+14.5
+16
+20
+27
+28","400","85","TSSOP-14"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP3011","NCV3011DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3011DTBR2G","http://www.onsemi.com/pub/Collateral/NCP3011-D.PDF","Synchronous PWM Controller, (Auto)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Synchronous PWM Controller","Step-Down","1","Voltage Mode","4.7
+4.75
+6
+7
+7.6","12.6
+13.2
+14
+14.5
+16
+20
+27
+28","400","85","TSSOP-14"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP3020","NCP3020ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3020ADR2G","http://www.onsemi.com/pub/Collateral/NCP3020-D.PDF","Synchronous PWM Controller, 300 kHz","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Synchronous PWM Controller","Step-Down","1","Voltage Mode","4.7","5
+5.75
+7
+13.2
+14
+14.5
+16
+20
+27
+28","300
+600","85","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP3020","NCP3020BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3020BDR2G","http://www.onsemi.com/pub/Collateral/NCP3020-D.PDF","Synchronous PWM Controller","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Synchronous PWM Controller","Step-Down","1","Voltage Mode","4.7","5
+5.75
+7
+13.2
+14
+14.5
+16
+20
+27
+28","300
+600","85","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP3020","NCV3020ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3020ADR2G","http://www.onsemi.com/pub/Collateral/NCP3020-D.PDF","Synchronous PWM Controller, 300kHz (Auto)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Synchronous PWM Controller","Step-Down","1","Voltage Mode","4.7","5
+5.75
+7
+13.2
+14
+14.5
+16
+20
+27
+28","300
+600","85","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP3020","NCV3020BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3020BDR2G","http://www.onsemi.com/pub/Collateral/NCP3020-D.PDF","Synchronous PWM Controller, 600kHz (Auto)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Synchronous PWM Controller","Step-Down","1","Voltage Mode","4.7","5
+5.75
+7
+13.2
+14
+14.5
+16
+20
+27
+28","300
+600","85","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP4200","NCP4200MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP4200MNR2G","http://www.onsemi.com/pub/Collateral/NCP4200-D.PDF","Synchronous Buck Converter, Multi Phase, with I2C Interface","Pb-free
+Halide free","Active","Synchronous Buck Converter, Multi Phase, with I2C Interface","Step-Down","2/3/4",,"1.7","24","1500",,"QFN-40"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5212","NCP5212AMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5212AMNTXG","http://www.onsemi.com/pub/Collateral/NCP5212A-D.PDF","Single Synchronous Step Down Controller","Pb-free
+Halide free","Active","Single Synchronous Step Down Controller","Step-Down","1","Current/Voltage Mode","4.5","27","300",,"QFN-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5217","NCP5217AMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5217AMNTXG","http://www.onsemi.com/pub/Collateral/NCP5217A-D.PDF","Synchronous Buck Controller, Single","Pb-free
+Halide free","Active","Synchronous Buck Controller, Single","Step-Down","1","Current/Voltage Mode","4.5","27","300",,"QFN-14"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5230","NCP5230MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5230MNTWG","http://www.onsemi.com/pub/Collateral/NCP5230-D.PDF","Low Voltage Synchronous Buck Controller","Pb-free
+Halide free","Active","Low Voltage Synchronous Buck Controller ","Step-Down","1",,"4.5","13.2",,,"QFN-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5378","NCP5378MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5378MNR2G","http://www.onsemi.com/pub/Collateral/NCP5378-D.PDF","Synchronous Buck Controller, Single Phase, with Integrated Gate Drivers and Programmable DAC","Pb-free
+Halide free","Active","Synchronous Buck Controller, Single Phase, with Integrated Gate Drivers and Programmable DAC","Step-Down","1",,,,,,"QFN-32"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5386","NCP5386AMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5386AMNR2G","http://www.onsemi.com/pub/Collateral/NCP5386-D.PDF","1/2 Phase Controller","Pb-free
+Halide free","Active","1/2 Phase Controller","Buck","1/2","Current/Voltage Mode","4.75","7","100 - 1000",,"QFN-32"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5386","NCP5386BMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5386BMNR2G","http://www.onsemi.com/pub/Collateral/NCP5386-D.PDF","1/2 Phase Controller","Pb-free
+Halide free","Active","1/2 Phase Controller","Buck","1/2","Current/Voltage Mode","4.75","7","100 - 1000",,"QFN-32"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5392P","NCP5392PMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5392PMNR2G","http://www.onsemi.com/pub/Collateral/NCP5392P-D.PDF","2/3/4-Phase VR11.1 Buck Controller","Pb-free
+Halide free","Active","2/3/4-Phase VR11.1 Buck Controller","Step-Down","2/3/4","Current/Voltage Mode","4.75","5.25","100 - 1000","10","QFN-40"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP5395T","NCP5395TMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5395TMNR2G","http://www.onsemi.com/pub/Collateral/NCP5395T-D.PDF","2/3/4-Phase Controller with Gate Drivers","Pb-free
+Halide free","Active","2/3/4-Phase Controller with Gate Drivers","Step-Down","2/3/4",,,,,,"QFN-48"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP6131","NCP6131S52MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6131S52MNR2G","-","IMVP7 1-, 2-, 3-Phase CPU Controller + 1-Phase GPU Controller","Pb-free
+Halide free","Active","IMVP7 1-, 2-, 3-Phase CPU Controller + 1-Phase GPU Controller",,,,,,,,"QFN-52"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81038","NCP81038MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81038MNTWG","http://www.onsemi.com/pub/Collateral/NCP81038-D.PDF","Synchronous Buck Controller with Auto Power Saving Mode and Built-In LDO","Pb-free
+Halide free","Active","Synchronous Buck Controller with Auto Power Saving Mode and Built-In LDO",,,,"5.5","28",,,"QFN-28"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81045","NCP81045MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81045MNTXG","http://www.onsemi.com/pub/Collateral/NCP81045-D.PDF","Single Synchronous Step Down Controller","Pb-free","Product Preview","Single Synchronous Step Down Controller","Step-Down","1","Current/Voltage Mode","4.5","27","300",,"QFN-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81140","NCP81140MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81140MNTXG","-","Multiple-Phase Controller with SVID Interface, Industrial range Vr controller","Pb-free
+Halide free","Active","Multiple-Phase Controller with SVID Interface","Step-Down",,"Voltage Mode","4.75","5.25","600",,"QFN-32"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81142","NCP81142MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81142MNTXG","-","VR Multi-Phase Controller, Industrail range VR controller","Pb-free
+Halide free","Active","VR Multi-Phase Controller","Step-Down",,"Voltage Mode","4.75","5.25","590",,"QFN-32"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81147","NCP81147MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81147MNTXG","http://www.onsemi.com/pub/Collateral/NCP81147-D.PDF","Low Voltage Synchronous Buck Controller, Low Voltage Synchronous Buck Controller","Pb-free","Active","Low Voltage Synchronous Buck Controller","Step-Down","1",,"4.5","13.2",,,"QFN-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81149","NCP81149MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81149MNTXG","-","Single-Phase Voltage Regulator with SVID Interface for Computing Applications, Single-Phase Voltage Regulator with SVID Interface for Computing Applications for Industrial Temperature Range Applications","Pb-free
+Halide free","ActiveNEW","Single-Phase Voltage Regulator with SVID Interface for Computing Applications","Step-Down","1","Current Mode","4.5","25","500 - 1200",,"QFN-48"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81232","NCP81232MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81232MNTXG","http://www.onsemi.com/pub/Collateral/NCP81232-D.PDF","Multi-Phase Controller with Dual Loop Capability, Configurable, DrMOS Compatible","Pb-free
+Halide free","Active","Multi-Phase Controller with Dual Loop Capability, Configurable, DrMOS Compatible","Step-Down","2/3/4","Current/Voltage Mode","4.5","24","200-1200",,"QFN-40"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81243","NCP81243MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81243MNTXG","-","The NCP81243 is a Multi-Phase buck solution is optimized for Intel IMVP8 compatible CPUs, Industrial Temp Range IMVP8 3+2, Notebook & Desktop 2 Rail Controller","Pb-free
+Halide free","Product Preview","The NCP81243 is a Multi-Phase buck solution is optimized for Intel IMVP8 compatible CPUs","Step-Down","1/2/3","Voltage Mode","4.75","5.25","300-1200",,"QFN-52"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCP81252","NCP81252MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81252MNTXG","http://www.onsemi.com/pub/Collateral/NCP81252-D.PDF","Single−Phase Synchronous Buck Regulator with Integrated Power MOSFETs for VR12 Embedded CPUs, Single-Phase Voltage Regulator w SVID Interface for Computing Apps","Pb-free
+Halide free","ActiveNEW","Single−Phase Synchronous Buck Regulator with Integrated Power MOSFETs for VR12 Embedded CPUs","Step-Down","1","Voltage Mode","4.75","5.75","500-1200",,"QFN-48"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8851-1","NCV8851-1DBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV8851-1DBR2G","http://www.onsemi.com/pub/Collateral/NCV8851-1-D.PDF","Automotive Average Current Mode Controller","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Average Current Mode Controller","Step-Down",,"Current Mode","4.5","40","Up to 500",,"TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8853","NCV885300D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV885300D1R2G","http://www.onsemi.com/pub/Collateral/NCV8853-D.PDF","Automotive Grade Non-Synchronous Buck Controller","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Grade Non-Synchronous Buck Controller","Step-Down","1","Current Mode","3.1","44","340",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8871","NCV887100D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887100D1R2G","http://www.onsemi.com/pub/Collateral/NCV8871-D.PDF","Non-Synchronous Boost Controller, Automotive Grade","AEC Qualified
+PPAP Capable
+Pb-free","Active","Non-Synchronous Boost Controller, Automotive Grade","Step-Up","1","Current Mode","3.2","44","170
+340
+1000",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8871","NCV887101D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887101D1R2G","http://www.onsemi.com/pub/Collateral/NCV8871-D.PDF","Non-Synchronous Boost Controller, Automotive Grade","AEC Qualified
+PPAP Capable
+Pb-free","Active","Non-Synchronous Boost Controller, Automotive Grade","Step-Up","1","Current Mode","3.2","44","170
+340
+1000",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8871","NCV887102D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887102D1R2G","http://www.onsemi.com/pub/Collateral/NCV8871-D.PDF","Non-Synchronous Boost Controller, Automotive Grade","AEC Qualified
+PPAP Capable
+Pb-free","Active","Non-Synchronous Boost Controller, Automotive Grade","Step-Up","1","Current Mode","3.2","44","170
+340
+1000",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8871","NCV887103D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887103D1R2G","http://www.onsemi.com/pub/Collateral/NCV8871-D.PDF","Non-Synchronous Boost Controller, Automotive Grade","AEC Qualified
+PPAP Capable
+Pb-free","Active","Non-Synchronous Boost Controller, Automotive Grade","Step-Up","1","Current Mode","3.2","44","170
+340
+1000",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8871","NCV887104D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887104D1R2G","http://www.onsemi.com/pub/Collateral/NCV8871-D.PDF","Non-Synchronous Boost Controller, Automotive Grade","AEC Qualified
+PPAP Capable
+Pb-free","Active","Non-Synchronous Boost Controller, Automotive Grade","Step-Up","1","Current Mode","3.2","44","170
+340
+1000",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8873","NCV887300D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887300D1R2G","http://www.onsemi.com/pub/Collateral/NCV8873-D.PDF","Non-Synchronous Boost Controller, Automotive Grade","AEC Qualified
+PPAP Capable
+Pb-free","Active","Non-Synchronous Boost Controller, Automotive Grade","Flyback
+Forward
+Step-Up
+Step-Up/Step-Down","1","Current Mode","3.2","45","1000000",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8877","NCV887700D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887700D1R2G","http://www.onsemi.com/pub/Collateral/NCV8877-D.PDF","Automotive Grade Start-Stop Non-Synchronous Boost Controller","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Automotive Grade Start-Stop Non-Synchronous Boost Controller","Step-Up","1","Current Mode","3.8","45","Up to 500",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8877","NCV887701D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887701D1R2G","http://www.onsemi.com/pub/Collateral/NCV8877-D.PDF","Automotive Grade Start-Stop Non-Synchronous Boost Controller","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Automotive Grade Start-Stop Non-Synchronous Boost Controller","Step-Up","1","Current Mode","3.8","45","Up to 500",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8877","NCV887720D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887720D1R2G","http://www.onsemi.com/pub/Collateral/NCV8877-D.PDF","Automotive Grade Start-Stop Non-Synchronous Boost Controller","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Automotive Grade Start-Stop Non-Synchronous Boost Controller","Step-Up","1","Current Mode","3.8","45","Up to 500",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV8877","NCV887740D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV887740D1R2G","http://www.onsemi.com/pub/Collateral/NCV8877-D.PDF","Automotive Grade Start-Stop Non-Synchronous Boost Controller","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Automotive Grade Start-Stop Non-Synchronous Boost Controller","Step-Up","1","Current Mode","3.8","45","Up to 500",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","NCV898031","NCV898031D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV898031D1R2G","http://www.onsemi.com/pub/Collateral/NCV898031-D.PDF","2 MHz Non-Synchronous SEPIC / Boost Controller","AEC Qualified
+PPAP Capable
+Pb-free","Active","2 MHz Non-Synchronous SEPIC / Boost Controller","Flyback
+Forward
+Step-Up
+Step-Up/Step-Down","1","Current Mode","3.2","45","Up to 2200",,"SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---控制器","TL494","TL494BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL494BDR2G","http://www.onsemi.com/pub/Collateral/TL494-D.PDF","PWM Controller (up to 200 kHz), T","Pb-free","Active","PWM Controller (up to 200 kHz)","Flyback
+Forward
+Half-Bridge
+Push-Pull
+Step-Down
+Step-Up","1","Voltage Mode","7","40","Up to 200","100","SOIC-16"
+"on","DC-DC控制器、转换器和稳压器---控制器","TL494","TL494CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL494CDR2G","http://www.onsemi.com/pub/Collateral/TL494-D.PDF","PWM Controller (up to 200 kHz), T","Pb-free","Active","PWM Controller (up to 200 kHz)","Flyback
+Forward
+Half-Bridge
+Push-Pull
+Step-Down
+Step-Up","1","Voltage Mode","7","40","Up to 200","100","SOIC-16"

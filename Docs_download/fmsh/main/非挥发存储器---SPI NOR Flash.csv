@@ -1,0 +1,93 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","容量","接口","频率","电压范围","封装形式","状态"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25F005","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20150401/FM25F005_ds_eng.pdf&fileExt=file","0.5Mbit","SPI,Dual SPI","100MHz","2.3V-3.6V","SO,TS,DN","M","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25F01","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20150401/FM25F01_ds_eng.pdf&fileExt=file","1Mbit
+","SPI, Dual SPI
+","100MHz
+","2.3V-3.6V
+","SO, TS, DN
+","M
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25F02","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","2Mbit
+","SPI, Dual SPI
+","100MHz
+","2.7V-3.6V
+","SO, SOB, TS, DN
+","N
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25F02A","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20150401/FM25F02A_ds_eng.pdf&fileExt=file","2Mbit
+","SPI, Dual SPI
+","100MHz
+","2.3V-3.6V
+","SO, SOB, TS, DN
+","M
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25Q02","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","2Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","100MHz
+","2.7V-3.6V
+","SO, SOB, TS, UD
+","S
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25F04A","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20150401/FM25F04A_ds_eng.pdf&fileExt=file","4Mbit
+","SPI, Dual SPI
+","100MHz
+","2.3V-3.6V
+","SO, SOB, TS, DN
+","M
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25F04","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","4Mbit
+","SPI, Dual SPI
+","100MHz
+","2.7V-3.6V
+","SO, SOB, TS, DN
+","N
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25Q04","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","4Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","100MHz
+","2.7V-3.6V
+","SO, SOB, TS, UD
+","S
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25LQ04","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","4Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","1.65V-1.95V
+","SO, SOB, TS,UD
+","S
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25Q08","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20141218/FM25Q08_ds_eng.pdf&fileExt=file","8Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","2.7V-3.6V
+","SO, SOB, TS, UD
+","M
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25Q16","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20141218/FM25Q16_ds_eng.pdf&fileExt=file","16Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","2.7V-3.6V
+","SO, SOB, DNA
+","M
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25Q32","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20150401/FM25Q32_ds_eng.pdf&fileExt=file","32Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","2.7V-3.6V
+","SO, SOB, DNA
+","M
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25Q64","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","64Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","2.7V-3.6V
+"," SOB, DNA
+","UD
+","-"
+"fmsh","非挥发存储器---SPI NOR Flash","FM25Q128","http://www.fmsh.com/286ead6f-6a37-bcda-6edb-8ac2d0e2425c/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","128Mbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","2.7V-3.6V
+"," SOB, DNA
+","S
+","-"

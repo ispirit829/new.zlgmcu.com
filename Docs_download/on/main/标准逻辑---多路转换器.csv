@@ -1,0 +1,398 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","VCC Min (V)","VCC Max (V)","tpd Max (ns)","IO Max (mA)","Package Type"
+"on","标准逻辑---多路转换器","MC14028B","MC14028BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14028BDG","http://www.onsemi.com/pub/Collateral/MC14028B-D.PDF","BCD-to-Decimal Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","BCD-to-Decimal Decoder","1","3","18","260","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC14028B","MC14028BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14028BDR2G","http://www.onsemi.com/pub/Collateral/MC14028B-D.PDF","BCD-to-Decimal Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","BCD-to-Decimal Decoder","1","3","18","260","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC14028B","NLV14028BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14028BDR2G","http://www.onsemi.com/pub/Collateral/MC14028B-D.PDF","BCD-to-Decimal Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","BCD-to-Decimal Decoder","1","3","18","260","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC14514B","MC14514BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14514BDWR2G","http://www.onsemi.com/pub/Collateral/MC14514B-D.PDF","4-Bit Transparent Latch/4-to-16 Line Decoder","Pb-free
+Halide free","Active","4-Bit Transparent Latch/4-to-16 Line Decoder","1","3","18","450","2.25","SOIC-24"
+"on","标准逻辑---多路转换器","MC14532B","MC14532BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14532BDG","http://www.onsemi.com/pub/Collateral/MC14532B-D.PDF","8-Bit Priority Encoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Priority Encoder","1","3","18","220","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC14532B","MC14532BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14532BDR2G","http://www.onsemi.com/pub/Collateral/MC14532B-D.PDF","8-Bit Priority Encoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Priority Encoder","1","3","18","220","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC14532B","NLV14532BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14532BDR2G","http://www.onsemi.com/pub/Collateral/MC14532B-D.PDF","8-Bit Priority Encoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Priority Encoder","1","3","18","220","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC14556B","MC14556BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14556BDR2G","http://www.onsemi.com/pub/Collateral/MC14555B-D.PDF","Dual Binary to 1-of-4 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual Binary to 1-of-4 Decoder/Demultiplexer","2","3","18","190","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC14556B","NLV14556BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14556BDR2G","http://www.onsemi.com/pub/Collateral/MC14555B-D.PDF","Dual Binary to 1-of-4 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual Binary to 1-of-4 Decoder/Demultiplexer","2","3","18","190","2.25","SOIC-16"
+"on","标准逻辑---多路转换器","MC74AC139","MC74AC139DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC139DG","http://www.onsemi.com/pub/Collateral/MC74AC139-D.PDF","Dual 1-of-4 Decoder/Demultiplexer","Pb-free
+Halide free","Active","Dual 1-of-4 Decoder/Demultiplexer","2","2","6","8.5","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74AC139","MC74AC139DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC139DR2G","http://www.onsemi.com/pub/Collateral/MC74AC139-D.PDF","Dual 1-of-4 Decoder/Demultiplexer","Pb-free
+Halide free","Active","Dual 1-of-4 Decoder/Demultiplexer","2","2","6","8.5","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74AC139","MC74AC139DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC139DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC139-D.PDF","Dual 1-of-4 Decoder/Demultiplexer","Pb-free
+Halide free","Active","Dual 1-of-4 Decoder/Demultiplexer","2","2","6","8.5","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74AC253","MC74AC253DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC253DR2G","http://www.onsemi.com/pub/Collateral/MC74AC253-D.PDF","Dual 4-Input Multiplexer with 3-State Outputs","Pb-free
+Halide free","Active","Dual 4-Input Multiplexer with 3-State Outputs","2","2","6","11.5","24","SOIC-16"
+"on","标准逻辑---多路转换器","MC74ACT138","MC74ACT138DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT138DG","http://www.onsemi.com/pub/Collateral/MC74AC138-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free","Active","1-of-8 Decoder/Demultiplexer","1","4.5","5.5","10.5","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74ACT138","MC74ACT138DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT138DR2G","http://www.onsemi.com/pub/Collateral/MC74AC138-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free","Active","1-of-8 Decoder/Demultiplexer","1","4.5","5.5","10.5","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74ACT138","MC74ACT138DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT138DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC138-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free","Active","1-of-8 Decoder/Demultiplexer","1","4.5","5.5","10.5","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74ACT153","MC74ACT153DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT153DG","http://www.onsemi.com/pub/Collateral/MC74AC153-D.PDF","Dual 4-Input Multiplexer","Pb-free
+Halide free","Active","Dual 4-Input Multiplexer","2","4.5","5.5","11.5","24","SOIC-16"
+"on","标准逻辑---多路转换器","MC74ACT153","MC74ACT153DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT153DR2G","http://www.onsemi.com/pub/Collateral/MC74AC153-D.PDF","Dual 4-Input Multiplexer","Pb-free
+Halide free","Active","Dual 4-Input Multiplexer","2","4.5","5.5","11.5","24","SOIC-16"
+"on","标准逻辑---多路转换器","MC74ACT253","MC74ACT253DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT253DG","http://www.onsemi.com/pub/Collateral/MC74AC253-D.PDF","Dual 4-Input Multiplexer with 3-State Outputs","Pb-free
+Halide free","Active","Dual 4-Input Multiplexer with 3-State Outputs","2","4.5","5.5","13","24","SOIC-16"
+"on","标准逻辑---多路转换器","MC74ACT253","MC74ACT253DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT253DR2G","http://www.onsemi.com/pub/Collateral/MC74AC253-D.PDF","Dual 4-Input Multiplexer with 3-State Outputs","Pb-free
+Halide free","Active","Dual 4-Input Multiplexer with 3-State Outputs","2","4.5","5.5","13","24","SOIC-16"
+"on","标准逻辑---多路转换器","MC74HC138A","MC74HC138ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC138ADG","http://www.onsemi.com/pub/Collateral/MC74HC138A-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1-of-8 Decoder/Demultiplexer","1","2","6","19
+27","4
+5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC138A","MC74HC138ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC138ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC138A-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1-of-8 Decoder/Demultiplexer","1","2","6","19
+27","4
+5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC138A","MC74HC138ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC138ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC138A-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1-of-8 Decoder/Demultiplexer","1","2","6","19
+27","4
+5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC138A","NLV74HC138ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC138ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC138A-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1-of-8 Decoder/Demultiplexer","1","2","6","19
+27","4
+5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC138A","NLV74HC138ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC138ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC138A-D.PDF","1-of-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1-of-8 Decoder/Demultiplexer","1","2","6","19
+27","4
+5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC151A","MC74HC151ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC151ADG","http://www.onsemi.com/pub/Collateral/MC74HC151A-D.PDF","8-Input Multiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer","1","2","6","43","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC151A","MC74HC151ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC151ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC151A-D.PDF","8-Input Multiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer","1","2","6","43","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC151A","MC74HC151ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC151ADTG","http://www.onsemi.com/pub/Collateral/MC74HC151A-D.PDF","8-Input Multiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer","1","2","6","43","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC151A","MC74HC151ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC151ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC151A-D.PDF","8-Input Multiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer","1","2","6","43","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC151A","NLV74HC151ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC151ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC151A-D.PDF","8-Input Multiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer","1","2","6","43","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC151A","NLV74HC151ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC151ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC151A-D.PDF","8-Input Multiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer","1","2","6","43","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC157A","MC74HC157ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC157ADG","http://www.onsemi.com/pub/Collateral/MC74HC157A-D.PDF","Data Selector/Multiplexer (Mux), 2-Input Q","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Data Selector/Multiplexer (Mux), 2-Input Q","4","2","6","21","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC157A","MC74HC157ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC157ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC157A-D.PDF","Data Selector/Multiplexer (Mux), 2-Input Q","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Data Selector/Multiplexer (Mux), 2-Input Q","4","2","6","21","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC157A","MC74HC157ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC157ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC157A-D.PDF","Data Selector/Multiplexer (Mux), 2-Input Q","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Data Selector/Multiplexer (Mux), 2-Input Q","4","2","6","21","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC157A","NLV74HC157ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC157ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC157A-D.PDF","Data Selector/Multiplexer (Mux), 2-Input Q","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Data Selector/Multiplexer (Mux), 2-Input Q","4","2","6","21","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC157A","NLV74HC157ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC157ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC157A-D.PDF","Data Selector/Multiplexer (Mux), 2-Input Q","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Data Selector/Multiplexer (Mux), 2-Input Q","4","2","6","21","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC251A","MC74HC251ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC251ADG","http://www.onsemi.com/pub/Collateral/MC74HC251A-D.PDF","8-Input Multiplexer (3-state)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer (3-state) ","1","2","6","48","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC251A","MC74HC251ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC251ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC251A-D.PDF","8-Input Multiplexer (3-state)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer (3-state) ","1","2","6","48","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC251A","MC74HC251ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC251ADTG","http://www.onsemi.com/pub/Collateral/MC74HC251A-D.PDF","8-Input Multiplexer (3-state)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer (3-state) ","1","2","6","48","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC251A","MC74HC251ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC251ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC251A-D.PDF","8-Input Multiplexer (3-state)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer (3-state) ","1","2","6","48","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC251A","NLV74HC251ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC251ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC251A-D.PDF","8-Input Multiplexer (3-state) , 8-Channel Multiplexer (3-state)","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Input Multiplexer (3-state) ","1","2","6","48","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HC4067A","MC74HC4067ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4067ADTG","http://www.onsemi.com/pub/Collateral/MC74HC4067A-D.PDF","Quad Analog Switch/Multiplexer/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Analog Switch/Multiplexer/Demultiplexer","1","2","6","19","25","SOIC-24
+TSSOP-24"
+"on","标准逻辑---多路转换器","MC74HC4067A","MC74HC4067ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4067ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC4067A-D.PDF","Quad Analog Switch/Multiplexer/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Analog Switch/Multiplexer/Demultiplexer","1","2","6","19","25","SOIC-24
+TSSOP-24"
+"on","标准逻辑---多路转换器","MC74HC4067A","MC74HC4067ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4067ADWG","http://www.onsemi.com/pub/Collateral/MC74HC4067A-D.PDF","Quad Analog Switch/Multiplexer/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Analog Switch/Multiplexer/Demultiplexer","1","2","6","19","25","SOIC-24
+TSSOP-24"
+"on","标准逻辑---多路转换器","MC74HC4067A","MC74HC4067ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4067ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HC4067A-D.PDF","Quad Analog Switch/Multiplexer/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Analog Switch/Multiplexer/Demultiplexer","1","2","6","19","25","SOIC-24
+TSSOP-24"
+"on","标准逻辑---多路转换器","MC74HC4067A","NLV74HC4067ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC4067ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC4067A-D.PDF","Quad Analog Switch/Multiplexer/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Analog Switch/Multiplexer/Demultiplexer","1","2","6","19","25","SOIC-24
+TSSOP-24"
+"on","标准逻辑---多路转换器","MC74HCT4051A","M74HCT4051ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74HCT4051ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4051A-D.PDF","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","4","2","12","45","25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4051A","MC74HCT4051ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4051ADG","http://www.onsemi.com/pub/Collateral/MC74HCT4051A-D.PDF","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","4","2","12","45","25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4051A","MC74HCT4051ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4051ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4051A-D.PDF","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","4","2","12","45","25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4051A","MC74HCT4051ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4051ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT4051A-D.PDF","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","4","2","12","45","25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4053A","M74HCT4053ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74HCT4053ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4051A-D.PDF","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs, Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","4","2","12","45","25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4053A","MC74HCT4053ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4053ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4051A-D.PDF","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs, Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Analog Multiplexers / Demultiplexers with LSTTL Compatible Inputs","4","2","12","45","25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4851A","M74HCT4851ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74HCT4851ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4851A-D.PDF","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","4","2","6","40","0.0001","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4851A","M74HCT4851ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74HCT4851ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4851A-D.PDF","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","4","2","6","40","0.0001","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4851A","MC74HCT4851ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4851ADG","http://www.onsemi.com/pub/Collateral/MC74HCT4851A-D.PDF","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","4","2","6","40","0.0001","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4851A","MC74HCT4851ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4851ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4851A-D.PDF","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","4","2","6","40","0.0001","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4851A","MC74HCT4851ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4851ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT4851A-D.PDF","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","4","2","6","40","0.0001","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4851A","NLV74HCT4851ADRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HCT4851ADRG","http://www.onsemi.com/pub/Collateral/MC74HCT4851A-D.PDF","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","4","2","6","40","0.0001","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74HCT4851A","NLVHCT4851ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVHCT4851ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4851A-D.PDF","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Analog Multiplexers/Demultiplexers with Injection Current Effect Control with LSTTL Compatible Inputs","4","2","6","40","0.0001","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX138","MC74LCX138DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX138DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX138-D.PDF","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","1","2","3.6","6","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX138","MC74LCX138DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX138DTG","http://www.onsemi.com/pub/Collateral/MC74LCX138-D.PDF","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","1","2","3.6","6","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX138","MC74LCX138DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX138DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX138-D.PDF","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","1","2","3.6","6","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX138","NLV74LCX138DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74LCX138DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX138-D.PDF","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Low Voltage CMOS 3-to-8 Decoder/Demultiplexer","1","2","3.6","6","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX157","MC74LCX157DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX157DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX157-D.PDF","Low Voltage CMOS Quad 2-Input Multiplexer","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Quad 2-Input Multiplexer","2","2","3.6","5.8","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX157","MC74LCX157DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX157DTG","http://www.onsemi.com/pub/Collateral/MC74LCX157-D.PDF","Low Voltage CMOS Quad 2-Input Multiplexer","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Quad 2-Input Multiplexer","2","2","3.6","5.8","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX157","MC74LCX157DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX157DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX157-D.PDF","Low Voltage CMOS Quad 2-Input Multiplexer","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Quad 2-Input Multiplexer","2","2","3.6","5.8","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX257","MC74LCX257DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX257DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX257-D.PDF","Low Voltage CMOS Quad 2-Input Multiplexer","Pb-free
+Halide free","Active","Low Voltage CMOS Quad 2-Input Multiplexer","4","2","3.6","6","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX257","MC74LCX257DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX257DTG","http://www.onsemi.com/pub/Collateral/MC74LCX257-D.PDF","Low Voltage CMOS Quad 2-Input Multiplexer","Pb-free
+Halide free","Active","Low Voltage CMOS Quad 2-Input Multiplexer","4","2","3.6","6","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LCX257","MC74LCX257DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX257DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX257-D.PDF","Low Voltage CMOS Quad 2-Input Multiplexer","Pb-free
+Halide free","Active","Low Voltage CMOS Quad 2-Input Multiplexer","4","2","3.6","6","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX138","MC74LVX138DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX138DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX138-D.PDF","3-to-8 Line Decoder","Pb-free
+Halide free","Active","3-to-8 Line Decoder","1","2","3.6","12.3","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX138","MC74LVX138DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX138DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX138-D.PDF","3-to-8 Line Decoder","Pb-free
+Halide free","Active","3-to-8 Line Decoder","1","2","3.6","12.3","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX157","MC74LVX157DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX157DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX157-D.PDF","Quad 2-Channel Multiplexer (Mux)","Pb-free
+Halide free","Active","Quad 2-Channel Multiplexer (Mux)","4","2","3.6","11.4","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX157","MC74LVX157DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX157DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX157-D.PDF","Quad 2-Channel Multiplexer (Mux)","Pb-free
+Halide free","Active","Quad 2-Channel Multiplexer (Mux)","4","2","3.6","11.4","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4051","MC74LVX4051DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4051DG","http://www.onsemi.com/pub/Collateral/MC74LVX4051-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","1","2.5","6","23","4","QFN-16
+SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4051","MC74LVX4051DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4051DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX4051-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","1","2.5","6","23","4","QFN-16
+SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4051","MC74LVX4051DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4051DTG","http://www.onsemi.com/pub/Collateral/MC74LVX4051-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","1","2.5","6","23","4","QFN-16
+SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4051","MC74LVX4051DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4051DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX4051-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","1","2.5","6","23","4","QFN-16
+SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4051","MC74LVX4051MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4051MNTWG","http://www.onsemi.com/pub/Collateral/MC74LVX4051-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","1","2.5","6","23","4","QFN-16
+SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4053","MC74LVX4053DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4053DG","http://www.onsemi.com/pub/Collateral/MC74LVX4053-D.PDF","Analog Multiplexer / Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer / Demultiplexer","3","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4053","MC74LVX4053DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4053DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX4053-D.PDF","Analog Multiplexer / Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer / Demultiplexer","3","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4053","MC74LVX4053DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4053DTG","http://www.onsemi.com/pub/Collateral/MC74LVX4053-D.PDF","Analog Multiplexer / Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer / Demultiplexer","3","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVX4053","MC74LVX4053DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX4053DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX4053-D.PDF","Analog Multiplexer / Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer / Demultiplexer","3","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVXT4052","MC74LVXT4052DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXT4052DG","http://www.onsemi.com/pub/Collateral/MC74LVXT4052-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","2","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVXT4052","MC74LVXT4052DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXT4052DR2G","http://www.onsemi.com/pub/Collateral/MC74LVXT4052-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","2","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVXT4052","MC74LVXT4052DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXT4052DTG","http://www.onsemi.com/pub/Collateral/MC74LVXT4052-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","2","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74LVXT4052","MC74LVXT4052DTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXT4052DTRG","http://www.onsemi.com/pub/Collateral/MC74LVXT4052-D.PDF","Analog Multiplexer/Demultiplexer (Mux/Demux)","Pb-free
+Halide free","Active","Analog Multiplexer/Demultiplexer (Mux/Demux)","2","2.5","6","23","4","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC138","MC74VHC138DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC138DG","http://www.onsemi.com/pub/Collateral/MC74VHC138-D.PDF","3-to-8 Line Decoder","Pb-free
+Halide free","Active","3-to-8 Line Decoder","1","2","5.5","10.1","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC138","MC74VHC138DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC138DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC138-D.PDF","3-to-8 Line Decoder","Pb-free
+Halide free","Active","3-to-8 Line Decoder","1","2","5.5","10.1","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC138","MC74VHC138DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC138DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC138-D.PDF","3-to-8 Line Decoder","Pb-free
+Halide free","Active","3-to-8 Line Decoder","1","2","5.5","10.1","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC157","MC74VHC157DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC157DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC157-D.PDF","2-Input Data Selector/Multiplexer (Mux)","Pb-free
+Halide free","Active","2-Input Data Selector/Multiplexer (Mux)","4","2","5.5","8.4","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC157","MC74VHC157DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC157DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC157-D.PDF","2-Input Data Selector/Multiplexer (Mux)","Pb-free
+Halide free","Active","2-Input Data Selector/Multiplexer (Mux)","4","2","5.5","8.4","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC4051","MC74VHC4051DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC4051DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC4051-D.PDF","Analog Multiplexer/ Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer/ Demultiplexer",,,,,,"SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC4051","MC74VHC4051DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC4051DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC4051-D.PDF","Analog Multiplexer/ Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer/ Demultiplexer",,,,,,"SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC4053","MC74VHC4053DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC4053DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC4051-D.PDF","Analog Multiplexer/ Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer/ Demultiplexer","1","2","6","49","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHC4053","MC74VHC4053DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC4053DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC4051-D.PDF","Analog Multiplexer/ Demultiplexer","Pb-free
+Halide free","Active","Analog Multiplexer/ Demultiplexer","1","2","6","49","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHCT138A","MC74VHCT138ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT138ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT138A-D.PDF","3-to-8 Line Decoder","Pb-free
+Halide free","Active","3-to-8 Line Decoder","1","3","5.5","11.4","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHCT138A","MC74VHCT138ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT138ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT138A-D.PDF","3-to-8 Line Decoder","Pb-free
+Halide free","Active","3-to-8 Line Decoder","1","3","5.5","11.4","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---多路转换器","MC74VHCT157A","M74VHCT157ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHCT157ADTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT157A-D.PDF","Quad 2-Channel Multiplexer","Pb-free
+Halide free","Active","Quad 2-Channel Multiplexer","4","4.5","5.5","8.4","8","TSSOP-16"
+"on","标准逻辑---多路转换器","NL7SZ19","NL7SZ19DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL7SZ19DFT2G","http://www.onsemi.com/pub/Collateral/NL7SZ19-D.PDF","1:2 Digital Multiplexer / Demultiplexer","Pb-free
+Halide free","Active","1:2 Digital Multiplexer / Demultiplexer","2","1.65","5.5","4","50","SC-88-6 / SC-70-6 / SOT-363-6
+UDFN-6"
+"on","标准逻辑---多路转换器","NL7SZ19","NL7SZ19MUR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL7SZ19MUR2G","http://www.onsemi.com/pub/Collateral/NL7SZ19-D.PDF","1:2 Digital Multiplexer / Demultiplexer","Pb-free
+Halide free","Active","1:2 Digital Multiplexer / Demultiplexer","2","1.65","5.5","4","50","SC-88-6 / SC-70-6 / SOT-363-6
+UDFN-6"

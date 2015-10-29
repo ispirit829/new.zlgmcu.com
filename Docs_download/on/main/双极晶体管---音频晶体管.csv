@@ -1,0 +1,133 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Polarity","IC Continuous (A)","VCEO(sus) Min (V)","hFE Min","hFE Max","PTM Max (W)","fT Min (MHz)","Package Type"
+"on","双极晶体管---音频晶体管","12A02MH","12A02MH-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=12A02MH-TL-E","http://www.onsemi.com/pub/Collateral/ENN7483-D.PDF","Bipolar Transistor, -12V, -1A, Low VCE(sat) PNP Single MCPH3","Pb-free","Active","Bipolar Transistor, -12V, -1A, Low VCE(sat) PNP Single MCPH3","PNP","100","12","300","700","0.6",,"SC-70FL / MCPH-3"
+"on","双极晶体管---音频晶体管","15C02MH","15C02MH-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=15C02MH-TL-E","http://www.onsemi.com/pub/Collateral/EN7354-D.PDF","Bipolar Transistor, 15V, 1A, Low VCE(sat) NPN Single MCPH3","Pb-free","Active","Bipolar Transistor, 15V, 1A, Low VCE(sat) NPN Single MCPH3","NPN","1","15","300","800","0.6","440","SC-70FL / MCPH-3"
+"on","双极晶体管---音频晶体管","15GN01MA","15GN01MA-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=15GN01MA-TL-E","http://www.onsemi.com/pub/Collateral/ENA1100-D.PDF","RF Transistor, 8V, 50mA, fT=1.5GHz, NPN Single","Pb-free","Active","RF Transistor, 8V, 50mA, fT=1.5GHz, NPN Single","NPN","0.05","8","200","400","0.4","1500","SC-70FL / MCPH-3"
+"on","双极晶体管---音频晶体管","15GN03FA","15GN03FA-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=15GN03FA-TL-H","http://www.onsemi.com/pub/Collateral/ENA1107-D.PDF","RF Transistor, 10V, 70mA, fT=1.5GHz, NPN Single","Pb-free
+Halide free","Active","RF Transistor, 10V, 70mA, fT=1.5GHz, NPN Single","NPN","0.07","10","100","180","0.25","1000","SOT-623 / SSFP"
+"on","双极晶体管---音频晶体管","2SC4853A","2SC4853A-4-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC4853A-4-TL-E","http://www.onsemi.com/pub/Collateral/ENA1076-D.PDF","RF Transistor, 6V, 15mA, fT=5GHz, NPN Single MCP","Pb-free","Active","RF Transistor, 6V, 15mA, fT=5GHz, NPN Single MCP","NPN","0.015","6","60","270","0.09","5000","SC-70FL / MCPH-3"
+"on","双极晶体管---音频晶体管","2SC5227A","2SC5227A-4-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5227A-4-TB-E","http://www.onsemi.com/pub/Collateral/2SC5227A-D.PDF","RF Transistor, 10V, 70mA, fT=7GHz, NPN Single CP","Pb-free","Active","RF Transistor, 10V, 70mA, fT=7GHz, NPN Single CP","NPN","0.07","10","90
+135","180
+270","0.2","7000","SC-59-3 / CP-3"
+"on","双极晶体管---音频晶体管","2SC5227A","2SC5227A-5-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5227A-5-TB-E","http://www.onsemi.com/pub/Collateral/2SC5227A-D.PDF","RF Transistor, 10V, 70mA, fT=7GHz, NPN Single CP","Pb-free","Active","RF Transistor, 10V, 70mA, fT=7GHz, NPN Single CP","NPN","0.07","10","90
+135","180
+270","0.2","7000","SC-59-3 / CP-3"
+"on","双极晶体管---音频晶体管","2SC5245A","2SC5245A-4-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5245A-4-TL-E","http://www.onsemi.com/pub/Collateral/2SC5245A-D.PDF","RF Transistor, 10V, 30mA, fT=8GHz, NPN Single MCP","Pb-free","Active","RF Transistor, 10V, 30mA, fT=8GHz, NPN Single MCP","NPN","0.03","10","90","180","0.15","8000","SC-70FL / MCPH-3"
+"on","双极晶体管---音频晶体管","2SC5347A","2SC5347AE-TD-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5347AE-TD-E","http://www.onsemi.com/pub/Collateral/ENA1087-D.PDF","RF Transistor, 12V, 150mA, fT=4.7GHz, NPN Single PCP","Pb-free","Active","RF Transistor, 12V, 150mA, fT=4.7GHz, NPN Single PCP","NPN","0.15","12","90
+135","180
+270","1.3","3","SOT-89 / PCP-1"
+"on","双极晶体管---音频晶体管","2SC5347A","2SC5347AF-TD-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5347AF-TD-E","http://www.onsemi.com/pub/Collateral/ENA1087-D.PDF","RF Transistor, 12V, 150mA, fT=4.7GHz, NPN Single PCP","Pb-free","Active","RF Transistor, 12V, 150mA, fT=4.7GHz, NPN Single PCP","NPN","0.15","12","90
+135","180
+270","1.3","3","SOT-89 / PCP-1"
+"on","双极晶体管---音频晶体管","2SC5415A","2SC5415AE-TD-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5415AE-TD-E","http://www.onsemi.com/pub/Collateral/ENA1080-D.PDF","RF Transistor, 12V, 100mA, fT=6.7GHz, NPN Single PCP","Pb-free","Active","RF Transistor, 12V, 100mA, fT=6.7GHz, NPN Single PCP","NPN","0.1","12","90
+135","180
+270","0.8","6700","SOT-89 / PCP-1"
+"on","双极晶体管---音频晶体管","2SC5415A","2SC5415AF-TD-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5415AF-TD-E","http://www.onsemi.com/pub/Collateral/ENA1080-D.PDF","RF Transistor, 12V, 100mA, fT=6.7GHz, NPN Single PCP","Pb-free","Active","RF Transistor, 12V, 100mA, fT=6.7GHz, NPN Single PCP","NPN","0.1","12","90
+135","180
+270","0.8","6700","SOT-89 / PCP-1"
+"on","双极晶体管---音频晶体管","2SC5536A","2SC5536A-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=2SC5536A-TL-H","http://www.onsemi.com/pub/Collateral/ENA1092-D.PDF","RF Transistor, 12V, 50mA, fT=1.7GHz, NPN Single SSFP","Pb-free
+Halide free","Active","RF Transistor, 12V, 50mA, fT=1.7GHz, NPN Single SSFP","NPN","0.05","12","80","200","0.1","1000","SOT-623 / SSFP"
+"on","双极晶体管---音频晶体管","50A02CH","50A02CH-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=50A02CH-TL-E","http://www.onsemi.com/pub/Collateral/50A02CH-D.PDF","Bipolar Transistor, -50V, -0.5A, Low VCE(sat), PNP Single CPH3","Pb-free
+Halide free","Active","Bipolar Transistor, -50V, -0.5A, Low VCE(sat), PNP Single CPH3","PNP","0.5","50","200","500","0.7","600","CPH-3"
+"on","双极晶体管---音频晶体管","50A02CH","50A02CH-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=50A02CH-TL-H","http://www.onsemi.com/pub/Collateral/50A02CH-D.PDF","Bipolar Transistor, -50V, -0.5A, Low VCE(sat), PNP Single CPH3","Pb-free
+Halide free","Active","Bipolar Transistor, -50V, -0.5A, Low VCE(sat), PNP Single CPH3","PNP","0.5","50","200","500","0.7","600","CPH-3"
+"on","双极晶体管---音频晶体管","55GN01MA","55GN01MA-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=55GN01MA-TL-E","http://www.onsemi.com/pub/Collateral/ENA1114-D.PDF","RF Transistor, 10V, 70mA, fT=5.5GHz, NPN Single MCP","Pb-free","Active","RF Transistor, 10V, 70mA, fT=5.5GHz, NPN Single MCP","NPN","0.07","10","100","180","0.4","3000","SC-70FL / MCPH-3"
+"on","双极晶体管---音频晶体管","D45H11","D45H11G","http://www.onsemi.cn/PowerSolutions/product.do?id=D45H11G","http://www.onsemi.com/pub/Collateral/D44H-D.PDF","Power Bipolar Transistor, PNP, 10 A, 80 V","Pb-free","Active","Power Bipolar Transistor, PNP, 10 A, 80 V","PNP","10","80","40","-","50","-","TO-220-3"
+"on","双极晶体管---音频晶体管","MCH3007","MCH3007-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=MCH3007-TL-H","http://www.onsemi.com/pub/Collateral/ENA1925-D.PDF","RF Transistor, 12V, 30mA, fT=8GHz, NPN Single MCPH3","Pb-free
+Halide free","Active","RF Transistor, 12V, 30mA, fT=8GHz, NPN Single MCPH3","NPN","0.03","12","60","150","0.35","6000","SC-70FL / MCPH-3"
+"on","双极晶体管---音频晶体管","MCH4020","MCH4020-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=MCH4020-TL-H","http://www.onsemi.com/pub/Collateral/ENA1280-D.PDF","RF Transistor, 8V, 150mA, fT=16GHz, NPN Single MCPH4","Pb-free
+Halide free","Active","RF Transistor, 8V, 150mA, fT=16GHz, NPN Single MCPH4","NPN","0.15","8","60","150","0.4","13000","SC-82AB / MCP-4"
+"on","双极晶体管---音频晶体管","MJ15001","MJ15001G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJ15001G","http://www.onsemi.com/pub/Collateral/MJ15001-D.PDF","15 A, 140 V, NPN Bipolar Power Transistor","Pb-free","Active","15 A, 140 V, NPN Bipolar Power Transistor","NPN","15","140","25","150","200","2","TO-204-2"
+"on","双极晶体管---音频晶体管","MJ15004","MJ15004G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJ15004G","http://www.onsemi.com/pub/Collateral/MJ15003-D.PDF","Bipolar Transistor, PNP, 140 V, 20 A","Pb-free","Active","Bipolar Transistor, PNP, 140 V, 20 A","PNP","20","140","25","150","250","2","TO-204-2"
+"on","双极晶体管---音频晶体管","MJ15016","MJ15016G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJ15016G","http://www.onsemi.com/pub/Collateral/2N3055A-D.PDF","15 A, 120 V, PNP Bipolar Power Transistor","Pb-free","Active","15 A, 120 V, PNP Bipolar Power Transistor","PNP","15","120","20","70","180","1","TO-204-2"
+"on","双极晶体管---音频晶体管","MJ15023","MJ15023G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJ15023G","http://www.onsemi.com/pub/Collateral/MJ15023-D.PDF","16 A, 200 V, PNP Bipolar Power Transistor","Pb-free","Active","16 A, 200 V, PNP Bipolar Power Transistor","PNP","16","200","15","60","250","5","TO-204-2"
+"on","双极晶体管---音频晶体管","MJ15025","MJ15025G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJ15025G","http://www.onsemi.com/pub/Collateral/MJ15023-D.PDF","Bipolar Transistor, PNP, 250 V, 16 A","Pb-free","Active","Bipolar Transistor, PNP, 250 V, 16 A","PNP","16","250","15","60","250","4","TO-204-2"
+"on","双极晶体管---音频晶体管","MJ21194","MJ21194G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJ21194G","http://www.onsemi.com/pub/Collateral/MJ21193-D.PDF","Bipolar Transistor, NPN, 250 V, 16 A","Pb-free","Active","Bipolar Transistor, NPN, 250 V, 16 A","NPN","16","250","25","75","250","5","TO-204-2"
+"on","双极晶体管---音频晶体管","MJ21196","MJ21196G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJ21196G","http://www.onsemi.com/pub/Collateral/MJ21195-D.PDF","Bipolar Transistor, NPN, 250 V, 16 A","Pb-free","Active","Bipolar Transistor, NPN, 250 V, 16 A","NPN","16","250","25","75","250","5","TO-204-2"
+"on","双极晶体管---音频晶体管","MJD253","MJD253-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJD253-1G","http://www.onsemi.com/pub/Collateral/MJD243-D.PDF","4.0 A, 100 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","4.0 A, 100 V PNP Bipolar Power Transistor","PNP","4","100","40","180","12.5","40","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD253","MJD253T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJD253T4G","http://www.onsemi.com/pub/Collateral/MJD243-D.PDF","4.0 A, 100 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","4.0 A, 100 V PNP Bipolar Power Transistor","PNP","4","100","40","180","12.5","40","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD253","NJVMJD253T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJVMJD253T4G","http://www.onsemi.com/pub/Collateral/MJD243-D.PDF","4.0 A, 100 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","4.0 A, 100 V PNP Bipolar Power Transistor","PNP","4","100","40","180","12.5","40","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD45H11","MJD45H11-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJD45H11-1G","http://www.onsemi.com/pub/Collateral/MJD44H11-D.PDF","8 A, 80 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 80 V PNP Bipolar Power Transistor","PNP
+Positive","8","80","60","-","20","-","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD45H11","MJD45H11G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJD45H11G","http://www.onsemi.com/pub/Collateral/MJD44H11-D.PDF","8 A, 80 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 80 V PNP Bipolar Power Transistor","PNP
+Positive","8","80","60","-","20","-","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD45H11","MJD45H11RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MJD45H11RLG","http://www.onsemi.com/pub/Collateral/MJD44H11-D.PDF","8 A, 80 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 80 V PNP Bipolar Power Transistor","PNP
+Positive","8","80","60","-","20","-","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD45H11","MJD45H11T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJD45H11T4G","http://www.onsemi.com/pub/Collateral/MJD44H11-D.PDF","8 A, 80 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 80 V PNP Bipolar Power Transistor","PNP
+Positive","8","80","60","-","20","-","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD45H11","NJVMJD45H11G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJVMJD45H11G","http://www.onsemi.com/pub/Collateral/MJD44H11-D.PDF","8 A, 80 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 80 V PNP Bipolar Power Transistor","PNP
+Positive","8","80","60","-","20","-","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD45H11","NJVMJD45H11RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=NJVMJD45H11RLG","http://www.onsemi.com/pub/Collateral/MJD44H11-D.PDF","8 A, 80 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 80 V PNP Bipolar Power Transistor","PNP
+Positive","8","80","60","-","20","-","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJD45H11","NJVMJD45H11T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJVMJD45H11T4G","http://www.onsemi.com/pub/Collateral/MJD44H11-D.PDF","8 A, 80 V PNP Bipolar Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 80 V PNP Bipolar Power Transistor","PNP
+Positive","8","80","60","-","20","-","DPAK-3
+IPAK-4"
+"on","双极晶体管---音频晶体管","MJE15029","MJE15029G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJE15029G","http://www.onsemi.com/pub/Collateral/MJE15028-D.PDF","8.0 A, 120 V PNP Bipolar Power Transistor","Pb-free","Active","8.0 A, 120 V PNP Bipolar Power Transistor","PNP","8","120","40","-","50","30","TO-220-3"
+"on","双极晶体管---音频晶体管","MJE15031","MJE15031G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJE15031G","http://www.onsemi.com/pub/Collateral/MJE15028-D.PDF","Bipolar Transistor, PNP,  150 V, 8.0 A","Pb-free","Active","Bipolar Transistor, PNP,  150 V, 8.0 A","PNP","8","150","40","-","50","30","TO-220-3"
+"on","双极晶体管---音频晶体管","MJE15033","MJE15033G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJE15033G","http://www.onsemi.com/pub/Collateral/MJE15032-D.PDF","Bipolar Transistor, PNP, 250 V, 8.0 A","Pb-free","Active","Bipolar Transistor, PNP, 250 V, 8.0 A","PNP","8","250","50","-","50","30","TO-220-3"
+"on","双极晶体管---音频晶体管","MJE15035","MJE15035G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJE15035G","http://www.onsemi.com/pub/Collateral/MJE15034-D.PDF","Bipolar Transistor, PNP, 350 V, 4.0 A","Pb-free","Active","Bipolar Transistor, PNP, 350 V, 4.0 A","PNP","4","350","100","-","50","30","TO-220-3"
+"on","双极晶体管---音频晶体管","MJE253","MJE253G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJE253G","http://www.onsemi.com/pub/Collateral/MJE243-D.PDF","4.0 A, 100 V PNP Bipolar Power Transistor","Pb-free
+Halide free","Active","4.0 A, 100 V PNP Bipolar Power Transistor","PNP","4","100","40","180","15","40","TO-225-3"
+"on","双极晶体管---音频晶体管","MJF15031","MJF15031G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJF15031G","http://www.onsemi.com/pub/Collateral/MJF15030-D.PDF","8.0 A, 150 V PNP Bipolar Power Transistor","Pb-free","Active","8.0 A, 150 V PNP Bipolar Power Transistor","PNP","8","150","40","-","36","30","TO-220 FULLPAK-3"
+"on","双极晶体管---音频晶体管","MJL1302A","MJL1302AG","http://www.onsemi.cn/PowerSolutions/product.do?id=MJL1302AG","http://www.onsemi.com/pub/Collateral/MJL3281A-D.PDF","Bipolar Power Transistor, PNP, 15 A, 260 V, 200 Watt","Pb-free","Active","Bipolar Power Transistor, PNP, 15 A, 260 V, 200 Watt","PNP","15","260","75","150","200","30","TO-3PBL/ TO-264-3"
+"on","双极晶体管---音频晶体管","MJL21194","MJL21194G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJL21194G","http://www.onsemi.com/pub/Collateral/MJL21193-D.PDF","Bipolar Transistor, NPN, 250 V, 16 A","Pb-free","Active","Bipolar Transistor, NPN, 250 V, 16 A","NPN","16","250","25","75","200","4","TO-3PBL/ TO-264-3"
+"on","双极晶体管---音频晶体管","MJL21196","MJL21196G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJL21196G","http://www.onsemi.com/pub/Collateral/MJL21195-D.PDF","Bipolar Transistor, NPN, 250 V, 16 A","Pb-free","Active","Bipolar Transistor, NPN, 250 V, 16 A","NPN","16","250","25","100","200","4","TO-3PBL/ TO-264-3"
+"on","双极晶体管---音频晶体管","MJL4281A","MJL4281AG","http://www.onsemi.cn/PowerSolutions/product.do?id=MJL4281AG","http://www.onsemi.com/pub/Collateral/MJL4281A-D.PDF","Bipolar Power Transistor, NPN, 15 A, 350 V, 230 Watt","Pb-free","Active","Bipolar Power Transistor, NPN, 15 A, 350 V, 230 Watt","NPN","15","350","80","250","230","35","TO-3PBL/ TO-264-3"
+"on","双极晶体管---音频晶体管","MJW1302A","MJW1302AG","http://www.onsemi.cn/PowerSolutions/product.do?id=MJW1302AG","http://www.onsemi.com/pub/Collateral/MJW3281A-D.PDF","Bipolar Power Transistor, PNP, 15 A, 230 V, 200 Watt","Pb-free
+Halide free","Active","Bipolar Power Transistor, PNP, 15 A, 230 V, 200 Watt","PNP","15","230","50","200","200","-","TO-247-3"
+"on","双极晶体管---音频晶体管","MJW21194","MJW21194G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJW21194G","http://www.onsemi.com/pub/Collateral/MJW21193-D.PDF","Bipolar Transistor, NPN, 250 V, 16 A","Pb-free","Active","Bipolar Transistor, NPN, 250 V, 16 A","NPN","16","250","20","70","200","4","TO-247-3"
+"on","双极晶体管---音频晶体管","MJW21196","MJW21196G","http://www.onsemi.cn/PowerSolutions/product.do?id=MJW21196G","http://www.onsemi.com/pub/Collateral/MJW21195-D.PDF","Bipolar Transistor, NPN, 250 V, 16 A","Pb-free
+Halide free","Active","Bipolar Transistor, NPN, 250 V, 16 A","NPN","16","250","20","80","200","4","TO-247-3"
+"on","双极晶体管---音频晶体管","NJD1718","NJD1718T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJD1718T4G","http://www.onsemi.com/pub/Collateral/NJD1718-D.PDF","2.0 A, 50 V PNP Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","2.0 A, 50 V PNP Power Transistor","PNP","2","50","70","240","15","80","DPAK-3"
+"on","双极晶体管---音频晶体管","NJD1718","NJVNJD1718T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJVNJD1718T4G","http://www.onsemi.com/pub/Collateral/NJD1718-D.PDF","2.0 A, 50 V PNP Power Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","2.0 A, 50 V PNP Power Transistor","PNP","2","50","70","240","15","80","DPAK-3"
+"on","双极晶体管---音频晶体管","NJL0302D","NJL0302DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NJL0302DG","http://www.onsemi.com/pub/Collateral/NJL0281D-D.PDF","Bipolar Power Transistor, PNP, ThermalTrak™, 15 A, 260 V","Pb-free","Active","Bipolar Power Transistor, PNP, ThermalTrak&trade;, 15 A, 260 V","PNP","15","260","75","150","180","30","TO-264-5"
+"on","双极晶体管---音频晶体管","NJL3281D","NJL3281DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NJL3281DG","http://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF","Bipolar Power Transistor, NPN, ThermalTrak™, 15 A, 260 V","Pb-free","Active","Bipolar Power Transistor, NPN, ThermalTrak&trade;, 15 A, 260 V","NPN","15","260","75","150","200","30","TO-264-5"
+"on","双极晶体管---音频晶体管","NJW1302","NJW1302G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJW1302G","http://www.onsemi.com/pub/Collateral/NJW3281-D.PDF","Bipolar Power Transistors, Complementary, 15 A, 250 V, PNP","Pb-free","Active","Bipolar Power Transistors, Complementary, 15 A, 250 V","NPN
+PNP","15","250","75","150","200","30","TO-3P-3"
+"on","双极晶体管---音频晶体管","NJW1302","NJW3281G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJW3281G","http://www.onsemi.com/pub/Collateral/NJW3281-D.PDF","Bipolar Power Transistors, Complementary, 15 A, 250 V, NPN","Pb-free","Active","Bipolar Power Transistors, Complementary, 15 A, 250 V","NPN
+PNP","15","250","75","150","200","30","TO-3P-3"
+"on","双极晶体管---音频晶体管","NJW44H11","NJW44H11G","http://www.onsemi.cn/PowerSolutions/product.do?id=NJW44H11G","http://www.onsemi.com/pub/Collateral/NJW44H11-D.PDF","NPN Power Bipolar Transistor, 80 V, 10 A , NPN TO-3P POWER TRANS","Pb-free","Active","NPN Power Bipolar Transistor, 80 V, 10 A ","NPN","10","80","100","400","120","-","TO-3P-3"

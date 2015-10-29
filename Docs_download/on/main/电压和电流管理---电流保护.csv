@@ -1,0 +1,103 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","VI Max (V)","rDS(on) Max (mOhms)","TSD Typ (&#0176;C)","Thyst Typ (&#0176;C)","Package Type"
+"on","电压和电流管理---电流保护","NCP1080","NCP1080DEG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1080DEG","http://www.onsemi.com/pub/Collateral/NCP1080-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 13 W","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 13 W","Ethernet",,"600","155","10","TSSOP-20"
+"on","电压和电流管理---电流保护","NCP1080","NCP1080DER2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1080DER2G","http://www.onsemi.com/pub/Collateral/NCP1080-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 13 W","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 13 W","Ethernet",,"600","155","10","TSSOP-20"
+"on","电压和电流管理---电流保护","NCP1082","NCP1082DEG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1082DEG","http://www.onsemi.com/pub/Collateral/NCP1082-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 13 W, with Auxiliary Supply Support","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 13 W, with Auxiliary Supply Support","Ethernet",,"600","155","10","TSSOP-20"
+"on","电压和电流管理---电流保护","NCP1082","NCP1082DER2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1082DER2G","http://www.onsemi.com/pub/Collateral/NCP1082-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 13 W, with Auxiliary Supply Support","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 13 W, with Auxiliary Supply Support","Ethernet",,"600","155","10","TSSOP-20"
+"on","电压和电流管理---电流保护","NCP1090","NCP1090DBRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1090DBRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated","Ethernet","60","600","155","10","SOIC-8
+TSSOP-8"
+"on","电压和电流管理---电流保护","NCP1090","NCP1090DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1090DG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated","Ethernet","60","600","155","10","SOIC-8
+TSSOP-8"
+"on","电压和电流管理---电流保护","NCP1090","NCP1090DRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1090DRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated","Ethernet","60","600","155","10","SOIC-8
+TSSOP-8"
+"on","电压和电流管理---电流保护","NCP1092","NCP1092DBRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1092DBRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Vaux Support","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Vaux Support","Ethernet","60","600","155","10","SOIC-8
+TSSOP-8"
+"on","电压和电流管理---电流保护","NCP1092","NCP1092DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1092DG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Vaux Support","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Vaux Support","Ethernet","60","600","155","10","SOIC-8
+TSSOP-8"
+"on","电压和电流管理---电流保护","NCP1092","NCP1092DRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1092DRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Vaux Support","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Vaux Support","Ethernet","60","600","155","10","SOIC-8
+TSSOP-8"
+"on","电压和电流管理---电流保护","NCP1094","NCP1094MNRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1094MNRG","http://www.onsemi.com/pub/Collateral/NCP1093-D.PDF","IEEE802.3at PoE-PD Interface Controller","Pb-free
+Halide free","Active","IEEE802.3at PoE-PD Interface Controller","Ethernet","60","600","155","10","DFN-10"
+"on","电压和电流管理---电流保护","NCP374","NCP374MU075TXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP374MU075TXG","http://www.onsemi.com/pub/Collateral/NCP374-D.PDF","Overvoltage Up to +30 V and Down to -30 V with Load Switch Function","Pb-free
+Halide free","Active","Overvoltage Up to +30 V and Down to -30 V with Load Switch Function","MOSFET","28","155","150","30","TLLGA-12"
+"on","电压和电流管理---电流保护","NCP382","NCP382HD05AAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382HD05AAR2G","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 0.5 A, Enable H","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382HD10AAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382HD10AAR2G","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.0 A, Enable H","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382HD15AAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382HD15AAR2G","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.5 A, Enable H","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382HMN10AATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382HMN10AATXG","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.0 A, Enable H","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382HMN15AATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382HMN15AATXG","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.5 A, Enable H","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382HMN20AATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382HMN20AATXG","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 2A , ENABLE HIGH","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382LD05AAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382LD05AAR2G","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 0.5 A, Enable L","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382LD10AAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382LD10AAR2G","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.0 A, Enable L","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382LD15AAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382LD15AAR2G","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.5 A, Enable L","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382LMN10AATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382LMN10AATXG","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.0 A, Enable L","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382LMN15AATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382LMN15AATXG","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 1.5 A, Enable L","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NCP382","NCP382LMN20AATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP382LMN20AATXG","http://www.onsemi.com/pub/Collateral/NCP382-D.PDF","Fixed Current-Limiting Power Distribution Switches , 2A, ENABLE LOW","PPAP Capable
+Pb-free
+Halide free","Active","Fixed Current-Limiting Power Distribution Switches ","Fixed","5.5","100
+140","140","10","DFN-8
+SOIC-8"
+"on","电压和电流管理---电流保护","NIS5112","NIS5112D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NIS5112D1R2G","http://www.onsemi.com/pub/Collateral/NIS5112-D.PDF","Electronic Fuse","Pb-free
+Halide free","Active","Electronic Fuse","Auto-Retry
+Latch Off","18","35","135","40","SOIC-8"
+"on","电压和电流管理---电流保护","NIS5112","NIS5112D2R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NIS5112D2R2G","http://www.onsemi.com/pub/Collateral/NIS5112-D.PDF","Electronic Fuse","Pb-free
+Halide free","Active","Electronic Fuse","Auto-Retry
+Latch Off","18","35","135","40","SOIC-8"
+"on","电压和电流管理---电流保护","NIS5135","NIS5135MN1TXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NIS5135MN1TXG","http://www.onsemi.com/pub/Collateral/NIS5135-D.PDF","5.0 V Electronic Fuse","Pb-free
+Halide free","Active","5.0 V Electronic Fuse","Auto-Retry
+Latch Off",,"82","175","45","DFN-10"
+"on","电压和电流管理---电流保护","NIS5135","NIS5135MN2TXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NIS5135MN2TXG","http://www.onsemi.com/pub/Collateral/NIS5135-D.PDF","5.0 V Electronic Fuse","Pb-free
+Halide free","Active","5.0 V Electronic Fuse","Auto-Retry
+Latch Off",,"82","175","45","DFN-10"

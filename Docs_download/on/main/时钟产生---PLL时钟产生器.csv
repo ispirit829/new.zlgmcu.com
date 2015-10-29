@@ -1,0 +1,215 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Input Level","Output Level","VS Typ (V)","fin Typ (MHz)","fout Typ (MHz)","tJitter(Cy-Cy) Typ (ps)","tJitter(Period) Typ (ps)","tJitter(&#934;) Typ (ps)","tR & tF Typ (ps)","tR & tF Max (ps)","TA Min (&#0176;C)","TA Max (&#0176;C)","Package Type"
+"on","时钟产生---PLL时钟产生器","FS6128-04","FS6128-04G-XTD","http://www.onsemi.cn/PowerSolutions/product.do?id=FS6128-04G-XTD","http://www.onsemi.com/pub/Collateral/FS6128-04-D.PDF","VCXO Clock Generator, 27 MHz Output","Pb-free
+Halide free","Active","VCXO Clock Generator, 27 MHz Output","CMOS","CMOS
+TTL","3.3","13.5","27","100","200",,"1700","1700","0","70","SOIC-8"
+"on","时钟产生---PLL时钟产生器","FS6128-04","FS6128-04G-XTP","http://www.onsemi.cn/PowerSolutions/product.do?id=FS6128-04G-XTP","http://www.onsemi.com/pub/Collateral/FS6128-04-D.PDF","VCXO Clock Generator, 27 MHz Output","Pb-free
+Halide free","Active","VCXO Clock Generator, 27 MHz Output","CMOS","CMOS
+TTL","3.3","13.5","27","100","200",,"1700","1700","0","70","SOIC-8"
+"on","时钟产生---PLL时钟产生器","FS6370","FS6370-01G-XTD","http://www.onsemi.cn/PowerSolutions/product.do?id=FS6370-01G-XTD","http://www.onsemi.com/pub/Collateral/FS6370-D.PDF","EE Programmable 3-PLL Clock, 11575-819","Pb-free
+Halide free","Active","EE Programmable 3-PLL Clock","CMOS
+TTL","TTL","3.3
+5","5-27","0.8-150","165","390",,"1800","2100","0","70","SOIC-16"
+"on","时钟产生---PLL时钟产生器","FS6370","FS6370-01G-XTP","http://www.onsemi.cn/PowerSolutions/product.do?id=FS6370-01G-XTP","http://www.onsemi.com/pub/Collateral/FS6370-D.PDF","EE Programmable 3-PLL Clock, 11575-819","Pb-free
+Halide free","Active","EE Programmable 3-PLL Clock","CMOS
+TTL","TTL","3.3
+5","5-27","0.8-150","165","390",,"1800","2100","0","70","SOIC-16"
+"on","时钟产生---PLL时钟产生器","FS7140","FS7140-01G-XTP","http://www.onsemi.cn/PowerSolutions/product.do?id=FS7140-01G-XTP","http://www.onsemi.com/pub/Collateral/FS7140-D.PDF","I","Pb-free
+Halide free","Active","I<sup>2</sup>C Programmable 1-PLL Clock","CMOS","ECL
+TTL","3.3","0-80","0-300","300","75",,"1000","1000","0","70","SOIC-16
+SSOP-14"
+"on","时钟产生---PLL时钟产生器","FS7140","FS7140-02G-XTD","http://www.onsemi.cn/PowerSolutions/product.do?id=FS7140-02G-XTD","http://www.onsemi.com/pub/Collateral/FS7140-D.PDF","I","Pb-free
+Halide free","Active","I<sup>2</sup>C Programmable 1-PLL Clock","CMOS","ECL
+TTL","3.3","0-80","0-300","300","75",,"1000","1000","0","70","SOIC-16
+SSOP-14"
+"on","时钟产生---PLL时钟产生器","FS7140","FS7140-02G-XTP","http://www.onsemi.cn/PowerSolutions/product.do?id=FS7140-02G-XTP","http://www.onsemi.com/pub/Collateral/FS7140-D.PDF","I","Pb-free
+Halide free","Active","I<sup>2</sup>C Programmable 1-PLL Clock","CMOS","ECL
+TTL","3.3","0-80","0-300","300","75",,"1000","1000","0","70","SOIC-16
+SSOP-14"
+"on","时钟产生---PLL时钟产生器","NB3H5150","NB3H5150MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3H5150MNTXG","http://www.onsemi.com/pub/Collateral/NB3H5150-D.PDF","Clock Generator, Multi-Rate, Low Noise 2.5V / 3.3V","Pb-free
+Halide free","ActiveNEW","Clock Generator, Multi-Rate, Low Noise 2.5V / 3.3V","Crystal
+HCSL
+LVDS
+LVPECL
+TTL","LVCMOS
+LVPECL","2.5
+3.3","25","25-250",,,"0.22
+0.5","200
+800","300
+1000","-40","85","QFN-32"
+"on","时钟产生---PLL时钟产生器","NB3H63143G","NB3H63143G00MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3H63143G00MNR2G","http://www.onsemi.com/pub/Collateral/NB3H63143G-D.PDF","Programmable Clock Generator with Single Ended (LVCMOS/LVTTL) and
+Differential (LVPECL/LVDS/HCSL/CML) Outputs","Pb-free
+Halide free","ActiveNEW","Programmable Clock Generator with Single Ended (LVCMOS/LVTTL) and
+Differential (LVPECL/LVDS/HCSL/CML) Outputs","Crystal
+LVCMOS","CML
+HCSL
+LVCMOS
+LVDS
+LVPECL","2.5
+3.3","3 MHz to 200 MHz (Reference clock)
+3 MHz to 50 MHz (Crystal)","8 KHz to 200 MHz","100","100",,"1000 (Max Drive, LVCMOS)","< 700 (Differential Outputs)","-40","85","QFN-16"
+"on","时钟产生---PLL时钟产生器","NB3N3010B","NB3N3010BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N3010BDG","http://www.onsemi.com/pub/Collateral/NB3N3010B-D.PDF","Clock Generator, Oversampling, 3.3 V, 12.288 MHz, for USB Applications","Pb-free
+Halide free","Active","Clock Generator, Oversampling, 3.3 V, 12.288 MHz, for USB Applications","CMOS
+TTL","CMOS
+TTL","3.3","0.004","12.288",,,,,"4000","0","85","SOIC-8"
+"on","时钟产生---PLL时钟产生器","NB3N3010B","NB3N3010BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N3010BDR2G","http://www.onsemi.com/pub/Collateral/NB3N3010B-D.PDF","Clock Generator, Oversampling, 3.3 V, 12.288 MHz, for USB Applications","Pb-free
+Halide free","Active","Clock Generator, Oversampling, 3.3 V, 12.288 MHz, for USB Applications","CMOS
+TTL","CMOS
+TTL","3.3","0.004","12.288",,,,,"4000","0","85","SOIC-8"
+"on","时钟产生---PLL时钟产生器","NB3N501","NB3N501DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N501DG","http://www.onsemi.com/pub/Collateral/NB3N501-D.PDF","PLL Clock Multiplier, 13 MHz - 160 MHz, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","PLL Clock Multiplier, 13 MHz - 160 MHz, 3.3 V / 5.0 V","CMOS
+Crystal","CMOS
+TTL","3.3
+5","2-50
+5-27","13-160","70","25",,"1000",,"-40","85","SOIC-8"
+"on","时钟产生---PLL时钟产生器","NB3N501","NB3N501DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N501DR2G","http://www.onsemi.com/pub/Collateral/NB3N501-D.PDF","PLL Clock Multiplier, 13 MHz - 160 MHz, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","PLL Clock Multiplier, 13 MHz - 160 MHz, 3.3 V / 5.0 V","CMOS
+Crystal","CMOS
+TTL","3.3
+5","2-50
+5-27","13-160","70","25",,"1000",,"-40","85","SOIC-8"
+"on","时钟产生---PLL时钟产生器","NB3N508S","NB3N508SDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N508SDTG","http://www.onsemi.com/pub/Collateral/NB3N508S-D.PDF","Clock Generator, PureEdge™ VCXO, 3.3 V, 216 MHz, with M-LVDS Output","Pb-free
+Halide free","Active","Clock Generator, PureEdge&trade; VCXO, 3.3 V, 216 MHz, with M-LVDS Output","CMOS","LVDS","3.3","27","216","88",,,"300","500","0","70","TSSOP-16"
+"on","时钟产生---PLL时钟产生器","NB3N508S","NB3N508SDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N508SDTR2G","http://www.onsemi.com/pub/Collateral/NB3N508S-D.PDF","Clock Generator, PureEdge™ VCXO, 3.3 V, 216 MHz, with M-LVDS Output","Pb-free
+Halide free","Active","Clock Generator, PureEdge&trade; VCXO, 3.3 V, 216 MHz, with M-LVDS Output","CMOS","LVDS","3.3","27","216","88",,,"300","500","0","70","TSSOP-16"
+"on","时钟产生---PLL时钟产生器","NB3N51034","NB3N51034DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N51034DTG","http://www.onsemi.com/pub/Collateral/NB3N51034-D.PDF","Quad HCSL/LVDS Clock Generator, 3.3 V, Crystal to 100 MHz / 200 MHz","Pb-free
+Halide free","Active","Quad HCSL/LVDS Clock Generator, 3.3 V, Crystal to 100 MHz / 200 MHz ","CMOS
+Crystal","HCSL
+LVDS","3.3","25","100
+200",,,"0.4","340 / 400","700","-40","85","TSSOP-20"
+"on","时钟产生---PLL时钟产生器","NB3N51034","NB3N51034DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N51034DTR2G","http://www.onsemi.com/pub/Collateral/NB3N51034-D.PDF","Quad HCSL/LVDS Clock Generator, 3.3 V, Crystal to 100 MHz / 200 MHz","Pb-free
+Halide free","Active","Quad HCSL/LVDS Clock Generator, 3.3 V, Crystal to 100 MHz / 200 MHz ","CMOS
+Crystal","HCSL
+LVDS","3.3","25","100
+200",,,"0.4","340 / 400","700","-40","85","TSSOP-20"
+"on","时钟产生---PLL时钟产生器","NB3N51054","NB3N51054DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N51054DTG","http://www.onsemi.com/pub/Collateral/NB3N51054-D.PDF","Quad HCSL/ LVDS Clock Generator, 3.3 V, Crystal to 100 MHz","Pb-free
+Halide free","Active","Quad HCSL/ LVDS Clock Generator, 3.3 V, Crystal to 100 MHz","CMOS
+Crystal","HCSL
+LVDS","3.3","25","100","20",,"0.5",,,"-40","85","TSSOP-24"
+"on","时钟产生---PLL时钟产生器","NB3N51054","NB3N51054DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N51054DTR2G","http://www.onsemi.com/pub/Collateral/NB3N51054-D.PDF","Quad HCSL/ LVDS Clock Generator, 3.3 V, Crystal to 100 MHz","Pb-free
+Halide free","Active","Quad HCSL/ LVDS Clock Generator, 3.3 V, Crystal to 100 MHz","CMOS
+Crystal","HCSL
+LVDS","3.3","25","100","20",,"0.5",,,"-40","85","TSSOP-24"
+"on","时钟产生---PLL时钟产生器","NB3N5573","NB3N5573DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N5573DTG","http://www.onsemi.com/pub/Collateral/NB3N5573-D.PDF","Clock Generator, Crystal to 25 MHz, 100 MHz, 125 MHz, 200 MHz, 3.3 V, with Dual HCSL","Pb-free
+Halide free","Active","Clock Generator, Crystal to 25 MHz, 100 MHz, 125 MHz, 200 MHz, 3.3 V, with Dual HCSL","Crystal","HCSL","2.97
+3.3
+3.63","25","25-200","2","1.5","0.4","340","700","-40","85","TSSOP-16"
+"on","时钟产生---PLL时钟产生器","NB3N5573","NB3N5573DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N5573DTR2G","http://www.onsemi.com/pub/Collateral/NB3N5573-D.PDF","Clock Generator, Crystal to 25 MHz, 100 MHz, 125 MHz, 200 MHz, 3.3 V, with Dual HCSL","Pb-free
+Halide free","Active","Clock Generator, Crystal to 25 MHz, 100 MHz, 125 MHz, 200 MHz, 3.3 V, with Dual HCSL","Crystal","HCSL","2.97
+3.3
+3.63","25","25-200","2","1.5","0.4","340","700","-40","85","TSSOP-16"
+"on","时钟产生---PLL时钟产生器","NB4N441","NB4N441MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N441MNG","http://www.onsemi.com/pub/Collateral/NB4N441-D.PDF","PLL Clock Synthesizer, Multiprotocol, 3.3 V Serial Input, with Differential LVPECL Output","Pb-free
+Halide free","Active","PLL Clock Synthesizer, Multiprotocol, 3.3 V Serial Input, with Differential LVPECL Output","CMOS","CMOS","3.3","10
+27
+28
+50","12.5-425",,"25",,"300","425","-40","85","QFN-24"
+"on","时钟产生---PLL时钟产生器","NB4N441","NB4N441MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N441MNR2G","http://www.onsemi.com/pub/Collateral/NB4N441-D.PDF","PLL Clock Synthesizer, Multiprotocol, 3.3 V Serial Input, with Differential LVPECL Output","Pb-free
+Halide free","Active","PLL Clock Synthesizer, Multiprotocol, 3.3 V Serial Input, with Differential LVPECL Output","CMOS","CMOS","3.3","10
+27
+28
+50","12.5-425",,"25",,"300","425","-40","85","QFN-24"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429AFAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429AFAG","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429AFAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429AFAR2G","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429AFNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429AFNG","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429AFNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429AFNR2G","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429AMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429AMNG","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429AMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429AMNR4G","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429FAG","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429FAR2G","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429FNG","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12429","NBC12429FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12429FNR2G","http://www.onsemi.com/pub/Collateral/NBC12429-D.PDF","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","Pb-free
+Halide free","Active","PLL Synthesized Clock Generator, Programmable, 3.3 V / 5.0 V (25 to 400 MHz)","CMOS","ECL","3.3
+5","10-20","25-400",,"25","20","175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439AFAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439AFAG","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439AFAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439AFAR2G","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439AFNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439AFNG","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439AFNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439AFNR2G","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439AMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439AMNG","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439AMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439AMNR4G","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439FAG","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439FAR2G","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439FNG","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","NBC12439","NBC12439FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBC12439FNR2G","http://www.onsemi.com/pub/Collateral/NBC12439-D.PDF","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","Pb-free
+Halide free","Active","PLL Clock Generator, Synthesized, Programmable, 3.3 V / 5.0 V, with Power Down (50 to 800 MHz)","CMOS","ECL","3.3
+5","10-20","50-800","±20","5",,"175","425","0","70","LQFP-32
+PLCC-28
+QFN-32"
+"on","时钟产生---PLL时钟产生器","P1P40167","P1P40167MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=P1P40167MNTWG","http://www.onsemi.com/pub/Collateral/P1P40167-D.PDF","4-PLL Clock Generator with Spread Spectrum, 1.8V, Low Power, 1.8V, 4-PLL Low Power Clock Generator with Spread Spectrum","Pb-free
+Halide free","Active","4-PLL Clock Generator with Spread Spectrum, 1.8V, Low Power","Crystal","CMOS",,"27","22.5792
+24.576 / 22.5792
+27
+37
+48","225","±225",,"1.8","3.3","-10","80","QFN-16"

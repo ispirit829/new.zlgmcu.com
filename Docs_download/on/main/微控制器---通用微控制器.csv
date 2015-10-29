@@ -1,0 +1,69 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Bits","ROM (bits)","RAM (bits)","Bus Cycle Time Min (micros)","Instruction Cycle Time Min (micros)","Interrupts","I/O Ports","ADC","Timers","PWM Outputs","VDD Min (V)","VDD Max (V)","Package Type"
+"on","微控制器---通用微控制器","LC87F0808A","LC87F0808AUQFPTLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F0808AUQFPTLM-H","http://www.onsemi.com/pub/Collateral/ENA1828-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM ","8","8K x 8 (Flash)","256 x 9","0.05","0.15","21 sources, 10 vector address","30","10/8-bit x 10 channel","16-bit x 2
+8-bit x 2","6","3.3","5.5","LQFP-36 / QFP-36"
+"on","微控制器---通用微控制器","LC87F0G08A","LC87F0G08AUJA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F0G08AUJA-AH","http://www.onsemi.com/pub/Collateral/ENA2304-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","8","8K x 8 (Flash)","256 x 9","0.083","0.25","15 sources,10 vector address","18","12-bit x 7 channel","16-bit x 2","3","1.8","5.5","SSOP-24"
+"on","微控制器---通用微控制器","LC87F0G08A","LC87F0G08AUJA-FH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F0G08AUJA-FH","http://www.onsemi.com/pub/Collateral/ENA2304-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","8","8K x 8 (Flash)","256 x 9","0.083","0.25","15 sources,10 vector address","18","12-bit x 7 channel","16-bit x 2","3","1.8","5.5","SSOP-24"
+"on","微控制器---通用微控制器","LC87F0G08A","LC87F0G08AUJA-ZH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F0G08AUJA-ZH","http://www.onsemi.com/pub/Collateral/ENA2304-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","8","8K x 8 (Flash)","256 x 9","0.083","0.25","15 sources,10 vector address","18","12-bit x 7 channel","16-bit x 2","3","1.8","5.5","SSOP-24"
+"on","微控制器---通用微控制器","LC87F2416A","LC87F2416AU-EB-2E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2416AU-EB-2E","http://www.onsemi.com/pub/Collateral/ENA0782-D.PDF","8-bit Microcontroller with 16K-byte Flash ROM and 512-byte RAM","Pb-free","Active","8-bit Microcontroller with 16K-byte Flash ROM and 512-byte RAM","8","16K x 8 (Flash)","512 x 9","0.083","0.25","20 sources 10 vector address","26","12/8-bit x 10 channel","16-bit x 2
+8-bit x 2","2","1.8","5.5","LQFP-36 / QFP-36"
+"on","微控制器---通用微控制器","LC87F2708A","LC87F2708AUMD-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2708AUMD-AH","http://www.onsemi.com/pub/Collateral/ENA1335-D.PDF","8-bit Microcontroller with 8K-Byte Flash ROM and 512-Byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-Byte Flash ROM and 512-Byte RAM","8","8K x 8 (Flash)","512 x 9","0.1","0.3","16 sources, 10 vector address","11","12/8-bit x 7 channel","16-bit x 2",,"2.7","5.5","SOIC-14W / MFP-14S"
+"on","微控制器---通用微控制器","LC87F2G08A","LC87F2G08AU-SSOP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2G08AU-SSOP-E","http://www.onsemi.com/pub/Collateral/ENA1028-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM ","8","8K x 8 (Flash)","256 x 9","0.083","0.25","18 sources, 10 vector address","21","12/8-bit x 8 channel","16-bit x 2
+8-bit x 2","0","1.8","5.5","SOIC-24 W / MFP-24SJ
+SSOP-24"
+"on","微控制器---通用微控制器","LC87F2G08A","LC87F2G08AUMJ-ZH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2G08AUMJ-ZH","http://www.onsemi.com/pub/Collateral/ENA1028-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM ","8","8K x 8 (Flash)","256 x 9","0.083","0.25","18 sources, 10 vector address","21","12/8-bit x 8 channel","16-bit x 2
+8-bit x 2","0","1.8","5.5","SOIC-24 W / MFP-24SJ
+SSOP-24"
+"on","微控制器---通用微控制器","LC87F2G08A","LC87F2G08AUSSOPTLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2G08AUSSOPTLM-E","http://www.onsemi.com/pub/Collateral/ENA1028-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM ","8","8K x 8 (Flash)","256 x 9","0.083","0.25","18 sources, 10 vector address","21","12/8-bit x 8 channel","16-bit x 2
+8-bit x 2","0","1.8","5.5","SOIC-24 W / MFP-24SJ
+SSOP-24"
+"on","微控制器---通用微控制器","LC87F2J32A","LC87F2J32AU-QIP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2J32AU-QIP-E","http://www.onsemi.com/pub/Collateral/ENA1384-D.PDF","8-bit  Microcontroller with 32K-byte Flash ROM and 1024-byte RAM","Pb-free
+Halide free","Active","8-bit  Microcontroller with 32K-byte Flash ROM and 1024-byte RAM","8","32K x 8 (Flash)","1024 x 9","0.083","0.25","24 sources 10 vector address","41","12/8-bit x 14 channel","16-bit x 2
+8-bit x 4","2","1.8","5.5","PQFP-48 / QIP-48E
+SPQFP-48 / SQFP-48"
+"on","微控制器---通用微控制器","LC87F2J32A","LC87F2J32AUWA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2J32AUWA-2H","http://www.onsemi.com/pub/Collateral/ENA1384-D.PDF","8-bit  Microcontroller with 32K-byte Flash ROM and 1024-byte RAM","Pb-free
+Halide free","Active","8-bit  Microcontroller with 32K-byte Flash ROM and 1024-byte RAM","8","32K x 8 (Flash)","1024 x 9","0.083","0.25","24 sources 10 vector address","41","12/8-bit x 14 channel","16-bit x 2
+8-bit x 4","2","1.8","5.5","PQFP-48 / QIP-48E
+SPQFP-48 / SQFP-48"
+"on","微控制器---通用微控制器","LC87F2L08A","LC87F2L08AU-DIP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2L08AU-DIP-E","http://www.onsemi.com/pub/Collateral/ENA2279-D.PDF","8-bit Microcontroller with 8K-Byte Flash ROM and 256-Byte RAM","Pb-free","Active","8-bit Microcontroller with 8K-Byte Flash ROM and 256-Byte RAM","8","8K x 8 (Flash)","256 x 9","0.083","0.25","19 sources, 10 vector address","17","12/8-bit x 5 channel","16-bit x 2
+8-bit x 2",,"4.5","5.5","PDIP-42 / DIP-42S"
+"on","微控制器---通用微控制器","LC87F2W48A","LC87F2W48AV-SQFP-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2W48AV-SQFP-H","http://www.onsemi.com/pub/Collateral/ENA1869-D.PDF","8-bit Microcontroller with 50K-byte Flash ROM and 1536-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 50K-byte Flash ROM and 1536-byte RAM ","8","50K x 8 (Flash)","1536 x 9","0.0833","0.25","24 sources, 10 vector address","40","12/8-bit x 14ch","16-bit x 2
+8-bit x 4","2","2.7","5.5","SPQFP-48 / SQFP-48"
+"on","微控制器---通用微控制器","LC87F2W48A","LC87F2W48AVU-SQFP-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F2W48AVU-SQFP-H","http://www.onsemi.com/pub/Collateral/ENA1869-D.PDF","8-bit Microcontroller with 50K-byte Flash ROM and 1536-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 50K-byte Flash ROM and 1536-byte RAM ","8","50K x 8 (Flash)","1536 x 9","0.0833","0.25","24 sources, 10 vector address","40","12/8-bit x 14ch","16-bit x 2
+8-bit x 4","2","2.7","5.5","SPQFP-48 / SQFP-48"
+"on","微控制器---通用微控制器","LC87F5JC8A","LC87F5JC8AU-QIP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F5JC8AU-QIP-E","http://www.onsemi.com/pub/Collateral/EN8297-D.PDF","8-bit Microcontroller with 128K-byte Flash ROM and 4096-byte RAM","Pb-free","Active","8-bit Microcontroller with 128K-byte Flash ROM and 4096-byte RAM ","8","128K x 8 (Flash)","4096 x 9","0.083","0.25","26 sources, 10 vector address","55","8-bit x 11 channel","16-bit x 3
+8-bit x 4","2","2.2","5.5","PQFP-64 / QIP-64E"
+"on","微控制器---通用微控制器","LC87F5M64A","LC87F5M64AU-QIP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F5M64AU-QIP-E","http://www.onsemi.com/pub/Collateral/ENA0892-D.PDF","8-bit Microcontroller with 64K-byte Flash ROM and 2048-byte RAM","Pb-free","Active","8-bit Microcontroller with 64K-byte Flash ROM and 2048-byte RAM","8","64K x 8 (Flash)","2048 x 9","0.083","0.25","27 sources, 10 vector address","55","8bit x 11","16-bit x 2
+8-bit x 4","2","2.2","5.5","PQFP-64 / QIP-64E"
+"on","微控制器---通用微控制器","LC87F5M64A","LC87F5M64AVU-QIP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F5M64AVU-QIP-E","http://www.onsemi.com/pub/Collateral/ENA0892-D.PDF","8-bit Microcontroller with 64K-byte Flash ROM and 2048-byte RAM","Pb-free","Active","8-bit Microcontroller with 64K-byte Flash ROM and 2048-byte RAM","8","64K x 8 (Flash)","2048 x 9","0.083","0.25","27 sources, 10 vector address","55","8bit x 11","16-bit x 2
+8-bit x 4","2","2.2","5.5","PQFP-64 / QIP-64E"
+"on","微控制器---通用微控制器","LC87F5VP6A","LC87F5VP6AU-QIP-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F5VP6AU-QIP-H","http://www.onsemi.com/pub/Collateral/LC87F5VP6A-D.PDF","8-bit Microcontroller with 256K-byte Flash ROM and 10240-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 256K-byte Flash ROM and 10240-byte RAM","8","256K x 8 (Flash)","10240B x 9","0.066","0.2","29 sources, 10 vector address","89","8bit x 15","16-bit x 2
+8-bit x 4","4","2.5","5.5","PQFP-100 / QIP-100E"
+"on","微控制器---通用微控制器","LC87FBG08A","LC87FBG08AUJA-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87FBG08AUJA-TLM-H","http://www.onsemi.com/pub/Collateral/ENA2046-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM ","8","8K x 8 (Flash)","256 x 9","0.0833","0.25","19 sources, 10 vector address","21","12/8-bit x 9 channel","16-bit x 2
+8-bit x 2","2","1.8","5.5","SSOP-24
+VCT-24"
+"on","微控制器---通用微控制器","LC87FBG08A","LC87FBG08AURE-TE-L-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87FBG08AURE-TE-L-H","http://www.onsemi.com/pub/Collateral/ENA2046-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM ","8","8K x 8 (Flash)","256 x 9","0.0833","0.25","19 sources, 10 vector address","21","12/8-bit x 9 channel","16-bit x 2
+8-bit x 2","2","1.8","5.5","SSOP-24
+VCT-24"
+"on","微控制器---通用微控制器","LC87FBK08A","LC87FBK08AU-SSOP-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87FBK08AU-SSOP-H","http://www.onsemi.com/pub/Collateral/ENA1956-D.PDF","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 8K-byte Flash ROM and 256-byte RAM ","8","8K x 8 (Flash)","256 x 9","0.083","0.25","15 sources, 9 vector address","21","12/8-bit x 8 channel","16-bit x 2
+8-bit x 2","0","2.7","5.5","SSOP-24"
+"on","微控制器---通用微控制器","LC87FC096A","LC87FC096AVUEF-3H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87FC096AVUEF-3H","http://www.onsemi.com/pub/Collateral/ENA2150-D.PDF","8-bit Microcontroller with 98K-byte Flash ROM and 4096-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with 98K-byte Flash ROM and 4096-byte RAM","8","96K x 8 (Flash)","4096 x 9","0.0833","0.25","31 sources, 10 vector address","55","12-bit x 11 channel","16-bit x 3
+8-bit x 4","4","2.5","3.6","PQFP-64 / QIP-64E"
+"on","微控制器---通用微控制器","LC88F58B0A","LC88F58B0AU-SQFPH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC88F58B0AU-SQFPH","http://www.onsemi.com/pub/Collateral/ENA1951-D.PDF","16-bit Microcontroller with 128K-byte Flash ROM and 6K-byte RAM","Pb-free
+Halide free","Active","16-bit Microcontroller with 128K-byte Flash ROM and 6K-byte RAM","16","128K x 8 (Flash)","6144 x 9","0.083","0.083","40 sources, 16 vector address","54","12/8-bit x 11 channel","16-bit x 6","2","2.2","5.5","SPQFP-64 / SQFP-64"
+"on","微控制器---通用微控制器","LC88FC2H0B","LC88FC2H0BUTJ-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC88FC2H0BUTJ-2H","http://www.onsemi.com/pub/Collateral/LC88FC2H0B-D.PDF","16-bit Microcontroller with 512K-byte Flash ROM and 24K-byte RAM, 100-pin","Pb-free
+Halide free","ActiveNEW","16-bit Microcontroller with 512K-byte Flash ROM and 24K-byte RAM, 100-pin","16","512K x 8 (Flash)","24K x 8","0.083","0.083","61 sources 14 vector address","90","12/8-bit x 16 channel","16-bit x 8","2","2.7","3.6","TQFP-100"

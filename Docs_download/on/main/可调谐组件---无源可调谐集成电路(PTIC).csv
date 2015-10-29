@@ -1,0 +1,27 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","C @ Vbias = 2 V Typ (pF)","C @ Vbias = 20 V Typ (pF)","Tuning Range 2 - 20 V Typ","Tuning Range 20 - 2 V Typ","Q @ 700 MHz, 10 V","Q @ 2.4 GHz, 10 V","fO MHz","Package Type"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3012H","TCP-3012H-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3012H-QT","http://www.onsemi.com/pub/Collateral/TCP-3012H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 1.2 pF, 6 Pin QFN","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 1.2 pF","1.2","0.32","3.8","3.6","90","60","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3027HA","TCP-3027HA-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3027HA-QT","http://www.onsemi.com/pub/Collateral/TCP-3027HA-D.PDF","Passive Tunable Integrated Circuits (PTICS), High-Linearity, 2.7 pF, High-Linearity 2.7 pF Passive Tunable Integrated Circuit (PTIC), 6 Pin QFN","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTICS), High-Linearity, 2.7 pF","2.7","0.675","4",,"60","35","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3033H","TCP-3033H-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3033H-QT","http://www.onsemi.com/pub/Collateral/TCP-3033H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 3.3 pF, 6 Pin QFN","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 3.3 pF","3.3","0.87","3.8","3.6","90","60","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3039H","TCP-3039H-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3039H-QT","http://www.onsemi.com/pub/Collateral/TCP-3039H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 3.9 pF, 6 Pin QFN","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 3.9 pF","3.9","1.03","3.8","3.6","90","60","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3047H","TCP-3047H-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3047H-QT","http://www.onsemi.com/pub/Collateral/TCP-3047H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 4.7 pF, 6 Pin QFN","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 4.7 pF","4.7","1.24","3.8","3.6","90","60","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3056H","TCP-3056H-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3056H-QT","http://www.onsemi.com/pub/Collateral/TCP-3056H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 5.6 pF, 6 Pin QFN","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 5.6 pF","5.6","1.47","3.8","3.6","100","65","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3068H","TCP-3068H-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3068H-QT","http://www.onsemi.com/pub/Collateral/TCP-3068H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 6.8 pF, 6 Pin QFN","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 6.8 pF","6.8","1.79","3.8","3.6","100","75","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3082H","TCP-3082H-QT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3082H-QT","http://www.onsemi.com/pub/Collateral/TCP-3082H-D.PDF","8.2 pF Passive Tunable Integrated Circuit (PTIC), 6 Pin QFN","Pb-free
+Halide free","Active","8.2 pF Passive Tunable Integrated Circuit (PTIC)","8.2","2.16","3.8","3.6","100","70","700-2700","QFN6 1.6x1.2, 0.5P"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3112H","TCP-3112H-DT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3112H-DT","http://www.onsemi.com/pub/Collateral/TCP-3112H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 1.2 pF, 8 Bump WLCSP","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 1.2 pF","1.2","0.3","4",,"90","60","700-2700","WLCSP-8"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3127H","TCP-3127H-DT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3127H-DT","http://www.onsemi.com/pub/Collateral/TCP-3127H-D.PDF","2.7 pF Passive Tunable Integrated Circuits (PTIC), 8-Bump WLCSP","Pb-free
+Halide free","Active","2.7 pF Passive Tunable Integrated Circuits (PTIC)","2.7","0.675","4",,"90","60","700-2700","WLCSP-8"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3139H","TCP-3139H-DT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3139H-DT","http://www.onsemi.com/pub/Collateral/TCP-3139H-D.PDF","Passive Tunable Integrated Circuits (PTIC), 3.9 pF, 12 Bump WLCSP","Pb-free
+Halide free","Active","Passive Tunable Integrated Circuits (PTIC), 3.9 pF","3.9","0.975","4",,"90","60","700-2700","WLCSP-12"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3156H","TCP-3156H-DT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3156H-DT","http://www.onsemi.com/pub/Collateral/TCP-3156H-D.PDF","5.6 pF Passive Tunable Integrated Circuits (PTIC), 12-Bump WLCSP","Pb-free
+Halide free","Active","5.6 pF Passive Tunable Integrated Circuits (PTIC)","5.6","1.4","4",,"100","65","700-2700","WLCSP-12"
+"on","可调谐组件---无源可调谐集成电路(PTIC)","TCP-3182H","TCP-3182H-DT","http://www.onsemi.cn/PowerSolutions/product.do?id=TCP-3182H-DT","http://www.onsemi.com/pub/Collateral/TCP-3182H-D.PDF","8.2 pF Passive Tunable Integrated Circuits (PTIC), 12-Bump WLCSP","Pb-free
+Halide free","Active","8.2 pF Passive Tunable Integrated Circuits (PTIC)","8.2","2.05","4",,"100","70","700-2700","WLCSP-12"

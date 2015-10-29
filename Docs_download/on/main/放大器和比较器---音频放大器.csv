@@ -1,0 +1,83 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Class","Output Power Typ (W)","VCC Max (V)","Output Type","ton Typ (ms)","THD + N Typ (%)","IQ Typ (mA)","ISD Typ (nA)","Package Type"
+"on","放大器和比较器---音频放大器","LA4282","LA4282-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4282-E","http://www.onsemi.com/pub/Collateral/LA4282-D.PDF","Audio Power Amplifier, Class AB, 10W x 2-Channel","Pb-free","Active","Audio Power Amplifier, Class AB, 10W x 2-Channel","AB","10","45","Single",,"0.05","60",,"SIP-12"
+"on","放大器和比较器---音频放大器","LA4425AN","LA4425AN-D-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4425AN-D-E","http://www.onsemi.com/pub/Collateral/LA4425AN-D.PDF","Audio Power Amplifier, 5 W","Pb-free","Active","Audio Power Amplifier, 5 W","AB","5","16","Single","350","0.1","65",,"SIP-5"
+"on","放大器和比较器---音频放大器","LA4440","LA4440J-K-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4440J-K-E","http://www.onsemi.com/pub/Collateral/EN750-D.PDF","6W 2-Channel, Bridge 19W(typ) Power Amplifier","Pb-free","Active","6W 2-Channel, Bridge 19W(typ) Power Amplifier","AB","6","18","Dual",,"0.1","100",,"SIP-14"
+"on","放大器和比较器---音频放大器","LA4535MC","LA4535MC-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4535MC-BH","http://www.onsemi.com/pub/Collateral/ENA2032-D.PDF","Stereo Headphone Power Amplifier, 1.5 V","Pb-free
+Halide free","Active","Stereo Headphone Power Amplifier, 1.5 V","AB","0.008","4","Dual",,"0.8","3.5",,"SOIC-10 NB"
+"on","放大器和比较器---音频放大器","LA4625","LA4625-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4625-E","http://www.onsemi.com/pub/Collateral/LA4625-D.PDF","Audio Power Amplifier, Class AB, 2-Channel, 13.5 W, BTL","Pb-free","Active","Audio Power Amplifier, Class AB, 2-Channel, 13.5 W, BTL","AB","13.5","20","BTL","600","0.06","120","10000","SIP-14"
+"on","放大器和比较器---音频放大器","LA4625","LA4625-P-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4625-P-E","http://www.onsemi.com/pub/Collateral/LA4625-D.PDF","Audio Power Amplifier, Class AB, 2-Channel, 13.5 W, BTL","Pb-free","Active","Audio Power Amplifier, Class AB, 2-Channel, 13.5 W, BTL","AB","13.5","20","BTL","600","0.06","120","10000","SIP-14"
+"on","放大器和比较器---音频放大器","LA4631VC","LA4631VC-XE","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4631VC-XE","http://www.onsemi.com/pub/Collateral/ENA2051-D.PDF","Audio Power Amplifier, Class AB, 2-Channel, 4.5 W","Pb-free","Active","Audio Power Amplifier, Class AB, 2-Channel, 4.5 W","AB","4.5","22","Dual","200","0.15","35","1000","SIP-12"
+"on","放大器和比较器---音频放大器","LA4814JA","LA4814JA-AE","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4814JA-AE","http://www.onsemi.com/pub/Collateral/ENA2040-D.PDF","Audio Power Amplifier, Class AB, 2-Channel, 0.35 W","Pb-free","Active","Audio Power Amplifier, Class AB, 2-Channel, 0.35 W","AB","0.35","7","Dual",,"0.35","8.6","100","SSOP-20"
+"on","放大器和比较器---音频放大器","LA4814JA","LA4814JA-ZE","http://www.onsemi.cn/PowerSolutions/product.do?id=LA4814JA-ZE","http://www.onsemi.com/pub/Collateral/ENA2040-D.PDF","Audio Power Amplifier, Class AB, 2-Channel, 0.35 W","Pb-free","Active","Audio Power Amplifier, Class AB, 2-Channel, 0.35 W","AB","0.35","7","Dual",,"0.35","8.6","100","SSOP-20"
+"on","放大器和比较器---音频放大器","LA74309FA","LA74309FA-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA74309FA-BH","http://www.onsemi.com/pub/Collateral/ENA2050-D.PDF","Microphone Amplifier","Pb-free
+Halide free","Active","Microphone Amplifier",,,"3.6","Dual",,"0.03","5.3","10000","Micro10"
+"on","放大器和比较器---音频放大器","LV47009P","LV47009P-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV47009P-E","http://www.onsemi.com/pub/Collateral/ENA1959-D.PDF","Audio Power Amplifier, Class AB, 4-Channel, 41 W","Pb-free","Active","Audio Power Amplifier, Class AB, 4-Channel, 41 W","AB","41","16","BTL",,"0.03","200","10000","HZIP-25"
+"on","放大器和比较器---音频放大器","LV47017P","LV47017P-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV47017P-E","http://www.onsemi.com/pub/Collateral/ENA1691-D.PDF","Audio Power Amplifier, Class AB, 4-Channel, 48 W, BTL","Pb-free","Active","Audio Power Amplifier, Class AB, 4-Channel, 48 W, BTL","AB","48","16","BTL",,"0.03","200","10000","HZIP-25"
+"on","放大器和比较器---音频放大器","LV4904V","LV4904V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV4904V-MPB-E","http://www.onsemi.com/pub/Collateral/ENA1963-D.PDF","Audio Power Amplifier, Class D, 2-Channel, 10 W","Pb-free","Active","Audio Power Amplifier, Class D, 2-Channel, 10 W","D","10","20","BTL",,"0.1","16","1000","SSOP-44J EP"
+"on","放大器和比较器---音频放大器","LV4904V","LV4904V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV4904V-TLM-E","http://www.onsemi.com/pub/Collateral/ENA1963-D.PDF","Audio Power Amplifier, Class D, 2-Channel, 10 W","Pb-free","Active","Audio Power Amplifier, Class D, 2-Channel, 10 W","D","10","20","BTL",,"0.1","16","1000","SSOP-44J EP"
+"on","放大器和比较器---音频放大器","LV49152V","LV49152V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV49152V-MPB-E","http://www.onsemi.com/pub/Collateral/LV49152V-D.PDF","Audio Power Amplifier, Class D, 2-Channel, 15 W, BTL","Pb-free","Active","Audio Power Amplifier, Class D, 2-Channel, 15 W, BTL","D","15","18","BTL",,"0.08","45","1000","SSOP-44J EP"
+"on","放大器和比较器---音频放大器","LV49152V","LV49152V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV49152V-TLM-E","http://www.onsemi.com/pub/Collateral/LV49152V-D.PDF","Audio Power Amplifier, Class D, 2-Channel, 15 W, BTL","Pb-free","Active","Audio Power Amplifier, Class D, 2-Channel, 15 W, BTL","D","15","18","BTL",,"0.08","45","1000","SSOP-44J EP"
+"on","放大器和比较器---音频放大器","LV4924VH","LV4924VH-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV4924VH-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1997-D.PDF","Audio Power Amplifier, Class D, 2-Channel, 10W, BTL","Pb-free
+Halide free","Active","Audio Power Amplifier, Class D, 2-Channel, 10W, BTL","D","10","20","BTL",,"0.1","38","10000","HSSOP-36"
+"on","放大器和比较器---音频放大器","NCP2809","NCP2809ADMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2809ADMR2G","http://www.onsemi.com/pub/Collateral/NCP2809-D.PDF","Audio Power Amplifier, Stereo Headphone 135 mW","Pb-free
+Halide free","Active","Audio Power Amplifier, Stereo Headphone 135 mW","AB","0.135","5.5","Multiple Analog","285","0.003","1.5","10","Micro10
+UDFN-10"
+"on","放大器和比较器---音频放大器","NCP2809","NCP2809BDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2809BDMR2G","http://www.onsemi.com/pub/Collateral/NCP2809-D.PDF","Audio Power Amplifier, Stereo Headphone 135 mW","Pb-free
+Halide free","Active","Audio Power Amplifier, Stereo Headphone 135 mW","AB","0.135","5.5","Multiple Analog","285","0.003","1.5","10","Micro10
+UDFN-10"
+"on","放大器和比较器---音频放大器","NCP2809","NCP2809BMUTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2809BMUTXG","http://www.onsemi.com/pub/Collateral/NCP2809-D.PDF","Audio Power Amplifier, Stereo Headphone 135 mW","Pb-free
+Halide free","Active","Audio Power Amplifier, Stereo Headphone 135 mW","AB","0.135","5.5","Multiple Analog","285","0.003","1.5","10","Micro10
+UDFN-10"
+"on","放大器和比较器---音频放大器","NCP2817","NCP2817BFCCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2817BFCCT2G","http://www.onsemi.com/pub/Collateral/NCP2817-D.PDF","Audio Amplifier, NOCAP, LongPlay, Headphone","Pb-free
+Halide free","Active","Audio Amplifier, NOCAP, LongPlay, Headphone","AB","0.042","5.5","BTL","1","0.02","2.3","1000","Flip-Chip-12"
+"on","放大器和比较器---音频放大器","NCP2823","NCP2823AFCCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2823AFCCT2G","http://www.onsemi.com/pub/Collateral/NCP2823-D.PDF","Audio Power Amplifier, 3.0 W, Filterless, Class D, with Backside Laminate Coating","Pb-free
+Halide free","Active","Audio Power Amplifier, 3.0 W, Filterless, Class D","D","1.5
+3","5.5","BTL","7.4","0.08","1.8
+2.6","10","Flip-Chip-9"
+"on","放大器和比较器---音频放大器","NCP2823","NCP2823AFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2823AFCT2G","http://www.onsemi.com/pub/Collateral/NCP2823-D.PDF","Audio Power Amplifier, 3.0 W, Filterless, Class D","Pb-free
+Halide free","Active","Audio Power Amplifier, 3.0 W, Filterless, Class D","D","1.5
+3","5.5","BTL","7.4","0.08","1.8
+2.6","10","Flip-Chip-9"
+"on","放大器和比较器---音频放大器","NCP2823","NCP2823BFCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2823BFCT1G","http://www.onsemi.com/pub/Collateral/NCP2823-D.PDF","Audio Power Amplifier, 3.0 W, Filterless, Class D","Pb-free
+Halide free","Active","Audio Power Amplifier, 3.0 W, Filterless, Class D","D","1.5
+3","5.5","BTL","7.4","0.08","1.8
+2.6","10","Flip-Chip-9"
+"on","放大器和比较器---音频放大器","NCP2823","NCP2823BFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2823BFCT2G","http://www.onsemi.com/pub/Collateral/NCP2823-D.PDF","Audio Power Amplifier, 3.0 W, Filterless, Class D","Pb-free
+Halide free","Active","Audio Power Amplifier, 3.0 W, Filterless, Class D","D","1.5
+3","5.5","BTL","7.4","0.08","1.8
+2.6","10","Flip-Chip-9"
+"on","放大器和比较器---音频放大器","NCP2993","NCP2993FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP2993FCT2G","http://www.onsemi.com/pub/Collateral/NCP2993-D.PDF","Audio Power Amplifier, 1.3 W, with Selectable Fast Turn-On Time, NCP2993FCT2G","Pb-free
+Halide free","Active","Audio Power Amplifier, 1.3 W, with Selectable Fast Turn-On Time","AB","1.3","5.5","BTL","30","0.015","1.8","20","Flip Chip-9"
+"on","放大器和比较器---音频放大器","NCS2211","NCS2211DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2211DR2G","http://www.onsemi.com/pub/Collateral/NCS2211-D.PDF","Audio Power Amplifier, Low Distortion, with Differential Output and Shutdown Mode","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Audio Power Amplifier, Low Distortion, with Differential Output and Shutdown Mode","AB","1.5","5.5","BTL","0.001","0.2","20","1000","DFN-8
+SOIC-8"
+"on","放大器和比较器---音频放大器","NCS2211","NCS2211MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2211MNTXG","http://www.onsemi.com/pub/Collateral/NCS2211-D.PDF","Audio Power Amplifier, Low Distortion, with Differential Output and Shutdown Mode","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Audio Power Amplifier, Low Distortion, with Differential Output and Shutdown Mode","AB","1.5","5.5","BTL","0.001","0.2","20","1000","DFN-8
+SOIC-8"
+"on","放大器和比较器---音频放大器","NCS2211","NCV2211DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2211DR2G","http://www.onsemi.com/pub/Collateral/NCS2211-D.PDF","Audio Power Amplifier, Low Distortion, with Differential Output and Shutdown Mode","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Audio Power Amplifier, Low Distortion, with Differential Output and Shutdown Mode","AB","1.5","5.5","BTL","0.001","0.2","20","1000","DFN-8
+SOIC-8"
+"on","放大器和比较器---音频放大器","NCS8353","NCS8353MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS8353MNTXG","http://www.onsemi.com/pub/Collateral/NCS8353-D.PDF","Audio Power Amplifier, Class D, Stereo, 20 W/Channel, with Programmable Power Limit and Selectable Gain","Pb-free
+Halide free","Active","Audio Power Amplifier, Class D, Stereo, 20 W/Channel, with Programmable Power Limit and Selectable Gain ","D","20","26","BTL","450","0.03","33","0.1","QFN-32"
+"on","放大器和比较器---音频放大器","SA571","SA571DG","http://www.onsemi.cn/PowerSolutions/product.do?id=SA571DG","http://www.onsemi.com/pub/Collateral/SA571-D.PDF","Compandor","Pb-free
+Halide free","Active","Compandor",,,"18",,,,,,"SOIC-16W"
+"on","放大器和比较器---音频放大器","SA571","SA571DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=SA571DR2G","http://www.onsemi.com/pub/Collateral/SA571-D.PDF","Compandor","Pb-free
+Halide free","Active","Compandor",,,"18",,,,,,"SOIC-16W"
+"on","放大器和比较器---音频放大器","SA575","SA575DG","http://www.onsemi.cn/PowerSolutions/product.do?id=SA575DG","http://www.onsemi.com/pub/Collateral/SA575-D.PDF","Low Voltage Compandor","Pb-free
+Halide free","Active","Low Voltage Compandor",,,"7",,,,,,"SOIC-20W
+TSSOP-20"
+"on","放大器和比较器---音频放大器","SA575","SA575DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=SA575DR2G","http://www.onsemi.com/pub/Collateral/SA575-D.PDF","Low Voltage Compandor","Pb-free
+Halide free","Active","Low Voltage Compandor",,,"7",,,,,,"SOIC-20W
+TSSOP-20"
+"on","放大器和比较器---音频放大器","SA575","SA575DTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=SA575DTBG","http://www.onsemi.com/pub/Collateral/SA575-D.PDF","Low Voltage Compandor","Pb-free
+Halide free","Active","Low Voltage Compandor",,,"7",,,,,,"SOIC-20W
+TSSOP-20"
+"on","放大器和比较器---音频放大器","SA575","SA575DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=SA575DTBR2G","http://www.onsemi.com/pub/Collateral/SA575-D.PDF","Low Voltage Compandor","Pb-free
+Halide free","Active","Low Voltage Compandor",,,"7",,,,,,"SOIC-20W
+TSSOP-20"

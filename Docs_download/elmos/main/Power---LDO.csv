@@ -1,0 +1,11 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Power---LDO","E522.51","http://www.elmos.com/fileadmin/2013/02_products/02_power/03_ldo/e522-51_elmos_ds.pdf","http://www.elmos.com/english/products/power/ldo.html?tx_pmproductlist_productlist%5Bproduct%5D=448&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=f73ac5f27bb19dc524738a4f278cedb0","Dual Buck-Quad LDO"," "," ","2x800mA
+1x320mA
+3x350mA "," "," "," "," "," "," "," "," "," "," ","0.5V to 6V  ","5.2V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN48L7 "," "," 2 fixed frequency step-down converters
+Multifunctional Watchdog 4 linear regulators
+Power Sequencer
+Supply Monitoring
+SPI Interface"
+"elmos","Power---LDO","E522.40","http://www.elmos.com/fileadmin/2013/02_products/02_power/03_ldo/e522-40_elmos_ds.pdf","http://www.elmos.com/english/products/power/ldo.html?tx_pmproductlist_productlist%5Bproduct%5D=313&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=b4a4c0498c14c8ec53bc0aa8d7afec62","Dual LDO with Diagnosis"," "," ","2x200mA "," "," "," "," "," "," "," "," "," "," ","3.3V to VBAT  ","4.5V to 25V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L5 "," "," ADC capturing of relevant voltages and currents
+I²C interface for programming and monitoring
+Multiple protection features"

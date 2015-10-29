@@ -1,0 +1,16 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Data Transmission Standard","ICC Max (mA)","VCC Min (V)","VCC Max (V)","T Min (&#0176;C)","T Max (&#0176;C)","Package Type"
+"on","热管理---风扇控制器","ADM1024","ADM1024ARUZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADM1024ARUZ-REEL","http://www.onsemi.com/pub/Collateral/ADM1024-D.PDF","System Hardware Monitor with Remote Diode Thermal Sensing","Pb-free","Active","System Hardware Monitor with Remote Diode Thermal Sensing","SMBus","3.5","2.8","5.5","0","100","TSSOP-24"
+"on","热管理---风扇控制器","ADM1033","ADM1033ARQZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADM1033ARQZ-REEL","http://www.onsemi.com/pub/Collateral/ADM1033-D.PDF","Thermal Monitor and Fan Speed Controller","Pb-free
+Halide free","Active","Thermal Monitor and Fan Speed Controller","SMBus","3","3","5.5","-40","125","QSOP-16"
+"on","热管理---风扇控制器","ADT7460","ADT7460ARQZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7460ARQZ-REEL","http://www.onsemi.com/pub/Collateral/ADT7460-D.PDF","Thermal Management Controller","Pb-free
+Halide free","Active","Thermal Management Controller","SMBus","3","3","5.5","-40","120","QSOP-16"
+"on","热管理---风扇控制器","ADT7463","ADT7463ARQZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7463ARQZ-REEL","http://www.onsemi.com/pub/Collateral/ADT7463-D.PDF","Remote Thermal Controller and Voltage Monitor","Pb-free
+Halide free","Active","Remote Thermal Controller and Voltage Monitor","SMBus","3","3","5.5","-40","120","QSOP-24"
+"on","热管理---风扇控制器","ADT7473","ADT7473ARQZ-1RL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7473ARQZ-1RL","http://www.onsemi.com/pub/Collateral/ADT7473-D.PDF","Remote Thermal Monitor and Fan Controller","Pb-free
+Halide free","Active","Remote Thermal Monitor and Fan Controller ","SMBus","3","3","3.6","-40","125","QSOP-16"
+"on","热管理---风扇控制器","ADT7473","ADT7473ARQZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7473ARQZ-REEL","http://www.onsemi.com/pub/Collateral/ADT7473-D.PDF","Remote Thermal Monitor and Fan Controller","Pb-free
+Halide free","Active","Remote Thermal Monitor and Fan Controller ","SMBus","3","3","3.6","-40","125","QSOP-16"
+"on","热管理---风扇控制器","ADT7476","ADT7476ARQZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7476ARQZ-REEL","http://www.onsemi.com/pub/Collateral/ADT7476-D.PDF","Remote Thermal Controller and Voltage Monitor","Pb-free
+Halide free","Active","Remote Thermal Controller and Voltage Monitor","SMBus","3","3","3.6","-40","125","QSOP-24"
+"on","热管理---风扇控制器","ADT7490","ADT7490ARQZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7490ARQZ-REEL","http://www.onsemi.com/pub/Collateral/ADT7490-D.PDF","Remote Thermal Monitor and Fan Controller with PECI Interface","Pb-free
+Halide free","Active","Remote Thermal Monitor and Fan Controller with PECI Interface","SMBus","5","3","3.6","-40","125","QSOP-24"

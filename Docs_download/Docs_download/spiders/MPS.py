@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-from Docs_download.items import DocsDownloadItem
+from Docs_download.items import FilesItem
 import json, re
 import time
 import libxml2
@@ -11,7 +11,7 @@ sys.setdefaultencoding('utf-8')
 
 
 class SheetMpsSpider(scrapy.Spider):
-    name = "MPS_Sheet"
+    name = "mps"
     allowed_domains = ["monolithicpower.com"]
     start_urls = (
         'http://www.monolithicpower.com/',
@@ -19,9 +19,6 @@ class SheetMpsSpider(scrapy.Spider):
 
     def __init__(self):
         self.cnt = 0
-        self.relation = open('relation.csv', 'w+')
-        title = '"型号", "地址", "系列", "原厂链接"\n'
-        self.relation.write(title.encode('gbk'))
         self.field_enum = {}
         doc = libxml2.parseFile('enum.xml')
         for val in doc.xpathEval('//Field'):
@@ -31,7 +28,7 @@ class SheetMpsSpider(scrapy.Spider):
                 label = item.xpathEval('Label/text()')[0].content
                 value = item.xpathEval('Value/text()')[0].content
                 self.field_enum[shortname][value] = label
-        print self.field_enum
+        # print self.field_enum
         doc.freeDoc()
 
 
@@ -50,15 +47,15 @@ class SheetMpsSpider(scrapy.Spider):
             tmp = val
             while 0 != tmp['ParentID']:
                 tmp = index_category[tmp['ParentID']]
-                name = tmp['Name'].strip() + '-' + name
+                name = tmp['Name'].strip() + '---' + name
 
             yield scrapy.Request(_url_third, callback=self.third_parse, cookies={
-                '.ASPXANONYMOUS' : '9bMi0aYq0QEkAAAAZDBjMzQ2Y2YtN2EwYS00ZGVjLWFmZmQtNTlkM2IzNmNlNDRm0',
-                'ASP.NET_SessionId' : 'akutighgwey5ja1x0zakf4k5',
+                '.ASPXANONYMOUS' : 'tEosW6o30QEkAAAANmQ5Yjg4MGEtY2Y5Ny00ZTFjLTgyYTktOGEyNGNkNDVlNTQ10',
+                'ASP.NET_SessionId' : 's5fydptdnlo45utbk2zgz0mg',
                 'authentication' : 'DNN',
                 'dnn_IsMobile' : 'False',
-                '.DOTNETNUKE' : '09C50769BCC212917BB1C2012B064B8A58EF855249ACB4F1989E85CB6247251E3B5C613AC7E86E32F82A7BB064974B9CDFEDCAE7E170DBA635D453C266C0257A70E4665AC23204A400850709F327883F63E0B9C9EC2FCC9C18ADE8777CAB4365BBA5E86BA20327DA1A534EFB37A4DDD320D9752F4B2E44FD065D2C1641839D9F452F44D6',
-                '_ga' : 'GA1.2.1508715189.1442802415',
+                '.DOTNETNUKE' : '240F519DB2458029FC44C84BB5161BA1BF19C48F447DBB4D841FF20A333150E8C73BECC70FF8F87E475FFC89C3A99F8F61D841406471434A34DAC9236FCE9D04C6F1A9A560092614074BB488F9BC32B9BC503A23C9F5BFB64D68C8A92BF733655969B827354220AF63CAB552C8C27A83AC9DA775EA99CBB077E5CEAEE98447A53C011506',
+                '_ga' : 'GA1.2.603964860.1444233118',
                 '_gat' : '1',
                 'language' : 'en-US'
                 }, meta={'name' : name, 'CategoryID' : val['CategoryID']})
@@ -67,20 +64,20 @@ class SheetMpsSpider(scrapy.Spider):
     def secondary_parse(self, response):
         product = json.loads(response.body)
         if len(product['Data']) > 0:
-            #print len(product['Data'])
             base_url = 'http://new.zlgmcu.com/mps_datasheet/'
-            item = DocsDownloadItem()
+            detail_url = 'http://www.monolithicpower.com/Products/Product-Detail?ProductID=%s'
+            title = ['brand', 'Series', 'PartNo', 'DetailLink', 'dataSheet', '原厂链接']
+            item = FilesItem()
             item['filename'] = {}
             item['file_urls'] = []
-            sheet = open('sheet/' + re.sub(r'[\/\\><]', '_', response.meta['name'].strip()) + '.csv', 'w+')
-            sheet.write(','.join(response.meta['field_name']) + "\n")
+            sheet = open('mps/main/' + re.sub(r'[/:|?*"\\<>]', '&', response.meta['name'].strip()) + '.csv', 'w+')
+            sheet.write(','.join(title + response.meta['field_name']) + "\n")
             for val in product['Data']:
                 url = response.urljoin(val['datasheet_url'])
                 item['filename'][url] = val['partnumber']
                 item['file_urls'].append(url)
 
-                #relation.csv
-                self.relation.write(','.join(['"' + val['partnumber'] + '"', '"' + base_url + val['partnumber'] + '.pdf"', '"' + response.meta['name'] + '"', '"' + url + '"']) + "\n")
+                head = ','.join(['"mps"', '"' + response.meta['name'] + '"', '"' + val['partnumber'] + '"', '"' + (detail_url % val['productid']) + '"', '"' + base_url + val['partnumber'] + '.pdf"', '"' + url + '"'])
 
                 #sheet
                 lst_csv = ['"%s"'] * len(response.meta['field']);
@@ -90,18 +87,12 @@ class SheetMpsSpider(scrapy.Spider):
                         lst.append(self.field_enum[field][val[field]])
                     else:
                         lst.append(val[field] if val[field] else '')
-                    #print response.meta['field']
-                    #print response.meta['field_name']
-                    #print val
 
-                str_csv = (','.join(lst_csv)) % tuple(lst)
+                str_csv = head + ',' + ((','.join(lst_csv)) % tuple(lst))
                 sheet.write(str_csv.decode('utf8') + "\n")
 
 
                 self.cnt += 1
-                #print self.cnt
-                if 0 == self.cnt % 20:
-                    self.relation.flush()
 
             sheet.close()
             #return item
@@ -128,19 +119,14 @@ class SheetMpsSpider(scrapy.Spider):
                 url = 'http://www.monolithicpower.com/Desktopmodules/Product/Ajax.ashx?method=getProducts&categoryID=%s&_=%d'
                 _url = url % (response.meta['CategoryID'], (time.time() * 1000))
                 yield scrapy.Request(_url, callback=self.secondary_parse, cookies={
-                    '.ASPXANONYMOUS' : '9bMi0aYq0QEkAAAAZDBjMzQ2Y2YtN2EwYS00ZGVjLWFmZmQtNTlkM2IzNmNlNDRm0',
-                    'ASP.NET_SessionId' : 'akutighgwey5ja1x0zakf4k5',
+                    '.ASPXANONYMOUS' : 'tEosW6o30QEkAAAANmQ5Yjg4MGEtY2Y5Ny00ZTFjLTgyYTktOGEyNGNkNDVlNTQ10',
+                    'ASP.NET_SessionId' : 's5fydptdnlo45utbk2zgz0mg',
                     'authentication' : 'DNN',
                     'dnn_IsMobile' : 'False',
-                    '.DOTNETNUKE' : '09C50769BCC212917BB1C2012B064B8A58EF855249ACB4F1989E85CB6247251E3B5C613AC7E86E32F82A7BB064974B9CDFEDCAE7E170DBA635D453C266C0257A70E4665AC23204A400850709F327883F63E0B9C9EC2FCC9C18ADE8777CAB4365BBA5E86BA20327DA1A534EFB37A4DDD320D9752F4B2E44FD065D2C1641839D9F452F44D6',
-                    '_ga' : 'GA1.2.1508715189.1442802415',
+                    '.DOTNETNUKE' : '240F519DB2458029FC44C84BB5161BA1BF19C48F447DBB4D841FF20A333150E8C73BECC70FF8F87E475FFC89C3A99F8F61D841406471434A34DAC9236FCE9D04C6F1A9A560092614074BB488F9BC32B9BC503A23C9F5BFB64D68C8A92BF733655969B827354220AF63CAB552C8C27A83AC9DA775EA99CBB077E5CEAEE98447A53C011506',
+                    '_ga' : 'GA1.2.603964860.1444233118',
                     '_gat' : '1',
                     'language' : 'en-US'
                     }, meta={'name' : response.meta['name'], 'field' : field, 'field_name' : field_name})
         else:
             print "Not match!"
-
-        
-
-    def closed(spider, reason):
-        spider.relation.close()

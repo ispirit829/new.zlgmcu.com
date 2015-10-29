@@ -1,0 +1,331 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Input/Output Ratio","Channels","Input Level","Output Level","VCC Typ (V)","fMax Typ (MHz)","tJitter Typ (ps)","tskew(OO) Max (ps)","tpd Typ (ns)","Package Type"
+"on","时钟及数据分配---多工器及交点开关","MC100E158","MC100E158FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E158FNG","http://www.onsemi.com/pub/Collateral/MC10E158-D.PDF","Multiplexer, 5-Bit, 2:1 ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 5-Bit, 2:1 ECL, 5.0 V","2:1","5","ECL","ECL","5","1100","1","40","0.7","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC100E158","MC100E158FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E158FNR2G","http://www.onsemi.com/pub/Collateral/MC10E158-D.PDF","Multiplexer, 5-Bit, 2:1 ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 5-Bit, 2:1 ECL, 5.0 V","2:1","5","ECL","ECL","5","1100","1","40","0.7","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC100E164","MC100E164FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E164FNR2G","http://www.onsemi.com/pub/Collateral/MC10E164-D.PDF","Multiplexer, 16:1 ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 16:1 ECL, 5.0 V","16:1","1","ECL","ECL","5","1100","1","50","0.85","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC100EL56","MC100EL56DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL56DWG","http://www.onsemi.com/pub/Collateral/MC100EL56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 5.0 V","2:1","2","ECL
+LVDS","ECL","5","1000","1.5","80","0.52","SOIC-20W"
+"on","时钟及数据分配---多工器及交点开关","MC100EL56","MC100EL56DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL56DWR2G","http://www.onsemi.com/pub/Collateral/MC100EL56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 5.0 V","2:1","2","ECL
+LVDS","ECL","5","1000","1.5","80","0.52","SOIC-20W"
+"on","时钟及数据分配---多工器及交点开关","MC100EL58","MC100EL58DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL58DG","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9","60","0.23","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EL58","MC100EL58DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL58DR2G","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9","60","0.23","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EL58","MC100EL58DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL58DTG","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9","60","0.23","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EL58","MC100EL58DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL58DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9","60","0.23","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EL58","MC100EL58MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL58MNR4G","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9","60","0.23","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EP56","MC100EP56DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP56DTG","http://www.onsemi.com/pub/Collateral/MC10EP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","2:1","2","CML
+ECL","ECL","3.3
+5","3000","0.2","100","0.36","QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC100EP56","MC100EP56DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP56DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","2:1","2","CML
+ECL","ECL","3.3
+5","3000","0.2","100","0.36","QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC100EP56","MC100EP56DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP56DWG","http://www.onsemi.com/pub/Collateral/MC10EP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","2:1","2","CML
+ECL","ECL","3.3
+5","3000","0.2","100","0.36","QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC100EP56","MC100EP56DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP56DWR2G","http://www.onsemi.com/pub/Collateral/MC10EP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","2:1","2","CML
+ECL","ECL","3.3
+5","3000","0.2","100","0.36","QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC100EP56","MC100EP56MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP56MNG","http://www.onsemi.com/pub/Collateral/MC10EP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","2:1","2","CML
+ECL","ECL","3.3
+5","3000","0.2","100","0.36","QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC100EP56","MC100EP56MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP56MNTXG","http://www.onsemi.com/pub/Collateral/MC10EP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V / 5.0 V","2:1","2","CML
+ECL","ECL","3.3
+5","3000","0.2","100","0.36","QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC100EP58","MC100EP58DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP58DG","http://www.onsemi.com/pub/Collateral/MC10EP58-D.PDF","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","2:1","1","CML
+ECL","ECL","3.3
+5","3000","0.2",,"0.31","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EP58","MC100EP58DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP58DR2G","http://www.onsemi.com/pub/Collateral/MC10EP58-D.PDF","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","2:1","1","CML
+ECL","ECL","3.3
+5","3000","0.2",,"0.31","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EP58","MC100EP58DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP58DTG","http://www.onsemi.com/pub/Collateral/MC10EP58-D.PDF","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","2:1","1","CML
+ECL","ECL","3.3
+5","3000","0.2",,"0.31","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100EP58","MC100EP58DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP58DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP58-D.PDF","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, ECL, 3.3 V / 5.0 V","2:1","1","CML
+ECL","ECL","3.3
+5","3000","0.2",,"0.31","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC100LVEL56","MC100LVEL56DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL56DWG","http://www.onsemi.com/pub/Collateral/MC100LVEL56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V","2:1","2","ECL
+LVDS","ECL","3.3","1000","1.5","80","0.44","SOIC-20W"
+"on","时钟及数据分配---多工器及交点开关","MC100LVEL56","MC100LVEL56DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL56DWR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 3.3 V","2:1","2","ECL
+LVDS","ECL","3.3","1000","1.5","80","0.44","SOIC-20W"
+"on","时钟及数据分配---多工器及交点开关","MC100LVEL59","MC100LVEL59DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL59DWG","http://www.onsemi.com/pub/Collateral/MC100LVEL59-D.PDF","Multiplexer, 2:1, Triple ECL, 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, Triple ECL, 3.3 V","2:1","3","ECL","ECL","3.3","1000","1","100","0.5","SOIC-20W"
+"on","时钟及数据分配---多工器及交点开关","MC100LVEL59","MC100LVEL59DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL59DWR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL59-D.PDF","Multiplexer, 2:1, Triple ECL, 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, Triple ECL, 3.3 V","2:1","3","ECL","ECL","3.3","1000","1","100","0.5","SOIC-20W"
+"on","时钟及数据分配---多工器及交点开关","MC10E155","MC10E155FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E155FNG","http://www.onsemi.com/pub/Collateral/MC10E155-D.PDF","ECL 6-Bit 2:1 Mux Latch","Pb-free
+Halide free","Active","ECL 6-Bit 2:1 Mux Latch","2:1","6","ECL","ECL","5","1100","1","75","0.5","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC10E155","MC10E155FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E155FNR2G","http://www.onsemi.com/pub/Collateral/MC10E155-D.PDF","ECL 6-Bit 2:1 Mux Latch","Pb-free
+Halide free","Active","ECL 6-Bit 2:1 Mux Latch","2:1","6","ECL","ECL","5","1100","1","75","0.5","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC10E157","MC10E157FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E157FNG","http://www.onsemi.com/pub/Collateral/MC10E157-D.PDF","ECL Quad 2:1 Multiplexer","Pb-free
+Halide free","Active","ECL Quad 2:1 Multiplexer","2:1","4","ECL","ECL","5","1100","1","70","0.38","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC10E163","MC10E163FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E163FNR2G","http://www.onsemi.com/pub/Collateral/MC10E163-D.PDF","ECL 2-Bit 8:1 Multiplexer","Pb-free
+Halide free","Active","ECL 2-Bit 8:1 Multiplexer","8:1","2","ECL","ECL","5","1100","1","40","0.7","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC10E167","MC10E167FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E167FNG","http://www.onsemi.com/pub/Collateral/MC10E167-D.PDF","5.0 V ECL 6-Bit 2:1 Mux-Register","Pb-free
+Halide free","Active","5.0 V ECL 6-Bit 2:1 Mux-Register","2:1","6","ECL","ECL","5","1400","1","75","0.85","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC10E167","MC10E167FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E167FNR2G","http://www.onsemi.com/pub/Collateral/MC10E167-D.PDF","5.0 V ECL 6-Bit 2:1 Mux-Register","Pb-free
+Halide free","Active","5.0 V ECL 6-Bit 2:1 Mux-Register","2:1","6","ECL","ECL","5","1400","1","75","0.85","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC10E457","MC10E457FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E457FNR2G","http://www.onsemi.com/pub/Collateral/MC10E457-D.PDF","ECL Triple Differential 2:1 Multiplexer","Pb-free
+Halide free","Active","ECL Triple Differential 2:1 Multiplexer","2:1","3","CML
+ECL","ECL","5","1100","1","40","0.475","PLCC-28"
+"on","时钟及数据分配---多工器及交点开关","MC10EL58","MC10EL58DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL58DG","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9",,"0.23","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC10EL58","MC10EL58DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL58DR2G","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9",,"0.23","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC10EL58","MC10EL58DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL58DTG","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9",,"0.23","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC10EL58","MC10EL58DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL58DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL58-D.PDF","Multiplexer, 2:1, ECL, 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 2:1, ECL, 5.0 V","2:1","1","ECL","ECL","5","1500","0.9",,"0.23","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---多工器及交点开关","MC10EP57","MC10EP57DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP57DTG","http://www.onsemi.com/pub/Collateral/MC10EP57-D.PDF","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","4:1","1","CML
+ECL","ECL","3.3
+5","3000","0.135","200","0.375","QFN-20
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC10EP57","MC10EP57DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP57DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP57-D.PDF","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","4:1","1","CML
+ECL","ECL","3.3
+5","3000","0.135","200","0.375","QFN-20
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC10EP57","MC10EP57MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP57MNG","http://www.onsemi.com/pub/Collateral/MC10EP57-D.PDF","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","4:1","1","CML
+ECL","ECL","3.3
+5","3000","0.135","200","0.375","QFN-20
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC10EP57","MC10EP57MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP57MNTXG","http://www.onsemi.com/pub/Collateral/MC10EP57-D.PDF","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Multiplexer, 4:1 Differential, ECL, 3.3 V / 5.0 V","4:1","1","CML
+ECL","ECL","3.3
+5","3000","0.135","200","0.375","QFN-20
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","MC10H158","MC10H158FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H158FNG","http://www.onsemi.com/pub/Collateral/MC10H158-D.PDF","Quad 2-Input Multiplexer (Non-Inverting)","Pb-free
+Halide free","Active","Quad 2-Input Multiplexer (Non-Inverting)","2:1","4","ECL","ECL","-5.2",,,,"1.5","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---多工器及交点开关","MC10H158","MC10H158PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H158PG","http://www.onsemi.com/pub/Collateral/MC10H158-D.PDF","Quad 2-Input Multiplexer (Non-Inverting)","Pb-free
+Halide free","Active","Quad 2-Input Multiplexer (Non-Inverting)","2:1","4","ECL","ECL","-5.2",,,,"1.5","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---多工器及交点开关","MC10SX1189","MC10SX1189DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10SX1189DG","http://www.onsemi.com/pub/Collateral/MC10SX1189-D.PDF","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit","Pb-free
+Halide free","Active","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit",,,,,,,,,,"SOIC-16"
+"on","时钟及数据分配---多工器及交点开关","MC10SX1189","MC10SX1189DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10SX1189DR2G","http://www.onsemi.com/pub/Collateral/MC10SX1189-D.PDF","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit","Pb-free
+Halide free","Active","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit",,,,,,,,,,"SOIC-16"
+"on","时钟及数据分配---多工器及交点开关","NB100LVEP56","NB100LVEP56DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP56DTG","http://www.onsemi.com/pub/Collateral/NB100LVEP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","2:1","2","CML
+ECL
+LVDS","ECL","2.5
+3.3","2500","0.307","50","0.525","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","NB100LVEP56","NB100LVEP56DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP56DTR2G","http://www.onsemi.com/pub/Collateral/NB100LVEP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","2:1","2","CML
+ECL
+LVDS","ECL","2.5
+3.3","2500","0.307","50","0.525","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","NB100LVEP56","NB100LVEP56MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP56MNG","http://www.onsemi.com/pub/Collateral/NB100LVEP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","2:1","2","CML
+ECL
+LVDS","ECL","2.5
+3.3","2500","0.307","50","0.525","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","NB100LVEP56","NB100LVEP56MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP56MNR2G","http://www.onsemi.com/pub/Collateral/NB100LVEP56-D.PDF","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Multiplexer, 2:1 Differential, Dual ECL, 2.5 V / 3.3 V","2:1","2","CML
+ECL
+LVDS","ECL","2.5
+3.3","2500","0.307","50","0.525","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---多工器及交点开关","NB4L7210","NB4L7210MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4L7210MNG","http://www.onsemi.com/pub/Collateral/NB4L7210-D.PDF","Clock Driver, 2.5 V / 3.3 V Differential 2x10 Crosspoint, with SDI Programmable Output Selects","Pb-free
+Halide free","Active","Clock Driver, 2.5 V / 3.3 V Differential 2x10 Crosspoint, with SDI Programmable Output Selects","2:10","1","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","3.3","1000",,"35","725","QFN-52"
+"on","时钟及数据分配---多工器及交点开关","NB4L7210","NB4L7210MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4L7210MNTXG","http://www.onsemi.com/pub/Collateral/NB4L7210-D.PDF","Clock Driver, 2.5 V / 3.3 V Differential 2x10 Crosspoint, with SDI Programmable Output Selects","Pb-free
+Halide free","Active","Clock Driver, 2.5 V / 3.3 V Differential 2x10 Crosspoint, with SDI Programmable Output Selects","2:10","1","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","3.3","1000",,"35","725","QFN-52"
+"on","时钟及数据分配---多工器及交点开关","NB4N7132","NB4N7132DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N7132DTG","http://www.onsemi.com/pub/Collateral/NB4N7132-D.PDF","Link Replicator for Fibre Channel, Gigabit Ethernet, HDTV and SATA (1.5 Gbps)","Pb-free","Active","Link Replicator for Fibre Channel, Gigabit Ethernet, HDTV and SATA (1.5 Gbps)","2:1","1","CML
+ECL
+LVDS","ECL","3.3","750","25",,"0.375","TSSOP-28"
+"on","时钟及数据分配---多工器及交点开关","NB4N7132","NB4N7132DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N7132DTR2G","http://www.onsemi.com/pub/Collateral/NB4N7132-D.PDF","Link Replicator for Fibre Channel, Gigabit Ethernet, HDTV and SATA (1.5 Gbps)","Pb-free","Active","Link Replicator for Fibre Channel, Gigabit Ethernet, HDTV and SATA (1.5 Gbps)","2:1","1","CML
+ECL
+LVDS","ECL","3.3","750","25",,"0.375","TSSOP-28"
+"on","时钟及数据分配---多工器及交点开关","NB6L56","NB6L56MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L56MNG","http://www.onsemi.com/pub/Collateral/NB6L56-D.PDF","Clock / Data Multiplexer, 2.5 V / 3.3 V Dual 2:1 Differential, with LVPECL Outputs","Pb-free
+Halide free","Active","Clock / Data Multiplexer, 2.5 V / 3.3 V Dual 2:1 Differential, with LVPECL Outputs","2:1","2","CML
+ECL
+LVDS","ECL","2.5
+3.3","2500","0.5","12","0.25","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB6L56","NB6L56MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L56MNTXG","http://www.onsemi.com/pub/Collateral/NB6L56-D.PDF","Clock / Data Multiplexer, 2.5 V / 3.3 V Dual 2:1 Differential, with LVPECL Outputs","Pb-free
+Halide free","Active","Clock / Data Multiplexer, 2.5 V / 3.3 V Dual 2:1 Differential, with LVPECL Outputs","2:1","2","CML
+ECL
+LVDS","ECL","2.5
+3.3","2500","0.5","12","0.25","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB6L72","NB6L72MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L72MNG","http://www.onsemi.com/pub/Collateral/NB6L72-D.PDF","2.5 V / 3.3 V Differential 2x2 Clock/Data Crosspoint Switch with LVPECL Outputs","Pb-free
+Halide free","Active","2.5 V / 3.3 V Differential 2x2 Clock/Data Crosspoint Switch with LVPECL Outputs","2:2","1","CML
+CMOS
+ECL
+LVDS","ECL","2.5","3000","0.2","20","0.425","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB6L72","NB6L72MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L72MNR2G","http://www.onsemi.com/pub/Collateral/NB6L72-D.PDF","2.5 V / 3.3 V Differential 2x2 Clock/Data Crosspoint Switch with LVPECL Outputs","Pb-free
+Halide free","Active","2.5 V / 3.3 V Differential 2x2 Clock/Data Crosspoint Switch with LVPECL Outputs","2:2","1","CML
+CMOS
+ECL
+LVDS","ECL","2.5","3000","0.2","20","0.425","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB6LQ572","NB6LQ572MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6LQ572MNG","http://www.onsemi.com/pub/Collateral/NB6LQ572-D.PDF","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer - 1:2 LVPECL","Pb-free
+Halide free","Active","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer - 1:2 LVPECL","4:2","1","CML
+ECL
+LVDS","ECL","2.5
+3.3","6000","0.2","15","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB6LQ572","NB6LQ572MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6LQ572MNR4G","http://www.onsemi.com/pub/Collateral/NB6LQ572-D.PDF","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer - 1:2 LVPECL","Pb-free
+Halide free","Active","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer - 1:2 LVPECL","4:2","1","CML
+ECL
+LVDS","ECL","2.5
+3.3","6000","0.2","15","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB6VQ572M","NB6VQ572MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6VQ572MMNG","http://www.onsemi.com/pub/Collateral/NB6VQ572M-D.PDF","Input Mux - 4:1 Differential, 1.8 V / 2.5 V, with Input Equalization, Clock / Data Fanout Buffer - 1:2 CML","Pb-free
+Halide free","Active","Input Mux - 4:1 Differential, 1.8 V / 2.5 V, with Input Equalization, Clock / Data Fanout Buffer - 1:2 CML","4:2","1","CML
+ECL
+LVDS","CML","1.8
+2.5","6000","0.2","15","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB6VQ572M","NB6VQ572MMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6VQ572MMNR4G","http://www.onsemi.com/pub/Collateral/NB6VQ572M-D.PDF","Input Mux - 4:1 Differential, 1.8 V / 2.5 V, with Input Equalization, Clock / Data Fanout Buffer - 1:2 CML","Pb-free
+Halide free","Active","Input Mux - 4:1 Differential, 1.8 V / 2.5 V, with Input Equalization, Clock / Data Fanout Buffer - 1:2 CML","4:2","1","CML
+ECL
+LVDS","CML","1.8
+2.5","6000","0.2","15","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7L585","NB7L585MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L585MNG","http://www.onsemi.com/pub/Collateral/NB7L585-D.PDF","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 LVPECL","Pb-free
+Halide free","Active","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 LVPECL","2:6","1","CML
+ECL
+LVDS","ECL","2.5
+3.3","7000","0.2","20","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7L585","NB7L585MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L585MNR4G","http://www.onsemi.com/pub/Collateral/NB7L585-D.PDF","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 LVPECL","Pb-free
+Halide free","Active","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 LVPECL","2:6","1","CML
+ECL
+LVDS","ECL","2.5
+3.3","7000","0.2","20","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7L585","NB7L585MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L585MNTWG","http://www.onsemi.com/pub/Collateral/NB7L585-D.PDF","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 LVPECL","Pb-free
+Halide free","Active","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 LVPECL","2:6","1","CML
+ECL
+LVDS","ECL","2.5
+3.3","7000","0.2","20","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7L72M","NB7L72MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L72MMNG","http://www.onsemi.com/pub/Collateral/NB7L72M-D.PDF","2 x 2 Crosspoint Switch, Differential, 2.5 V / 3.3 V, with CML Outputs Clock / Data Buffer / Translator","Pb-free
+Halide free","Active","2 x 2 Crosspoint Switch, Differential, 2.5 V / 3.3 V, with CML Outputs Clock / Data Buffer / Translator","2:1","2","CML
+ECL
+LVDS","CML","2.5
+3.3","8500","0.2","10","150","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7L72M","NB7L72MMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L72MMNHTBG","http://www.onsemi.com/pub/Collateral/NB7L72M-D.PDF","2 x 2 Crosspoint Switch, Differential, 2.5 V / 3.3 V, with CML Outputs Clock / Data Buffer / Translator","Pb-free
+Halide free","Active","2 x 2 Crosspoint Switch, Differential, 2.5 V / 3.3 V, with CML Outputs Clock / Data Buffer / Translator","2:1","2","CML
+ECL
+LVDS","CML","2.5
+3.3","8500","0.2","10","150","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7L72M","NB7L72MMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L72MMNTXG","http://www.onsemi.com/pub/Collateral/NB7L72M-D.PDF","2 x 2 Crosspoint Switch, Differential, 2.5 V / 3.3 V, with CML Outputs Clock / Data Buffer / Translator","Pb-free
+Halide free","Active","2 x 2 Crosspoint Switch, Differential, 2.5 V / 3.3 V, with CML Outputs Clock / Data Buffer / Translator","2:1","2","CML
+ECL
+LVDS","CML","2.5
+3.3","8500","0.2","10","150","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7LQ572","NB7LQ572MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7LQ572MNG","http://www.onsemi.com/pub/Collateral/NB7LQ572-D.PDF","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer / Translator, 1:2 LVPECL","Pb-free
+Halide free","Active","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer / Translator, 1:2 LVPECL","4:1","1","CML
+ECL
+LVDS","ECL","2.5
+3.3","7000","0.2","15","160","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7LQ572","NB7LQ572MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7LQ572MNR4G","http://www.onsemi.com/pub/Collateral/NB7LQ572-D.PDF","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer / Translator, 1:2 LVPECL","Pb-free
+Halide free","Active","Input Mux - 4:1 Differential, 2.5 V / 3.3 V, with Input Equalizer, Clock / Data Fanout Buffer / Translator, 1:2 LVPECL","4:1","1","CML
+ECL
+LVDS","ECL","2.5
+3.3","7000","0.2","15","160","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7V586M","NB7V586MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V586MMNG","http://www.onsemi.com/pub/Collateral/NB7V586M-D.PDF","Input Mux - 2:1 Differential, 1.8 V, Clock / Data Fanout Buffer - 1:6 CML, 1.2 V / 1.8 V","Pb-free
+Halide free","Active","Input Mux - 2:1 Differential, 1.8 V, Clock / Data Fanout Buffer - 1:6 CML, 1.2 V / 1.8 V","2:1","1","CML
+ECL
+LVDS","CML","1.8","6000","0.2","30","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7V586M","NB7V586MMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V586MMNR4G","http://www.onsemi.com/pub/Collateral/NB7V586M-D.PDF","Input Mux - 2:1 Differential, 1.8 V, Clock / Data Fanout Buffer - 1:6 CML, 1.2 V / 1.8 V","Pb-free
+Halide free","Active","Input Mux - 2:1 Differential, 1.8 V, Clock / Data Fanout Buffer - 1:6 CML, 1.2 V / 1.8 V","2:1","1","CML
+ECL
+LVDS","CML","1.8","6000","0.2","30","0.175","QFN-32"
+"on","时钟及数据分配---多工器及交点开关","NB7V72M","NB7V72MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V72MMNG","http://www.onsemi.com/pub/Collateral/NB7V72M-D.PDF","2 x 2 Crosspoint Switch, Differential, 1.8 V / 2.5 V, with CML Outputs Clock / Data Buffer / Translator","Pb-free
+Halide free","Active","2 x 2 Crosspoint Switch, Differential, 1.8 V / 2.5 V, with CML Outputs Clock / Data Buffer / Translator","2:2","2","LVDS","CML","1.8
+2.5","5000","0.5","30","150","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7V72M","NB7V72MMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V72MMNHTBG","http://www.onsemi.com/pub/Collateral/NB7V72M-D.PDF","2 x 2 Crosspoint Switch, Differential, 1.8 V / 2.5 V, with CML Outputs Clock / Data Buffer / Translator","Pb-free
+Halide free","Active","2 x 2 Crosspoint Switch, Differential, 1.8 V / 2.5 V, with CML Outputs Clock / Data Buffer / Translator","2:2","2","LVDS","CML","1.8
+2.5","5000","0.5","30","150","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7V72M","NB7V72MMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7V72MMNTXG","http://www.onsemi.com/pub/Collateral/NB7V72M-D.PDF","2 x 2 Crosspoint Switch, Differential, 1.8 V / 2.5 V, with CML Outputs Clock / Data Buffer / Translator","Pb-free
+Halide free","Active","2 x 2 Crosspoint Switch, Differential, 1.8 V / 2.5 V, with CML Outputs Clock / Data Buffer / Translator","2:2","2","LVDS","CML","1.8
+2.5","5000","0.5","30","150","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7VQ58M","NB7VQ58MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7VQ58MMNG","http://www.onsemi.com/pub/Collateral/NB7VQ58M-D.PDF","Clock / Data Multiplexer / Translator, 2:1 Differential, 1.8 V / 2.5 V / 3.3 V, with CML Outputs and Selectable Input Equalizer","Pb-free
+Halide free","Active","Clock / Data Multiplexer / Translator, 2:1 Differential, 1.8 V / 2.5 V / 3.3 V, with CML Outputs and Selectable Input Equalizer","2:1","1","CML
+ECL
+LVDS","CML","1.8
+3.3","8000","0.2","50","0.18","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7VQ58M","NB7VQ58MMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7VQ58MMNHTBG","http://www.onsemi.com/pub/Collateral/NB7VQ58M-D.PDF","Clock / Data Multiplexer / Translator, 2:1 Differential, 1.8 V / 2.5 V / 3.3 V, with CML Outputs and Selectable Input Equalizer","Pb-free
+Halide free","Active","Clock / Data Multiplexer / Translator, 2:1 Differential, 1.8 V / 2.5 V / 3.3 V, with CML Outputs and Selectable Input Equalizer","2:1","1","CML
+ECL
+LVDS","CML","1.8
+3.3","8000","0.2","50","0.18","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NB7VQ58M","NB7VQ58MMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7VQ58MMNTXG","http://www.onsemi.com/pub/Collateral/NB7VQ58M-D.PDF","Clock / Data Multiplexer / Translator, 2:1 Differential, 1.8 V / 2.5 V / 3.3 V, with CML Outputs and Selectable Input Equalizer","Pb-free
+Halide free","Active","Clock / Data Multiplexer / Translator, 2:1 Differential, 1.8 V / 2.5 V / 3.3 V, with CML Outputs and Selectable Input Equalizer","2:1","1","CML
+ECL
+LVDS","CML","1.8
+3.3","8000","0.2","50","0.18","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NBSG86A","NBSG86AMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG86AMNG","http://www.onsemi.com/pub/Collateral/NBSG86A-D.PDF","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","Pb-free
+Halide free","Active","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","2:1","1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","8000","0.5","20","0.165","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NBSG86A","NBSG86AMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG86AMNHTBG","http://www.onsemi.com/pub/Collateral/NBSG86A-D.PDF","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","Pb-free
+Halide free","Active","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","2:1","1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","8000","0.5","20","0.165","QFN-16"
+"on","时钟及数据分配---多工器及交点开关","NBSG86A","NBSG86AMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG86AMNR2G","http://www.onsemi.com/pub/Collateral/NBSG86A-D.PDF","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","Pb-free
+Halide free","Active","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","2:1","1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","8000","0.5","20","0.165","QFN-16"

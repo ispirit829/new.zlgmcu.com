@@ -1,0 +1,10 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Number of Sensing Inputs","Number of Sensing Outputs","Interface Control","Proximity Sensing","VDD Min (V)","VDD Max (V)","IDD Typ (microA)","Package Type"
+"on","光电、图像及触摸传感器---触摸传感器","LC717A00AJ","LC717A00AJ-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC717A00AJ-AH","http://www.onsemi.com/pub/Collateral/ENA2089-D.PDF","Capacitance-Digital-Converter for Electrostatic Capacitive Touch Sensors","Pb-free
+Halide free","Active","Capacitance-Digital-Converter for Electrostatic Capacitive Touch Sensors","8","8","I2C
+SPI","Yes","2.6","5.5","320","SSOP-30"
+"on","光电、图像及触摸传感器---触摸传感器","LC717A10AJ","LC717A10AJ-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC717A10AJ-AH","http://www.onsemi.com/pub/Collateral/ENA2162-D.PDF","Capacitance-Digital-Converter for Electrostatic Capacitive Touch Sensors","Pb-free
+Halide free","Active","Capacitance-Digital-Converter for Electrostatic Capacitive Touch Sensors","16",,"I2C
+SPI","Yes","2.6","5.5","570","SSOP-30"
+"on","光电、图像及触摸传感器---触摸传感器","LC717A10PJ","LC717A10PJ-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC717A10PJ-AH","http://www.onsemi.com/pub/Collateral/ENA2214-D.PDF","Capacitance-Digital-Converter for Electrostatic Capacitive Touch Sensors","Pb-free
+Halide free","Active","Capacitance-Digital-Converter for Electrostatic Capacitive Touch Sensors","16",,"I2C
+SPI","Yes","2.6","5.5","570","SSOP-30"

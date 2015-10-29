@@ -1,0 +1,29 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","容量","接口","频率","电压范围","封装形式","状态"
+"fmsh","非挥发存储器---SPI NAND Flash","FM25G01","http://www.fmsh.com/b14aa337-8bf5-b3c4-4f37-88e3b0b49526/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","1Gbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","2.7V-3.6V
+","DNB
+","S
+","-"
+"fmsh","非挥发存储器---SPI NAND Flash","FM25LG01","http://www.fmsh.com/b14aa337-8bf5-b3c4-4f37-88e3b0b49526/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","1Gbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","1.7V-1.95V
+","DNB
+","UD
+","-"
+"fmsh","非挥发存储器---SPI NAND Flash","FM25G02","http://www.fmsh.com/b14aa337-8bf5-b3c4-4f37-88e3b0b49526/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","2Gbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","2.7V-3.6V
+","DNB
+","S
+","-"
+"fmsh","非挥发存储器---SPI NAND Flash","FM25LG02","http://www.fmsh.com/b14aa337-8bf5-b3c4-4f37-88e3b0b49526/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","2Gbit
+","SPI, Dual SPI, Quad SPI, QPI
+","104MHz
+","1.7V-1.95V
+","DNB
+","UD
+","-"

@@ -1,0 +1,50 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Bits","ROM (bits)","RAM (bits)","Bus Cycle Time Min (micros)","Instruction Cycle Time Min (micros)","Interrupts","IO Ports","ADC","PWM Outputs","Timers","USB","LCD Controller/ Driver","VDD Min (V)","VDD Max (V)","Package Type"
+"on","微控制器---专用微控制器","LC877917A","LC877917A-QIP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC877917A-QIP-E","http://www.onsemi.com/pub/Collateral/ENA1840-D.PDF","8-bit LCD Driver Microcontroller with 16K-byte ROM and 512-byte RAM","Pb-free","Intro Pending","8-bit LCD Driver Microcontroller with 16K-byte ROM and 512-byte RAM ","8","16K x 8 (Flash)","512 x 9","0.25","0.75","21 sources, 10 vector address","51","12/8-bit x 7 channel","0","16-bit x 2
+8-bit x 4",,"32 segments","2.4","3.6","PQFP-64 / QIP-64E"
+"on","微控制器---专用微控制器","LC87F1A32A","LC87F1A32AUWA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F1A32AUWA-2H","http://www.onsemi.com/pub/Collateral/LC87F1A32A-D.PDF","8-bit Microcontroller with Full-Speed USB integrated 32K-byte Flash ROM and 2048-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with Full-Speed USB integrated 32K-byte Flash ROM and 2048-byte RAM","8","32K x 8 (Flash)","2048 x 9","0.083","0.25","28 sources, 10 vector address","39","12/8-bit x 12 channel","2","16-bit x 2
+8-bit x 2","DEVICE (Full Speed)",,"2.7","5.5","SPQFP-48 / SQFP-48"
+"on","微控制器---专用微控制器","LC87F1HC4B","LC87F1HC4BUWA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F1HC4BUWA-2H","http://www.onsemi.com/pub/Collateral/LC87F1HC4B-D.PDF","8-bit Microcontroller with USB-host controller integrated 128K-byte Flash ROM and 12288-byte RAM","Pb-free","Active","8-bit Microcontroller with USB-host controller integrated 128K-byte Flash ROM and 12288-byte RAM","8","128K x 8 (Flash)","12288 x 9","0.083","0.25","40 sources 10 vector address","37","8-bit x 12 channel","2","16-bit x 2
+8-bit x 4","HOST (Full Speed)",,"2.7","5.5","SPQFP-48 / SQFP-48"
+"on","微控制器---专用微控制器","LC87F1JJ2A","LC87F1JJ2AUWA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F1JJ2AUWA-2H","http://www.onsemi.com/pub/Collateral/ENA1453-D.PDF","8-bit Microcontroller with USB-host controller integrated 192K-byte Flash ROM and 16384-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with USB-host controller integrated 192K-byte Flash ROM and 16384-byte RAM","8","192 x 8 (Flash)","16384 x 9","0.083","0.25","41 sources, 10 vector address","37","8bit x 12ch","2","16-bit x 2
+8-bit x 4","HOST (Full Speed)",,"2.7","5.5","SPQFP-48 / SQFP-48"
+"on","微控制器---专用微控制器","LC87F1JJ8A","LC87F1JJ8AUWA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F1JJ8AUWA-2H","http://www.onsemi.com/pub/Collateral/ENA1455-D.PDF","8-bit Microcontroller with USB-host controller integrated 192K-byte Flash ROM and 24576-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with USB-host controller integrated 192K-byte Flash ROM and 24576-byte RAM","8","192 x 8 (Flash)","24576 x 9","0.083","0.25","41 sources 10 vector address","37","8bit x 12ch","2","16-bit x 2
+8-bit x 4","HOST (Full Speed)",,"2.7","5.5","SPQFP-48 / SQFP-48"
+"on","微控制器---专用微控制器","LC87F1L16A","LC87F1L16AUWA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F1L16AUWA-2H","http://www.onsemi.com/pub/Collateral/ENA1835-D.PDF","8-bit Microcontroller with USB-host controller integrated 16K-byte Flash ROM and 2048-byte RAM","Pb-free
+Halide free","Active","8-bit Microcontroller with USB-host controller integrated 16K-byte Flash ROM and 2048-byte RAM ","8","16K x 8 (Flash)","2048B x 9","0.0833","0.25","39 sources, 10 vector address","35","8/12bit x 12ch","2","16-bit x 2
+8-bit x 4","DEVICE (Full Speed)",,"2.7","5.5","SPQFP-48 / SQFP-48"
+"on","微控制器---专用微控制器","LC87F6AC8A","LC87F6AC8ALU-EJ-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F6AC8ALU-EJ-H","http://www.onsemi.com/pub/Collateral/ENA0145-D.PDF","Microcontroller, 8-bit, integrated VFD Controller, 128K-byte Flash ROM, 4096-byte RAM","Pb-free
+Halide free","Active","Microcontroller, 8-bit, integrated VFD Controller, 128K-byte Flash ROM, 4096-byte RAM","8","128K x 8 (Flash)","4096 x 9","0.083","0.25","27 sources 10 vector address","90","8-bit x 15 channels","2","16-bit x 3
+8-bit x 4",,,"2.8","5.5","PQFP-100 / QIP-100E"
+"on","微控制器---专用微控制器","LC87F7932B","LC87F7932BUCG-X1","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F7932BUCG-X1","http://www.onsemi.com/pub/Collateral/ENA1841-D.PDF","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 2048-byte RAM","Pb-free
+Halide free","Active","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 2048-byte RAM","8","32K x 8 (Flash)","2048 x 9","0.25","0.75","21 sources, 10 vector address","49","12/8-bit x 7 channel","0","16-bit x 2
+8-bit x 4",,"32 segments, 4commons","2.4","3.6","PQFP-64 / QIP-64E
+SPQFP-64 / SQFP-64"
+"on","微控制器---专用微控制器","LC87F7932B","LC87F7932BUEF-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F7932BUEF-2H","http://www.onsemi.com/pub/Collateral/ENA1841-D.PDF","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 2048-byte RAM","Pb-free
+Halide free","Active","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 2048-byte RAM","8","32K x 8 (Flash)","2048 x 9","0.25","0.75","21 sources, 10 vector address","49","12/8-bit x 7 channel","0","16-bit x 2
+8-bit x 4",,"32 segments, 4commons","2.4","3.6","PQFP-64 / QIP-64E
+SPQFP-64 / SQFP-64"
+"on","微控制器---专用微控制器","LC87F7932B","LC87F7932BUWC-3H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F7932BUWC-3H","http://www.onsemi.com/pub/Collateral/ENA1841-D.PDF","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 2048-byte RAM","Pb-free
+Halide free","Active","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 2048-byte RAM","8","32K x 8 (Flash)","2048 x 9","0.25","0.75","21 sources, 10 vector address","49","12/8-bit x 7 channel","0","16-bit x 2
+8-bit x 4",,"32 segments, 4commons","2.4","3.6","PQFP-64 / QIP-64E
+SPQFP-64 / SQFP-64"
+"on","微控制器---专用微控制器","LC87F7J32A","LC87F7J32AU-QIP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F7J32AU-QIP-E","http://www.onsemi.com/pub/Collateral/ENA0886-D.PDF","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 1024-byte RAM","Pb-free","Active","8-bit LCD Driver Microcontroller with 32K-byte Flash ROM and 1024-byte RAM ","8","32K x 8 (Flash)","1024B x 9","0.0833","0.25","25 sources, 10 vector address","55","8/12 bit x 12ch","2","16-bit x 2
+8-bit x 4",,"24 segments, 4commons","2.2","5.5","PQFP-64 / QIP-64E"
+"on","微控制器---专用微控制器","LC87F7NJ2A","LC87F7NJ2AUEJ-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F7NJ2AUEJ-2H","http://www.onsemi.com/pub/Collateral/LC87F7NJ2A-D.PDF","8-bit LCD Driver Microcontroller with 192K-byte Flash ROM and 8K-byte RAM","Pb-free
+Halide free","Active","8-bit LCD Driver Microcontroller with 192K-byte Flash ROM and 8K-byte RAM","8","192 x 8 (Flash)","8192 x 9","0.056","0.167","31 sources, 10 vector address","91","12bit x 15 channel","2","16-bit x 3
+8-bit x 4",,"54 segments","2.5","3.6","PQFP-100 / QIP-100E"
+"on","微控制器---专用微控制器","LC87F7NJ2A","LC87F7NJ2AVUEJ-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC87F7NJ2AVUEJ-2H","http://www.onsemi.com/pub/Collateral/LC87F7NJ2A-D.PDF","8-bit LCD Driver Microcontroller with 192K-byte Flash ROM and 8K-byte RAM","Pb-free
+Halide free","Active","8-bit LCD Driver Microcontroller with 192K-byte Flash ROM and 8K-byte RAM","8","192 x 8 (Flash)","8192 x 9","0.056","0.167","31 sources, 10 vector address","91","12bit x 15 channel","2","16-bit x 3
+8-bit x 4",,"54 segments","2.5","3.6","PQFP-100 / QIP-100E"
+"on","微控制器---专用微控制器","LC88F83B0A","LC88F83B0AUC-X1","http://www.onsemi.cn/PowerSolutions/product.do?id=LC88F83B0AUC-X1","http://www.onsemi.com/pub/Collateral/LC88F83B0A-D.PDF","16-bit LCD Microcontroller with 128K-byte Flash ROM and 4240-byte RAM","Pb-free
+Halide free","Active","16-bit LCD Microcontroller with 128K-byte Flash ROM and 4240-byte RAM","16","128K x 8 (Flash)","4096 x 8",,"0.25","12 sources, 11 vector address","36","12/8-bit x 4 channel","0
+3","16-bit x 5",,"64 segments, 16commons
+72 or 64 segments","2.3","5.5","Bare Die
+TQFP-120"
+"on","微控制器---专用微控制器","LC88F83B0A","LC88F83B0AUTF-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC88F83B0AUTF-2H","http://www.onsemi.com/pub/Collateral/LC88F83B0A-D.PDF","16-bit LCD Microcontroller with 128K-byte Flash ROM and 4240-byte RAM","Pb-free
+Halide free","Active","16-bit LCD Microcontroller with 128K-byte Flash ROM and 4240-byte RAM","16","128K x 8 (Flash)","4096 x 8",,"0.25","12 sources, 11 vector address","36","12/8-bit x 4 channel","0
+3","16-bit x 5",,"64 segments, 16commons
+72 or 64 segments","2.3","5.5","Bare Die
+TQFP-120"

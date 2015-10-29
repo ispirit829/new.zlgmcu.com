@@ -1,0 +1,80 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Segments","Key Detection","VDD Min (V)","VDD Max (V)","VLCD Min (V)","VLCD Max (V)","VI for Interface (V)","Operating Temperature (°C)","Output Ports","PWM Outputs","Character Generator","Reset","Contrast Adjustment","Control Command","Package Type"
+"on","音频/视频的ASSP---LCD驱动器","LC450029PKB","LC450029PKB-XT","http://www.onsemi.cn/PowerSolutions/product.do?id=LC450029PKB-XT","http://www.onsemi.com/pub/Collateral/ENA1916-D.PDF","LCD Driver, 1/4 and 1/3 Duty, General-purpose","Pb-free","Active","LCD Driver, 1/4 and 1/3 Duty, General-purpose","1/3 Duty: 159
+1/4 Duty: 208",,"4.5","6","VDD","VDD","VDD","-40 to  105",,,,,,,"Wafer"
+"on","音频/视频的ASSP---LCD驱动器","LC75700T","LC75700T-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75700T-MPB-E","http://www.onsemi.com/pub/Collateral/ENN7632-D.PDF","Key Scanning LSI","Pb-free","Active","Key Scanning LSI",,"30 (15)","2.7","5.5",,,"VDD","-40 to  85","4",,,,,,"TSSOP-20"
+"on","音频/视频的ASSP---LCD驱动器","LC75700T","LC75700T-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75700T-TLM-E","http://www.onsemi.com/pub/Collateral/ENN7632-D.PDF","Key Scanning LSI","Pb-free","Active","Key Scanning LSI",,"30 (15)","2.7","5.5",,,"VDD","-40 to  85","4",,,,,,"TSSOP-20"
+"on","音频/视频的ASSP---LCD驱动器","LC75700T","LC75700TS-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75700TS-MPB-E","http://www.onsemi.com/pub/Collateral/ENN7632-D.PDF","Key Scanning LSI","Pb-free","Active","Key Scanning LSI",,"30 (15)","2.7","5.5",,,"VDD","-40 to  85","4",,,,,,"TSSOP-20"
+"on","音频/视频的ASSP---LCD驱动器","LC75700T","LC75700TS-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75700TS-TLM-E","http://www.onsemi.com/pub/Collateral/ENN7632-D.PDF","Key Scanning LSI","Pb-free","Active","Key Scanning LSI",,"30 (15)","2.7","5.5",,,"VDD","-40 to  85","4",,,,,,"TSSOP-20"
+"on","音频/视频的ASSP---LCD驱动器","LC75806PT","LC75806PT-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75806PT-H","http://www.onsemi.com/pub/Collateral/ENA1425-D.PDF","LCD Driver, 1/4 and 1/3 Duty, with Key Input","Pb-free
+Halide free","Active","LCD Driver, 1/4 and 1/3 Duty, with Key Input","1/3 Duty: 225 (198) to 231 (204)
+1/4 Duty: 296 (260) to 304 (268)","20 to 30","4.5","6","VDD","VDD","3.3 or 5.0","-40 to  85","9",,,"Yes","Yes",,"TQFP-100"
+"on","音频/视频的ASSP---LCD驱动器","LC75809PTS-T","LC75809PTS-T-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75809PTS-T-H","http://www.onsemi.com/pub/Collateral/LC75809PTS-T-D.PDF","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","1/3 Duty: 267 (231)
+1/4 Duty: 352 (304)",,"4.5","6.3","VDD","VDD","3.3 or 5.0","-40 to  105","12","6",,,"Yes",,"TQFP-100"
+"on","音频/视频的ASSP---LCD驱动器","LC75810T","LC75810TS-8725-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75810TS-8725-E","http://www.onsemi.com/pub/Collateral/ENN7141-D.PDF","Dot-Matrix LCD Controller/Driver, 1/8 to 1/10 Duty","Pb-free","Active","Dot-Matrix LCD Controller/Driver, 1/8 to 1/10 Duty","1/10 Duty: Dot matrix (5x9)x15+78
+1/8 Duty: Dot matrix (5x7)x16+80
+1/9 Duty: Dot matrix (5x8)x15+79",,"2.7","6","4.5","10","VDD","-40 to  85",,,"ROM 240; RAM 16",,"Yes","Yes","TQFP-100"
+"on","音频/视频的ASSP---LCD驱动器","LC75813E","LC75813E-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75813E-E","http://www.onsemi.com/pub/Collateral/ENN7159-D.PDF","LCD Driver, 1/3, 1/4 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/3, 1/4 Duty, General-Purpose","1/3 Duty: 261 (237)
+1/4 Duty: 344 (312)",,"2.7","6","2.7","6","VDD","-40 to  85","8",,,,,,"PQFP-100 / QIP-100E"
+"on","音频/视频的ASSP---LCD驱动器","LC75813E","LC75813ES-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75813ES-E","http://www.onsemi.com/pub/Collateral/ENN7159-D.PDF","LCD Driver, 1/3, 1/4 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/3, 1/4 Duty, General-Purpose","1/3 Duty: 261 (237)
+1/4 Duty: 344 (312)",,"2.7","6","2.7","6","VDD","-40 to  85","8",,,,,,"PQFP-100 / QIP-100E"
+"on","音频/视频的ASSP---LCD驱动器","LC75814V","LC75814V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75814V-TLM-E","http://www.onsemi.com/pub/Collateral/ENN6792-D.PDF","LCD Driver, 1/4 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/4 Duty, General-Purpose","1/4 Duty: 64 (48)",,"2.7","6","2.7","6","VDD","-40 to  85","4",,,,,,"SSOP-30"
+"on","音频/视频的ASSP---LCD驱动器","LC75814V","LC75814VS-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75814VS-TLM-E","http://www.onsemi.com/pub/Collateral/ENN6792-D.PDF","LCD Driver, 1/4 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/4 Duty, General-Purpose","1/4 Duty: 64 (48)",,"2.7","6","2.7","6","VDD","-40 to  85","4",,,,,,"SSOP-30"
+"on","音频/视频的ASSP---LCD驱动器","LC75829PE","LC75829PE-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75829PE-H","http://www.onsemi.com/pub/Collateral/ENA1462-D.PDF","LCD Driver, 1/4, 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4, 1/3 Duty, General-Purpose","1/3 Duty: 159 (147)
+1/4 Duty: 208 (192)",,"4.5","6","VDD","VDD","3.3 or 5.0","-40 to  85","4",,,,,,"PQFP-64 / QIP-64E"
+"on","音频/视频的ASSP---LCD驱动器","LC75829PE","LC75829PEH-TLA-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75829PEH-TLA-H","http://www.onsemi.com/pub/Collateral/ENA1462-D.PDF","LCD Driver, 1/4, 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4, 1/3 Duty, General-Purpose","1/3 Duty: 159 (147)
+1/4 Duty: 208 (192)",,"4.5","6","VDD","VDD","3.3 or 5.0","-40 to  85","4",,,,,,"PQFP-64 / QIP-64E"
+"on","音频/视频的ASSP---LCD驱动器","LC75829PWS-T","LC75829PWS-T-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75829PWS-T-H","http://www.onsemi.com/pub/Collateral/LC75829PWS-T-D.PDF","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","1/3 Duty: 159 (147)
+1/4 Duty: 208 (192)",,"4.5","6","VDD","VDD","3.3 or 5.0","-40 to  105","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75832W","LC75832W-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75832W-E","http://www.onsemi.com/pub/Collateral/ENA0712-D.PDF","LCD Driver, 1/2 Duty, Static Drive","Pb-free","Active","LCD Driver, 1/2 Duty, Static Drive","1/2 Duty: 108 (100)
+Static: 54 (50)",,"2.7","6","2.7","6","VDD","-40 to  105","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75832W","LC75832W-TBM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75832W-TBM-E","http://www.onsemi.com/pub/Collateral/ENA0712-D.PDF","LCD Driver, 1/2 Duty, Static Drive","Pb-free","Active","LCD Driver, 1/2 Duty, Static Drive","1/2 Duty: 108 (100)
+Static: 54 (50)",,"2.7","6","2.7","6","VDD","-40 to  105","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75832W","LC75832WH-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75832WH-E","http://www.onsemi.com/pub/Collateral/ENA0712-D.PDF","LCD Driver, 1/2 Duty, Static Drive","Pb-free","Active","LCD Driver, 1/2 Duty, Static Drive","1/2 Duty: 108 (100)
+Static: 54 (50)",,"2.7","6","2.7","6","VDD","-40 to  105","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75832W","LC75832WS-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75832WS-E","http://www.onsemi.com/pub/Collateral/ENA0712-D.PDF","LCD Driver, 1/2 Duty, Static Drive","Pb-free","Active","LCD Driver, 1/2 Duty, Static Drive","1/2 Duty: 108 (100)
+Static: 54 (50)",,"2.7","6","2.7","6","VDD","-40 to  105","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75832W","LC75832WS-TBM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75832WS-TBM-E","http://www.onsemi.com/pub/Collateral/ENA0712-D.PDF","LCD Driver, 1/2 Duty, Static Drive","Pb-free","Active","LCD Driver, 1/2 Duty, Static Drive","1/2 Duty: 108 (100)
+Static: 54 (50)",,"2.7","6","2.7","6","VDD","-40 to  105","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75833W","LC75833W-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75833W-E","-","LCD Driver, 1/3 Duty","Pb-free","Active","LCD Driver, 1/3 Duty","1/3 Duty: 105 (81)",,"2.7","6","2.7","6","VDD","-40 to  85","8",,,,,,"SPQFP-48 / SQFP-48"
+"on","音频/视频的ASSP---LCD驱动器","LC75833W","LC75833WHS-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75833WHS-E","-","LCD Driver, 1/3 Duty","Pb-free","Active","LCD Driver, 1/3 Duty","1/3 Duty: 105 (81)",,"2.7","6","2.7","6","VDD","-40 to  85","8",,,,,,"SPQFP-48 / SQFP-48"
+"on","音频/视频的ASSP---LCD驱动器","LC75836WS-T","LC75836WS-T-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75836WS-T-E","http://www.onsemi.com/pub/Collateral/LC75836WS-T-D.PDF","LCD Driver, 1/4 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/4 Duty, General-Purpose","1/4 Duty: 140 (124)",,"4.5","6","VDD","VDD","3.3 or 5.0","-40 to  105","4",,,,,,"SPQFP-48 / SQFP-48"
+"on","音频/视频的ASSP---LCD驱动器","LC75839PW","LC75839PW-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75839PW-H","http://www.onsemi.com/pub/Collateral/ENA1953-D.PDF","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","1/3 Duty: 159 (147)
+1/4 Duty: 208 (192)",,"4.5","6","VDD","VDD","3.3 or 5.0","-40 to  85","4","3",,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75839PW","LC75839PWS-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75839PWS-H","http://www.onsemi.com/pub/Collateral/ENA1953-D.PDF","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","1/3 Duty: 159 (147)
+1/4 Duty: 208 (192)",,"4.5","6","VDD","VDD","3.3 or 5.0","-40 to  85","4","3",,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75843UGA","LC75843UGA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75843UGA-AH","http://www.onsemi.com/pub/Collateral/ENA2226-D.PDF","LCD Driver, 1/1 to 1/4 Duty, General-Purpose","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","LCD Driver, 1/1 to 1/4 Duty, General-Purpose","1/2 Duty: 54 (46)
+1/3 Duty: 78 (66)
+1/4 Duty: 100 (84)
+Static: 28 (24)",,"4.5","6.3","VDD","VDD","3.3 or 5.0","-40 to  105","4","3",,,,,"TSSOP-36"
+"on","音频/视频的ASSP---LCD驱动器","LC75847T","LC75847T-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75847T-E","http://www.onsemi.com/pub/Collateral/LC75847T-D.PDF","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","1/3 Duty: 318 (294)
+1/4 Duty: 420 (388)",,"2.7","6","2.7","6","VDD","-40 to  85","8",,,,"Yes",,"TQFP-120"
+"on","音频/视频的ASSP---LCD驱动器","LC75847T","LC75847TS-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75847TS-E","http://www.onsemi.com/pub/Collateral/LC75847T-D.PDF","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/4 and 1/3 Duty, General-Purpose","1/3 Duty: 318 (294)
+1/4 Duty: 420 (388)",,"2.7","6","2.7","6","VDD","-40 to  85","8",,,,"Yes",,"TQFP-120"
+"on","音频/视频的ASSP---LCD驱动器","LC75852W","LC75852W-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75852W-E","http://www.onsemi.com/pub/Collateral/EN4828-D.PDF","LCD Driver, 1/2 Duty, with Key Input","Pb-free","Active","LCD Driver, 1/2 Duty, with Key Input","1/2 Duty: 86 (78) to 90 (82)","20 to 30","4.5","6","VDD","VDD","VDD","-40 to  85","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75852W","LC75852W-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75852W-TLM-E","http://www.onsemi.com/pub/Collateral/EN4828-D.PDF","LCD Driver, 1/2 Duty, with Key Input","Pb-free","Active","LCD Driver, 1/2 Duty, with Key Input","1/2 Duty: 86 (78) to 90 (82)","20 to 30","4.5","6","VDD","VDD","VDD","-40 to  85","4",,,,,,"SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---LCD驱动器","LC75863W","LC75863WS-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75863WS-E","http://www.onsemi.com/pub/Collateral/ENN7135-D.PDF","LCD Driver, 1/3 Duty, with Key Input","Pb-free","Active","LCD Driver, 1/3 Duty, with Key Input","1/3 Duty: 69 (57) to 75 (63)","20 to 30","4.5","6","VDD-0.5","6","VDD","-40 to  85","4",,,"Yes",,,"SPQFP-48 / SQFP-48"
+"on","音频/视频的ASSP---LCD驱动器","LC75879PT","LC75879PT-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75879PT-H","http://www.onsemi.com/pub/Collateral/ENA1687-D.PDF","LCD Driver, 1/4, 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4, 1/3 Duty, General-Purpose","1/3 Duty: 207 (183)
+1/4 Duty: 272 (240)",,"4.5","6.3","VDD","VDD","3.3 or 5.0","-40 to  85","8","3",,,"Yes",,"TQFP-80 / TQFP-80J"
+"on","音频/视频的ASSP---LCD驱动器","LC75879PT","LC75879PTS-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75879PTS-H","http://www.onsemi.com/pub/Collateral/ENA1687-D.PDF","LCD Driver, 1/4, 1/3 Duty, General-Purpose","Pb-free
+Halide free","Active","LCD Driver, 1/4, 1/3 Duty, General-Purpose","1/3 Duty: 207 (183)
+1/4 Duty: 272 (240)",,"4.5","6.3","VDD","VDD","3.3 or 5.0","-40 to  85","8","3",,,"Yes",,"TQFP-80 / TQFP-80J"
+"on","音频/视频的ASSP---LCD驱动器","LC75886PW","LC75886PW-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75886PW-H","http://www.onsemi.com/pub/Collateral/ENA1391-D.PDF","LCD Driver, 1/4 Duty, 1/3 Duty, with Key Input","Pb-free
+Halide free","Active","LCD Driver, 1/4 Duty, 1/3 Duty, with Key Input","1/3 Duty: 165 (150) to 171 (156)
+1/4 Duty: 216 (196) to 224 (204)","20 to 30","4.5","6","VDD","VDD","3.3 or 5.0","-40 to  85","5",,,"Yes",,,"SPQFP-80 / SQFP-80"
+"on","音频/视频的ASSP---LCD驱动器","LC75886PW","LC75886PWH-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75886PWH-H","http://www.onsemi.com/pub/Collateral/ENA1391-D.PDF","LCD Driver, 1/4 Duty, 1/3 Duty, with Key Input","Pb-free
+Halide free","Active","LCD Driver, 1/4 Duty, 1/3 Duty, with Key Input","1/3 Duty: 165 (150) to 171 (156)
+1/4 Duty: 216 (196) to 224 (204)","20 to 30","4.5","6","VDD","VDD","3.3 or 5.0","-40 to  85","5",,,"Yes",,,"SPQFP-80 / SQFP-80"
+"on","音频/视频的ASSP---LCD驱动器","LC75897PW","LC75897PW-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75897PW-E","http://www.onsemi.com/pub/Collateral/LC75897PW-D.PDF","LCD Driver, 1/4, 1/3 Duty, General-Purpose","Pb-free","Active","LCD Driver, 1/4, 1/3 Duty, General-Purpose","1/3 Duty: 387 (363)
+1/4 Duty: 512 (480)",,"2.7","6","2.7","6","VDD","-40 to  85","8","3",,,"Yes",,"SPQFP-144 / SQFP-144"
+"on","音频/视频的ASSP---LCD驱动器","LC79401KNE","LC79401KNE-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC79401KNE-E","http://www.onsemi.com/pub/Collateral/ENA1419-D.PDF","Dot-Matrix LCD Driver","Pb-free","Active","Dot-Matrix LCD Driver",,,"2.7","5.5","12","32",,"-20 to  85",,,,,,,"PQFP-100 / QIP-100E"
+"on","音频/视频的ASSP---LCD驱动器","LC79431KNE","LC79431KNE-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC79431KNE-E","http://www.onsemi.com/pub/Collateral/ENA2124-D.PDF","Dot-Matrix LCD Driver","Pb-free","Active","Dot-Matrix LCD Driver",,,"2.7","5.5","12","32",,"-20 to  85",,,,,,,"PQFP-100 / QIP-100E"

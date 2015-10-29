@@ -1,0 +1,3 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Package version","Remarks","Operating voltage","Power dissipation","Operating Temperature"
+"nxp","Power management---Linear voltage regulators---DDR bus termination regulator","NE57810TK","http://www.nxp.com/products/power_management/linear_voltage_regulators/ddr_bus_termination_regulator/NE57810TK.html","http://www.nxp.com/documents/data_sheet/NE57810TK.pdf","SOT1325-1","","","",""
+"nxp","Power management---Linear voltage regulators---DDR bus termination regulator","NE57814DD","http://www.nxp.com/products/power_management/linear_voltage_regulators/ddr_bus_termination_regulator/NE57814DD.html","http://www.nxp.com/documents/data_sheet/NE57814.pdf","SOT786-2","very low power standby mode","1.6~3.6","3.3","0~70"

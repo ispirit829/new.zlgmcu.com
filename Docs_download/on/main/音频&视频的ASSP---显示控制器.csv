@@ -1,0 +1,17 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Character Format","Number of Characters Supported (Internal)","Number of Colors","Control Input","Supply Voltage Min (V)","Supply Voltage Max (V)","Operating Drain Current Max (A)","Package Type"
+"on","音频/视频的ASSP---显示控制器","LC74731W","LC74731W-9818-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC74731W-9818-E","http://www.onsemi.com/pub/Collateral/LC74731W_32W-D.PDF","Display Controller, Video On-Screen","Pb-free","Active","Display Controller, Video On-Screen","16 x 16","256","8","Serial, 8-bit","4.5","5.5","0.04","SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---显示控制器","LC74731W","LC74731WS-9818-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC74731WS-9818-E","http://www.onsemi.com/pub/Collateral/LC74731W_32W-D.PDF","Display Controller, Video On-Screen","Pb-free","Active","Display Controller, Video On-Screen","16 x 16","256","8","Serial, 8-bit","4.5","5.5","0.04","SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---显示控制器","LC74735YW","LC74735YWS-8A43-SH-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC74735YWS-8A43-SH-H","http://www.onsemi.com/pub/Collateral/ENA2330-D.PDF","On-Screen Display Controller","Pb-free
+Halide free","Active","On-Screen Display Controller","12 x 18
+24 x 32","512","16/512","Serial 8-bit","3","3.6","0.1","SPQFP-80 / SQFP-80"
+"on","音频/视频的ASSP---显示控制器","LC749000AT","LC749000AT-8B15H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC749000AT-8B15H","http://www.onsemi.com/pub/Collateral/ENA2000-D.PDF","LCD Processor for Small Size Display","Pb-free
+Halide free","Active","LCD Processor for Small Size Display","16 x 20","512","8","I2C
+SPI","1.4
+3.15","1.6
+3.45","0.3","TQFP-120"
+"on","音频/视频的ASSP---显示控制器","LC749402BG","LC749402BG-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC749402BG-TLM-H","http://www.onsemi.com/pub/Collateral/LC749402BG-D.PDF","LCD Picture Quality Improvement Controller","Pb-free
+Halide free","Active","LCD Picture Quality Improvement Controller",,,,"I2C","1
+1.7
+2.6","1.3
+1.9
+3.6","0.1","LFBGA-96 / ISB-96"

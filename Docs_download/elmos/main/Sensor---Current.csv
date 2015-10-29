@@ -1,0 +1,15 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Sensor---Current","E524.50","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/02_magnetic/e524-50_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/current.html?tx_pmproductlist_productlist%5Bproduct%5D=71&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=8b6416acabdab62fbfdc5d8f6e1c474d","Integrated AMR Current Sensor"," "," "," "," ","Analog: ± 2mA
+(absolute level)
+3-times overdrive
+range ","Typical Sensitivity: 
+±(0...20)A up to 
+±(0...400)A 
+depending on conductor rail geometry "," "," "," "," "," "," "," "," ","5V ±0.25V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC16 (300 mil) "," "," Uses anisotropic effect for contactless current measurement
+High precision, fast response time
+Single wire calibration interface
+Applications:
+- 3-phase motor control
+- Battery management for e-vehicle,
+  Hybrid Car
+-Inverter / IGBT"

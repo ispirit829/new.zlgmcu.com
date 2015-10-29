@@ -1,0 +1,703 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","Output","VCC Min (V)","VCC Max (V)","tpd Max (ns)","IO Max (mA)","Package Type"
+"on","标准逻辑---缓冲器","74LVC06","74LVC06ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC06ADR2G","http://www.onsemi.com/pub/Collateral/74LVC06A-D.PDF","Low Voltage CMOS Hex Inverter with Open Drain Outputs and 5V-Tolerant I/Os","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Hex Inverter with Open Drain Outputs and 5V-Tolerant I/Os","6","Open Drain","1.2","5.5","5","32","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","74LVC06","74LVC06ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC06ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC06A-D.PDF","Low Voltage CMOS Hex Inverter with Open Drain Outputs and 5V-Tolerant I/Os","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Hex Inverter with Open Drain Outputs and 5V-Tolerant I/Os","6","Open Drain","1.2","5.5","5","32","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","74LVC125","74LVC125ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC125ADR2G","http://www.onsemi.com/pub/Collateral/74LVC125A-D.PDF","Low Voltage Quad Non-Inverting Buffer, 3-State","Pb-free
+Halide free","ActiveNEW","Low Voltage Quad Non-Inverting Buffer, 3-State","4","3-State","1.2","3.6","6","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","74LVC125","74LVC125ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC125ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC125A-D.PDF","Low Voltage Quad Non-Inverting Buffer, 3-State","Pb-free
+Halide free","ActiveNEW","Low Voltage Quad Non-Inverting Buffer, 3-State","4","3-State","1.2","3.6","6","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","74LVC240","74LVC240ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC240ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC240A-D.PDF","Low Voltage Octal Inverting Buffer, 3-State","Pb-free
+Halide free","ActiveNEW","Low Voltage Octal Inverting Buffer, 3-State","8","3-State","1.2","3.6","7","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","74LVC240","74LVC240ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC240ADWR2G","http://www.onsemi.com/pub/Collateral/74LVC240A-D.PDF","Low Voltage Octal Inverting Buffer, 3-State","Pb-free
+Halide free","ActiveNEW","Low Voltage Octal Inverting Buffer, 3-State","8","3-State","1.2","3.6","7","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","74LVC540","74LVC540ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC540ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC540A-D.PDF","Low Voltage CMOS Octal Buffer Flow Through Pinout","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Octal Buffer Flow Through Pinout","8","3-State","1.2","3.6","5.3","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","74LVC540","74LVC540ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC540ADWR2G","http://www.onsemi.com/pub/Collateral/74LVC540A-D.PDF","Low Voltage CMOS Octal Buffer Flow Through Pinout","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Octal Buffer Flow Through Pinout","8","3-State","1.2","3.6","5.3","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC14049B","MC14049BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14049BDG","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter","6","CMOS","3","18","80","16","SOIC-16"
+"on","标准逻辑---缓冲器","MC14049B","MC14049BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14049BDR2G","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter","6","CMOS","3","18","80","16","SOIC-16"
+"on","标准逻辑---缓冲器","MC14049B","NLV14049BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14049BDR2G","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter","6","CMOS","3","18","80","16","SOIC-16"
+"on","标准逻辑---缓冲器","MC14050B","MC14050BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14050BDG","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Buffer","6","CMOS","3","18","80","16","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC14050B","MC14050BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14050BDR2G","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Buffer","6","CMOS","3","18","80","16","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC14050B","MC14050BDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14050BDTG","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Buffer","6","CMOS","3","18","80","16","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC14050B","MC14050BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14050BDTR2G","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Buffer","6","CMOS","3","18","80","16","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC14050B","NLV14050BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14050BDG","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Buffer","6","CMOS","3","18","80","16","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC14050B","NLV14050BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14050BDR2G","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Buffer","6","CMOS","3","18","80","16","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC14050B","NLV14050BDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14050BDTG","http://www.onsemi.com/pub/Collateral/MC14049B-D.PDF","Hex Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Buffer","6","CMOS","3","18","80","16","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC14572UB","MC14572UBDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14572UBDG","http://www.onsemi.com/pub/Collateral/MC14572UB-D.PDF","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","6","CMOS","3","18","100","2.25","SOIC-16"
+"on","标准逻辑---缓冲器","MC14572UB","MC14572UBDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14572UBDR2G","http://www.onsemi.com/pub/Collateral/MC14572UB-D.PDF","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","6","CMOS","3","18","100","2.25","SOIC-16"
+"on","标准逻辑---缓冲器","MC14572UB","NLV14572UBDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14572UBDR2G","http://www.onsemi.com/pub/Collateral/MC14572UB-D.PDF","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","6","CMOS","3","18","100","2.25","SOIC-16"
+"on","标准逻辑---缓冲器","MC74AC125","MC74AC125DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC125DG","http://www.onsemi.com/pub/Collateral/MC74AC125-D.PDF","Quad Buffer with 3-State Outputs","Pb-free
+Halide free","Active","Quad Buffer with 3-State Outputs","4","3-State","2","6","7","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74AC125","MC74AC125DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC125DR2G","http://www.onsemi.com/pub/Collateral/MC74AC125-D.PDF","Quad Buffer with 3-State Outputs","Pb-free
+Halide free","Active","Quad Buffer with 3-State Outputs","4","3-State","2","6","7","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74AC125","MC74AC125DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC125DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC125-D.PDF","Quad Buffer with 3-State Outputs","Pb-free
+Halide free","Active","Quad Buffer with 3-State Outputs","4","3-State","2","6","7","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74AC244","MC74AC244DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC244DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC244-D.PDF","Octal Buffer/Line Driver, 3-State","Pb-free
+Halide free","Active","Octal Buffer/Line Driver, 3-State","8","3-State","2","6","7","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74AC244","MC74AC244DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC244DWG","http://www.onsemi.com/pub/Collateral/MC74AC244-D.PDF","Octal Buffer/Line Driver, 3-State","Pb-free
+Halide free","Active","Octal Buffer/Line Driver, 3-State","8","3-State","2","6","7","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74AC244","MC74AC244DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC244DWR2G","http://www.onsemi.com/pub/Collateral/MC74AC244-D.PDF","Octal Buffer/Line Driver, 3-State","Pb-free
+Halide free","Active","Octal Buffer/Line Driver, 3-State","8","3-State","2","6","7","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74AC541","MC74AC541DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC541DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC540-D.PDF","Octal Buffer/Line Driver with 3-State Outputs","Pb-free
+Halide free","Active","Octal Buffer/Line Driver with 3-State Outputs","8","3-State","2","6","6","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74AC541","MC74AC541DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC541DWG","http://www.onsemi.com/pub/Collateral/MC74AC540-D.PDF","Octal Buffer/Line Driver with 3-State Outputs","Pb-free
+Halide free","Active","Octal Buffer/Line Driver with 3-State Outputs","8","3-State","2","6","6","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74AC541","MC74AC541DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC541DWR2G","http://www.onsemi.com/pub/Collateral/MC74AC540-D.PDF","Octal Buffer/Line Driver with 3-State Outputs","Pb-free
+Halide free","Active","Octal Buffer/Line Driver with 3-State Outputs","8","3-State","2","6","6","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74ACT125","MC74ACT125DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT125DG","http://www.onsemi.com/pub/Collateral/MC74AC125-D.PDF","Quad Buffer with 3-State Outputs","Pb-free
+Halide free","Active","Quad Buffer with 3-State Outputs","4","3-State","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74ACT125","MC74ACT125DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT125DR2G","http://www.onsemi.com/pub/Collateral/MC74AC125-D.PDF","Quad Buffer with 3-State Outputs","Pb-free
+Halide free","Active","Quad Buffer with 3-State Outputs","4","3-State","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74ACT125","MC74ACT125DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT125DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC125-D.PDF","Quad Buffer with 3-State Outputs","Pb-free
+Halide free","Active","Quad Buffer with 3-State Outputs","4","3-State","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74ACT241","MC74ACT241DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT241DTR2G","http://www.onsemi.com/pub/Collateral/MC74ACT241-D.PDF","Octal Buffer/Line Driver, 3-State","Pb-free
+Halide free","Active","Octal Buffer/Line Driver, 3-State","8","3-State","4.5","5.5","9","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74ACT241","MC74ACT241DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT241DWG","http://www.onsemi.com/pub/Collateral/MC74ACT241-D.PDF","Octal Buffer/Line Driver, 3-State","Pb-free
+Halide free","Active","Octal Buffer/Line Driver, 3-State","8","3-State","4.5","5.5","9","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74ACT241","MC74ACT241DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT241DWR2G","http://www.onsemi.com/pub/Collateral/MC74ACT241-D.PDF","Octal Buffer/Line Driver, 3-State","Pb-free
+Halide free","Active","Octal Buffer/Line Driver, 3-State","8","3-State","4.5","5.5","9","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74ACT540","MC74ACT540DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT540DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC540-D.PDF","Octal Buffer/Line Driver with 3-State Outputs","Pb-free
+Halide free","Active","Octal Buffer/Line Driver with 3-State Outputs","8","3-State","4.5","5.5","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74ACT540","MC74ACT540DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT540DWG","http://www.onsemi.com/pub/Collateral/MC74AC540-D.PDF","Octal Buffer/Line Driver with 3-State Outputs","Pb-free
+Halide free","Active","Octal Buffer/Line Driver with 3-State Outputs","8","3-State","4.5","5.5","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74ACT540","MC74ACT540DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT540DWR2G","http://www.onsemi.com/pub/Collateral/MC74AC540-D.PDF","Octal Buffer/Line Driver with 3-State Outputs","Pb-free
+Halide free","Active","Octal Buffer/Line Driver with 3-State Outputs","8","3-State","4.5","5.5","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC05A","MC74HC05ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC05ADG","http://www.onsemi.com/pub/Collateral/MC74HC05A-D.PDF","Hex Inverter with Open Drain Outputs","Pb-free
+Halide free","Active","Hex Inverter with Open Drain Outputs","6","Open Drain","2","6","15","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC05A","MC74HC05ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC05ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC05A-D.PDF","Hex Inverter with Open Drain Outputs","Pb-free
+Halide free","Active","Hex Inverter with Open Drain Outputs","6","Open Drain","2","6","15","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC05A","MC74HC05ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC05ADTG","http://www.onsemi.com/pub/Collateral/MC74HC05A-D.PDF","Hex Inverter with Open Drain Outputs","Pb-free
+Halide free","Active","Hex Inverter with Open Drain Outputs","6","Open Drain","2","6","15","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC05A","MC74HC05ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC05ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC05A-D.PDF","Hex Inverter with Open Drain Outputs","Pb-free
+Halide free","Active","Hex Inverter with Open Drain Outputs","6","Open Drain","2","6","15","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC126A","MC74HC126ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC126ADG","http://www.onsemi.com/pub/Collateral/MC74HC125A-D.PDF","Quad Non-inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Non-inverting Buffer, 3-State","4","3-State","2","6","24","6","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC126A","MC74HC126ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC126ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC125A-D.PDF","Quad Non-inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Non-inverting Buffer, 3-State","4","3-State","2","6","24","6","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC126A","MC74HC126ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC126ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC125A-D.PDF","Quad Non-inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Non-inverting Buffer, 3-State","4","3-State","2","6","24","6","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC126A","NLV74HC126ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC126ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC125A-D.PDF","Quad Non-inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Non-inverting Buffer, 3-State","4","3-State","2","6","24","6","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC126A","NLV74HC126ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC126ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC125A-D.PDF","Quad Non-inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad Non-inverting Buffer, 3-State","4","3-State","2","6","24","6","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74HC244A","MC74HC244ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC244ADTG","http://www.onsemi.com/pub/Collateral/MC74HC244A-D.PDF","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","22","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC244A","MC74HC244ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC244ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC244A-D.PDF","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","22","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC244A","MC74HC244ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC244ADWG","http://www.onsemi.com/pub/Collateral/MC74HC244A-D.PDF","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","22","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC244A","MC74HC244ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC244ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HC244A-D.PDF","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","22","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC244A","NLV74HC244ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC244ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC244A-D.PDF","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","22","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC244A","NLV74HC244ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC244ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HC244A-D.PDF","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","22","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC367A","MC74HC367ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC367ADG","http://www.onsemi.com/pub/Collateral/MC74HC367A-D.PDF","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","Pb-free
+Halide free","Active","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","6","3-State","2","6","24","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HC367A","MC74HC367ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC367ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC367A-D.PDF","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","Pb-free
+Halide free","Active","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","6","3-State","2","6","24","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HC367A","MC74HC367ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC367ADTG","http://www.onsemi.com/pub/Collateral/MC74HC367A-D.PDF","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","Pb-free
+Halide free","Active","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","6","3-State","2","6","24","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HC367A","MC74HC367ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC367ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC367A-D.PDF","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","Pb-free
+Halide free","Active","Hex 3-State NonInverting Buffer with Separate 2-Bit and 4-Bit Sections","6","3-State","2","6","24","24","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HC541A","MC74HC541ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC541ADTG","http://www.onsemi.com/pub/Collateral/MC74HC541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","25","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC541A","MC74HC541ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC541ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","25","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC541A","MC74HC541ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC541ADWG","http://www.onsemi.com/pub/Collateral/MC74HC541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","25","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC541A","MC74HC541ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC541ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HC541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","25","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HC541A","NLV74HC541ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC541ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver","8","3-State","2","6","25","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT241A","MC74HCT241ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT241ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT241A-D.PDF","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","Pb-free
+Halide free","Active","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","8","3-State","4.5","5.5","23","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT241A","MC74HCT241ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT241ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT241A-D.PDF","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","Pb-free
+Halide free","Active","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","8","3-State","4.5","5.5","23","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT241A","MC74HCT241ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT241ADWG","http://www.onsemi.com/pub/Collateral/MC74HCT241A-D.PDF","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","Pb-free
+Halide free","Active","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","8","3-State","4.5","5.5","23","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT241A","MC74HCT241ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT241ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HCT241A-D.PDF","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","Pb-free
+Halide free","Active","Octal 3-State Noninverting Buffer/Line Driver/Line Receiver with LSTTL-Compatible Inputs","8","3-State","4.5","5.5","23","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT365A","MC74HCT365ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADG","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","6","3-State","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HCT365A","MC74HCT365ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","6","3-State","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HCT365A","MC74HCT365ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","6","3-State","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HCT365A","MC74HCT365ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","6","3-State","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74HCT541A","MC74HCT541ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT541ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","8","3-State","4.5","5.5","30","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT541A","MC74HCT541ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT541ADWG","http://www.onsemi.com/pub/Collateral/MC74HCT541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","8","3-State","4.5","5.5","30","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT541A","MC74HCT541ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT541ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HCT541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","8","3-State","4.5","5.5","30","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74HCT541A","NLV74HCT541ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HCT541ADWG","http://www.onsemi.com/pub/Collateral/MC74HCT541A-D.PDF","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-inverting Buffer/Line Driver/Line Receiver, TTL Level","8","3-State","4.5","5.5","30","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LCX07","MC74LCX07DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX07DG","http://www.onsemi.com/pub/Collateral/MC74LCX07-D.PDF","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","6","Open Drain","2","5.5","3","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LCX07","MC74LCX07DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX07DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX07-D.PDF","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","6","Open Drain","2","5.5","3","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LCX07","MC74LCX07DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX07DTG","http://www.onsemi.com/pub/Collateral/MC74LCX07-D.PDF","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","6","Open Drain","2","5.5","3","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LCX07","MC74LCX07DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX07DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX07-D.PDF","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Buffer with Open Drain Outputs and 5V-Tolerant Inputs","6","Open Drain","2","5.5","3","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LCX16240","M74LCX16240DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74LCX16240DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX16240-D.PDF","Low Voltage 16-Bit CMOS Buffer","Pb-free
+Halide free","Active","Low Voltage 16-Bit CMOS Buffer","16","3-State","2","3.6","4.5","24","TSSOP-48"
+"on","标准逻辑---缓冲器","MC74LCX240","MC74LCX240DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX240DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX240-D.PDF","Low Voltage Octal Inverting Buffer, 3-State","Pb-free
+Halide free","Active","Low Voltage Octal Inverting Buffer, 3-State","8","3-State","2","3.6","6.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LCX240","MC74LCX240DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX240DWR2G","http://www.onsemi.com/pub/Collateral/MC74LCX240-D.PDF","Low Voltage Octal Inverting Buffer, 3-State","Pb-free
+Halide free","Active","Low Voltage Octal Inverting Buffer, 3-State","8","3-State","2","3.6","6.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LCX540","MC74LCX540DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX540DTG","http://www.onsemi.com/pub/Collateral/MC74LCX540-D.PDF","Low Voltage CMOS Octal Buffer Flow Through Pinout","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Octal Buffer Flow Through Pinout","8","3-State","2","3.6","6.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LCX540","MC74LCX540DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX540DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX540-D.PDF","Low Voltage CMOS Octal Buffer Flow Through Pinout","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Octal Buffer Flow Through Pinout","8","3-State","2","3.6","6.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LCX540","MC74LCX540DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX540DWR2G","http://www.onsemi.com/pub/Collateral/MC74LCX540-D.PDF","Low Voltage CMOS Octal Buffer Flow Through Pinout","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Octal Buffer Flow Through Pinout","8","3-State","2","3.6","6.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LVX125","MC74LVX125DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX125DG","http://www.onsemi.com/pub/Collateral/MC74LVX125-D.PDF","Quad Bus Buffer, 3-State","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State","4","3-State","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LVX125","MC74LVX125DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX125DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX125-D.PDF","Quad Bus Buffer, 3-State","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State","4","3-State","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LVX125","MC74LVX125DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX125DTG","http://www.onsemi.com/pub/Collateral/MC74LVX125-D.PDF","Quad Bus Buffer, 3-State","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State","4","3-State","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LVX125","MC74LVX125DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX125DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX125-D.PDF","Quad Bus Buffer, 3-State","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State","4","3-State","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74LVX244","MC74LVX244DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX244DTG","http://www.onsemi.com/pub/Collateral/MC74LVX244-D.PDF","Octal Non-inverting Bus Buffer, 3-State","Pb-free
+Halide free","Active","Octal Non-inverting Bus Buffer, 3-State","8","3-State","2","3.6","10.6","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LVX244","MC74LVX244DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX244DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX244-D.PDF","Octal Non-inverting Bus Buffer, 3-State","Pb-free
+Halide free","Active","Octal Non-inverting Bus Buffer, 3-State","8","3-State","2","3.6","10.6","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LVX244","MC74LVX244DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX244DWR2G","http://www.onsemi.com/pub/Collateral/MC74LVX244-D.PDF","Octal Non-inverting Bus Buffer, 3-State","Pb-free
+Halide free","Active","Octal Non-inverting Bus Buffer, 3-State","8","3-State","2","3.6","10.6","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LVX541","MC74LVX541DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX541DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX541-D.PDF","Octal Bus Buffer","Pb-free
+Halide free","Active","Octal Bus Buffer","8","3-State","2","3.6","7","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74LVX541","MC74LVX541DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX541DWG","http://www.onsemi.com/pub/Collateral/MC74LVX541-D.PDF","Octal Bus Buffer","Pb-free
+Halide free","Active","Octal Bus Buffer","8","3-State","2","3.6","7","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHC126","MC74VHC126DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC126DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC126-D.PDF","Quad Bus Buffer, 3-State","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State","4","3-State","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74VHC126","MC74VHC126DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC126DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC126-D.PDF","Quad Bus Buffer, 3-State","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State","4","3-State","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74VHC1G07","MC74VHC1G07DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G07DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G07-D.PDF","Single Non-Inverting Buffer, Open Drain","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, Open Drain","1","Open Drain","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1G07","MC74VHC1G07DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G07DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G07-D.PDF","Single Non-Inverting Buffer, Open Drain","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, Open Drain","1","Open Drain","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1G07","MC74VHC1G07DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G07DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G07-D.PDF","Single Non-Inverting Buffer, Open Drain","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, Open Drain","1","Open Drain","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1G07","NL17VHC1G07DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17VHC1G07DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G07-D.PDF","Single Non-Inverting Buffer, Open Drain","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, Open Drain","1","Open Drain","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1G126","M74VHC1G126DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1G126DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G126-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, 3-State","1","3-State","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1G126","M74VHC1G126DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1G126DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G126-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, 3-State","1","3-State","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1G126","M74VHC1G126DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1G126DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G126-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, 3-State","1","3-State","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT125","M74VHC1GT125DF1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT125DF1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","3","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT125","M74VHC1GT125DF2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT125DF2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","3","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT125","M74VHC1GT125DT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT125DT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","3","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT125","NLVVHC1GT125DF1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1GT125DF1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","3","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT125","NLVVHC1GT125DF2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1GT125DF2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","3","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT125","NLVVHC1GT125DT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1GT125DT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","3","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT125","SLV74VHC1GT125DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=SLV74VHC1GT125DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","3","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT50","M74VHC1GT50DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT50DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT50-D.PDF","Single Non-Inverting Buffer, TTL Level","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, TTL Level","1","CMOS","1.65","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT50","M74VHC1GT50DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT50DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT50-D.PDF","Single Non-Inverting Buffer, TTL Level","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, TTL Level","1","CMOS","1.65","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT50","M74VHC1GT50DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT50DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT50-D.PDF","Single Non-Inverting Buffer, TTL Level","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, TTL Level","1","CMOS","1.65","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC1GT50","NL17VHC1GT50DF1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17VHC1GT50DF1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT50-D.PDF","Single Non-Inverting Buffer, TTL Level","Pb-free
+Halide free","Active","Single Non-Inverting Buffer, TTL Level","1","CMOS","1.65","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---缓冲器","MC74VHC244","MC74VHC244DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC244DTG","http://www.onsemi.com/pub/Collateral/MC74VHC244-D.PDF","Octal Non-inverting Bus Buffer, 3-State","Pb-free
+Halide free
+PPAP Capable","Active","Octal Non-inverting Bus Buffer, 3-State","8","3-State","2","5.5","7.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHC244","MC74VHC244DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC244DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC244-D.PDF","Octal Non-inverting Bus Buffer, 3-State","Pb-free
+Halide free
+PPAP Capable","Active","Octal Non-inverting Bus Buffer, 3-State","8","3-State","2","5.5","7.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHC244","MC74VHC244DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC244DWR2G","http://www.onsemi.com/pub/Collateral/MC74VHC244-D.PDF","Octal Non-inverting Bus Buffer, 3-State","Pb-free
+Halide free
+PPAP Capable","Active","Octal Non-inverting Bus Buffer, 3-State","8","3-State","2","5.5","7.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHC244","NLV74VHC244DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHC244DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC244-D.PDF","Octal Non-inverting Bus Buffer, 3-State","Pb-free
+Halide free
+PPAP Capable","Active","Octal Non-inverting Bus Buffer, 3-State","8","3-State","2","5.5","7.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHC540","MC74VHC540DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC540DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC540-D.PDF","Octal Bus Buffer","Pb-free
+Halide free","Active","Octal Bus Buffer","8","3-State","2","5.5","7","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHC540","MC74VHC540DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC540DWR2G","http://www.onsemi.com/pub/Collateral/MC74VHC540-D.PDF","Octal Bus Buffer","Pb-free
+Halide free","Active","Octal Bus Buffer","8","3-State","2","5.5","7","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHCT125A","MC74VHCT125ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT125ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT125A-D.PDF","Quad Bus Buffer, 3-State, TTL Level","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State, TTL Level","4","3-State","4.5","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74VHCT125A","MC74VHCT125ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT125ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT125A-D.PDF","Quad Bus Buffer, 3-State, TTL Level","Pb-free
+Halide free","Active","Quad Bus Buffer, 3-State, TTL Level","4","3-State","4.5","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---缓冲器","MC74VHCT240A","MC74VHCT240ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT240ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT240A-D.PDF","Octal Inverting Buffer/Line Driver, 3-State Output","Pb-free
+Halide free","Active","Octal Inverting Buffer/Line Driver, 3-State Output","8","3-State","4.5","5.5","8.8","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHCT240A","MC74VHCT240ADWRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT240ADWRG","http://www.onsemi.com/pub/Collateral/MC74VHCT240A-D.PDF","Octal Inverting Buffer/Line Driver, 3-State Output","Pb-free
+Halide free","Active","Octal Inverting Buffer/Line Driver, 3-State Output","8","3-State","4.5","5.5","8.8","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHCT257A","M74VHCT257ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHCT257ADTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT257A-D.PDF","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","Pb-free
+Halide free","Active","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","4","3-State","4.5","5.5","7.9","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74VHCT257A","MC74VHCT257ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT257ADG","http://www.onsemi.com/pub/Collateral/MC74VHCT257A-D.PDF","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","Pb-free
+Halide free","Active","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","4","3-State","4.5","5.5","7.9","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74VHCT257A","MC74VHCT257ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT257ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT257A-D.PDF","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","Pb-free
+Halide free","Active","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","4","3-State","4.5","5.5","7.9","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74VHCT257A","MC74VHCT257ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT257ADTG","http://www.onsemi.com/pub/Collateral/MC74VHCT257A-D.PDF","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","Pb-free
+Halide free","Active","Quad 2-Channel Multiplexer (Mux) with 3-State Outputs","4","3-State","4.5","5.5","7.9","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---缓冲器","MC74VHCT541A","MC74VHCT541ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT541ADTG","http://www.onsemi.com/pub/Collateral/MC74VHCT541A-D.PDF","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","8","3-State","4.5","5.5","7.9","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHCT541A","MC74VHCT541ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT541ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT541A-D.PDF","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","8","3-State","4.5","5.5","7.9","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHCT541A","MC74VHCT541ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT541ADWG","http://www.onsemi.com/pub/Collateral/MC74VHCT541A-D.PDF","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","8","3-State","4.5","5.5","7.9","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHCT541A","MC74VHCT541ADWRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT541ADWRG","http://www.onsemi.com/pub/Collateral/MC74VHCT541A-D.PDF","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","8","3-State","4.5","5.5","7.9","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","MC74VHCT541A","NLV74VHCT541ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHCT541ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT541A-D.PDF","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Non-inverting Octal Bus Buffer/Line Driver/Line Receiver, TTL Level, 3-State","8","3-State","4.5","5.5","7.9","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---缓冲器","NL17SH126","NL17SH126P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SH126P5T5G","http://www.onsemi.com/pub/Collateral/NL17SH126-D.PDF","Noninverting 3-State Buffer","Pb-free
+Halide free","Active","Noninverting 3-State Buffer","1","3-State","5.5","2","3.5","8","SOT-953"
+"on","标准逻辑---缓冲器","NL17SZ04","NL17SZ04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ04DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter",,,,,,,"SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---缓冲器","NL17SZ04","NL17SZ04P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ04P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter",,,,,,,"SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---缓冲器","NL17SZ04","NL17SZ04XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ04XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter",,,,,,,"SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---缓冲器","NL17SZ04","NLV17SZ04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ04DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter, Automotive Device","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter",,,,,,,"SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---缓冲器","NL17SZ06","NL17SZ06DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ06DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ06-D.PDF","Single Inverter, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Open Drain","1","Open Drain","1.65","5.5","3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553"
+"on","标准逻辑---缓冲器","NL17SZ06","NL17SZ06XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ06XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ06-D.PDF","Single Inverter, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Open Drain","1","Open Drain","1.65","5.5","3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553"
+"on","标准逻辑---缓冲器","NL17SZ06","NLV17SZ06DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ06DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ06-D.PDF","Single Inverter, Open Drain, Automotive Device","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Open Drain","1","Open Drain","1.65","5.5","3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553"
+"on","标准逻辑---缓冲器","NL17SZ125","NL17SZ125CMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ125CMUTCG","http://www.onsemi.com/pub/Collateral/NL17SZ125-D.PDF","Single Non-Inverting Buffer, 3-State","PPAP Capable
+Pb-free
+Halide free
+AEC Qualified","Active","Single Non-Inverting Buffer, 3-State","1","CMOS","1.65","5.5","2.6","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953
+TSOP-5 / SOT-23-5
+UDFN-6"
+"on","标准逻辑---缓冲器","NL17SZ125","NL17SZ125DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ125DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ125-D.PDF","Single Non-Inverting Buffer, 3-State","PPAP Capable
+Pb-free
+Halide free
+AEC Qualified","Active","Single Non-Inverting Buffer, 3-State","1","CMOS","1.65","5.5","2.6","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953
+TSOP-5 / SOT-23-5
+UDFN-6"
+"on","标准逻辑---缓冲器","NL17SZ125","NL17SZ125DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ125DTT1G","http://www.onsemi.com/pub/Collateral/NL17SZ125-D.PDF","Single Non-Inverting Buffer, 3-State","PPAP Capable
+Pb-free
+Halide free
+AEC Qualified","Active","Single Non-Inverting Buffer, 3-State","1","CMOS","1.65","5.5","2.6","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953
+TSOP-5 / SOT-23-5
+UDFN-6"
+"on","标准逻辑---缓冲器","NL17SZ125","NL17SZ125P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ125P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ125-D.PDF","Single Non-Inverting Buffer, 3-State","PPAP Capable
+Pb-free
+Halide free
+AEC Qualified","Active","Single Non-Inverting Buffer, 3-State","1","CMOS","1.65","5.5","2.6","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953
+TSOP-5 / SOT-23-5
+UDFN-6"
+"on","标准逻辑---缓冲器","NL17SZ125","NL17SZ125XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ125XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ125-D.PDF","Single Non-Inverting Buffer, 3-State","PPAP Capable
+Pb-free
+Halide free
+AEC Qualified","Active","Single Non-Inverting Buffer, 3-State","1","CMOS","1.65","5.5","2.6","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953
+TSOP-5 / SOT-23-5
+UDFN-6"
+"on","标准逻辑---缓冲器","NL17SZ125","NLV17SZ125DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ125DFT1G","http://www.onsemi.com/pub/Collateral/NL17SZ125-D.PDF","Single Non-Inverting Buffer, 3-State","PPAP Capable
+Pb-free
+Halide free
+AEC Qualified","Active","Single Non-Inverting Buffer, 3-State","1","CMOS","1.65","5.5","2.6","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953
+TSOP-5 / SOT-23-5
+UDFN-6"
+"on","标准逻辑---缓冲器","NL17SZ125","NLV17SZ125DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ125DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ125-D.PDF","Single Non-Inverting Buffer, 3-State, Automotive Device","PPAP Capable
+Pb-free
+Halide free
+AEC Qualified","Active","Single Non-Inverting Buffer, 3-State","1","CMOS","1.65","5.5","2.6","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953
+TSOP-5 / SOT-23-5
+UDFN-6"
+"on","标准逻辑---缓冲器","NL17SZ16","NL17SZ16DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ16DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ16-D.PDF","Single Buffer","Pb-free
+Halide free","Active","Single Buffer","1","CMOS","1.65","5.5","4.5","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---缓冲器","NL17SZ16","NL17SZ16XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ16XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ16-D.PDF","Single Buffer","Pb-free
+Halide free","Active","Single Buffer","1","CMOS","1.65","5.5","4.5","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---缓冲器","NL17SZ16","NL17SZ34P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ34P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ16-D.PDF","Single Buffer","Pb-free
+Halide free","Active","Single Buffer","1","CMOS","1.65","5.5","4.5","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---缓冲器","NL27WZ06","NL27WZ06DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ06DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ06-D.PDF","Dual Inverter, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Inverter, Open Drain","2","CMOS","1.65","5.5","3","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---缓冲器","NL27WZ06","NL27WZ06DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ06DTT1G","http://www.onsemi.com/pub/Collateral/NL27WZ06-D.PDF","Dual Inverter, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Inverter, Open Drain","2","CMOS","1.65","5.5","3","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---缓冲器","NL27WZ06","NLV27WZ06DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV27WZ06DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ06-D.PDF","Dual Inverter, Open Drain, Automotive Device","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Inverter, Open Drain","2","CMOS","1.65","5.5","3","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---缓冲器","NL27WZ125","NL27WZ125USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ125USG","http://www.onsemi.com/pub/Collateral/NL27WZ125-D.PDF","Dual Buffer, 3-State Low Enable","Pb-free
+Halide free","Active","Dual Buffer, 3-State Low Enable","2","3-State","1.65","5.5","5.7","32","US8"
+"on","标准逻辑---缓冲器","NL27WZ16","NL27WZ16DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ16DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ16-D.PDF","Dual Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Buffer","2","CMOS","1.65","5.5","2","24","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---缓冲器","NL27WZ16","NL27WZ16DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ16DTT1G","http://www.onsemi.com/pub/Collateral/NL27WZ16-D.PDF","Dual Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Buffer","2","CMOS","1.65","5.5","2","24","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---缓冲器","NL27WZ16","NLV27WZ16DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV27WZ16DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ16-D.PDF","Dual Buffer, Automotive Device","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Buffer","2","CMOS","1.65","5.5","2","24","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---缓冲器","NL37WZ06","NL37WZ06USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL37WZ06USG","http://www.onsemi.com/pub/Collateral/NL37WZ06-D.PDF","Triple Inverter, Open Drain","Pb-free
+Halide free","Active","Triple Inverter, Open Drain","3","CMOS","1.65","5.5","3","32","US8"
+"on","标准逻辑---缓冲器","NL37WZ16","NL37WZ16USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL37WZ16USG","http://www.onsemi.com/pub/Collateral/NL37WZ16-D.PDF","Triple Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Triple Buffer","3","CMOS","1.65","5.5","2","24","US8"
+"on","标准逻辑---缓冲器","NL37WZ16","NLV37WZ16USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV37WZ16USG","http://www.onsemi.com/pub/Collateral/NL37WZ16-D.PDF","Triple Buffer","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Triple Buffer","3","CMOS","1.65","5.5","2","24","US8"
+"on","标准逻辑---缓冲器","NLSF3T125","NLSF3T125MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSF3T125MNR2G","http://www.onsemi.com/pub/Collateral/NLSF3T125-D.PDF","Quad Bus Buffer with 3-state Control Inputs","Pb-free
+Halide free","Active","Quad Bus Buffer with 3-state Control Inputs","4","3-State","2","5.5","5.5","25","QFN-16"
+"on","标准逻辑---缓冲器","NLU1G07","NLU1G07MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1G07MUTCG","http://www.onsemi.com/pub/Collateral/NLU1G07-D.PDF","Single Non-Inverting Buffer with Open Drain Output","Pb-free
+Halide free","Active","Single Non-Inverting Buffer with Open Drain Output","1","Open Drain","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---缓冲器","NLU1GT125","NLU1GT125MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT125MUTCG","http://www.onsemi.com/pub/Collateral/NLU1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---缓冲器","NLU1GT125","NLVU1GT125AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVU1GT125AMUTCG","http://www.onsemi.com/pub/Collateral/NLU1GT125-D.PDF","Single Non-Inverting Buffer, 3-State","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer, 3-State","1","3-State","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---缓冲器","NLU1GT50","NLU1GT50AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT50AMUTCG","http://www.onsemi.com/pub/Collateral/NLU1GT50-D.PDF","Single Non-Inverting Buffer with TTL-Compatible Inputs","Pb-free
+Halide free","Active","Single Non-Inverting Buffer with TTL-Compatible Inputs","1","CMOS","1.65","5.5","6.7","8","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLU1GT50","NLU1GT50AMX1TCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT50AMX1TCG","http://www.onsemi.com/pub/Collateral/NLU1GT50-D.PDF","Single Non-Inverting Buffer with TTL-Compatible Inputs","Pb-free
+Halide free","Active","Single Non-Inverting Buffer with TTL-Compatible Inputs","1","CMOS","1.65","5.5","6.7","8","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLU1GT50","NLU1GT50CMX1TCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT50CMX1TCG","http://www.onsemi.com/pub/Collateral/NLU1GT50-D.PDF","Single Non-Inverting Buffer with TTL-Compatible Inputs","Pb-free
+Halide free","Active","Single Non-Inverting Buffer with TTL-Compatible Inputs","1","CMOS","1.65","5.5","6.7","8","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLU1GT50","NLU1GT50MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT50MUTCG","http://www.onsemi.com/pub/Collateral/NLU1GT50-D.PDF","Single Non-Inverting Buffer with TTL-Compatible Inputs","Pb-free
+Halide free","Active","Single Non-Inverting Buffer with TTL-Compatible Inputs","1","CMOS","1.65","5.5","6.7","8","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLU2G07","NLU2G07MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G07MUTCG","http://www.onsemi.com/pub/Collateral/NLU2G07-D.PDF","Dual Non-Inverting Buffer with Open Drain Output","Pb-free
+Halide free","Active","Dual Non-Inverting Buffer with Open Drain Output","2","CMOS","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---缓冲器","NLU2G17","NLU2G17AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G17AMUTCG","http://www.onsemi.com/pub/Collateral/NLU2G17-D.PDF","Dual Buffer with Schmitt Trigger Output","Pb-free
+Halide free","Active","Dual Buffer with Schmitt Trigger Output","2","CMOS","1.65","5.5","8.6","8","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLU2G17","NLU2G17AMX1TCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G17AMX1TCG","http://www.onsemi.com/pub/Collateral/NLU2G17-D.PDF","Dual Buffer with Schmitt Trigger Output","Pb-free
+Halide free","Active","Dual Buffer with Schmitt Trigger Output","2","CMOS","1.65","5.5","8.6","8","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLU2G17","NLU2G17MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G17MUTCG","http://www.onsemi.com/pub/Collateral/NLU2G17-D.PDF","Dual Buffer with Schmitt Trigger Output","Pb-free
+Halide free","Active","Dual Buffer with Schmitt Trigger Output","2","CMOS","1.65","5.5","8.6","8","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLU3G16","NLU3G16AMX1TCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU3G16AMX1TCG","http://www.onsemi.com/pub/Collateral/NLU3G16-D.PDF","Triple Non-Inverting Buffer","Pb-free
+Halide free
+PPAP Capable","Active","Triple Non-Inverting Buffer","3","CMOS","1.65","5.5","5.5","8","UDFN-8
+ULLGA-8"
+"on","标准逻辑---缓冲器","NLU3G16","NLU3G16DMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU3G16DMUTCG","http://www.onsemi.com/pub/Collateral/NLU3G16-D.PDF","Triple Non-Inverting Buffer","Pb-free
+Halide free
+PPAP Capable","Active","Triple Non-Inverting Buffer","3","CMOS","1.65","5.5","5.5","8","UDFN-8
+ULLGA-8"
+"on","标准逻辑---缓冲器","NLU3G16","NLU3G16EMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU3G16EMUTCG","http://www.onsemi.com/pub/Collateral/NLU3G16-D.PDF","Triple Non-Inverting Buffer","Pb-free
+Halide free
+PPAP Capable","Active","Triple Non-Inverting Buffer","3","CMOS","1.65","5.5","5.5","8","UDFN-8
+ULLGA-8"
+"on","标准逻辑---缓冲器","NLU3G16","NLU3G16FMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU3G16FMUTCG","http://www.onsemi.com/pub/Collateral/NLU3G16-D.PDF","Triple Non-Inverting Buffer","Pb-free
+Halide free
+PPAP Capable","Active","Triple Non-Inverting Buffer","3","CMOS","1.65","5.5","5.5","8","UDFN-8
+ULLGA-8"
+"on","标准逻辑---缓冲器","NLU3G16","NLU3G16MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU3G16MUTAG","http://www.onsemi.com/pub/Collateral/NLU3G16-D.PDF","Triple Non-Inverting Buffer","Pb-free
+Halide free
+PPAP Capable","Active","Triple Non-Inverting Buffer","3","CMOS","1.65","5.5","5.5","8","UDFN-8
+ULLGA-8"
+"on","标准逻辑---缓冲器","NLX1G125","NLX1G125FCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX1G125FCT1G","http://www.onsemi.com/pub/Collateral/NLX1G125-D.PDF","Non-Inverting Buffer, 3-State, 1-bit buffer","Pb-free
+Halide free","Active","Non-Inverting Buffer, 3-State","1","3-State","1.65","5.5","2.7","32","Flip-Chip-5"
+"on","标准逻辑---缓冲器","NLX2G07","NLX2G07AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G07AMUTCG","http://www.onsemi.com/pub/Collateral/NLX2G07-D.PDF","Dual Buffer with Open Drain Output","Pb-free
+Halide free","Active","Dual Buffer with Open Drain Output","2","Open Drain","1.65","5.5","3.5","32","UDFN-6"
+"on","标准逻辑---缓冲器","NLX2G07","NLX2G07MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G07MUTCG","http://www.onsemi.com/pub/Collateral/NLX2G07-D.PDF","Dual Buffer with Open Drain Output","Pb-free
+Halide free","Active","Dual Buffer with Open Drain Output","2","Open Drain","1.65","5.5","3.5","32","UDFN-6"
+"on","标准逻辑---缓冲器","NLX2G17","NLX2G17AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G17AMUTCG","http://www.onsemi.com/pub/Collateral/NLX2G17-D.PDF","Dual Buffer with Schmitt Trigger Output","Pb-free
+Halide free","Active","Dual Buffer with Schmitt Trigger Output","2","CMOS","1.65","5.5","3.1","24","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","NLX2G17","NLX2G17AMX1TCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G17AMX1TCG","http://www.onsemi.com/pub/Collateral/NLX2G17-D.PDF","Dual Buffer with Schmitt Trigger Output","Pb-free
+Halide free","Active","Dual Buffer with Schmitt Trigger Output","2","CMOS","1.65","5.5","3.1","24","UDFN-6
+ULLGA-6"
+"on","标准逻辑---缓冲器","PCA9511A","PCA9511ADMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9511ADMR2G","http://www.onsemi.com/pub/Collateral/PCA9511A-D.PDF","Hot Swappable I2C-Bus and SMBus Bus Buffer, Hot Swappable I2C-Bus and SMBus Bus Buffer","Pb-free
+Halide free","Active","Hot Swappable I2C-Bus and SMBus Bus Buffer","1","Open Drain","2.7","5.5","70","50","Micro8™"

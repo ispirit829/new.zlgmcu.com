@@ -1,0 +1,305 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","VCC Min (V)","VCC Max (V)","tpd Max (ns)","PD Max (W)","IO Max (mA)","Package Type"
+"on","标准逻辑---运算功能","MC14007UB","MC14007UBDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14007UBDG","http://www.onsemi.com/pub/Collateral/MC14007UB-D.PDF","Dual Complementary Pair Plus Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Complementary Pair Plus Inverter ","Arithmetic Logic Unit","3","18","75","0.5","2.25
+2.5","SOIC-14"
+"on","标准逻辑---运算功能","MC14007UB","MC14007UBDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14007UBDR2G","http://www.onsemi.com/pub/Collateral/MC14007UB-D.PDF","Dual Complementary Pair Plus Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Complementary Pair Plus Inverter ","Arithmetic Logic Unit","3","18","75","0.5","2.25
+2.5","SOIC-14"
+"on","标准逻辑---运算功能","MC14007UB","NLV14007UBDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14007UBDR2G","http://www.onsemi.com/pub/Collateral/MC14007UB-D.PDF","Dual Complementary Pair Plus Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Complementary Pair Plus Inverter ","Arithmetic Logic Unit","3","18","75","0.5","2.25
+2.5","SOIC-14"
+"on","标准逻辑---运算功能","MC14017B","MC14017BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14017BDG","http://www.onsemi.com/pub/Collateral/MC14017B-D.PDF","Decade Counter/Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Decade Counter/Divider","Counter","3","18","460","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14017B","MC14017BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14017BDR2G","http://www.onsemi.com/pub/Collateral/MC14017B-D.PDF","Decade Counter/Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Decade Counter/Divider","Counter","3","18","460","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14017B","NLV14017BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14017BDG","http://www.onsemi.com/pub/Collateral/MC14017B-D.PDF","Decade Counter/Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Decade Counter/Divider","Counter","3","18","460","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14017B","NLV14017BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14017BDR2G","http://www.onsemi.com/pub/Collateral/MC14017B-D.PDF","Decade Counter/Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Decade Counter/Divider","Counter","3","18","460","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14020B","MC14020BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14020BDG","http://www.onsemi.com/pub/Collateral/MC14020B-D.PDF","14-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Bit Binary Counter","Counter","3","18","1725","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14020B","MC14020BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14020BDR2G","http://www.onsemi.com/pub/Collateral/MC14020B-D.PDF","14-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Bit Binary Counter","Counter","3","18","1725","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14020B","NLV14020BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14020BDR2G","http://www.onsemi.com/pub/Collateral/MC14020B-D.PDF","14-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Bit Binary Counter","Counter","3","18","1725","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14024B","MC14024BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14024BDG","http://www.onsemi.com/pub/Collateral/MC14024B-D.PDF","7-Stage Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","7-Stage Ripple Counter","Counter","3","18","750","0.5","2.25","SOIC-14"
+"on","标准逻辑---运算功能","MC14024B","MC14024BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14024BDR2G","http://www.onsemi.com/pub/Collateral/MC14024B-D.PDF","7-Stage Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","7-Stage Ripple Counter","Counter","3","18","750","0.5","2.25","SOIC-14"
+"on","标准逻辑---运算功能","MC14024B","NLV14024BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14024BDG","http://www.onsemi.com/pub/Collateral/MC14024B-D.PDF","7-Stage Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","7-Stage Ripple Counter","Counter","3","18","750","0.5","2.25","SOIC-14"
+"on","标准逻辑---运算功能","MC14024B","NLV14024BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14024BDR2G","http://www.onsemi.com/pub/Collateral/MC14024B-D.PDF","7-Stage Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","7-Stage Ripple Counter","Counter","3","18","750","0.5","2.25","SOIC-14"
+"on","标准逻辑---运算功能","MC14040B","MC14040BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14040BDG","http://www.onsemi.com/pub/Collateral/MC14040B-D.PDF","12-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","12-Bit Binary Counter","Counter","3","18","1440","0.5","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14040B","MC14040BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14040BDR2G","http://www.onsemi.com/pub/Collateral/MC14040B-D.PDF","12-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","12-Bit Binary Counter","Counter","3","18","1440","0.5","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14040B","MC14040BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14040BDTR2G","http://www.onsemi.com/pub/Collateral/MC14040B-D.PDF","12-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","12-Bit Binary Counter","Counter","3","18","1440","0.5","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14040B","NLV14040BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14040BDG","http://www.onsemi.com/pub/Collateral/MC14040B-D.PDF","12-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","12-Bit Binary Counter","Counter","3","18","1440","0.5","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14040B","NLV14040BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14040BDR2G","http://www.onsemi.com/pub/Collateral/MC14040B-D.PDF","12-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","12-Bit Binary Counter","Counter","3","18","1440","0.5","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14040B","NLV14040BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14040BDTR2G","http://www.onsemi.com/pub/Collateral/MC14040B-D.PDF","12-Bit Binary Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","12-Bit Binary Counter","Counter","3","18","1440","0.5","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14490","MC14490DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14490DWG","http://www.onsemi.com/pub/Collateral/MC14490-D.PDF","Hex Bounce Eliminator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Hex Bounce Eliminator","Bounce Eliminator","3","18","320","0.5","9","SOIC-16W"
+"on","标准逻辑---运算功能","MC14490","MC14490DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14490DWR2G","http://www.onsemi.com/pub/Collateral/MC14490-D.PDF","Hex Bounce Eliminator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Hex Bounce Eliminator","Bounce Eliminator","3","18","320","0.5","9","SOIC-16W"
+"on","标准逻辑---运算功能","MC14490","NLV14490DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14490DWG","http://www.onsemi.com/pub/Collateral/MC14490-D.PDF","Hex Bounce Eliminator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Hex Bounce Eliminator","Bounce Eliminator","3","18","320","0.5","9","SOIC-16W"
+"on","标准逻辑---运算功能","MC14490","NLV14490DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14490DWR2G","http://www.onsemi.com/pub/Collateral/MC14490-D.PDF","Hex Bounce Eliminator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Hex Bounce Eliminator","Bounce Eliminator","3","18","320","0.5","9","SOIC-16W"
+"on","标准逻辑---运算功能","MC14518B","MC14518BDWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14518BDWG","http://www.onsemi.com/pub/Collateral/MC14518B-D.PDF","Dual BCD Up Counter","Pb-free
+Halide free","Active","Dual BCD Up Counter","Counter","3","18","230","0.5","2.25","SOIC-16W"
+"on","标准逻辑---运算功能","MC14518B","MC14518BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14518BDWR2G","http://www.onsemi.com/pub/Collateral/MC14518B-D.PDF","Dual BCD Up Counter","Pb-free
+Halide free","Active","Dual BCD Up Counter","Counter","3","18","230","0.5","2.25","SOIC-16W"
+"on","标准逻辑---运算功能","MC14521B","MC14521BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14521BDG","http://www.onsemi.com/pub/Collateral/MC14521B-D.PDF","24-Stage Frequency Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","24-Stage Frequency Divider","Divider","3","18","4500","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14521B","MC14521BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14521BDR2G","http://www.onsemi.com/pub/Collateral/MC14521B-D.PDF","24-Stage Frequency Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","24-Stage Frequency Divider","Divider","3","18","4500","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14521B","NLV14521BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14521BDG","http://www.onsemi.com/pub/Collateral/MC14521B-D.PDF","24-Stage Frequency Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","24-Stage Frequency Divider","Divider","3","18","4500","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14521B","NLV14521BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14521BDR2G","http://www.onsemi.com/pub/Collateral/MC14521B-D.PDF","24-Stage Frequency Divider","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","24-Stage Frequency Divider","Divider","3","18","4500","0.5","2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14528B","MC14528BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14528BDG","http://www.onsemi.com/pub/Collateral/MC14528B-D.PDF","Dual Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual Monostable Multivibrator","Multivibrator","3","18","240",,"2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14528B","MC14528BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14528BDR2G","http://www.onsemi.com/pub/Collateral/MC14528B-D.PDF","Dual Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual Monostable Multivibrator","Multivibrator","3","18","240",,"2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14528B","NLV14528BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14528BDR2G","http://www.onsemi.com/pub/Collateral/MC14528B-D.PDF","Dual Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual Monostable Multivibrator","Multivibrator","3","18","240",,"2.25","SOIC-16"
+"on","标准逻辑---运算功能","MC14538B","MC14538BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14538BDG","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14538B","MC14538BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14538BDR2G","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14538B","MC14538BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14538BDTR2G","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14538B","MC14538BDWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14538BDWG","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14538B","MC14538BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14538BDWR2G","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14538B","NLV14538BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14538BDG","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14538B","NLV14538BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14538BDR2G","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC14538B","NLV14538BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14538BDTR2G","http://www.onsemi.com/pub/Collateral/MC14538B-D.PDF","Dual Precision Monostable Multivibrator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Precision Monostable Multivibrator","Multivibrator","3","18","300",,"2.25","SOIC-16
+SOIC-16W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC1455","MC1455DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1455DG","http://www.onsemi.com/pub/Collateral/MC1455-D.PDF","Timer Circuit","Pb-free
+Halide free","Active","Timer Circuit","Timer","4.5","16","100","0.625","200","SOIC-8"
+"on","标准逻辑---运算功能","MC1455","MC1455DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1455DR2G","http://www.onsemi.com/pub/Collateral/MC1455-D.PDF","Timer Circuit","Pb-free
+Halide free","Active","Timer Circuit","Timer","4.5","16","100","0.625","200","SOIC-8"
+"on","标准逻辑---运算功能","MC14569B","MC14569BDWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14569BDWG","http://www.onsemi.com/pub/Collateral/MC14569B-D.PDF","Programmable Divide-By-N Dual 4-Bit Binary/BCD Down Counter","Pb-free
+Halide free","Active","Programmable Divide-By-N Dual 4-Bit Binary/BCD Down Counter","Counter","3","18","500","0.5","2.25","SOIC-16W"
+"on","标准逻辑---运算功能","MC14569B","MC14569BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14569BDWR2G","http://www.onsemi.com/pub/Collateral/MC14569B-D.PDF","Programmable Divide-By-N Dual 4-Bit Binary/BCD Down Counter","Pb-free
+Halide free","Active","Programmable Divide-By-N Dual 4-Bit Binary/BCD Down Counter","Counter","3","18","500","0.5","2.25","SOIC-16W"
+"on","标准逻辑---运算功能","MC74AC161","MC74AC161DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC161DG","http://www.onsemi.com/pub/Collateral/MC74AC161-D.PDF","Synchronous Presettable Binary Counter","Pb-free
+Halide free","Active","Synchronous Presettable Binary Counter","Counter","2","6","9.5","0.35","24","SOIC-16"
+"on","标准逻辑---运算功能","MC74AC161","MC74AC161DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC161DR2G","http://www.onsemi.com/pub/Collateral/MC74AC161-D.PDF","Synchronous Presettable Binary Counter","Pb-free
+Halide free","Active","Synchronous Presettable Binary Counter","Counter","2","6","9.5","0.35","24","SOIC-16"
+"on","标准逻辑---运算功能","MC74AC4040","MC74AC4040DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC4040DG","http://www.onsemi.com/pub/Collateral/MC74AC4040-D.PDF","12-Stage Binary Ripple Counter","Pb-free
+Halide free","Active","12-Stage Binary Ripple Counter","Counter","2","6","8","0.75","24","SOIC-16"
+"on","标准逻辑---运算功能","MC74AC4040","MC74AC4040DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC4040DR2G","http://www.onsemi.com/pub/Collateral/MC74AC4040-D.PDF","12-Stage Binary Ripple Counter","Pb-free
+Halide free","Active","12-Stage Binary Ripple Counter","Counter","2","6","8","0.75","24","SOIC-16"
+"on","标准逻辑---运算功能","MC74ACT163","MC74ACT163DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT163DG","http://www.onsemi.com/pub/Collateral/MC74AC161-D.PDF","Synchronous Presettable Binary Counter","Pb-free
+Halide free","Active","Synchronous Presettable Binary Counter","Counter","4.5","5.5","11","0.35","24","SOIC-16"
+"on","标准逻辑---运算功能","MC74ACT163","MC74ACT163DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT163DR2G","http://www.onsemi.com/pub/Collateral/MC74AC161-D.PDF","Synchronous Presettable Binary Counter","Pb-free
+Halide free","Active","Synchronous Presettable Binary Counter","Counter","4.5","5.5","11","0.35","24","SOIC-16"
+"on","标准逻辑---运算功能","MC74HC161A","MC74HC161ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC161ADG","http://www.onsemi.com/pub/Collateral/MC74HC161A-D.PDF","Presettable Counter","Pb-free
+Halide free","Active","Presettable Counter","Counter","2","6","16","0.45
+0.5","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC161A","MC74HC161ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC161ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC161A-D.PDF","Presettable Counter","Pb-free
+Halide free","Active","Presettable Counter","Counter","2","6","16","0.45
+0.5","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC161A","MC74HC161ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC161ADTG","http://www.onsemi.com/pub/Collateral/MC74HC161A-D.PDF","Presettable Counter","Pb-free
+Halide free","Active","Presettable Counter","Counter","2","6","16","0.45
+0.5","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC161A","MC74HC161ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC161ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC161A-D.PDF","Presettable Counter","Pb-free
+Halide free","Active","Presettable Counter","Counter","2","6","16","0.45
+0.5","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC390A","MC74HC390ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC390ADG","http://www.onsemi.com/pub/Collateral/MC74HC390A-D.PDF","Dual 4-Stage Binary Ripple Counter with ÷2 and ÷5 Sections","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual 4-Stage Binary Ripple Counter with &#247;2 and &#247;5 Sections","Counter","2","6","58","0.75","5.2","SOIC-16
+SOIC-20W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC390A","MC74HC390ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC390ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC390A-D.PDF","Dual 4-Stage Binary Ripple Counter with ÷2 and ÷5 Sections","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual 4-Stage Binary Ripple Counter with &#247;2 and &#247;5 Sections","Counter","2","6","58","0.75","5.2","SOIC-16
+SOIC-20W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC390A","MC74HC390ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC390ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC390A-D.PDF","Dual 4-Stage Binary Ripple Counter with ÷2 and ÷5 Sections","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual 4-Stage Binary Ripple Counter with &#247;2 and &#247;5 Sections","Counter","2","6","58","0.75","5.2","SOIC-16
+SOIC-20W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC390A","NLV74HC390ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC390ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC390A-D.PDF","Dual 4-Stage Binary Ripple Counter with ÷2 and ÷5 Sections","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual 4-Stage Binary Ripple Counter with &#247;2 and &#247;5 Sections","Counter","2","6","58","0.75","5.2","SOIC-16
+SOIC-20W
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4020A","MC74HC4020ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4020ADG","http://www.onsemi.com/pub/Collateral/MC74HC4020A-D.PDF","14-Stage Binary Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter","Counter","2","6","31","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4020A","MC74HC4020ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4020ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC4020A-D.PDF","14-Stage Binary Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter","Counter","2","6","31","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4020A","MC74HC4020ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4020ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC4020A-D.PDF","14-Stage Binary Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter","Counter","2","6","31","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4020A","NLV74HC4020ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC4020ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC4020A-D.PDF","14-Stage Binary Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter","Counter","2","6","31","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4020A","NLV74HC4020ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC4020ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC4020A-D.PDF","14-Stage Binary Ripple Counter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter","Counter","2","6","31","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4060A","MC74HC4060ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4060ADG","http://www.onsemi.com/pub/Collateral/MC74HC4060A-D.PDF","14-Stage Binary Ripple Counter with Oscillator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter with Oscillator","Counter","2","6","250","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4060A","MC74HC4060ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4060ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC4060A-D.PDF","14-Stage Binary Ripple Counter with Oscillator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter with Oscillator","Counter","2","6","250","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4060A","MC74HC4060ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4060ADTG","http://www.onsemi.com/pub/Collateral/MC74HC4060A-D.PDF","14-Stage Binary Ripple Counter with Oscillator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter with Oscillator","Counter","2","6","250","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4060A","MC74HC4060ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4060ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC4060A-D.PDF","14-Stage Binary Ripple Counter with Oscillator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter with Oscillator","Counter","2","6","250","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4060A","NLV74HC4060ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC4060ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC4060A-D.PDF","14-Stage Binary Ripple Counter with Oscillator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter with Oscillator","Counter","2","6","250","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","MC74HC4060A","NLVHC4060ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVHC4060ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC4060A-D.PDF","14-Stage Binary Ripple Counter with Oscillator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","14-Stage Binary Ripple Counter with Oscillator","Counter","2","6","250","0.75","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---运算功能","NCV1455","NCV1455BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV1455BDR2G","http://www.onsemi.com/pub/Collateral/MC1455-D.PDF","Timer Circuit","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Timer Circuit","Timer","4.5","16","125","0.625","200","SOIC-8"

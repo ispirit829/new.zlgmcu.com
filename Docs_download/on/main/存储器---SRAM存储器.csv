@@ -1,0 +1,11 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Density","Organization (bits)","fcycle Max (MHz)","VCC Min (V)","VCC Max (V)","Istandby Typ (microA)","Iact Max (microA)","Package Type"
+"on","存储器---SRAM存储器","N01S818HA","N01S818HAT22I","http://www.onsemi.cn/PowerSolutions/product.do?id=N01S818HAT22I","http://www.onsemi.com/pub/Collateral/N01S818HA-D.PDF","Serial SRAM, Ultra-Low-Power,1 Mb, 1.7 V- 2.2 V, 100 Units/Tube","Pb-free
+Halide free","Product Preview","Serial SRAM, Ultra-Low-Power,1 Mb, 1.7 V- 2.2 V","Serial","1 Mb","128 x 8","20","1.7","2.2","1",,"TSSOP-8"
+"on","存储器---SRAM存储器","N01S818HA","N01S818HAT22IT","http://www.onsemi.cn/PowerSolutions/product.do?id=N01S818HAT22IT","http://www.onsemi.com/pub/Collateral/N01S818HA-D.PDF","Serial SRAM, Ultra-Low-Power,1 Mb, 1.7 V- 2.2 V, 3000 Units/Tape & Reel","Pb-free
+Halide free","Product Preview","Serial SRAM, Ultra-Low-Power,1 Mb, 1.7 V- 2.2 V","Serial","1 Mb","128 x 8","20","1.7","2.2","1",,"TSSOP-8"
+"on","存储器---SRAM存储器","N64S818HA","N64S818HAS21I","http://www.onsemi.cn/PowerSolutions/product.do?id=N64S818HAS21I","http://www.onsemi.com/pub/Collateral/N64S818HA-D.PDF","Serial SRAM Memory, 64-kb, 1.8 V","Pb-free
+Halide free","Active","Serial SRAM Memory, 64-kb, 1.8 V","Serial","64 kb","8k x 8","16","1.7","1.95","1","4","SOIC-8
+TSSOP-8"
+"on","存储器---SRAM存储器","N64S818HA","N64S818HAT21I","http://www.onsemi.cn/PowerSolutions/product.do?id=N64S818HAT21I","http://www.onsemi.com/pub/Collateral/N64S818HA-D.PDF","Serial SRAM Memory, 64-kb, 1.8 V","Pb-free
+Halide free","Active","Serial SRAM Memory, 64-kb, 1.8 V","Serial","64 kb","8k x 8","16","1.7","1.95","1","4","SOIC-8
+TSSOP-8"

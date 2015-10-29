@@ -1,0 +1,26 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","开启电压或电流","电源电流或电压","输出电流或电压","延时时间","输出时间"
+"fmsh","专用模拟电路---漏电保护器专用电路","VG54123","http://www.fmsh.com/519e6f8f-5b14-e324-2d20-0932d24b9bf3/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140731/VG54123_ds_chs.pdf&fileExt=file","6.5mVrms","400uA","200uA","非延时产品","输出锁定","-","-"
+"fmsh","专用模拟电路---漏电保护器专用电路","FM2140","http://www.fmsh.com/519e6f8f-5b14-e324-2d20-0932d24b9bf3/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140731/FM2140_ds_chs .pdf&fileExt=file","10uA
+","6.5V
+","420uA
+","非延时产品
+","非锁定输出
+","-","-"
+"fmsh","专用模拟电路---漏电保护器专用电路","FM2141","http://www.fmsh.com/519e6f8f-5b14-e324-2d20-0932d24b9bf3/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140731/FM2141_ds_chs.pdf&fileExt=file","10uA
+","27.0V
+","3V
+","非延时产品
+","非锁定输出
+","-","-"
+"fmsh","专用模拟电路---漏电保护器专用电路","FM2145","http://www.fmsh.com/519e6f8f-5b14-e324-2d20-0932d24b9bf3/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140731/FM2145_ds_chs.pdf&fileExt=file","+-6.5V
+","26V
+","2.8V
+","非延时产品
+","非锁定输出
+","-","-"
+"fmsh","专用模拟电路---漏电保护器专用电路","VG54123A","http://www.fmsh.com/519e6f8f-5b14-e324-2d20-0932d24b9bf3/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140731/VG54123_ds_chs.pdf&fileExt=file","5mVrms
+","4.8v
+","2mA
+","非延时产品
+","28 ms
+","-","-"

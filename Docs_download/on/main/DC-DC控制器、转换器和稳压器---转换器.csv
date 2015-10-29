@@ -1,0 +1,632 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Topology","Control Mode","VCC Min (V)","VCC Max (V)","VO Typ (V)","IO Typ (A)","Efficiency (%)","fSW Typ (kHz)","Package Type"
+"on","DC-DC控制器、转换器和稳压器---转换器","CS51412","CS51412EDR8G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS51412EDR8G","http://www.onsemi.com/pub/Collateral/CS51411-D.PDF","Buck Regulator, Low Voltage, 1.5 A, 260 kHz, with External Bias","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck Regulator, Low Voltage, 1.5 A, 260 kHz, with External Bias","Step-Down","V2","4.5","40",,"1.5",,"260","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","CS5172","CS5172EDR8G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS5172EDR8G","http://www.onsemi.com/pub/Collateral/CS5171-D.PDF","Boost Regulator, Negative, 1.5 A, 280 kHz, T","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Boost Regulator, Negative, 1.5 A, 280 kHz","Step-Up","Current Mode","2.7","30",,"1.5",,"Up to 500","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5724MC","LA5724MC-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5724MC-BH","http://www.onsemi.com/pub/Collateral/ENA2021-D.PDF","Separately-Excited Step-Dowm Switching Regulator (Variable Type)","Pb-free
+Halide free","Active","Separately-Excited Step-Dowm Switching Regulator (Variable Type)","Step-Down","Voltage Mode","4.5","28","12, 5, 3.3","0.7","92","160","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5744","LA5744-HK-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5744-HK-E","http://www.onsemi.com/pub/Collateral/LA5744-D.PDF","Separately-Excited Step-Down Switching Regulator (Variable Type)","Pb-free","Active","Separately-Excited Step-Down Switching Regulator (Variable Type)","Step-Down","Voltage Mode","4.5","28","12, 5, 3.3","1","83","300","TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5744TP","LA5744TP-FA-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5744TP-FA-E","http://www.onsemi.com/pub/Collateral/LA5744TP-D.PDF","Separately-Excited Step-Down Switching Regulator (Variable type)","Pb-free","Active","Separately-Excited Step-Down Switching Regulator (Variable type)","Step-Down","Voltage Mode","4.5","28","12, 5, 3.3","1","83","300","IPAK-5 / TP-5H"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5744TP","LA5744TP-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5744TP-TL-E","http://www.onsemi.com/pub/Collateral/LA5744TP-D.PDF","Separately-Excited Step-Down Switching Regulator (Variable type)","Pb-free","Active","Separately-Excited Step-Down Switching Regulator (Variable type)","Step-Down","Voltage Mode","4.5","28","12, 5, 3.3","1","83","300","IPAK-5 / TP-5H"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5757TP","LA5757TP-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5757TP-TL-E","http://www.onsemi.com/pub/Collateral/LA5757TP-D.PDF","Separately-Excited Step-Down Switching Regulator (Variable type)","Pb-free","Active","Separately-Excited Step-Down Switching Regulator (Variable type)","Step-Down","Voltage Mode","4.5","32","12, 5, 3.3","1","83","300","IPAK-5 / TP-5H"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5771MP","LA5771MP-DL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5771MP-DL-E","http://www.onsemi.com/pub/Collateral/LA5771MP-D.PDF","Separately-Excited Step-Down Switching Regulator (3.3 V)","Pb-free","Active","Separately-Excited Step-Down Switching Regulator (3.3 V)","Step-Down","Voltage Mode","5.5","28","3.3","1","79","160","DPAK-5 / SMP-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5774MC","LA5774MC-BE","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5774MC-BE","http://www.onsemi.com/pub/Collateral/ENA2191-D.PDF","Buck Regulator, Switching, Separately Excited (Variable Type)","Pb-free","Active","Buck Regulator, Switching, Separately Excited (Variable Type)","Step-Down","Voltage Mode","4.5","28","3.3","3","78","160","D2PAK5 / SMP5J"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5779","LA5779-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5779-E","http://www.onsemi.com/pub/Collateral/LA5779-D.PDF","Separately-Excited Step-Down Switching Regulator (Variable type)","Pb-free","Active","Separately-Excited Step-Down Switching Regulator (Variable type)","Step-Down","Voltage Mode","4.5","28","12, 5, 3.3","3","84","160","TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LA5779","LA5779-HJ-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5779-HJ-E","http://www.onsemi.com/pub/Collateral/LA5779-D.PDF","Separately-Excited Step-Down Switching Regulator (Variable type)","Pb-free","Active","Separately-Excited Step-Down Switching Regulator (Variable type)","Step-Down","Voltage Mode","4.5","28","12, 5, 3.3","3","84","160","TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2574","LM2574DW-ADJR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2574DW-ADJR2G","http://www.onsemi.com/pub/Collateral/LM2574-D.PDF","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A, Adjustable 1.23 V to 37 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A","Step-Down","Voltage Mode","7","40","1.23 to 37
+5
+12","0.5","85","52","PDIP-8
+SOIC-16W"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2574","LM2574N-12G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2574N-12G","http://www.onsemi.com/pub/Collateral/LM2574-D.PDF","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A, 12 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A","Step-Down","Voltage Mode","7","40","1.23 to 37
+5
+12","0.5","85","52","PDIP-8
+SOIC-16W"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2574","LM2574N-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2574N-5G","http://www.onsemi.com/pub/Collateral/LM2574-D.PDF","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A, 5.0 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A","Step-Down","Voltage Mode","7","40","1.23 to 37
+5
+12","0.5","85","52","PDIP-8
+SOIC-16W"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2574","LM2574N-ADJG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2574N-ADJG","http://www.onsemi.com/pub/Collateral/LM2574-D.PDF","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A, Adjustable 1.23 V to 37 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A","Step-Down","Voltage Mode","7","40","1.23 to 37
+5
+12","0.5","85","52","PDIP-8
+SOIC-16W"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2574","NCV2574DW-ADJR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2574DW-ADJR2G","http://www.onsemi.com/pub/Collateral/LM2574-D.PDF","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A, Adjustable 1.23 V to 37 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck Regulator, Switching, Adjustable Output Voltage, 0.5 A","Step-Down","Voltage Mode","7","40","1.23 to 37
+5
+12","0.5","85","52","PDIP-8
+SOIC-16W"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576D2T-005G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576D2T-005G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 5.0 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576D2T-15G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576D2T-15G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 15.0 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576D2T-ADJG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576D2T-ADJG","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, Adjustable 1.23-37 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576D2T-ADJR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576D2T-ADJR4G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, Adjustable 1.23-37 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576D2TR4-012G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576D2TR4-012G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 12 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576D2TR4-3.3G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576D2TR4-3.3G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 3.3 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576D2TR4-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576D2TR4-5G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 5.0 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576T-005G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576T-005G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 5.0 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576T-012G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576T-012G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 12 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576T-15G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576T-15G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 15.0 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576T-3.3G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576T-3.3G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 3.3 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576T-ADJG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576T-ADJG","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, Adjustable 1.23-37 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576TV-012G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576TV-012G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 12 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576TV-015G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576TV-015G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 15.0 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576TV-3.3G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576TV-3.3G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 3.3 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576TV-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576TV-5G","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, 5.0 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2576","LM2576TV-ADJG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2576TV-ADJG","http://www.onsemi.com/pub/Collateral/LM2576-D.PDF","Buck Regulator, Switching, 3.0 A, 15 V, 3.0 A, Adjustable 1.23-37 V, 52 kHz","Pb-free
+Halide free","ActiveNEW","Buck Regulator, Switching, 3.0 A, 15 V","Step-Down","Voltage Mode","7","40","1.23 to 37
+3.3
+5
+12
+15","3","85","52","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2595","LM2595DSADJR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2595DSADJR4G","http://www.onsemi.com/pub/Collateral/LM2595-D.PDF","Buck Regulator, Switching, 1.0 A","Pb-free
+Halide free","Active","Buck Regulator, Switching, 1.0 A","Step-Down","Voltage Mode","4.5","40","1.25 to 37","1","85","150","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LM2595","LM2595TADJG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2595TADJG","http://www.onsemi.com/pub/Collateral/LM2595-D.PDF","Buck Regulator, Switching, 1.0 A","Pb-free
+Halide free","Active","Buck Regulator, Switching, 1.0 A","Step-Down","Voltage Mode","4.5","40","1.25 to 37","1","85","150","D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","LV52117QA","LV52117QATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=LV52117QATXG","http://www.onsemi.com/pub/Collateral/ENA2353-D.PDF","Dual-Output DC-DC Converter for LCD Panel","Pb-free
+Halide free","Active","Dual-Output DC-DC Converter for LCD Panel","Step-Up","Current Mode","2.75","4.6","±5","0.1","88","1500","TDFN-12"
+"on","DC-DC控制器、转换器和稳压器---转换器","LV52130N0XA","LV52130N0XA-VH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV52130N0XA-VH","http://www.onsemi.com/pub/Collateral/ENA2348-D.PDF","DC-DC Converter and Inverter Charge Pump, 1 Coil Boost","Pb-free
+Halide free","ActiveNEW","DC-DC Converter and Inverter Charge Pump, 1 Coil Boost","Step-Up","Current Mode","2.5","5.5","±5","0.1","88","1800","WLCSP-15"
+"on","DC-DC控制器、转换器和稳压器---转换器","LV56351HA","LV56351HA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV56351HA-AH","http://www.onsemi.com/pub/Collateral/ENA2145-D.PDF","Step-Up DC-DC Converter, 1-Channel","Pb-free
+Halide free","Active","Step-Up DC-DC Converter, 1-Channel","Linear
+Step-Up","Voltage Mode","8","23","15","0.52","88.4","400","HSSOP-14"
+"on","DC-DC控制器、转换器和稳压器---转换器","LV5768M","LV5768M-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5768M-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1988-D.PDF","Buck Regulator, Switching, 1-Channel","Pb-free
+Halide free","Active","Buck Regulator, Switching, 1-Channel","Step-Down","Current Mode","4.7","5.7","12, 5, 3.3","0.24","95","125","SOIC-14W / MFP-14S"
+"on","DC-DC控制器、转换器和稳压器---转换器","LV5980MC","LV5980MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5980MC-AH","http://www.onsemi.com/pub/Collateral/ENA2104-D.PDF","Buck Converter, Switching Regulator, 1-Channel","Pb-free
+Halide free","Active","Buck Converter, Switching Regulator, 1-Channel","Step-Down","Current Mode","4.5","23","5, 3.3","3","80","370","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33063A","MC33063ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33063ADG","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","80","100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33063A","MC33063ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33063ADR2G","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","80","100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33063A","MC33063AP1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33063AP1G","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","80","100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33063A","MC33063AVDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33063AVDG","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","80","100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33063A","MC33063AVDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33063AVDR2G","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","80","100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC33166D2TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33166D2TG","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC33166D2TR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33166D2TR4G","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC33166TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33166TG","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC33166TVG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33166TVG","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC34166D2TR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34166D2TR4G","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC34166TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34166TG","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC34166THG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34166THG","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC33166","MC34166TVG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34166TVG","http://www.onsemi.com/pub/Collateral/MC34166-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.0 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.0 A","Step-Up/Step-Down","Voltage Mode","7.5","40","1.5 to 40","3",,,"D<sup>2</sup>PAK-5
+TO-220-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC34063A","MC34063ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34063ADG","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Voltage Mode","3","40","1.25 to 40","1.5",,"100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC34063A","MC34063ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34063ADR2G","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Voltage Mode","3","40","1.25 to 40","1.5",,"100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","MC34063A","MC34063AP1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34063AP1G","http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF","Buck / Boost / Inverting Regulator, Switching, 1.5 A, T","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Voltage Mode","3","40","1.25 to 40","1.5",,"100","PDIP-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1030","NCP1030DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1030DMR2G","http://www.onsemi.com/pub/Collateral/NCP1030-D.PDF","Integrated DC-DC Converter for PoE and Telecom","Pb-free
+Halide free","Active","Integrated DC-DC Converter for PoE and Telecom","Flyback
+Step-Down
+Step-Up","Voltage Mode","8","200",,"0.5","85","300","Micro8™"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1032","NCP1032AMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1032AMNTXG","http://www.onsemi.com/pub/Collateral/NCP1032-D.PDF","Integrated DC-DC Converter, PWM, 3.0W, OV enabled","Pb-free
+Halide free","Active","Integrated DC-DC Converter, PWM, 3.0W",,,,,,,,,"WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1032","NCP1032BMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1032BMNTXG","http://www.onsemi.com/pub/Collateral/NCP1032-D.PDF","Integrated DC-DC Converter, PWM, 3.0W","Pb-free
+Halide free","Active","Integrated DC-DC Converter, PWM, 3.0W",,,,,,,,,"WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1081","NCP1081DEG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1081DEG","http://www.onsemi.com/pub/Collateral/NCP1081-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W",,"Current Mode","0","57",,,,"250","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1081","NCP1081DER2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1081DER2G","http://www.onsemi.com/pub/Collateral/NCP1081-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W",,"Current Mode","0","57",,,,"250","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1083","NCP1083DEG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1083DEG","http://www.onsemi.com/pub/Collateral/NCP1083-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support",,"Current Mode","0","57",,,,"250","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1083","NCP1083DER2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1083DER2G","http://www.onsemi.com/pub/Collateral/NCP1083-D.PDF","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support","Pb-free
+Halide free","Active","Integrated PoE-PD and DC-DC Converter Controller, 40 W, with Auxiliary Supply Support",,"Current Mode","0","57",,,,"250","TSSOP-20"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1091","NCP1091DBRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1091DBRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Programmable UVLO","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Programmable UVLO",,,"36","57",,,,,"SOIC-8
+TSSOP-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1091","NCP1091DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1091DG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Programmable UVLO","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Programmable UVLO",,,"36","57",,,,,"SOIC-8
+TSSOP-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1091","NCP1091DRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1091DRG","http://www.onsemi.com/pub/Collateral/NCP1090-D.PDF","Controller, PoE-PD Interface, Integrated, with Programmable UVLO","Pb-free
+Halide free","Active","Controller, PoE-PD Interface, Integrated, with Programmable UVLO",,,"36","57",,,,,"SOIC-8
+TSSOP-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1093","NCP1093MNRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1093MNRG","http://www.onsemi.com/pub/Collateral/NCP1093-D.PDF","IEEE802.3at PoE-PD Interface Controller","Pb-free
+Halide free","Active","IEEE802.3at PoE-PD Interface Controller",,,,,,,,,"DFN-10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN19T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN19T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 1.9 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN22T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN22T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 2.2 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN25T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN25T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 2.5 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN27T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN27T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 2.7 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN30T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN30T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 3.0 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN33T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN33T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 3.3 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN38T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN38T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 3.8 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN45T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN45T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 4.5 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1400A","NCP1400ASN50T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1400ASN50T1G","http://www.onsemi.com/pub/Collateral/NCP1400A-D.PDF","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz, 5.0 V","Pb-free
+Halide free","Active","Boost Converter, Fixed Frequency, PWM, Micropower, 100 mA, 180 kHz","Step-Up","Voltage Mode","0.8","5.5","1.9
+2.2
+2.5
+2.7
+3
+3.3
+3.8
+4.5
+5","Up to 0.1","88","180","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1403","NCP1403SNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1403SNT1G","http://www.onsemi.com/pub/Collateral/NCP1403-D.PDF","Boost Converter, PFM, DC-DC, 15 V, 50 mA","Pb-free
+Halide free","Active","Boost Converter, PFM, DC-DC, 15 V, 50 mA","Step-Up",,"1.2","5.5","Up to 15","0.05","72",,"TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1421","NCP1421DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1421DMR2G","http://www.onsemi.com/pub/Collateral/NCP1421-D.PDF","Boost Converter, Sync-Rect, PFM, DC-DC, 600 mA, with True-Cutoff and Ring-Killer","Pb-free
+Halide free","Active","Boost Converter, Sync-Rect, PFM, DC-DC, 600 mA, with True-Cutoff and Ring-Killer","Step-Up","Current/Voltage Mode","1","5.5","1.5 to 5.0","0.6","Up to 94","Up to 1200","Micro8™"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1423","NCP1423DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1423DMR2G","http://www.onsemi.com/pub/Collateral/NCP1423-D.PDF","Boost Converter, Sync-Rect, PFM, DC-DC, 400 mA, with True-Cutoff and Ring-Killer","Pb-free
+Halide free","Active","Boost Converter, Sync-Rect, PFM, DC-DC, 400 mA, with True-Cutoff and Ring-Killer","Step-Up","Current/Voltage Mode","0.8","6","1.8 to 3.3","0.4","92","Up to 600","Micro10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1522B","NCP1522BMUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1522BMUTBG","http://www.onsemi.com/pub/Collateral/NCP1522B-D.PDF","Buck Converter, DC-DC, 3 MHz, 600 mA","Pb-free
+Halide free","Active","Buck Converter, DC-DC, 3 MHz, 600 mA","Step-Down","Voltage Mode","2.7","5.5","0.9 to 3.3","0.6","95","3000","TSOP-5 / SOT-23-5
+UDFN-6"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1522B","NCP1522BSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1522BSNT1G","http://www.onsemi.com/pub/Collateral/NCP1522B-D.PDF","Buck Converter, DC-DC, 3 MHz, 600 mA","Pb-free
+Halide free","Active","Buck Converter, DC-DC, 3 MHz, 600 mA","Step-Down","Voltage Mode","2.7","5.5","0.9 to 3.3","0.6","95","3000","TSOP-5 / SOT-23-5
+UDFN-6"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1532","NCP1532MUAATXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1532MUAATXG","http://www.onsemi.com/pub/Collateral/NCP1532-D.PDF","Buck Converter, DC-DC, Dual, Low Iq, High Efficiency, 2.25 MHz, 1.6 A","Pb-free
+Halide free","Active","Buck Converter, DC-DC, Dual, Low Iq, High Efficiency, 2.25 MHz, 1.6 A","Step-Down","Current Mode","2.7","5.5","0.9 to 3.3","1.6","97","2250","UDFN-10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1593","NCP1593AMNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1593AMNTWG","http://www.onsemi.com/pub/Collateral/NCP1593-D.PDF","Synchronous Buck Regulator, 1 MHz, 3.0 A","Pb-free
+Halide free","Active","Synchronous Buck Regulator, 1 MHz, 3.0 A","Step-Down","Current Mode","4","5.5","0.6 to 5.0","3","90","1000","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1593","NCP1593BMNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1593BMNTWG","http://www.onsemi.com/pub/Collateral/NCP1593-D.PDF","Synchronous Buck Regulator, 1 MHz, 3.0 A","Pb-free
+Halide free","Active","Synchronous Buck Regulator, 1 MHz, 3.0 A","Step-Down","Current Mode","4","5.5","0.6 to 5.0","3","90","1000","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1597","NCP1597AMNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1597AMNTWG","http://www.onsemi.com/pub/Collateral/NCP1597-D.PDF","Synchronous Buck Converter, 1 MHz, 2.0 A","Pb-free","Active","Synchronous Buck Converter, 1 MHz, 2.0 A","Step-Down","Voltage Mode","4","5.5",,"2",,"1000","DFN-6"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP1599","NCP1599MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1599MNTWG","http://www.onsemi.com/pub/Collateral/NCP1599-D.PDF","Synchronous Buck Converter, 1 MHz, 3.0 A","Pb-free","Active","Synchronous Buck Converter, 1 MHz, 3.0 A","Step-Down","Voltage Mode","3","5.5",,"3",,"1000","DFN-6"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3064","NCP3064BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3064BDR2G","http://www.onsemi.com/pub/Collateral/NCP3064-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","150","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3064","NCP3064BMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3064BMNTXG","http://www.onsemi.com/pub/Collateral/NCP3064-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","150","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3064","NCP3064DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3064DR2G","http://www.onsemi.com/pub/Collateral/NCP3064-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","150","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3064","NCP3064MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3064MNTXG","http://www.onsemi.com/pub/Collateral/NCP3064-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, with On / Off Function","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","150","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3066","NCP3066DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3066DR2G","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","250
+Up to 300","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3066","NCP3066MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3066MNTXG","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","250
+Up to 300","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3066","NCV3066DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3066DR2G","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","250
+Up to 300","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3066","NCV3066MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3066MNTXG","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","250
+Up to 300","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3121","NCP3121MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3121MNTXG","http://www.onsemi.com/pub/Collateral/NCP3121-D.PDF","Non-Synchronous Buck Regulator, Dual, PWM, 3.0 A (200-750 kHz)","Pb-free
+Halide free","Active","Non-Synchronous Buck Regulator, Dual, PWM, 3.0 A (200-750 kHz)","Step-Down","Voltage Mode","4.5","15","0.8 to 5.0","3","80","Up to 1000","QFN-32"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3133A","NCP3133AMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3133AMNTXG","http://www.onsemi.com/pub/Collateral/NCP3133A-D.PDF","3 A Integrated Synchronous Buck Converter","Pb-free
+Halide free","Active","3 A Integrated Synchronous Buck Converter","Step-Down","Voltage Mode","2.9","5.5","1.2","3","91%","1000","QFN-16"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3163","NCP3163BMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3163BMNR2G","http://www.onsemi.com/pub/Collateral/NCP3163-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","2.5","40","1.25 to 40","3","85","Up to 300","DFN-18
+SOIC-16W EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3163","NCP3163BPWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3163BPWG","http://www.onsemi.com/pub/Collateral/NCP3163-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","2.5","40","1.25 to 40","3","85","Up to 300","DFN-18
+SOIC-16W EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3163","NCP3163BPWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3163BPWR2G","http://www.onsemi.com/pub/Collateral/NCP3163-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","2.5","40","1.25 to 40","3","85","Up to 300","DFN-18
+SOIC-16W EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3163","NCP3163PWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3163PWG","http://www.onsemi.com/pub/Collateral/NCP3163-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","2.5","40","1.25 to 40","3","85","Up to 300","DFN-18
+SOIC-16W EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3163","NCP3163PWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3163PWR2G","http://www.onsemi.com/pub/Collateral/NCP3163-D.PDF","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Pb-free
+Halide free","Active","Buck / Boost / Inverting Regulator, Switching, 3.4 A, 300 kHz","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","2.5","40","1.25 to 40","3","85","Up to 300","DFN-18
+SOIC-16W EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3231","NCP3231MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3231MNTXG","http://www.onsemi.com/pub/Collateral/NCP3231-D.PDF","High Current Synchronous Buck Converter, High Current Synchronous Buck Converter","Pb-free
+Halide free","Active","High Current Synchronous Buck Converter","Step-Down","Voltage Mode","4.5","18","3.3","25","94","500","QFN-40"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP3232N","NCP3232NMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3232NMNTXG","http://www.onsemi.com/pub/Collateral/NCP3232N-D.PDF","High Current Synchronous Buck Converter, High Current Synchronous Buck Converter","Pb-free
+Halide free","Active","High Current Synchronous Buck Converter","Step-Down","Voltage Mode","4.5","21","1.5","15","90","500","QFN-40"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP5005","NCP5005SNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5005SNT1G","http://www.onsemi.com/pub/Collateral/NCP5005-D.PDF","LED Driver, Boost, Compact Backlight","Pb-free
+Halide free","Active","LED Driver, Boost, Compact Backlight","Step-Up","Current Mode","2.7","5.5","22","0.05","90","1200","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP5007","NCP5007SNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5007SNT1G","http://www.onsemi.com/pub/Collateral/NCP5007-D.PDF","LED Driver, Boost, Compact Backlight","Pb-free
+Halide free","Active","LED Driver, Boost, Compact Backlight","Step-Up","Current Mode","2.7","5.5","22","0.05","90","1200","TSOP-5 / SOT-23-5"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6324","NCP6324BMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6324BMTAATBG","http://www.onsemi.com/pub/Collateral/NCP6324-D.PDF","Synchronous Buck Converter, 3 MHz, 2.0 A","Pb-free
+Halide free","Active","Synchronous Buck Converter, 3 MHz, 2.0 A","Step-Down","Voltage Mode","2.5","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6324","NCP6324CMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6324CMTAATBG","http://www.onsemi.com/pub/Collateral/NCP6324-D.PDF","Synchronous Buck Converter, 3 MHz, 2.0 A","Pb-free
+Halide free","Active","Synchronous Buck Converter, 3 MHz, 2.0 A","Step-Down","Voltage Mode","2.5","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6334","NCP6334BMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6334BMTAATBG","http://www.onsemi.com/pub/Collateral/NCP6334B-D.PDF","Synchronous Buck Converter, 3 MHz, 2.0 A","Pb-free
+Halide free","Active","Synchronous Buck Converter, 3 MHz, 2.0 A","Step-Down","Voltage Mode","2.3","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6334","NCP6334CMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6334CMTAATBG","http://www.onsemi.com/pub/Collateral/NCP6334B-D.PDF","Synchronous Buck Converter, 3 MHz, 2.0 A","Pb-free
+Halide free","Active","Synchronous Buck Converter, 3 MHz, 2.0 A","Step-Down","Voltage Mode","2.3","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6338","NCP6338FCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6338FCT1G","-","Synchronous Buck Converter, Processor Supply, I2C Programming, Remote Sense, 6.0 A","Pb-free
+Halide free","Active","Synchronous Buck Converter, Processor Supply, I2C Programming, Remote Sense, 6.0 A","Step-Down","Voltage Mode","2.3","5.5","1.2","6","95","3000","WLCSP-30"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6354","NCP6354BMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6354BMTAATBG","http://www.onsemi.com/pub/Collateral/NCP6354-D.PDF","Sychronous Buck Converter, PWM, 3.0 MHz, 2.0 A, with Power Good","Pb-free
+Halide free","Active","Sychronous Buck Converter, PWM, 3.0 MHz, 2.0 A, with Power Good","Step-Down","Voltage Mode","2.3","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6361","NCP6361AFCCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6361AFCCT1G","http://www.onsemi.com/pub/Collateral/NCP6361-D.PDF","RF PA 1A Buck DCDC converter","Pb-free
+Halide free","Active","RF PA 1A Buck DCDC converter","Step-Down","Voltage Mode","2.5","5.5","0.4 to 3.5","0.8","95","3429 or 6000","WLCSP-9"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6361","NCP6361BFCCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6361BFCCT1G","http://www.onsemi.com/pub/Collateral/NCP6361-D.PDF","RF PA 1A Buck DCDC converter","Pb-free
+Halide free","Active","RF PA 1A Buck DCDC converter","Step-Down","Voltage Mode","2.5","5.5","0.4 to 3.5","0.8","95","3429 or 6000","WLCSP-9"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6915","NCP6915AFCCLT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6915AFCCLT1G","http://www.onsemi.com/pub/Collateral/NCP6915-D.PDF","Power Management IC (PMIC), 6 Channels, with 1 DC-DC Converter and 5 LDOs","Pb-free
+Halide free","Active","Power Management IC (PMIC), 6 Channels, with 1 DC-DC Converter and 5 LDOs","Step-Down","Voltage Mode","2.5 V","5.5 V","1.2 V","0.6 A","96","3000","WLCSP-16"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6925","NCP6925AFCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6925AFCT1G","http://www.onsemi.com/pub/Collateral/NCP6925-D.PDF","Power Management IC (PMIC), 7 Channels, with 2 DC-DC Converters and 5 LDOs","Pb-free
+Halide free","Active","Power Management IC (PMIC), 7 Channels, with 2 DC-DC Converters and 5 LDOs","Step-Down","Voltage Mode","2.5","5.5","1.2","1","95","3000","WLCSP-36"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP6925","NCP6925AFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6925AFCT2G","http://www.onsemi.com/pub/Collateral/NCP6925-D.PDF","Power Management IC (PMIC), 7 Channels, with 2 DC-DC Converters and 5 LDOs, Different T&R orientation","Pb-free
+Halide free","Active","Power Management IC (PMIC), 7 Channels, with 2 DC-DC Converters and 5 LDOs","Step-Down","Voltage Mode","2.5","5.5","1.2","1","95","3000","WLCSP-36"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP81242","NCP81242MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81242MNTXG","http://www.onsemi.com/pub/Collateral/NCP81242-D.PDF","Single−Phase Synchronous Buck Regulator with Integrated Power MOSFETs for VR12 Embedded CPUs, Single-Phase Voltage Regulator w SVID Interface for Computing Apps","Pb-free
+Halide free","ActiveNEW","Single−Phase Synchronous Buck Regulator with Integrated Power MOSFETs for VR12 Embedded CPUs",,,,,,,,,"QFN-48"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCP81250","NCP81250MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP81250MNTXG","http://www.onsemi.com/pub/Collateral/NCP81250-D.PDF","Single−Phase Synchronous Buck Regulator with Integrated Power MOSFETs for VR12 Embedded CPUs, Single-Phase Voltage Regulator w SVID Interface for Computing Apps","Pb-free
+Halide free","ActiveNEW","Single−Phase Synchronous Buck Regulator with Integrated Power MOSFETs for VR12 Embedded CPUs","Step-Down","Voltage Mode","4.75","5.75",,,,"500-1200","QFN-48"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV3063","NCV3063DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3063DR2G","http://www.onsemi.com/pub/Collateral/NCP3063-D.PDF","Buck / Boost / Inverting Converter, Switching Regulator, 1.5 A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck / Boost / Inverting Converter, Switching Regulator, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","Up to 200","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV3063","NCV3063MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3063MNTXG","http://www.onsemi.com/pub/Collateral/NCP3063-D.PDF","Buck / Boost / Inverting Converter, Switching Regulator, 1.5 A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck / Boost / Inverting Converter, Switching Regulator, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","3","40","1.25 to 40","1.5","85","Up to 200","DFN-8
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV3163","NCV3163MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3163MNR2G","http://www.onsemi.com/pub/Collateral/NCP3163-D.PDF","Buck / Boost / Inverting Converter, Switching Regulator, 3.4 A, 50-300 Hz","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck / Boost / Inverting Converter, Switching Regulator, 3.4 A, 50-300 Hz","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","2.5","40","1.25 to 40","3","80","Up to 300","DFN-18
+SOIC-16W EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV3163","NCV3163PWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3163PWR2G","http://www.onsemi.com/pub/Collateral/NCP3163-D.PDF","Buck / Boost / Inverting Converter, Switching Regulator, 3.4 A, 50-300 Hz","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck / Boost / Inverting Converter, Switching Regulator, 3.4 A, 50-300 Hz","Step-Down
+Step-Up
+Step-Up/Step-Down","Hysteretic","2.5","40","1.25 to 40","3","80","Up to 300","DFN-18
+SOIC-16W EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV33163","NCV33163DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33163DWR2G","http://www.onsemi.com/pub/Collateral/NCV33163-D.PDF","Buck / Boost / Inverting Converter, Switching Regulator, 2.5 A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck / Boost / Inverting Converter, Switching Regulator, 2.5 A","Step-Up/Step-Down","Voltage Mode","2.5","60","1.25 to 40","3.4","80","Up to 250","SOIC-16W"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV5171","NCV5171EDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV5171EDR2G","http://www.onsemi.com/pub/Collateral/NCV5171-D.PDF","Boost Converter, 280 kHz, 1.5 A, for Automotive","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Boost Converter, 280 kHz, 1.5 A, for Automotive","Step-Up","Current Mode","2.7","30","Up to 30","1.5","80","Up to 600","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV6323","NCP6323DMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP6323DMTAATBG","http://www.onsemi.com/pub/Collateral/NCV6323-D.PDF","Synchronous Buck Converter, 3 MHz, 2 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Synchronous Buck Converter, 3 MHz, 2 A","Step-Down","Voltage Mode","2.5","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV6323","NCV6323BMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV6323BMTAATBG","http://www.onsemi.com/pub/Collateral/NCV6323-D.PDF","Synchronous Buck Converter, 3 MHz, 2 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Synchronous Buck Converter, 3 MHz, 2 A","Step-Down","Voltage Mode","2.5","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV6354","NCV6354BMTAATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV6354BMTAATBG","http://www.onsemi.com/pub/Collateral/NCV6354-D.PDF","3.0 MHz, 2.0 A PWM Synchronous Step Down Converter with Power Good","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","3.0 MHz, 2.0 A PWM Synchronous Step Down Converter with Power Good","Step-Down","Voltage Mode","2.3","5.5","0.6 to 5.0","2","96","3000","WDFN-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV8843","NCV8843DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV8843DR2G","http://www.onsemi.com/pub/Collateral/NCV8843-D.PDF","Buck Regulator, 1.5 A, 340 kHz, with Synchronization Capability","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck Regulator, 1.5 A, 340 kHz, with Synchronization Capability","Step-Down","V2","4","40",,"1.5",,"Up to 700","DFN-18
+SOIC-16W
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV8843","NCV8843MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV8843MNR2G","http://www.onsemi.com/pub/Collateral/NCV8843-D.PDF","Buck Regulator, 1.5 A, 340 kHz, with Synchronization Capability","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck Regulator, 1.5 A, 340 kHz, with Synchronization Capability","Step-Down","V2","4","40",,"1.5",,"Up to 700","DFN-18
+SOIC-16W
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV8843","NCV8843PWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV8843PWR2G","http://www.onsemi.com/pub/Collateral/NCV8843-D.PDF","Buck Regulator, 1.5 A, 340 kHz, with Synchronization Capability","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Buck Regulator, 1.5 A, 340 kHz, with Synchronization Capability","Step-Down","V2","4","40",,"1.5",,"Up to 700","DFN-18
+SOIC-16W
+SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890100","NCV890100MWTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890100MWTXG","http://www.onsemi.com/pub/Collateral/NCV890100-D.PDF","Automotive Switching Regulator, Buck, 1.2 A, 2 MHz","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Switching Regulator, Buck, 1.2 A, 2 MHz","Step-Down",,"4.5","40","Adjustable","1.2",,"2250","DFN-8
+SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890100","NCV890100PDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890100PDR2G","http://www.onsemi.com/pub/Collateral/NCV890100-D.PDF","Automotive Switching Regulator, Buck, 1.2 A, 2 MHz","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Switching Regulator, Buck, 1.2 A, 2 MHz","Step-Down",,"4.5","40","Adjustable","1.2",,"2250","DFN-8
+SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890103","NCV890103MWTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890103MWTXG","http://www.onsemi.com/pub/Collateral/NCV890103-D.PDF","Automotive Switching Regulator, Buck, 1.2 A, 2 MHz, Reset, Adjustable Delay","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Automotive Switching Regulator, Buck, 1.2 A, 2 MHz, Reset, Adjustable Delay","Step-Down","Current Mode","4.5","40","Variable","1.2",,"2000","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890130","NCV890130MWTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890130MWTXG","http://www.onsemi.com/pub/Collateral/NCV890130-D.PDF","Automotive Switching Regulator, 1.2 A, 2 MHz, 45 V Load Dump","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Switching Regulator, 1.2 A, 2 MHz, 45 V Load Dump","Step-Down","Current Mode","4.5","45","Adjustable","1.2",,"2200","DFN-8
+SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890130","NCV890130PDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890130PDR2G","http://www.onsemi.com/pub/Collateral/NCV890130-D.PDF","Automotive Switching Regulator, 1.2 A, 2 MHz, 45 V Load Dump","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Switching Regulator, 1.2 A, 2 MHz, 45 V Load Dump","Step-Down","Current Mode","4.5","45","Adjustable","1.2",,"2200","DFN-8
+SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890200","NCV890200PDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890200PDR2G","http://www.onsemi.com/pub/Collateral/NCV890200-D.PDF","Automotive Switching Regulator, Buck, 2 A, 2 MHz","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Switching Regulator, Buck, 2 A, 2 MHz","Step-Down","Current Mode","4.5","40","Adjustable","2",,"Up to 2200","SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890203","NCV890203MWTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890203MWTXG","http://www.onsemi.com/pub/Collateral/NCV890203-D.PDF","Automotive Switching Regulator, Buck, 2.0 A, 2 MHz, Reset, Adjustable Delay","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Automotive Switching Regulator, Buck, 2.0 A, 2 MHz, Reset, Adjustable Delay","Step-Down","Current Mode","4.5","40","Variable","2",,"2000","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV890230","NCV890230PDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV890230PDR2G","http://www.onsemi.com/pub/Collateral/NCV890230-D.PDF","Automotive Buck Switching Regulator, 2 A, 2 MHz , 45 V Load Dump","AEC Qualified
+PPAP Capable
+Pb-free","Active","Automotive Buck Switching Regulator, 2 A, 2 MHz , 45 V Load Dump","Step-Down","Current Mode","4.5","45","Adjustable","2",,"2250","SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV891130","NCV891130PD33R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV891130PD33R2G","http://www.onsemi.com/pub/Collateral/NCV891130-D.PDF","1.2 A, 2 MHz Low-I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","1.2 A, 2 MHz Low-I<sub>q</sub> Dual-Mode Step-Down Regulator for Automotive","Step-Down","Current Mode","3.7","45","3.3
+4
+5","1.2","85","2000","SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV891130","NCV891130PD40R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV891130PD40R2G","http://www.onsemi.com/pub/Collateral/NCV891130-D.PDF","1.2 A, 2 MHz Low-I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","1.2 A, 2 MHz Low-I<sub>q</sub> Dual-Mode Step-Down Regulator for Automotive","Step-Down","Current Mode","3.7","45","3.3
+4
+5","1.2","85","2000","SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV891130","NCV891130PD50R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV891130PD50R2G","http://www.onsemi.com/pub/Collateral/NCV891130-D.PDF","1.2 A, 2 MHz Low-I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","1.2 A, 2 MHz Low-I<sub>q</sub> Dual-Mode Step-Down Regulator for Automotive","Step-Down","Current Mode","3.7","45","3.3
+4
+5","1.2","85","2000","SOIC-8 EP"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV894530","NCV894530MWTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV894530MWTXG","http://www.onsemi.com/pub/Collateral/NCV894530-D.PDF","2.1 MHz Low Voltage Buck Converter","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","ActiveNEW","2.1 MHz Low Voltage Buck Converter","Step-Down","Current Mode","2.7","5.5","Adjustable","1.2",,"2200","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV97310","NCV97310MW33R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV97310MW33R2G","http://www.onsemi.com/pub/Collateral/NCV97310-D.PDF","Multi-output Power Management Unit (PMU) with 3 Buck Regulators., NCV97310 - 3.3 V Version","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Multi-output Power Management Unit (PMU) with 3 Buck Regulators.","Step-Down","Current Mode","4.1","45","1.2-5","3","85","2000","QFN-32"
+"on","DC-DC控制器、转换器和稳压器---转换器","NCV97310","NCV97310MW50R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV97310MW50R2G","http://www.onsemi.com/pub/Collateral/NCV97310-D.PDF","Multi-output Power Management Unit (PMU) with 3 Buck Regulators., NCV97310 - 5.0 V Version","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Multi-output Power Management Unit (PMU) with 3 Buck Regulators.","Step-Down","Current Mode","4.1","45","1.2-5","3","85","2000","QFN-32"

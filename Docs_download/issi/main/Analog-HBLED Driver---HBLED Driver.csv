@@ -1,0 +1,27 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Driver Type","Vdd(V)","IOUT","Efficiency(%)","Power Transistor","Pkg-Pin","Document","Status"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3117","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3117.pdf","Constant Current","5.5-60V","350mA","-","Built-in"," eTSSOP-16 ",", ","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3170","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3170_71.pdf","Constant Current","5.0-42V","150mA","Non-PWM","None","SOT23-6","-","S=NOW"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3171","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3170_71.pdf","Constant Current","2.5-42V","150mA","PWM","None","SOT23-6","-","S=NOW"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3172","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3172_73.pdf","Constant Current","5.0-42V","10-200mA","Power Supply PWM","None","eSOP-8"," ","S=NOW"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3173","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3172_73.pdf","Constant Current","2.5-42V","10-200mA","Digital Supply PWM","None","eSOP-8"," ","S=NOW"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3135","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3135.pdf","Constant Current","2.7-5.5","500mA±5%","90","built-in","SOP-8","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3350","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3350.pdf","DC/DC,Step-down","6-40","750mA±5%","95","built-in","SOT89-5,SOT23-5","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3352","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3352.pdf","DC/DC,Step-down","6-40","750mA±5%","95","built-in","SOP-8","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3353","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3353.pdf","DC/DC,Step-down","6-40","1A±3%","97","built-in","SOT23-5","Auto./ Ext. Temp Range","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3354","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3354.pdf","DC/DC,Step-down","6-40","±3%","98","External","SOT23-5","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3360","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3360.pdf","DC/DC,Step-down","6-40","1.2A±3%","98","built-in","SOP89-5",",
+    ","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3380","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3380.pdf","DC/DC,Step-down","8.5-40","1.2A±5%","98","built-in","SOP-8","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3505","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3505.pdf","Boost Step-up","6-30","24W±5%","90","built-in","MSOP-10","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3515","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3515.pdf","Buck,Boost or Buck-Boost","6-40","±3%","90","External","QFN-16"," ","S=Q3/15"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3552","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3552.pdf","2CH Boost/Current Sink","4.5-33","40~360mA/CH","90","External","eTSSOP-16"," ","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3554","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3554.pdf","4CH Boost/Current Sink","4.5-33","20~180mA/CH","90","External","eTSSOP-16"," ","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3910","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3910.pdf","AC/DC,Step-down","8-450DC,100-200AC","500mA±3%","90","External","SOP-8","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3916","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3916.pdf","AC/DC Driver","110-220 AC","PF>0.90","87","External","MSOP-8",",
+    ","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3918","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3918.pdf","DC/DC,AC/DC","6-450DC,85-265AC","±3%","95","External","SOP-8","-","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3932","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3932.pdf","AC/DC","85-265AC","±3%","85","External","SOP-8",", ","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3938","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3938.pdf","DC/DC,AC/DC","10-450DC,85-265AC","±3%","95","External","SOP-8",",
+    ","Prod"
+"issi","Analog-HBLED Driver---HBLED Driver","IS31LT3948","http://www.issi.com/US/product-analog-hbled-driver.shtml","http://www.issi.com/WW/pdf/31LT3948.pdf","Boost Step-up","5-100","±5%","90","External","SOP-8",",
+    ","Prod"

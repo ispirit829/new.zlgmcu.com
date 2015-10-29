@@ -1,0 +1,60 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channel Polarity","IDSS Min (uA)","IDSS Max (uA)","V(BR)GSS Min (V)","Ciss Max (pF)","Crss Max (pF)","Package Type"
+"on","IGBT 和 FET---JFET","2SK2394","2SK2394-6-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SK2394-6-TB-E","http://www.onsemi.com/pub/Collateral/EN4839-D.PDF","N-Channel JFET, 15V, 6 to 32mA, 38mS, CP","Pb-free","Active","N-Channel JFET, 15V, 6 to 32mA, 38mS, CP","N-Channel","10000
+16000","20000
+32000","-15","10","2.9","SC-59-3 / CP-3"
+"on","IGBT 和 FET---JFET","2SK2394","2SK2394-7-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SK2394-7-TB-E","http://www.onsemi.com/pub/Collateral/EN4839-D.PDF","N-Channel JFET, 15V, 6 to 32mA, 38mS, CP","Pb-free","Active","N-Channel JFET, 15V, 6 to 32mA, 38mS, CP","N-Channel","10000
+16000","20000
+32000","-15","10","2.9","SC-59-3 / CP-3"
+"on","IGBT 和 FET---JFET","2SK3666","2SK3666-2-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SK3666-2-TB-E","http://www.onsemi.com/pub/Collateral/2SK3666-D.PDF","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, CP","Pb-free","Active","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, CP","N-Channel","600
+1200","1500
+3000","-30","4","1.1","SC-59-3 / CP-3"
+"on","IGBT 和 FET---JFET","2SK3666","2SK3666-3-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SK3666-3-TB-E","http://www.onsemi.com/pub/Collateral/2SK3666-D.PDF","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, CP","Pb-free","Active","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, CP","N-Channel","600
+1200","1500
+3000","-30","4","1.1","SC-59-3 / CP-3"
+"on","IGBT 和 FET---JFET","2SK3796","2SK3796-2-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SK3796-2-TL-E","http://www.onsemi.com/pub/Collateral/2SK3796-D.PDF","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, SMCP","Pb-free","Active","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, SMCP","N-Channel","600
+1200","1500
+3000","-30","4","1.1","SC-75 / SMCP"
+"on","IGBT 和 FET---JFET","2SK3796","2SK3796-3-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SK3796-3-TL-E","http://www.onsemi.com/pub/Collateral/2SK3796-D.PDF","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, SMCP","Pb-free","Active","N-Channel JFET, 30V, 0.6 to 6.0mA, 6.5mS, SMCP","N-Channel","600
+1200","1500
+3000","-30","4","1.1","SC-75 / SMCP"
+"on","IGBT 和 FET---JFET","2SK545","2SK545-11D-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=2SK545-11D-TB-E","http://www.onsemi.com/pub/Collateral/EN1789-D.PDF","N-Channel JFET, 40V, 55 to 95uA, 0.10mS, CP","Pb-free","Active","N-Channel JFET, 40V, 55 to 95uA, 0.10mS, CP","N-Channel","55","95","-40","1.7","0.7","SC-59-3 / CP-3"
+"on","IGBT 和 FET---JFET","CPH3910","CPH3910-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=CPH3910-TL-E","http://www.onsemi.com/pub/Collateral/ENA1965-D.PDF","N-Channel JFET, 25V, 20 to 40mA, 40mS, CPH3","Pb-free","Active","N-Channel JFET, 25V, 20 to 40mA, 40mS, CPH3","N-Channel","20000","40000","-25","6","2.3","CPH-3"
+"on","IGBT 和 FET---JFET","CPH5902","CPH5902G-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=CPH5902G-TL-E","http://www.onsemi.com/pub/Collateral/CPH5902-D.PDF","N-Channel JFET and NPN Bipolar Transistor, 15V, 10 to 32mA, 50V, 150mA, Composite type CPH5, I","Pb-free","Active","N-Channel JFET and NPN Bipolar Transistor, 15V, 10 to 32mA, 50V, 150mA, Composite type CPH5","N Channel & NPN","10000
+16000","20000
+32000","-15","10","2.9","CPH-5"
+"on","IGBT 和 FET---JFET","CPH5902","CPH5902H-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=CPH5902H-TL-E","http://www.onsemi.com/pub/Collateral/CPH5902-D.PDF","N-Channel JFET and NPN Bipolar Transistor, 15V, 10 to 32mA, 50V, 150mA, Composite type CPH5, I","Pb-free","Active","N-Channel JFET and NPN Bipolar Transistor, 15V, 10 to 32mA, 50V, 150mA, Composite type CPH5","N Channel & NPN","10000
+16000","20000
+32000","-15","10","2.9","CPH-5"
+"on","IGBT 和 FET---JFET","CPH6904","CPH6904-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=CPH6904-TL-E","http://www.onsemi.com/pub/Collateral/ENA1966-D.PDF","N-Channel JFET, 25V, 20 to 40mA, 40mS, Dual CPH6","Pb-free","Active","N-Channel JFET, 25V, 20 to 40mA, 40mS, Dual CPH6","N-Channel","20000","40000","-25","6","2.3","CPH-6"
+"on","IGBT 和 FET---JFET","MCH5908","MCH5908H-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=MCH5908H-TL-E","http://www.onsemi.com/pub/Collateral/ENA1218-D.PDF","N-Channel JFET, 15V, 10 to 32mA, 35mS, Dual MCPH5","Pb-free","Active","N-Channel JFET, 15V, 10 to 32mA, 35mS, Dual MCPH5","N-Channel","3200","1600","-15","10.5","3.5","SC-88AFL / MCPH-5"
+"on","IGBT 和 FET---JFET","MMBF4392L","MMBF4392LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBF4392LT1G","http://www.onsemi.com/pub/Collateral/MMBF4391LT1-D.PDF","N-Channel JFET Transistor","AEC Qualified
+Pb-free
+Halide free","Active","N-Channel JFET Transistor","N-Channel","25","75000","30","14","3.5","SOT-23-3"
+"on","IGBT 和 FET---JFET","MMBFJ175L","MMBFJ175LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBFJ175LT1G","http://www.onsemi.com/pub/Collateral/MMBFJ175LT1-D.PDF","P-Channel JFET Transistor, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","P-Channel JFET Transistor, 30 V","P-Channel","7000","60000","30","11","5.5","SOT-23-3"
+"on","IGBT 和 FET---JFET","MMBFJ175L","MMBFJ175LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBFJ175LT3G","http://www.onsemi.com/pub/Collateral/MMBFJ175LT1-D.PDF","P-Channel JFET Transistor, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","P-Channel JFET Transistor, 30 V","P-Channel","7000","60000","30","11","5.5","SOT-23-3"
+"on","IGBT 和 FET---JFET","MMBFJ175L","SMMBFJ175LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMBFJ175LT1G","http://www.onsemi.com/pub/Collateral/MMBFJ175LT1-D.PDF","P-Channel JFET Transistor, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","P-Channel JFET Transistor, 30 V","P-Channel","7000","60000","30","11","5.5","SOT-23-3"
+"on","IGBT 和 FET---JFET","MMBFJ309L","MMBFJ309LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBFJ309LT1G","http://www.onsemi.com/pub/Collateral/MMBFJ309LT1-D.PDF","N-Channel JFET Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","N-Channel JFET Transistor","N-Channel","12000","30000","25","5","2.5","SOT-23-3"
+"on","IGBT 和 FET---JFET","MMBFJ309L","SMMBFJ309LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMBFJ309LT1G","http://www.onsemi.com/pub/Collateral/MMBFJ309LT1-D.PDF","N-Channel JFET Transistor","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","N-Channel JFET Transistor","N-Channel","12000","30000","25","5","2.5","SOT-23-3"
+"on","IGBT 和 FET---JFET","MMBFU310L","MMBFU310LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBFU310LT1G","http://www.onsemi.com/pub/Collateral/MMBFU310LT1-D.PDF","N-Channel JFET Transistor","AEC Qualified
+Pb-free
+Halide free","Active","N-Channel JFET Transistor","N-Channel","24000","60000","25","5","2.5","SOT-23-3"
+"on","IGBT 和 FET---JFET","NSVJ3557SA3","NSVJ3557SA3T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVJ3557SA3T1G","http://www.onsemi.com/pub/Collateral/NSVJ3557SA3-D.PDF","N-Channel JFET, 15V, 10 to 32mA, 35mS","AEC Qualified
+PPAP Capable
+Pb-free","ActiveNEW","N-Channel JFET, 15V, 10 to 32mA, 35mS","N-Channel","10000","32000","-15","10","2.9","SC-59-3 / CP-3"
+"on","IGBT 和 FET---JFET","TF414","TF414T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=TF414T5G","http://www.onsemi.com/pub/Collateral/ENA2259-D.PDF","N-Channel JFET, 40V, 50 to 130µA, 0.11mS, SOT-883","Pb-free
+Halide free","Active","N-Channel JFET, 40V, 50 to 130µA, 0.11mS, SOT-883","N-Channel","50","130","-40","0.7","0.3","SOT-883"

@@ -1,0 +1,175 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Data Transmission Standard","Data Rate","Number of Drivers","Number of Receivers","VCC Min (V)","VCC Max (V)","tPLH Max (micros)","IO Max (microA)","IIH Max (mA)","Package Type"
+"on","接口---调制解调器及收发器","A5191HRT","A5191HRTLG-XTD","http://www.onsemi.cn/PowerSolutions/product.do?id=A5191HRTLG-XTD","http://www.onsemi.com/pub/Collateral/A5191HRT-D.PDF","Industrial HART-Protocol Modem","Pb-free
+Halide free","Active","Industrial HART-Protocol Modem","HART","1200 baud","1","1","3","5.5","0.02","670","0.0005","LQFP-32
+PLCC-28
+QFN-32"
+"on","接口---调制解调器及收发器","A5191HRT","A5191HRTLG-XTP","http://www.onsemi.cn/PowerSolutions/product.do?id=A5191HRTLG-XTP","http://www.onsemi.com/pub/Collateral/A5191HRT-D.PDF","Industrial HART-Protocol Modem","Pb-free
+Halide free","Active","Industrial HART-Protocol Modem","HART","1200 baud","1","1","3","5.5","0.02","670","0.0005","LQFP-32
+PLCC-28
+QFN-32"
+"on","接口---调制解调器及收发器","A5191HRT","A5191HRTNG-XTP","http://www.onsemi.cn/PowerSolutions/product.do?id=A5191HRTNG-XTP","http://www.onsemi.com/pub/Collateral/A5191HRT-D.PDF","Industrial HART-Protocol Modem","Pb-free
+Halide free","Active","Industrial HART-Protocol Modem","HART","1200 baud","1","1","3","5.5","0.02","670","0.0005","LQFP-32
+PLCC-28
+QFN-32"
+"on","接口---调制解调器及收发器","A5191HRT","A5191HRTPG-XTD","http://www.onsemi.cn/PowerSolutions/product.do?id=A5191HRTPG-XTD","http://www.onsemi.com/pub/Collateral/A5191HRT-D.PDF","Industrial HART-Protocol Modem","Pb-free
+Halide free","Active","Industrial HART-Protocol Modem","HART","1200 baud","1","1","3","5.5","0.02","670","0.0005","LQFP-32
+PLCC-28
+QFN-32"
+"on","接口---调制解调器及收发器","A5191HRT","A5191HRTPG-XTP","http://www.onsemi.cn/PowerSolutions/product.do?id=A5191HRTPG-XTP","http://www.onsemi.com/pub/Collateral/A5191HRT-D.PDF","Industrial HART-Protocol Modem","Pb-free
+Halide free","Active","Industrial HART-Protocol Modem","HART","1200 baud","1","1","3","5.5","0.02","670","0.0005","LQFP-32
+PLCC-28
+QFN-32"
+"on","接口---调制解调器及收发器","AMIS-30660","AMIS30660CANH2RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30660CANH2RG","http://www.onsemi.com/pub/Collateral/AMIS-30660-D.PDF","CAN Transceiver, High Speed","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, High Speed","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-30660","AMIS30660CANH6G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30660CANH6G","http://www.onsemi.com/pub/Collateral/AMIS-30660-D.PDF","CAN Transceiver, High Speed","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, High Speed","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-30660","AMIS30660CANH6RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30660CANH6RG","http://www.onsemi.com/pub/Collateral/AMIS-30660-D.PDF","CAN Transceiver, High Speed","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, High Speed","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-41682","AMIS41682CANM1RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS41682CANM1RG","http://www.onsemi.com/pub/Collateral/AMIS-41682-D.PDF","CAN Transceiver, Fault Tolerant , 5.0 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, Fault Tolerant , 5.0 V","CAN",,"1","1","4.75","5.25","8","45000","6.3","SOIC-14"
+"on","接口---调制解调器及收发器","AMIS-42665","AMIS42665TJAA1RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42665TJAA1RG","http://www.onsemi.com/pub/Collateral/AMIS-42665-D.PDF","CAN Transceiver, High Speed, Low Power, Level Wake-up","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, High Speed, Low Power","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-42665","AMIS42665TJAA3RL","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42665TJAA3RL","http://www.onsemi.com/pub/Collateral/AMIS-42665-D.PDF","CAN Transceiver, High Speed, Low Power, Level Wake-up (NiPdAu)","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, High Speed, Low Power","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-42665","AMIS42665TJAA6RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42665TJAA6RG","http://www.onsemi.com/pub/Collateral/AMIS-42665-D.PDF","CAN Transceiver, High Speed, Low Power, Edge Wake-up","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, High Speed, Low Power","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-42671","AMIS42671ICAB1G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42671ICAB1G","http://www.onsemi.com/pub/Collateral/AMIS-42671-D.PDF","CAN Transceiver, High Speed, for Long Networks","Pb-free
+Halide free","Active","CAN Transceiver, High Speed, for Long Networks","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-42671","AMIS42671ICAB1RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42671ICAB1RG","http://www.onsemi.com/pub/Collateral/AMIS-42671-D.PDF","CAN Transceiver, High Speed, for Long Networks","Pb-free
+Halide free","Active","CAN Transceiver, High Speed, for Long Networks","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-42675","AMIS42675ICAA1G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42675ICAA1G","http://www.onsemi.com/pub/Collateral/AMIS-42675-D.PDF","CAN Transceiver, High Speed, Low Power","Pb-free
+Halide free","Active","CAN Transceiver, High Speed, Low Power","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-42675","AMIS42675ICAA1RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42675ICAA1RG","http://www.onsemi.com/pub/Collateral/AMIS-42675-D.PDF","CAN Transceiver, High Speed, Low Power","Pb-free
+Halide free","Active","CAN Transceiver, High Speed, Low Power","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","8","SOIC-8"
+"on","接口---调制解调器及收发器","AMIS-42770","AMIS42770ICAW1G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42770ICAW1G","http://www.onsemi.com/pub/Collateral/AMIS-42770-D.PDF","CAN Transceiver, Dual, High Speed, for Long Networks","Pb-free
+Halide free","Active","CAN Transceiver, Dual, High Speed, for Long Networks","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","19.5","SOIC-20W"
+"on","接口---调制解调器及收发器","AMIS-42770","AMIS42770ICAW1RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS42770ICAW1RG","http://www.onsemi.com/pub/Collateral/AMIS-42770-D.PDF","CAN Transceiver, Dual, High Speed, for Long Networks","Pb-free
+Halide free","Active","CAN Transceiver, Dual, High Speed, for Long Networks","CAN","1 Mb/s","1","1","4.75","5.25","1","45000","19.5","SOIC-20W"
+"on","接口---调制解调器及收发器","AMIS-49587","AMIS49587C5871G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS49587C5871G","http://www.onsemi.com/pub/Collateral/AMIS-49587-D.PDF","Power Line Carrier Modem","Pb-free
+Halide free","Active","Power Line Carrier Modem","S-FSK","2400 baud","1","1","3","3.6",,,,"NQFP-52
+PLCC-28"
+"on","接口---调制解调器及收发器","AMIS-49587","AMIS49587C5871RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS49587C5871RG","http://www.onsemi.com/pub/Collateral/AMIS-49587-D.PDF","Power Line Carrier Modem","Pb-free
+Halide free","Active","Power Line Carrier Modem","S-FSK","2400 baud","1","1","3","3.6",,,,"NQFP-52
+PLCC-28"
+"on","接口---调制解调器及收发器","AMIS-49587","AMIS49587C5872G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS49587C5872G","http://www.onsemi.com/pub/Collateral/AMIS-49587-D.PDF","Power Line Carrier Modem","Pb-free
+Halide free","Active","Power Line Carrier Modem","S-FSK","2400 baud","1","1","3","3.6",,,,"NQFP-52
+PLCC-28"
+"on","接口---调制解调器及收发器","AMIS-49587","AMIS49587C5872RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS49587C5872RG","http://www.onsemi.com/pub/Collateral/AMIS-49587-D.PDF","Power Line Carrier Modem","Pb-free
+Halide free","Active","Power Line Carrier Modem","S-FSK","2400 baud","1","1","3","3.6",,,,"NQFP-52
+PLCC-28"
+"on","接口---调制解调器及收发器","NCN49599","NCN49599MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCN49599MNG","http://www.onsemi.com/pub/Collateral/NCN49599-D.PDF","Power Line Communication (PLC) Modem","Pb-free
+Halide free","Active","Power Line Communication (PLC) Modem","S-FSK","9600 baud","1","1","3","3.6",,,,"QFN-56"
+"on","接口---调制解调器及收发器","NCN49599","NCN49599MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCN49599MNTWG","http://www.onsemi.com/pub/Collateral/NCN49599-D.PDF","Power Line Communication (PLC) Modem","Pb-free
+Halide free","Active","Power Line Communication (PLC) Modem","S-FSK","9600 baud","1","1","3","3.6",,,,"QFN-56"
+"on","接口---调制解调器及收发器","NCN5120","NCN5120MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCN5120MNTWG","http://www.onsemi.com/pub/Collateral/NCN5120-D.PDF","KNX Transceiver for Twisted Pair Networks, 21245-002-XTP","Pb-free
+Halide free","Active","KNX Transceiver for Twisted Pair Networks","KNX","9600 baud","1","1","3.13","3.47",,,,"QFN-40"
+"on","接口---调制解调器及收发器","NCN5130","NCN5130MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCN5130MNTWG","http://www.onsemi.com/pub/Collateral/NCN5130-D.PDF","Full Featured KNX Transceiver for Twisted Pair Networks","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","Full Featured KNX Transceiver for Twisted Pair Networks",,,,,,,,,,"QFN-40"
+"on","接口---调制解调器及收发器","NCN5151","NCN5151MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCN5151MNTWG","http://www.onsemi.com/pub/Collateral/NCN5151-D.PDF","M-BUS Slave Transceiver","Pb-free
+Halide free","Active","M-BUS Slave Transceiver","M-BUS","38400 baud","1","1","3.1","3.6",,,,"QFN-20"
+"on","接口---调制解调器及收发器","NCN5193","NCN5193MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCN5193MNTWG","http://www.onsemi.com/pub/Collateral/NCN5193-D.PDF","HART CMOS Modem","Pb-free
+Halide free","Active","HART CMOS Modem","HART","1200 baud","1","1","1.8","3.5","0.02","550",,"NQFP-20"
+"on","接口---调制解调器及收发器","NCV7321","NCV7321D11R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7321D11R2G","http://www.onsemi.com/pub/Collateral/NCV7321-D.PDF","LIN Transceiver, Stand Alone, Improved","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","LIN Transceiver, Stand Alone","LIN","20 kbaud","1","1",,,,,,"SOIC-8"
+"on","接口---调制解调器及收发器","NCV7341","NCV7341D21R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7341D21R2G","http://www.onsemi.com/pub/Collateral/NCV7341-D.PDF","CAN Transceiver, High Speed, Low Power","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, High Speed, Low Power","CAN","1 Mb/s","1","1","4.75","5.25",,,,"SOIC-14"
+"on","接口---调制解调器及收发器","NCV7349","NCV7349D10R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7349D10R2G","http://www.onsemi.com/pub/Collateral/NCV7349-D.PDF","High Speed Low Power CAN Transceiver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","High Speed Low Power CAN Transceiver","CAN","1Mb/s","1","1","4.75","5.25","1","100000","10","SOIC-8"
+"on","接口---调制解调器及收发器","NCV7356","NCV7356D1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7356D1G","http://www.onsemi.com/pub/Collateral/NCV7356-D.PDF","CAN Transceiver, Single Wire","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, Single Wire","CAN","100 kbps","1","1","-0.3","18","6.3","350000","0.05","SOIC-14
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7356","NCV7356D1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7356D1R2G","http://www.onsemi.com/pub/Collateral/NCV7356-D.PDF","CAN Transceiver, Single Wire","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, Single Wire","CAN","100 kbps","1","1","-0.3","18","6.3","350000","0.05","SOIC-14
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7356","NCV7356D2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7356D2G","http://www.onsemi.com/pub/Collateral/NCV7356-D.PDF","CAN Transceiver, Single Wire","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, Single Wire","CAN","100 kbps","1","1","-0.3","18","6.3","350000","0.05","SOIC-14
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7356","NCV7356D2R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7356D2R2G","http://www.onsemi.com/pub/Collateral/NCV7356-D.PDF","CAN Transceiver, Single Wire","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, Single Wire","CAN","100 kbps","1","1","-0.3","18","6.3","350000","0.05","SOIC-14
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7383","NCV7383DB0R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7383DB0R2G","http://www.onsemi.com/pub/Collateral/NCV7383-D.PDF","Clamp 15 FlexRay","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Clamp 15 FlexRay<sup>TM</sup> Transceiver","FlexRay","10 Mb/s","1","1","4.75","5.25","0.06","60000","16","TSSOP-14"
+"on","接口---调制解调器及收发器","NCV7424","NCV7424DB0R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7424DB0R2G","http://www.onsemi.com/pub/Collateral/NCV7424-D.PDF","Quad LIN Transceiver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Quad LIN Transceiver","LIN","20 kbaud","4","4","5","27",,,,"TSSOP-16"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428D13R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428D13R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 3.3V regulator, Normal slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428D15R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428D15R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 5V regulator, Normal slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428D1L3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428D1L3R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 3.3 V regulator, Low slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428D1L5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428D1L5R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 5V regulator, Low slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428MW3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428MW3R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 3.3V regulator, Normal slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428MW5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428MW5R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 5V regulator, Normal slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428MWL3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428MWL3R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 3.3 V regulator, Low slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7428","NCV7428MWL5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7428MWL5R2G","http://www.onsemi.com/pub/Collateral/NCV7428-D.PDF","System Basis Chip with Integrated LIN and Voltage Regulator, 5V regulator, Low slope LIN","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Integrated LIN and Voltage Regulator","LIN","20 kbaud","1","1","5.5","28","NA","NA","NA","DFN-8
+SOIC-8"
+"on","接口---调制解调器及收发器","NCV7441","NCV7441D20R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7441D20R2G","http://www.onsemi.com/pub/Collateral/NCV7441-D.PDF","CAN Transceiver, Dual, High Speed, Low Power","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","CAN Transceiver, Dual, High Speed, Low Power","CAN","1 Mb/s","2","2","4.75","5.25","1","100000","20","SOIC-14"
+"on","接口---调制解调器及收发器","NCV7471","NCV7471DQ5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7471DQ5R2G","http://www.onsemi.com/pub/Collateral/NCV7471-D.PDF","System Basis Chip with Dual LIN, HS CAN and 500 mA Boost-Buck DC-DC","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","System Basis Chip with Dual LIN, HS CAN and 500 mA Boost-Buck DC-DC","CAN
+LIN",,"0","3","2.5","28",,,,"SSOP-36 EP"

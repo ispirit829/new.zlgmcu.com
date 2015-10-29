@@ -1,0 +1,9 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Vin Typ (V)","Vout Typ (V)","Iout Typ (mA)","ICC Max (uA)","fOSC Typ (kHz)","Shutdown Pin","Package Type"
+"on","DC-DC控制器、转换器和稳压器---电荷泵","CAT3200","CAT3200TDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT3200TDI-GT3","http://www.onsemi.com/pub/Collateral/CAT3200-D.PDF","Regulated Charge Pump, Low Noise, DC-DC Converter","Pb-free
+Halide free","Active","Regulated Charge Pump, Low Noise, DC-DC Converter","2.7 to 4.5","5","100","4000","2000","Yes","TSOT-23-6"
+"on","DC-DC控制器、转换器和稳压器---电荷泵","CAT660","CAT660EVA-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT660EVA-GT3","http://www.onsemi.com/pub/Collateral/CAT660-D.PDF","Charge Pump Voltage Converter","Pb-free
+Halide free","Active","Charge Pump Voltage Converter","3.0 to 5.5","-Vin or 2Vin","100","3000","80","No","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---电荷泵","LA5797MC","LA5797MC-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA5797MC-BH","http://www.onsemi.com/pub/Collateral/ENA2086-D.PDF","Charge Pump Step-up Power Supply for Variable Capacitance Diodes","Pb-free
+Halide free","Active","Charge Pump Step-up Power Supply for Variable Capacitance Diodes","7.5","28","5","2.6","140","Yes","SOIC-8"
+"on","DC-DC控制器、转换器和稳压器---电荷泵","MAX1720","MAX1720EUTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX1720EUTG","http://www.onsemi.com/pub/Collateral/MAX1720-D.PDF","50 mA, 12 kHz Switched Capacitor Voltage Inverter with Shutdown","Pb-free
+Halide free","Active","50 mA, 12 kHz Switched Capacitor Voltage Inverter with Shutdown","1.15 to 5.5","-Vin or 2Vin","90","90","12","Yes","TSOP-6"

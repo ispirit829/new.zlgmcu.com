@@ -1,0 +1,17 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","ICC Min (mA)","ICC Max (mA)","Power Gain Min (dB)","Power Gain Max (dB)","Isolation Max (dB)","Input Return Loss Min (dB)","Output Return Loss Min (dB)","Noise Figure Max (dB)","PO(1 dB Compression) Min (dBm)","Upper Freq (3 dB) (GHz)","IECutoff Max (uA)","Conversion Gain Typ (dB)","Input Intercept (3 dB) Typ (dBm)","VCC Min (V)","VCC Max (V)","Package Type"
+"on","音频/视频的ASSP---单片微波集成电路(MMIC)","SMA3101","SMA3101-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SMA3101-TL-E","http://www.onsemi.com/pub/Collateral/ENA1431A-D.PDF","MMIC, Amplifier, 5 V, 10 mA, 0.1 to 3 GHz","Pb-free","Active","MMIC, Amplifier, 5 V, 10 mA, 0.1 to 3 GHz","7.1","12.6","21.5","28.5","31
+33","11
+12","8
+10","5.3","-7
+-5","3",,,,"4.5","5.5","SC-88FL / MCPH-6"
+"on","音频/视频的ASSP---单片微波集成电路(MMIC)","SMA3107","SMA3107-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SMA3107-TL-E","http://www.onsemi.com/pub/Collateral/SMA3107-D.PDF","MMIC, Amplifier, 3 V, 6 mA, 0.1 to 2.8 GHz","Pb-free","Active","MMIC, Amplifier, 3 V, 6 mA, 0.1 to 2.8 GHz","4.3","7.7","21
+22","26
+27","33
+40","10
+18","10
+27","4.3","-11.5
+-8.5","2.8",,,,"2.7","3.3","SC-88FL / MCPH-6"
+"on","音频/视频的ASSP---单片微波集成电路(MMIC)","SMA3117","SMA3117-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=SMA3117-TL-H","http://www.onsemi.com/pub/Collateral/EN8936-D.PDF","MMIC, Amplifiler, 5V, 22.7mA, 0.1 to 3GHz, MCPH6","Pb-free
+Halide free","Active","MMIC, Amplifiler, 5V, 22.7mA, 0.1 to 3GHz, MCPH6","18.5","28","29.5","32.5","35","9","11","5","7.5","3",,,,"4.5","5.5","SC-88FL / MCPH-6"
+"on","音频/视频的ASSP---单片微波集成电路(MMIC)","SMA5101","SMA5101-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=SMA5101-TL-H","http://www.onsemi.com/pub/Collateral/ENA1839-D.PDF","MMIC, Mixer, IIP3=15dBm, Gc=-0.5dB@450MHz, MCPH6","Pb-free
+Halide free","Active","MMIC, Mixer, IIP3=15dBm, Gc=-0.5dB@450MHz, MCPH6",,"50",,,,,,,,,"1","-0.5","15","1.2","6","SC-88FL / MCPH-6"

@@ -1,0 +1,418 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","IO(rec) Max (A)","trr Max (ns)","VRRM Max (V)","VFM Max (V)","IFSM Max (A)","IR Max (mA)","Package Type"
+"on","二极管和整流器---整流器","1N4001","1N4001G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4001G","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Rectifier, 50 V, 1.0 A","Pb-free
+Halide free","Active","Standard Rectifier, 50 V, 1.0 A ","Standard Recovery","1",,"50","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4001","1N4001RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4001RLG","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Rectifier, 50 V, 1.0 A","Pb-free
+Halide free","Active","Standard Rectifier, 50 V, 1.0 A ","Standard Recovery","1",,"50","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4003","1N4003G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4003G","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Recovery Rectifier, 200 V, 1.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 200 V, 1.0 A","Standard Recovery","1",,"200","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4003","1N4003RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4003RLG","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Recovery Rectifier, 200 V, 1.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 200 V, 1.0 A","Standard Recovery","1",,"200","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4005","1N4005G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4005G","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Rectifier, 600 V, 1.0 A","Pb-free
+Halide free","Active","Standard Rectifier, 600 V, 1.0 A ","Standard Recovery","1",,"600","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4005","1N4005RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4005RLG","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Rectifier, 600 V, 1.0 A","Pb-free
+Halide free","Active","Standard Rectifier, 600 V, 1.0 A ","Standard Recovery","1",,"600","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4007","1N4007FFG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4007FFG","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Rectifier, 1000 V, 1.0 A","Pb-free
+Halide free","Active","Standard Rectifier, 1000 V, 1.0 A ","Standard Recovery","1",,"1000","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4007","1N4007G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4007G","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Rectifier, 1000 V, 1.0 A","Pb-free
+Halide free","Active","Standard Rectifier, 1000 V, 1.0 A ","Standard Recovery","1",,"1000","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4007","1N4007RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4007RLG","http://www.onsemi.com/pub/Collateral/1N4001-D.PDF","Standard Rectifier, 1000 V, 1.0 A","Pb-free
+Halide free","Active","Standard Rectifier, 1000 V, 1.0 A ","Standard Recovery","1",,"1000","1.1","30","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4934","1N4934G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4934G","http://www.onsemi.com/pub/Collateral/1N4933-D.PDF","100 V, 1.0 A Fast Recovery Rectifier","Pb-free
+Halide free","Active","100 V, 1.0 A Fast Recovery Rectifier","Fast Recovery","1","200","100","1.2","30","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4934","1N4934RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4934RLG","http://www.onsemi.com/pub/Collateral/1N4933-D.PDF","100 V, 1.0 A Fast Recovery Rectifier","Pb-free
+Halide free","Active","100 V, 1.0 A Fast Recovery Rectifier","Fast Recovery","1","200","100","1.2","30","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4936","1N4936G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4936G","http://www.onsemi.com/pub/Collateral/1N4933-D.PDF","400 V, 1.0 A Fast Recovery Rectifier","Pb-free
+Halide free","Active","400 V, 1.0 A Fast Recovery Rectifier","Fast Recovery","1","200","400","1.2","30","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","1N4936","1N4936RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N4936RLG","http://www.onsemi.com/pub/Collateral/1N4933-D.PDF","400 V, 1.0 A Fast Recovery Rectifier","Pb-free
+Halide free","Active","400 V, 1.0 A Fast Recovery Rectifier","Fast Recovery","1","200","400","1.2","30","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5400","1N5400G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5400G","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 50 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 50 V, 3.0 A","Standard Recovery","3",,"50","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5400","1N5400RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5400RLG","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 50 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 50 V, 3.0 A","Standard Recovery","3",,"50","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5402","1N5402G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5402G","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 200 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 200 V, 3.0 A","Standard Recovery","3",,"200","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5402","1N5402RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5402RLG","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 200 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 200 V, 3.0 A","Standard Recovery","3",,"200","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5406","1N5406G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5406G","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 600 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 600 V, 3.0 A ","Standard Recovery","3",,"600","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5406","1N5406RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5406RLG","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 600 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 600 V, 3.0 A ","Standard Recovery","3",,"600","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5408","1N5408G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5408G","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 1000 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 1000 V, 3.0 A ","Standard Recovery","3",,"1000","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","1N5408","1N5408RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5408RLG","http://www.onsemi.com/pub/Collateral/1N5400-D.PDF","Standard Recovery Rectifier, 1000 V, 3.0 A","Pb-free
+Halide free","Active","Standard Recovery Rectifier, 1000 V, 3.0 A ","Standard Recovery","3",,"1000","1","200","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","BYW29","BYW29-200G","http://www.onsemi.cn/PowerSolutions/product.do?id=BYW29-200G","http://www.onsemi.com/pub/Collateral/BYW29-D.PDF","200 V, 8.0 A Ultrafast Rectifier","Pb-free","Active","200 V, 8.0 A Ultrafast Rectifier","Ultrafast","8","35","200","0.85","100","0.6","TO-220-2"
+"on","二极管和整流器---整流器","BYW80","BYW80-200G","http://www.onsemi.cn/PowerSolutions/product.do?id=BYW80-200G","http://www.onsemi.com/pub/Collateral/BYW80-D.PDF","200 V. 8.0 A Ultrafast Rectifier","Pb-free","Active","200 V. 8.0 A Ultrafast Rectifier","Ultrafast","8","35","200","0.85","100","0.01","TO-220-2"
+"on","二极管和整流器---整流器","DBB08","DBB08G-TM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=DBB08G-TM-E","http://www.onsemi.com/pub/Collateral/DBB08-D.PDF","0.8A Single-Phase Bridge Rectifier","Pb-free","Active","0.8A Single-Phase Bridge Rectifier",,"0.8",,,"1.05","30","0.01","PDIP-4 GW"
+"on","二极管和整流器---整流器","DBD250G","DBD250G","http://www.onsemi.cn/PowerSolutions/product.do?id=DBD250G","http://www.onsemi.com/pub/Collateral/ENA1204-D.PDF","25.0A Single-Phase Bridge Rectifier","Pb-free","Active","25.0A Single-Phase Bridge Rectifier",,"25",,"600","1.05","400","0.01","GBPC 32x32 / DBD250"
+"on","二极管和整流器---整流器","DBF40G","DBF40G","http://www.onsemi.cn/PowerSolutions/product.do?id=DBF40G","http://www.onsemi.com/pub/Collateral/EN2797-D.PDF","4.0A Single-Phase Bridge Rectifier","Pb-free","Active","4.0A Single-Phase Bridge Rectifier",,"4",,"600","1.05","80","0.01","SIP-4"
+"on","二极管和整流器---整流器","DSM10G","DSM10G-TR-E","http://www.onsemi.cn/PowerSolutions/product.do?id=DSM10G-TR-E","http://www.onsemi.com/pub/Collateral/DSM10G-D.PDF","600 V, 1.0 A Power Rectifier","Pb-free","Active","600 V, 1.0 A Power Rectifier","Standard Recovery","1",,"600","1.1","25","0.01","SMA"
+"on","二极管和整流器---整流器","MBR5H100MFS","MBR5H100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR5H100MFST1G","http://www.onsemi.com/pub/Collateral/MBR5H100MFS-D.PDF","Schottky Barrier Rectifier, 100 V, 5.0 A","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 5.0 A",,"5",,"100","0.73",,"0.1","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","MBR5H100MFS","MBR5H100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR5H100MFST3G","http://www.onsemi.com/pub/Collateral/MBR5H100MFS-D.PDF","Schottky Barrier Rectifier, 100 V, 5.0 A","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 5.0 A",,"5",,"100","0.73",,"0.1","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","MBR5H100MFS","NRVB5H100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB5H100MFST1G","http://www.onsemi.com/pub/Collateral/MBR5H100MFS-D.PDF","Schottky Barrier Rectifier, 100 V, 5.0 A","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 5.0 A",,"5",,"100","0.73",,"0.1","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","MBR5H100MFS","NRVB5H100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB5H100MFST3G","http://www.onsemi.com/pub/Collateral/MBR5H100MFS-D.PDF","Schottky Barrier Rectifier, 100 V, 5.0 A","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 5.0 A",,"5",,"100","0.73",,"0.1","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","MR851","MR851G","http://www.onsemi.cn/PowerSolutions/product.do?id=MR851G","http://www.onsemi.com/pub/Collateral/MR850-D.PDF","100 V, 3.0 A Fast Recovery Power Rectifier","Pb-free
+Halide free","Active","100 V, 3.0 A Fast Recovery Power Rectifier","Fast Recovery","3","200","100","1.25","100","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MR851","MR851RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MR851RLG","http://www.onsemi.com/pub/Collateral/MR850-D.PDF","100 V, 3.0 A Fast Recovery Power Rectifier","Pb-free
+Halide free","Active","100 V, 3.0 A Fast Recovery Power Rectifier","Fast Recovery","3","200","100","1.25","100","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MR854","MR854G","http://www.onsemi.cn/PowerSolutions/product.do?id=MR854G","http://www.onsemi.com/pub/Collateral/MR850-D.PDF","400 V, 3.0 A Fast Recovery Power Rectifier","Pb-free
+Halide free","Active","400 V, 3.0 A Fast Recovery Power Rectifier","Fast Recovery","3","200","400","1.25","100","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MR854","MR854RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MR854RLG","http://www.onsemi.com/pub/Collateral/MR850-D.PDF","400 V, 3.0 A Fast Recovery Power Rectifier","Pb-free
+Halide free","Active","400 V, 3.0 A Fast Recovery Power Rectifier","Fast Recovery","3","200","400","1.25","100","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MRA4003T3","MRA4003T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MRA4003T3G","http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF","Power Rectifier, Standard Recovery, 1 A, 300 V","AEC Qualified
+Pb-free
+PPAP Capable","ActiveNEW","Power Rectifier, Standard Recovery, 1 A, 300 V","Standard Recovery","1",,"300","1.1","30","0.01","SMA-2"
+"on","二极管和整流器---整流器","MRA4003T3","NRVA4003T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVA4003T3G","http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF","Power Rectifier, Standard Recovery, 1 A, 300 V","AEC Qualified
+Pb-free
+PPAP Capable","ActiveNEW","Power Rectifier, Standard Recovery, 1 A, 300 V","Standard Recovery","1",,"300","1.1","30","0.01","SMA-2"
+"on","二极管和整流器---整流器","MRA4005","MRA4005T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MRA4005T1G","http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF","Power Rectifier, Standard Recovery, 1 A, 600 V","AEC Qualified
+Pb-free
+PPAP Capable","Active","Power Rectifier, Standard Recovery, 1 A, 600 V","Standard Recovery","1",,"600","1.1","30","0.01","SMA-2"
+"on","二极管和整流器---整流器","MRA4005","MRA4005T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MRA4005T3G","http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF","Power Rectifier, Standard Recovery, 1 A, 600 V","AEC Qualified
+Pb-free
+PPAP Capable","Active","Power Rectifier, Standard Recovery, 1 A, 600 V","Standard Recovery","1",,"600","1.1","30","0.01","SMA-2"
+"on","二极管和整流器---整流器","MRA4005","NRVA4005T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVA4005T3G","http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF","Power Rectifier, Standard Recovery, 1 A, 600 V","AEC Qualified
+Pb-free
+PPAP Capable","Active","Power Rectifier, Standard Recovery, 1 A, 600 V","Standard Recovery","1",,"600","1.1","30","0.01","SMA-2"
+"on","二极管和整流器---整流器","MRA4007","MRA4007T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MRA4007T3G","http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF","Power Rectifier, Standard Recovery, 1 A, 1000 V","AEC Qualified
+Pb-free
+PPAP Capable","Active","Power Rectifier, Standard Recovery, 1 A, 1000 V","Standard Recovery","1",,"1000","1.1","30","0.01","SMA-2"
+"on","二极管和整流器---整流器","MRA4007","NRVA4007T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVA4007T3G","http://www.onsemi.com/pub/Collateral/MRA4003T3-D.PDF","Power Rectifier, Standard Recovery, 1 A, 1000 V","AEC Qualified
+Pb-free
+PPAP Capable","Active","Power Rectifier, Standard Recovery, 1 A, 1000 V","Standard Recovery","1",,"1000","1.1","30","0.01","SMA-2"
+"on","二极管和整流器---整流器","MSR1560","MSR1560G","http://www.onsemi.cn/PowerSolutions/product.do?id=MSR1560G","http://www.onsemi.com/pub/Collateral/MSR1560-D.PDF","Power Rectifier, Soft Recovery, Switch-mode, 15 A, 600 V","Pb-free","Active","Power Rectifier, Soft Recovery, Switch-mode, 15 A, 600 V","Ultrasoft","15","45","600","1.8","100","0.015","TO-220 FULLPAK-2
+TO-220-2"
+"on","二极管和整流器---整流器","MSR1560","MSRF1560G","http://www.onsemi.cn/PowerSolutions/product.do?id=MSRF1560G","http://www.onsemi.com/pub/Collateral/MSR1560-D.PDF","Power Rectifier, Soft Recovery, Switch-mode, 15 A, 600 V","Pb-free","Active","Power Rectifier, Soft Recovery, Switch-mode, 15 A, 600 V","Ultrasoft","15","45","600","1.8","100","0.015","TO-220 FULLPAK-2
+TO-220-2"
+"on","二极管和整流器---整流器","MSRD620CT","MSRD620CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MSRD620CTG","http://www.onsemi.com/pub/Collateral/MSRD620CT-D.PDF","200 V, 6.0 A Soft Ultrafast Rectifier","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","200 V, 6.0 A Soft Ultrafast Rectifier","Ultrasoft","6","55","200","1.35","50","0.005","DPAK-3"
+"on","二极管和整流器---整流器","MSRD620CT","MSRD620CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MSRD620CTT4G","http://www.onsemi.com/pub/Collateral/MSRD620CT-D.PDF","200 V, 6.0 A Soft Ultrafast Rectifier","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","200 V, 6.0 A Soft Ultrafast Rectifier","Ultrasoft","6","55","200","1.35","50","0.005","DPAK-3"
+"on","二极管和整流器---整流器","MSRD620CT","SSRD8620CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SSRD8620CTT4G","http://www.onsemi.com/pub/Collateral/MSRD620CT-D.PDF","200 V, 6.0 A Soft Ultrafast Rectifier","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","200 V, 6.0 A Soft Ultrafast Rectifier","Ultrasoft","6","55","200","1.35","50","0.005","DPAK-3"
+"on","二极管和整流器---整流器","MUR105","MUR105G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR105G","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Switch-mode, 1.0 A, 50 V","Pb-free
+Halide free","Active","Power Rectifier, Switch-mode, 1.0 A, 50 V","Ultrafast","1","35","50","0.875","35","0.002","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR105","MUR105RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR105RLG","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Switch-mode, 1.0 A, 50 V","Pb-free
+Halide free","Active","Power Rectifier, Switch-mode, 1.0 A, 50 V","Ultrafast","1","35","50","0.875","35","0.002","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR1100E","MUR1100EG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR1100EG","http://www.onsemi.com/pub/Collateral/MUR180E-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 1000 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 1000 V","Ultrafast","1","100","1000","1.75","35","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR1100E","MUR1100ERLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR1100ERLG","http://www.onsemi.com/pub/Collateral/MUR180E-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 1000 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 1000 V","Ultrafast","1","100","1000","1.75","35","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR120","MUR120G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR120G","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 200 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 200 V","Ultrafast","1","35","200","0.875","35","0.002","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR120","MUR120RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR120RLG","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 200 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 200 V","Ultrafast","1","35","200","0.875","35","0.002","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR140","MUR140G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR140G","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 400 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 400 V","Ultrafast","1","75","400","1.25","35","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR140","MUR140RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR140RLG","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 400 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 1 A, 400 V","Ultrafast","1","75","400","1.25","35","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR1540","MUR1540G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR1540G","http://www.onsemi.com/pub/Collateral/MUR1520-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 15 A, 400 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 15 A, 400 V","Ultrafast","15","60","400","1.25","150","0.01","TO-220-2"
+"on","二极管和整流器---整流器","MUR160","MUR160G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR160G","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 15 A, 600 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 15 A, 600 V","Ultrafast","1","75","600","1.25","35","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR160","MUR160RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR160RLG","http://www.onsemi.com/pub/Collateral/MUR120-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 15 A, 600 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 15 A, 600 V","Ultrafast","1","75","600","1.25","35","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR1615CT","MUR1615CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR1615CTG","http://www.onsemi.com/pub/Collateral/MUR1620CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 150 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 150 V","Ultrafast","16","35","150","0.975","100","0.005","TO-220-3"
+"on","二极管和整流器---整流器","MUR1620CTR","MUR1620CTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR1620CTRG","http://www.onsemi.com/pub/Collateral/MUR1620CTR-D.PDF","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Ultrafast","16","85","200","1.2","100","0.005","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---整流器","MUR1620CTR","MURB1620CTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MURB1620CTRG","http://www.onsemi.com/pub/Collateral/MUR1620CTR-D.PDF","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Ultrafast","16","85","200","1.2","100","0.005","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---整流器","MUR1620CTR","MURB1620CTRT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURB1620CTRT4G","http://www.onsemi.com/pub/Collateral/MUR1620CTR-D.PDF","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Ultrafast","16","85","200","1.2","100","0.005","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---整流器","MUR1620CTR","NRVUB1620CTRT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVUB1620CTRT4G","http://www.onsemi.com/pub/Collateral/MUR1620CTR-D.PDF","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Common Anode, 16 A, 200 V","Ultrafast","16","85","200","1.2","100","0.005","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---整流器","MUR1660CT","MUR1660CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR1660CTG","http://www.onsemi.com/pub/Collateral/MUR1620CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Ultrafast","16","60","600","1.5","100","0.5","TO-220-3"
+"on","二极管和整流器---整流器","MUR2020R","MUR2020RG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR2020RG","http://www.onsemi.com/pub/Collateral/MUR2020R-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 20 A, 200 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 20 A, 200 V","Ultrafast","20","95","200","1.1","250","0.05","TO-220-2"
+"on","二极管和整流器---整流器","MUR2100E","MUR2100EG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR2100EG","http://www.onsemi.com/pub/Collateral/MUR2100E-D.PDF","1000 V, 2.0 A Ultrafast Rectifier","Pb-free
+Halide free","Active","1000 V, 2.0 A Ultrafast Rectifier","Ultrafast","2","75","1000","2.2","35","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR2100E","MUR2100ERLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR2100ERLG","http://www.onsemi.com/pub/Collateral/MUR2100E-D.PDF","1000 V, 2.0 A Ultrafast Rectifier","Pb-free
+Halide free","Active","1000 V, 2.0 A Ultrafast Rectifier","Ultrafast","2","75","1000","2.2","35","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR240","MUR240G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR240G","http://www.onsemi.com/pub/Collateral/MUR240-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 2 A, 400 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 2 A, 400 V","Ultrafast","2","65","400","1.15","35","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR240","MUR240RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR240RLG","http://www.onsemi.com/pub/Collateral/MUR240-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 2 A, 400 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 2 A, 400 V","Ultrafast","2","65","400","1.15","35","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR3020WT","MUR3020WTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR3020WTG","http://www.onsemi.com/pub/Collateral/MUR3020WT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 30 A, 200 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 30 A, 200 V","Ultrafast","30","35","200","1.05","150","0.01","TO-247-3"
+"on","二极管和整流器---整流器","MUR3060WT","MUR3060WTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR3060WTG","http://www.onsemi.com/pub/Collateral/MUR3020WT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 30 A, 600 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 30 A, 600 V","Ultrafast","30","60","600","1.7","150","0.01","TO-247-3"
+"on","二极管和整流器---整流器","MUR410","MUR410G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR410G","http://www.onsemi.com/pub/Collateral/MUR420-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 100 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 100 V","Ultrafast","4","35","100","0.89","125","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR410","MUR410RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR410RLG","http://www.onsemi.com/pub/Collateral/MUR420-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 100 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 100 V","Ultrafast","4","35","100","0.89","125","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR415","MUR415G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR415G","http://www.onsemi.com/pub/Collateral/MUR420-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 150 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 150 V","Ultrafast","4","35","150","0.89","125","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR415","MUR415RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR415RLG","http://www.onsemi.com/pub/Collateral/MUR420-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 150 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 150 V","Ultrafast","4","35","150","0.89","125","0.005","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR440","MUR440G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR440G","http://www.onsemi.com/pub/Collateral/MUR420-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 400 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 400 V","Ultrafast","4","35","400","1.28","70","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR440","MUR440RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR440RLG","http://www.onsemi.com/pub/Collateral/MUR420-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 400 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 400 V","Ultrafast","4","35","400","1.28","70","0.01","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR480E","MUR480EG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR480EG","http://www.onsemi.com/pub/Collateral/MUR480E-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 800 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 800 V","Ultrafast","4","75","800","1.85","70","0.025","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR480E","MUR480ERLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR480ERLG","http://www.onsemi.com/pub/Collateral/MUR480E-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 800 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 4 A, 800 V","Ultrafast","4","75","800","1.85","70","0.025","Axial Lead-2"
+"on","二极管和整流器---整流器","MUR620CT","MUR620CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR620CTG","http://www.onsemi.com/pub/Collateral/MUR620CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 6 A, 200 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 6 A, 200 V","Ultrafast","6","35","200","0.975","75","0.005","TO-220-3"
+"on","二极管和整流器---整流器","MUR810","MUR810G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR810G","http://www.onsemi.com/pub/Collateral/MUR820-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 100 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 100 V","Ultrafast","8","35","100","0.975","100","0.005","TO-220-2"
+"on","二极管和整流器---整流器","MUR815","MUR815G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR815G","http://www.onsemi.com/pub/Collateral/MUR820-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 150 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 150 V","Ultrafast","8","35","150","0.975","100","0.005","TO-220-2"
+"on","二极管和整流器---整流器","MUR840","MUR840G","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR840G","http://www.onsemi.com/pub/Collateral/MUR820-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 400 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 400 V","Ultrafast","8","60","400","1.3","100","0.01","TO-220-2"
+"on","二极管和整流器---整流器","MUR880E","MUR880EG","http://www.onsemi.cn/PowerSolutions/product.do?id=MUR880EG","http://www.onsemi.com/pub/Collateral/MUR8100E-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 800 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 8 A, 800 V","Ultrafast","8","100","800","1.8","100","0.01","TO-220-2"
+"on","二极管和整流器---整流器","MURA115","MURA115T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURA115T3G","http://www.onsemi.com/pub/Collateral/MURA115T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 150 V, 150 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 150 V","Ultrafast","1","35","150
+200","0.875
+0.876","40","0.002","SMA-2"
+"on","二极管和整流器---整流器","MURA115","MURA120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURA120T3G","http://www.onsemi.com/pub/Collateral/MURA115T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 150 V, 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 150 V","Ultrafast","1","35","150
+200","0.875
+0.876","40","0.002","SMA-2"
+"on","二极管和整流器---整流器","MURA115","SURA8120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURA8120T3G","http://www.onsemi.com/pub/Collateral/MURA115T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 150 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 150 V","Ultrafast","1","35","150
+200","0.875
+0.876","40","0.002","SMA-2"
+"on","二极管和整流器---整流器","MURA140","MURA140T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURA140T3G","http://www.onsemi.com/pub/Collateral/MURA130T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 400 V, 400 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 400 V","Ultrafast","1","65","400","1.1","35","0.005","SMA-2"
+"on","二极管和整流器---整流器","MURA140","SURA8140T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURA8140T3G","http://www.onsemi.com/pub/Collateral/MURA130T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 400 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 400 V","Ultrafast","1","65","400","1.1","35","0.005","SMA-2"
+"on","二极管和整流器---整流器","MURA205","MURA205T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURA205T3G","http://www.onsemi.com/pub/Collateral/MURA205T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V, 50 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V","Ultrafast","2","30","50
+100","0.94","50","0.002","SMA-2"
+"on","二极管和整流器---整流器","MURA205","MURA210T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURA210T3G","http://www.onsemi.com/pub/Collateral/MURA205T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V","Ultrafast","2","30","50
+100","0.94","50","0.002","SMA-2"
+"on","二极管和整流器---整流器","MURA205","SURA8205T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURA8205T3G","http://www.onsemi.com/pub/Collateral/MURA205T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V","Ultrafast","2","30","50
+100","0.94","50","0.002","SMA-2"
+"on","二极管和整流器---整流器","MURA205","SURA8210T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURA8210T3G","http://www.onsemi.com/pub/Collateral/MURA205T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 50 V","Ultrafast","2","30","50
+100","0.94","50","0.002","SMA-2"
+"on","二极管和整流器---整流器","MURA230T3","MURA230T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURA230T3G","http://www.onsemi.com/pub/Collateral/MURA230T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 300 V","AEC Qualified
+Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 300 V","Ultrafast","2","65","300","1.3","35","0.005","SMA-2"
+"on","二极管和整流器---整流器","MURA260T3","MURA260T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURA260T3G","http://www.onsemi.com/pub/Collateral/MURA260T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","Ultrafast","2","75","600","1.45","35","0.005","SMA-2"
+"on","二极管和整流器---整流器","MURA260T3","SURA8260T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURA8260T3G","http://www.onsemi.com/pub/Collateral/MURA260T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","Ultrafast","2","75","600","1.45","35","0.005","SMA-2"
+"on","二极管和整流器---整流器","MURB1660CT","MURB1660CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MURB1660CTG","http://www.onsemi.com/pub/Collateral/MURB1660CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Ultrafast","16","60","600","1.5","100","0.5","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---整流器","MURB1660CT","MURB1660CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURB1660CTT4G","http://www.onsemi.com/pub/Collateral/MURB1660CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Ultrafast","16","60","600","1.5","100","0.5","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---整流器","MURB1660CT","NRVUB1660CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVUB1660CTT4G","http://www.onsemi.com/pub/Collateral/MURB1660CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 600 V","Ultrafast","16","60","600","1.5","100","0.5","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---整流器","MURD330","MURD330T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURD330T4G","http://www.onsemi.com/pub/Collateral/MURD330-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 3 A, 300 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 3 A, 300 V","Ultrafast","3","50","300","1.15","75","0.005","DPAK-3"
+"on","二极管和整流器---整流器","MURD330","SURD8330T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURD8330T4G","http://www.onsemi.com/pub/Collateral/MURD330-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 3 A, 300 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 3 A, 300 V","Ultrafast","3","50","300","1.15","75","0.005","DPAK-3"
+"on","二极管和整流器---整流器","MURD530","MURD530T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURD530T4G","http://www.onsemi.com/pub/Collateral/MURD530-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 5 A, 300 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 5 A, 300 V","Ultrafast","5","50","300","1.05","75","0.15","DPAK-3"
+"on","二极管和整流器---整流器","MURD530","SURD8530T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURD8530T4G","http://www.onsemi.com/pub/Collateral/MURD530-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 5 A, 300 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 5 A, 300 V","Ultrafast","5","50","300","1.05","75","0.15","DPAK-3"
+"on","二极管和整流器---整流器","MURF1620CT","MURF1620CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MURF1620CTG","http://www.onsemi.com/pub/Collateral/MURF1620CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 200 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 200 V","Ultrafast","16","25","200","0.975","100","0.005","TO-220 FULLPAK-3"
+"on","二极管和整流器---整流器","MURF1620CT","MURF1620CTGS","http://www.onsemi.cn/PowerSolutions/product.do?id=MURF1620CTGS","http://www.onsemi.com/pub/Collateral/MURF1620CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 200 V","Pb-free
+Halide free","Active","Power Rectifier, Ultra-Fast Recovery, Switch-mode, 16 A, 200 V","Ultrafast","16","25","200","0.975","100","0.005","TO-220 FULLPAK-3"
+"on","二极管和整流器---整流器","MURH840CT","MURH840CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MURH840CTG","http://www.onsemi.com/pub/Collateral/MURH840CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Ultrafast","8","28","400","2","100","0.5","TO-220-3"
+"on","二极管和整流器---整流器","MURHB840CT","MURHB840CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MURHB840CTG","http://www.onsemi.com/pub/Collateral/MURHB840CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Ultrafast","8","28","400","2.2","100","0.5","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---整流器","MURHB840CT","MURHB840CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURHB840CTT4G","http://www.onsemi.com/pub/Collateral/MURHB840CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Ultrafast","8","28","400","2.2","100","0.5","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---整流器","MURHB840CT","SURHB8840CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURHB8840CTT4G","http://www.onsemi.com/pub/Collateral/MURHB840CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 8 A, 400 V","Ultrafast","8","28","400","2.2","100","0.5","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---整流器","MURHD560","MURHD560T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURHD560T4G","http://www.onsemi.com/pub/Collateral/MURHD560-D.PDF","Power Rectifier, Ultra-Fast Recovery, 5 A, 600 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 5 A, 600 V","Ultrafast","5","30","600","2.7","50","0.01","DPAK-3"
+"on","二极管和整流器---整流器","MURHD560","SURHD8560T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURHD8560T4G","http://www.onsemi.com/pub/Collateral/MURHD560-D.PDF","Power Rectifier, Ultra-Fast Recovery, 5 A, 600 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 5 A, 600 V","Ultrafast","5","30","600","2.7","50","0.01","DPAK-3"
+"on","二极管和整流器---整流器","MURHF860CT","MURHF860CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MURHF860CTG","http://www.onsemi.com/pub/Collateral/MURHF860CT-D.PDF","Power Rectifier, Ultra-Fast Recovery, 8 A, 600 V","Pb-free","Active","Power Rectifier, Ultra-Fast Recovery, 8 A, 600 V","Ultrafast","8","35","600","2.8","100","0.5","TO-220 FULLPAK-3"
+"on","二极管和整流器---整流器","MURJ1660CTG","MURJ1660CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MURJ1660CTG","http://www.onsemi.com/pub/Collateral/MURF1660CT-D.PDF","16A, 600 V Ultrafast Rectifier","Pb-free
+Halide free","Intro Pending","16A, 600 V Ultrafast Rectifier","Ultrafast","16","60",,"1.5","100","500","TO-220 FULLPAK-3"
+"on","二极管和整流器---整流器","MURS110","MURS110T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS110T3G","http://www.onsemi.com/pub/Collateral/MURS120T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 100 V","Ultrafast","1","35","100","0.875","40","0.002","SMB-2"
+"on","二极管和整流器---整流器","MURS110","SURS8110T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURS8110T3G","http://www.onsemi.com/pub/Collateral/MURS120T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 100 V","Ultrafast","1","35","100","0.875","40","0.002","SMB-2"
+"on","二极管和整流器---整流器","MURS120","MURS120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS120T3G","http://www.onsemi.com/pub/Collateral/MURS120T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 200 V","Ultrafast","1","35","200","0.875","40","0.002","SMB-2"
+"on","二极管和整流器---整流器","MURS120","SURS8120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURS8120T3G","http://www.onsemi.com/pub/Collateral/MURS120T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 200 V","Ultrafast","1","35","200","0.875","40","0.002","SMB-2"
+"on","二极管和整流器---整流器","MURS160","MURS160T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS160T3G","http://www.onsemi.com/pub/Collateral/MURS120T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 600 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 600 V","Ultrafast","1","75","600","1.25","35","0.005","SMB-2"
+"on","二极管和整流器---整流器","MURS160","SURS8160T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURS8160T3G","http://www.onsemi.com/pub/Collateral/MURS120T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 1 A, 600 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 1 A, 600 V","Ultrafast","1","75","600","1.25","35","0.005","SMB-2"
+"on","二极管和整流器---整流器","MURS210","MURS210T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS210T3G","http://www.onsemi.com/pub/Collateral/MURS205T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 100 V","Ultrafast","2","30","100","0.94","50","0.05","SMB-2"
+"on","二极管和整流器---整流器","MURS210","SURS8210T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURS8210T3G","http://www.onsemi.com/pub/Collateral/MURS205T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 100 V","Ultrafast","2","30","100","0.94","50","0.05","SMB-2"
+"on","二极管和整流器---整流器","MURS230","MURS230T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS230T3G","http://www.onsemi.com/pub/Collateral/MURS230T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 300 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 300 V","Ultrafast","2","50","300","1.15","35","0.005","SMB-2"
+"on","二极管和整流器---整流器","MURS230","NRVUS230T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVUS230T3G","http://www.onsemi.com/pub/Collateral/MURS230T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 300 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 300 V","Ultrafast","2","50","300","1.15","35","0.005","SMB-2"
+"on","二极管和整流器---整流器","MURS260","MURS260T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS260T3G","http://www.onsemi.com/pub/Collateral/MURS260T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","Ultrafast","2","50","600","1.45","35","0.005","SMB-2"
+"on","二极管和整流器---整流器","MURS260","SURS8260T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURS8260T3G","http://www.onsemi.com/pub/Collateral/MURS260T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 2 A, 600 V","Ultrafast","2","50","600","1.45","35","0.005","SMB-2"
+"on","二极管和整流器---整流器","MURS340","MURS340T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS340T3G","http://www.onsemi.com/pub/Collateral/MURS320T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 3 A, 400 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 3 A, 400 V","Ultrafast","3","75","400","1.25","75","0.01","SMC-2"
+"on","二极管和整流器---整流器","MURS340","SURS8340T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURS8340T3G","http://www.onsemi.com/pub/Collateral/MURS320T3-D.PDF","Power Rectifier, Ultra-Fast Recovery, 3 A, 400 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Power Rectifier, Ultra-Fast Recovery, 3 A, 400 V","Ultrafast","3","75","400","1.25","75","0.01","SMC-2"
+"on","二极管和整流器---整流器","MURS360BT3G","MURS360BT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MURS360BT3G","http://www.onsemi.com/pub/Collateral/MURS360BT3-D.PDF","600 V, 3.0 A Ultrafast Rectifier","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","600 V, 3.0 A Ultrafast Rectifier","Ultrafast","3","75","600","1.25","100","0.003","SMB-2"
+"on","二极管和整流器---整流器","MURS360BT3G","SURS8360BT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SURS8360BT3G","http://www.onsemi.com/pub/Collateral/MURS360BT3-D.PDF","600 V, 3.0 A Ultrafast Rectifier","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","600 V, 3.0 A Ultrafast Rectifier","Ultrafast","3","75","600","1.25","100","0.003","SMB-2"
+"on","二极管和整流器---整流器","NHP120SF","NHP120SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NHP120SFT3G","http://www.onsemi.com/pub/Collateral/NHP120SF-D.PDF","1 A, 200 V Planar Ultrafast Rectifier","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","1 A, 200 V Planar Ultrafast Rectifier","Ultrafast","1","25","200","1","25","0.0005","SOD123-2"
+"on","二极管和整流器---整流器","NHP120SF","NRVHP120SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVHP120SFT3G","http://www.onsemi.com/pub/Collateral/NHP120SF-D.PDF","1 A, 200 V Planar Ultrafast Rectifier","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","1 A, 200 V Planar Ultrafast Rectifier","Ultrafast","1","25","200","1","25","0.0005","SOD123-2"
+"on","二极管和整流器---整流器","NHP620MFD","NHP620MFDT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NHP620MFDT1G","http://www.onsemi.com/pub/Collateral/NHP620MFD-D.PDF","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","Ultrafast","6","25","200","1","80","0.0005","SO-8FL Dual / DFN-8"
+"on","二极管和整流器---整流器","NHP620MFD","NHP620MFDT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NHP620MFDT3G","http://www.onsemi.com/pub/Collateral/NHP620MFD-D.PDF","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","Ultrafast","6","25","200","1","80","0.0005","SO-8FL Dual / DFN-8"
+"on","二极管和整流器---整流器","NHP620MFD","NRVHP620MFDT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVHP620MFDT1G","http://www.onsemi.com/pub/Collateral/NHP620MFD-D.PDF","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","Ultrafast","6","25","200","1","80","0.0005","SO-8FL Dual / DFN-8"
+"on","二极管和整流器---整流器","NHP620MFD","NRVHP620MFDT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVHP620MFDT3G","http://www.onsemi.com/pub/Collateral/NHP620MFD-D.PDF","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Rectifier, 6 A (3 x 2), 200 V Ultrafast Dual die","Ultrafast","6","25","200","1","80","0.0005","SO-8FL Dual / DFN-8"
+"on","二极管和整流器---整流器","NHPM120","NHPM120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NHPM120T3G","http://www.onsemi.com/pub/Collateral/NHPM120-D.PDF","Rectifier, Ultrafast 1 A 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Rectifier, Ultrafast 1 A 200 V","Ultrafast","1","25","200","1","30","0.0005","POWERMITE-2"
+"on","二极管和整流器---整流器","NHPM120","NRVHPM120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVHPM120T3G","http://www.onsemi.com/pub/Collateral/NHPM120-D.PDF","Rectifier, Ultrafast 1 A 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Rectifier, Ultrafast 1 A 200 V","Ultrafast","1","25","200","1","30","0.0005","POWERMITE-2"
+"on","二极管和整流器---整流器","NHPV08S600","NHPJ08S600G","http://www.onsemi.cn/PowerSolutions/product.do?id=NHPJ08S600G","http://www.onsemi.com/pub/Collateral/NHPV08S600-D.PDF","Power Rectifier, Ultrafast, 8.0 A, 600 V","Pb-free
+Halide free","Active","Power Rectifier, Ultrafast, 8.0 A, 600 V","Ultrafast","8","50","600","2.9","80","0.03","TO-220 FULLPAK-2
+TO-220-2"
+"on","二极管和整流器---整流器","NHPV08S600","NHPV08S600G","http://www.onsemi.cn/PowerSolutions/product.do?id=NHPV08S600G","http://www.onsemi.com/pub/Collateral/NHPV08S600-D.PDF","Power Rectifier, Ultrafast, 8.0 A, 600 V","Pb-free
+Halide free","Active","Power Rectifier, Ultrafast, 8.0 A, 600 V","Ultrafast","8","50","600","2.9","80","0.03","TO-220 FULLPAK-2
+TO-220-2"
+"on","二极管和整流器---整流器","NTS12120MFS","NRVTS12120MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS12120MFST1G","http://www.onsemi.com/pub/Collateral/NTS12120MFS-D.PDF","Trench Schottky Rectifier,  Low VF, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier,  Low VF, 12 A, 120 V",,,,"120","83",,"75","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","NTS12120MFS","NRVTS12120MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS12120MFST3G","http://www.onsemi.com/pub/Collateral/NTS12120MFS-D.PDF","Trench Schottky Rectifier,  Low VF, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier,  Low VF, 12 A, 120 V",,,,"120","83",,"75","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","NTS12120MFS","NTS12120MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS12120MFST1G","http://www.onsemi.com/pub/Collateral/NTS12120MFS-D.PDF","Trench Schottky Rectifier,  Low VF, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier,  Low VF, 12 A, 120 V",,,,"120","83",,"75","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","NTS12120MFS","NTS12120MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS12120MFST3G","http://www.onsemi.com/pub/Collateral/NTS12120MFS-D.PDF","Trench Schottky Rectifier,  Low VF, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier,  Low VF, 12 A, 120 V",,,,"120","83",,"75","SO-8FL / DFN-5"
+"on","二极管和整流器---整流器","NTSV30100CTG","NTSV30100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSV30100CTG","http://www.onsemi.com/pub/Collateral/NTSV30100CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 100 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 100 V",,"30",,"100",,"100","0.5","TO-220-3"

@@ -1,0 +1,9 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Engine Management---IGBT Ignition Driver","E910.89","http://www.elmos.com/fileadmin/2013/02_products/06_engine-management/e910-89_elmos_ds.pdf","http://www.elmos.com/english/products/engine-management.html?tx_pmproductlist_productlist%5Bproduct%5D=16&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=e1fbdf218cd92fb117bdee525bf9cf4e","IGBT Driver for Spark Plugs","Digital,  level controlled  "," "," "," "," "," "," "," "," "," "," "," "," "," ","6V to 26V  "," "," "," "," "," "," "," "," "," ","Drives gate of external IGBT "," "," "," ","SOIC8N "," "," Slew rate controlled gate driver
+Soft switch-on/-off, safety-timer
+Differential input
+Operating temperature range –40°C to +140°C"
+"elmos","Engine Management---IGBT Ignition Driver","E525.01","http://www.elmos.com/fileadmin/2013/02_products/06_engine-management/e525-01_elmos_ds.pdf","http://www.elmos.com/english/products/engine-management.html?tx_pmproductlist_productlist%5Bproduct%5D=74&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=2d92a89276bf014ec906053050782c23","IGBT Driver for Spark Plug Coils","Digital, 
+level controlled "," "," "," "," "," "," "," "," "," "," "," "," "," ","5.5V to 28V  "," "," "," "," "," "," "," "," "," ","Drives gate of external IGBT "," "," "," ","SOIC8N "," "," Slew rate controlled gate driver
+Soft switch-on/switch-off, safety timer
+Operating temperature range –40°C to +140°C"

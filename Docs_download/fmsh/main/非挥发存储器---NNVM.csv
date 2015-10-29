@@ -1,0 +1,50 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","容量（data）","容量（tag）","CT I/F","RF I/F","电压范围","封装","状态"
+"fmsh","非挥发存储器---NNVM","FM24NC08Tx","http://www.fmsh.com/68b23889-41b8-ee01-b4a4-c5231b1624bc/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","32kbit","144/504/888bytes","IIC","ISO14443 Type A","1.6V-5.5V","SO, TS, DN","UD"
+"fmsh","非挥发存储器---NNVM","FM24NC32T1/2/3","http://www.fmsh.com/68b23889-41b8-ee01-b4a4-c5231b1624bc/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20141218/FM24NC32Tx_ds_eng.pdf&fileExt=file","32kbit
+","144/504/888bytes
+","IIC
+","ISO14443 Type A
+","1.6V-5.5V
+","SO, TS, DN
+","M
+"
+"fmsh","非挥发存储器---NNVM","FM24NC128T1/2/3","http://www.fmsh.com/68b23889-41b8-ee01-b4a4-c5231b1624bc/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20141218/FM24NC128Tx_ds_eng.pdf&fileExt=file","128kbit
+","144/504/888bytes
+","IIC
+","ISO14443 Type A
+","1.6V-5.5V
+","SO, TS, DN
+","M
+"
+"fmsh","非挥发存储器---NNVM","FM24NC512T1/2/3/4","http://www.fmsh.com/68b23889-41b8-ee01-b4a4-c5231b1624bc/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","512kbit
+","144/504/888/1904bytes
+","IIC
+","ISO14443 Type A
+","1.6V-5.5V
+","SO, TS, DN
+","UD
+"
+"fmsh","非挥发存储器---NNVM","FM24NC640T1/2/3","http://www.fmsh.com/68b23889-41b8-ee01-b4a4-c5231b1624bc/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20141218/FM24NC640Tx_ds_eng.pdf&fileExt=file","512kbit
+","144/504/888bytes
+","IIC
+","ISO14443 Type A
+","1.6V-5.5V
+","SO, TS, DN
+","M
+"
+"fmsh","非挥发存储器---NNVM","FM25NQ04T1/2/3/4","http://www.fmsh.com/68b23889-41b8-ee01-b4a4-c5231b1624bc/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","4Mbit
+","144/504/888/1904bytes
+","SPI
+","ISO14443 Type A
+","2.7V-3.6V
+","SO, TS,QND
+","UD
+"
+"fmsh","非挥发存储器---NNVM","FM25NQ08T1/2/3/4","http://www.fmsh.com/68b23889-41b8-ee01-b4a4-c5231b1624bc/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","8Mbit
+","144/504/888/1904bytes
+","SPI
+","ISO14443 Type A
+","2.7V-3.6V
+","SO, TS,QND
+","UD
+"

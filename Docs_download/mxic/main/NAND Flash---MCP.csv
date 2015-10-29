@@ -1,0 +1,45 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","NAND Product Type","LPDDR Product Type","NAND Density","LPDDR Density","NAND Bus Width","LPDDR Bus Width","Voltage","ECC Requirement","Packages","Temperature Range"
+"mxic","NAND Flash---MCP","MX63U4GC2GGA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","4Gb","2Gb","x8","x16","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U4GA2GHA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","4Gb","2Gb","x8","x32","1.8V","8-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U4GC2GHA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","4Gb","2Gb","x8","x32","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U4GA2GBA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","-","ONFI","LPDDR2","4Gb","2Gb","x8","x32","1.8V","8-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C","NR"
+"mxic","NAND Flash---MCP","MX63U4GC2GBA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","-","ONFI","LPDDR2","4Gb","2Gb","x8","x32","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C","NR"
+"mxic","NAND Flash---MCP","MX63U2GE2GGA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","2Gb","2Gb","x8","x16","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U2GE2GHA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","2Gb","2Gb","x8","x32","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U2GA1GCA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","2Gb","1Gb","x8","x32","1.8V","8-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U2GC1GCA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","2Gb","1Gb","x8","x32","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U2GB1GCA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","2Gb","1Gb","x16","x32","1.8V","8-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U1GC1GAA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","1Gb","1Gb","x8","x16","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U1GD1GA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG162BallMCPver14.pdf","ONFI","LPDDR2","1Gb","1Gb","x16","x16","1.8V","4-bit ECC","8x10.5mm 162-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U2GC1GKA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG130BallMCPver10.pdf","ONFI","LPDDR","2Gb","1Gb","x8","x32","1.8V","4-bit ECC","8x9mm 130-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U2GD1GJA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG130BallMCPver10.pdf","ONFI","LPDDR","2Gb","1Gb","x16","x16","1.8V","4-bit ECC","8x9mm 130-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "
+"mxic","NAND Flash---MCP","MX63U1GC12FA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG130BallMCPver10.pdf","ONFI","LPDDR","1Gb","512Mb","x8","x32","1.8V","4-bit ECC","8x9mm 130-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+"
+"mxic","NAND Flash---MCP","MX63U1GD12EA","http://www.macronix.com/en-us/Product/NANDFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NANDFlash/Documents/MX63UxG130BallMCPver10.pdf","ONFI","LPDDR","1Gb","512Mb","x16","x16","1.8V","4-bit ECC","8x9mm 130-TFBGA","-30°C to +85°C -40°C to +85°C","
+     
+   "

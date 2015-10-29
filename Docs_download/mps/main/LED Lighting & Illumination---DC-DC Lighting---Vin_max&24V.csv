@@ -1,0 +1,4 @@
+brand,Series,PartNo,DetailLink,dataSheet,原厂链接,"PartNumber","Status","Note For Status","Description","VIN (Min) (V)","VIN (Max) (V)","VOUT (Max) (V)","Type","VFB(V)","Switching Freq. (Max) (kHz)","Iq(mA)","Shutdown_Current(uA)","Rds(on)(mΩ)","Synchronous","Grade","Package"
+"mps","LED Lighting & Illumination---DC-DC Lighting---Vin_max<24V","MP2370","http://www.monolithicpower.com/Products/Product-Detail?ProductID=677","http://new.zlgmcu.com/mps_datasheet/MP2370.pdf","http://www.monolithicpower.com/DesktopModules/DocumentManage/API/Document/GetDocument?id=2525","MP2370","Active","1.2A, 24V, 1.4MHz Buck WLED Driver
+","1.2A, 24V, 1.4MHz Buck WLED Driver
+","4.5","24.0","15.0","Buck","0.155","1400.0","0.8","0.1","350.0","","Catalog","TSOT23-6"

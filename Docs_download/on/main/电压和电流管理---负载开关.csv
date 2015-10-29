@@ -1,0 +1,51 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","ron (mOhms)","I Max (A)","VI Min (V)","VI Max (V)","Package Type"
+"on","电压和电流管理---负载开关","NCP330","NCP330MUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP330MUTBG","http://www.onsemi.com/pub/Collateral/NCP330-D.PDF","Controlled Load Switch, Soft-Start, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Controlled Load Switch, Soft-Start, 3.0 A","1","30","3","1.8","5.5","UDFN-4"
+"on","电压和电流管理---负载开关","NCP330","NCV330MUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV330MUTBG","http://www.onsemi.com/pub/Collateral/NCP330-D.PDF","Controlled Load Switch, Soft-Start, 3.0 A, AEC Qualified 330 Device","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Controlled Load Switch, Soft-Start, 3.0 A","1","30","3","1.8","5.5","UDFN-4"
+"on","电压和电流管理---负载开关","NCP333","NCP333FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP333FCT2G","http://www.onsemi.com/pub/Collateral/NCP333-D.PDF","Load Switch with Discharge Path, 1.5 A","Pb-free
+Halide free","Active","Load Switch with Discharge Path, 1.5 A","1","55","1.5","1.2","5.5","WLCSP-4"
+"on","电压和电流管理---负载开关","NCP335","NCP335FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP335FCT2G","http://www.onsemi.com/pub/Collateral/NCP334-D.PDF","Controlled Load Switch, Ultra Small, 2.0 A, with Auto-Discharge Path","Pb-free
+Halide free","Active","Controlled Load Switch, Ultra Small, 2.0 A, with Auto-Discharge Path","1","47","2","1.2","5.5","WLCSP-4"
+"on","电压和电流管理---负载开关","NCP337","NCP337FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP337FCT2G","http://www.onsemi.com/pub/Collateral/NCP336-D.PDF","Load Switch with Discharge Path, 3 A","Pb-free
+Halide free","Active","Load Switch with Discharge Path, 3 A","1","21","3","1.2","5.5","WLCSP-6"
+"on","电压和电流管理---负载开关","NCP339","NCP339AFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP339AFCT2G","http://www.onsemi.com/pub/Collateral/NCP339-D.PDF","3A Load Switch with Auto-Discharge Path, Load switch without auto discharge","Pb-free
+Halide free","Active","3A Load Switch with Auto-Discharge Path","1","19","3","1.2","5.5","WLCSP-6"
+"on","电压和电流管理---负载开关","NCP339","NCP339BFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP339BFCT2G","http://www.onsemi.com/pub/Collateral/NCP339-D.PDF","3A Load Switch with Auto-Discharge Path, Load switch with auto discharge","Pb-free
+Halide free","Active","3A Load Switch with Auto-Discharge Path","1","19","3","1.2","5.5","WLCSP-6"
+"on","电压和电流管理---负载开关","NCP432","NCP432FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP432FCT2G","http://www.onsemi.com/pub/Collateral/NCP432-D.PDF","Controlled Load Switch, Ultra-Small, 1.5 A, without Auto-Discharge Path","Pb-free
+Halide free","Active","Controlled Load Switch, Ultra-Small, 1.5 A, without Auto-Discharge Path","1","35","1.5","1","3.6","WLCSP-4"
+"on","电压和电流管理---负载开关","NCP434","NCP434FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP434FCT2G","http://www.onsemi.com/pub/Collateral/NCP435-D.PDF","Controlled Load Switch, Ultra Small, 2.0 A, without Discharge Path","Pb-free
+Halide free","Active","Controlled Load Switch, Ultra Small, 2.0 A, without Discharge Path","1","29","2","1","3.6","WLCSP-4"
+"on","电压和电流管理---负载开关","NCP436","NCP436FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP436FCT2G","http://www.onsemi.com/pub/Collateral/NCP436-D.PDF","Controlled Load Switch, Ultra-Small, 3.0 A, without Auto-Discharge Path","Pb-free
+Halide free","Active","Controlled Load Switch, Ultra-Small, 3.0 A, without Auto-Discharge Path","1","15","3","1","3.6","WLCSP-6"
+"on","电压和电流管理---负载开关","NCP439","NCP439FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP439FCT2G","http://www.onsemi.com/pub/Collateral/NCP439-D.PDF","Load Switch, Very Low Ron, with Low Vin, 2.0 A","Pb-free
+Halide free","Active","Load Switch, Very Low Ron, with Low Vin, 2.0 A","1","27","2","1","3.6","WLCSP-4"
+"on","电压和电流管理---负载开关","NCP4543","NCP4543IMN5RG-A","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP4543IMN5RG-A","http://www.onsemi.com/pub/Collateral/NCP4543-D.PDF","Integrated Load Switch, ecoSWITCH™, 7.3 A","Pb-free
+Halide free","Active","Integrated Load Switch, ecoSWITCH&trade;, 7.3 A","1","10.2","7.3","0.5","6","QFN-18"
+"on","电压和电流管理---负载开关","NCP45520","NCP45520IMNTWG-H","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45520IMNTWG-H","http://www.onsemi.com/pub/Collateral/NCP45520-D.PDF","Load Switch, Integrated, ecoSWITCH™, 11.5 A, Fault Protection","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 11.5 A, Fault Protection","1","9.5","11.5","0.5","13.5","DFN-8"
+"on","电压和电流管理---负载开关","NCP45520","NCP45520IMNTWG-L","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45520IMNTWG-L","http://www.onsemi.com/pub/Collateral/NCP45520-D.PDF","Load Switch, Integrated, ecoSWITCH™, 11.5 A, Fault Protection, ACTIVE-LOW ENABLE","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 11.5 A, Fault Protection","1","9.5","11.5","0.5","13.5","DFN-8"
+"on","电压和电流管理---负载开关","NCP45524","NCP45524IMNTWG-H","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45524IMNTWG-H","http://www.onsemi.com/pub/Collateral/NCP45524-D.PDF","Load Switch, Integrated, ecoSWITCH™, 6.0 A, Fault Protection","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 6.0 A, Fault Protection","1","18","6","0.5","13.5","DFN-8"
+"on","电压和电流管理---负载开关","NCP45524","NCP45524IMNTWG-L","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45524IMNTWG-L","http://www.onsemi.com/pub/Collateral/NCP45524-D.PDF","Load Switch, Integrated, ecoSWITCH™, 6.0 A, Fault Protection","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 6.0 A, Fault Protection","1","18","6","0.5","13.5","DFN-8"
+"on","电压和电流管理---负载开关","NCP45540","NCP45540IMNTWG-H","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45540IMNTWG-H","http://www.onsemi.com/pub/Collateral/NCP45540-D.PDF","Load Switch, Integrated, ecoSWITCH™, 18 A, Fault Protection","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 18 A, Fault Protection","1","3.3","18","0.5","13.5","DFN-12"
+"on","电压和电流管理---负载开关","NCP45540","NCP45540IMNTWG-L","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45540IMNTWG-L","http://www.onsemi.com/pub/Collateral/NCP45540-D.PDF","Load Switch, Integrated, ecoSWITCH™, 18 A, Fault Protection","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 18 A, Fault Protection","1","3.3","18","0.5","13.5","DFN-12"
+"on","电压和电流管理---负载开关","NCP45560","NCP45560IMNTWG-H","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45560IMNTWG-H","http://www.onsemi.com/pub/Collateral/NCP45560-D.PDF","Load Switch, Integrated, ecoSWITCH™, 23 A, Fault Protection","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 23 A, Fault Protection","1","2.4","23","0.5","13.5","DFN-12"
+"on","电压和电流管理---负载开关","NCP45560","NCP45560IMNTWG-L","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP45560IMNTWG-L","http://www.onsemi.com/pub/Collateral/NCP45560-D.PDF","Load Switch, Integrated, ecoSWITCH™, 23 A, Fault Protection","Pb-free
+Halide free","Active","Load Switch, Integrated, ecoSWITCH&trade;, 23 A, Fault Protection","1","2.4","23","0.5","13.5","DFN-12"
+"on","电压和电流管理---负载开关","NCP458R","NCP458RFCCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP458RFCCT2G","http://www.onsemi.com/pub/Collateral/NCP458R-D.PDF","Load Switch, 4 A","Pb-free
+Halide free","Active","Load Switch, 4 A","1","20","4.5","0.75","5.5","WLCSP-8"
+"on","电压和电流管理---负载开关","NCP458R","NCP458RFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP458RFCT2G","http://www.onsemi.com/pub/Collateral/NCP458R-D.PDF","Load Switch, 4 A","Pb-free
+Halide free","Active","Load Switch, 4 A","1","20","4.5","0.75","5.5","WLCSP-8"
+"on","电压和电流管理---负载开关","NCP458R","NCP459FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP459FCT2G","http://www.onsemi.com/pub/Collateral/NCP458R-D.PDF","Load Switch, 4 A","Pb-free
+Halide free","Active","Load Switch, 4 A","1","20","4.5","0.75","5.5","WLCSP-8"

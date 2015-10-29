@@ -1,0 +1,3 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Package version","fi(RF) [min]","fi(RF) [max]","VCC [typ]","ICC [typ]","Gconv [typ]","NFSSB [typ]","IP3i","flo low band [typ]","flo high band [typ]","2RF-2LO [typ]"
+"nxp","RF---Mixers---Mixer without integrated LO","BGX7220HN","http://www.nxp.com/products/rf/mixers/mixer_without_integrated_lo/BGX7220HN.html","http://www.nxp.com/documents/data_sheet/BGX7220.pdf","SOT1092-2","700","950","5","300","8.2","9.5","260","500","1150","-630"
+"nxp","RF---Mixers---Mixer without integrated LO","BGX7221HN","http://www.nxp.com/products/rf/mixers/mixer_without_integrated_lo/BGX7221HN.html","http://www.nxp.com/documents/data_sheet/BGX7221.pdf","SOT1092-2","1400","2700","5","340","8","10","255","1500","2500","-600"

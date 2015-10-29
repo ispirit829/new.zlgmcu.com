@@ -1,0 +1,4 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Channels","Power(W)","THD+N","PSRR(dB)","Vdd(V)","ISD(uA)","ICC(mA)","Pkg-Pin(mm)","Document","Status"
+"issi","Analog-Audio Amplifiers---Digital (I2S) Amplifier","IS31AP2111","http://www.issi.com/US/product-analog-audio-amp.shtml","http://www.issi.com/WW/pdf/31AP2111.pdf","2","20Wx2","0.24%"," -68 ","10~26"," "," ","eTSSOP-24","-","Prod"
+"issi","Analog-Audio Amplifiers---Digital (I2S) Amplifier","IS31AP2121","http://www.issi.com/US/product-analog-audio-amp.shtml","http://www.issi.com/WW/pdf/31AP2121.pdf","2, 2.1","20Wx2, 10Wx2+20W
+","0.16%"," -71 ","10~26"," "," ","eLQFP-48","-","Prod"

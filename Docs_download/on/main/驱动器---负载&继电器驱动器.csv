@@ -1,0 +1,72 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Number of Drivers","VCC Max (V)","V(BR)GSS Max (V)","V(BR)DSS Max (V)","ID Max (A)","rDS(on) Max (Ohms)","Tj Max (degreesC)","Package Type"
+"on","驱动器---负载/继电器驱动器","MC1413","MC1413BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1413BDG","http://www.onsemi.com/pub/Collateral/MC1413-D.PDF","High Voltage, High Current Darlington Transistor Driver Array","Pb-free
+Halide free","Active","High Voltage, High Current Darlington Transistor Driver Array","7","50","30","50","0.5","4.6","150","PDIP-16
+SOIC-16"
+"on","驱动器---负载/继电器驱动器","MC1413","MC1413BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1413BDR2G","http://www.onsemi.com/pub/Collateral/MC1413-D.PDF","High Voltage, High Current Darlington Transistor Driver Array","Pb-free
+Halide free","Active","High Voltage, High Current Darlington Transistor Driver Array","7","50","30","50","0.5","4.6","150","PDIP-16
+SOIC-16"
+"on","驱动器---负载/继电器驱动器","MC1413","MC1413BPG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1413BPG","http://www.onsemi.com/pub/Collateral/MC1413-D.PDF","High Voltage, High Current Darlington Transistor Driver Array","Pb-free
+Halide free","Active","High Voltage, High Current Darlington Transistor Driver Array","7","50","30","50","0.5","4.6","150","PDIP-16
+SOIC-16"
+"on","驱动器---负载/继电器驱动器","MC1413","MC1413DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1413DG","http://www.onsemi.com/pub/Collateral/MC1413-D.PDF","High Voltage, High Current Darlington Transistor Driver Array","Pb-free
+Halide free","Active","High Voltage, High Current Darlington Transistor Driver Array","7","50","30","50","0.5","4.6","150","PDIP-16
+SOIC-16"
+"on","驱动器---负载/继电器驱动器","MC1413","MC1413DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1413DR2G","http://www.onsemi.com/pub/Collateral/MC1413-D.PDF","High Voltage, High Current Darlington Transistor Driver Array","Pb-free
+Halide free","Active","High Voltage, High Current Darlington Transistor Driver Array","7","50","30","50","0.5","4.6","150","PDIP-16
+SOIC-16"
+"on","驱动器---负载/继电器驱动器","MC1413","MC1413PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC1413PG","http://www.onsemi.com/pub/Collateral/MC1413-D.PDF","High Voltage, High Current Darlington Transistor Driver Array","Pb-free
+Halide free","Active","High Voltage, High Current Darlington Transistor Driver Array","7","50","30","50","0.5","4.6","150","PDIP-16
+SOIC-16"
+"on","驱动器---负载/继电器驱动器","NCV1413","NCV1413BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV1413BDR2G","http://www.onsemi.com/pub/Collateral/MC1413-D.PDF","Darlington Transistor Array, High Voltage, High Current","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Darlington Transistor Array, High Voltage, High Current","7","50","30","50","0.5","4.6","150","SOIC-16"
+"on","驱动器---负载/继电器驱动器","NCV7608","NCV7608DQR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7608DQR2G","http://www.onsemi.com/pub/Collateral/NCV7608-D.PDF","Configurable 8-Channel Driver","AEC Qualified
+PPAP Capable
+Pb-free","Active","Configurable 8-Channel Driver","8","5.5","16","34","0.35","2.8","150","SSOP-36 EP"
+"on","驱动器---负载/继电器驱动器","NCV7710","NCV7710DQR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7710DQR2G","http://www.onsemi.com/pub/Collateral/NCV7710-D.PDF","Door Module Driver (Lock Driver)","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Door Module Driver (Lock Driver)","2","28",,,,"0.3","150","SSOP-36 EP"
+"on","驱动器---负载/继电器驱动器","NCV7754","NCV7754DPR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7754DPR2G","http://www.onsemi.com/pub/Collateral/NCV7754-D.PDF","Octal Low-side Relay Driver, Eight Channel","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Octal Low-side Relay Driver, Eight Channel","8","5.5",,"36","0.95","1.6","150","SSOP-24"
+"on","驱动器---负载/继电器驱动器","NUD3105D","NUD3105DMT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUD3105DMT1G","http://www.onsemi.com/pub/Collateral/NUD3105D-D.PDF","Relay Driver, 5.0 V , Dual, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Relay Driver, 5.0 V , Dual","2","6","6","6","0.5","0.9","150","SC-74"
+"on","驱动器---负载/继电器驱动器","NUD3105D","SZNUD3105DMT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SZNUD3105DMT1G","http://www.onsemi.com/pub/Collateral/NUD3105D-D.PDF","Relay Driver, 5.0 V , Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Relay Driver, 5.0 V , Dual","2","6","6","6","0.5","0.9","150","SC-74"
+"on","驱动器---负载/继电器驱动器","NUD3124","NUD3124DMT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUD3124DMT1G","http://www.onsemi.com/pub/Collateral/NUD3124-D.PDF","Relay Driver, 24 V, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Relay Driver, 24 V","1
+2","28","12","28","0.15","0.8","150","SC-74
+SOT-23-3"
+"on","驱动器---负载/继电器驱动器","NUD3124","NUD3124LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUD3124LT1G","http://www.onsemi.com/pub/Collateral/NUD3124-D.PDF","Relay Driver, 24 V, Single","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Relay Driver, 24 V","1
+2","28","12","28","0.15","0.8","150","SC-74
+SOT-23-3"
+"on","驱动器---负载/继电器驱动器","NUD3124","SZNUD3124DMT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SZNUD3124DMT1G","http://www.onsemi.com/pub/Collateral/NUD3124-D.PDF","Relay Driver, 24 V, Dual, Auto Standard","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Relay Driver, 24 V","1
+2","28","12","28","0.15","0.8","150","SC-74
+SOT-23-3"
+"on","驱动器---负载/继电器驱动器","NUD3124","SZNUD3124LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SZNUD3124LT1G","http://www.onsemi.com/pub/Collateral/NUD3124-D.PDF","Relay Driver, 24 V, Single, Auto Standard","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Relay Driver, 24 V","1
+2","28","12","28","0.15","0.8","150","SC-74
+SOT-23-3"
+"on","驱动器---负载/继电器驱动器","UAA2016","UAA2016DG","http://www.onsemi.cn/PowerSolutions/product.do?id=UAA2016DG","http://www.onsemi.com/pub/Collateral/UAA2016-D.PDF","Zero Voltage Switch Power Controller","Pb-free
+Halide free","Active","Zero Voltage Switch Power Controller","1","-10","6.5","10","0.15","7.7","85","PDIP-8
+SOIC-8"
+"on","驱动器---负载/继电器驱动器","UAA2016","UAA2016PG","http://www.onsemi.cn/PowerSolutions/product.do?id=UAA2016PG","http://www.onsemi.com/pub/Collateral/UAA2016-D.PDF","Zero Voltage Switch Power Controller","Pb-free
+Halide free","Active","Zero Voltage Switch Power Controller","1","-10","6.5","10","0.15","7.7","85","PDIP-8
+SOIC-8"

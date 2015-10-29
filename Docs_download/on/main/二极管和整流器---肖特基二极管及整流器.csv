@@ -1,0 +1,1373 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Configuration","VRRM Min (V)","VF Max (V)","IRM Max (uA)","IO(rec) Max (A)","IFSM Max (A)","trr Max (ns)","Cj Max (pF)","Package Type"
+"on","二极管和整流器---肖特基二极管及整流器","1N5817","1N5817G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5817G","http://www.onsemi.com/pub/Collateral/1N5817-D.PDF","20 V, 1.0 A Schottky Rectifier","Pb-free
+Halide free","Active","20 V, 1.0 A Schottky Rectifier","Single","20","0.45","1000","1","25",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","1N5817","1N5817RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5817RLG","http://www.onsemi.com/pub/Collateral/1N5817-D.PDF","20 V, 1.0 A Schottky Rectifier","Pb-free
+Halide free","Active","20 V, 1.0 A Schottky Rectifier","Single","20","0.45","1000","1","25",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","1N5819","1N5819G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5819G","http://www.onsemi.com/pub/Collateral/1N5817-D.PDF","Schottky Barrier Rectifier, 1.0 A, 40 V","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 1.0 A, 40 V","Single","40","0.6","1000","1","25",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","1N5819","1N5819RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5819RLG","http://www.onsemi.com/pub/Collateral/1N5817-D.PDF","Schottky Barrier Rectifier, 1.0 A, 40 V","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 1.0 A, 40 V","Single","40","0.6","1000","1","25",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","1N5821","1N5821G","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5821G","http://www.onsemi.com/pub/Collateral/1N5820-D.PDF","Schottky Barrier Rectifier, 3.0 A, 30 V","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 3.0 A, 30 V","Single","30","0.5","2000","3","80",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","1N5821","1N5821RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=1N5821RLG","http://www.onsemi.com/pub/Collateral/1N5820-D.PDF","Schottky Barrier Rectifier, 3.0 A, 30 V","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 3.0 A, 30 V","Single","30","0.5","2000","3","80",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","1SS351","1SS351-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=1SS351-TB-E","http://www.onsemi.com/pub/Collateral/EN3240-D.PDF","Schottky Barrier Diode, 5V, 30mA, 0.69pF, Dual CP","Pb-free","Active","Schottky Barrier Diode, 5V, 30mA, 0.69pF, Dual CP","Series","5","0.23","25",,"0.03",,,"SC-59-3 / CP-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS40-04L","BAS40-04LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS40-04LT1G","http://www.onsemi.com/pub/Collateral/BAS40-04LT1-D.PDF","40 V Schottky Diode, dual, series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Schottky Diode, dual, series","Series","40","0.38","1","0.12","0.2","-","5","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS40-04L","SBAS40-04LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS40-04LT1G","http://www.onsemi.com/pub/Collateral/BAS40-04LT1-D.PDF","40 V Schottky Diode, dual, series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Schottky Diode, dual, series","Series","40","0.38","1","0.12","0.2","-","5","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS40L","BAS40LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS40LT1G","http://www.onsemi.com/pub/Collateral/BAS40LT1-D.PDF","40 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Schottky Diode","Single","40","0.38","1","0.12","0.2","-","5","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS40L","BAS40LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS40LT3G","http://www.onsemi.com/pub/Collateral/BAS40LT1-D.PDF","40 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Schottky Diode","Single","40","0.38","1","0.12","0.2","-","5","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS40L","SBAS40LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS40LT1G","http://www.onsemi.com/pub/Collateral/BAS40LT1-D.PDF","40 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Schottky Diode","Single","40","0.38","1","0.12","0.2","-","5","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS40L","SBAS40LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS40LT3G","http://www.onsemi.com/pub/Collateral/BAS40LT1-D.PDF","40 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Schottky Diode","Single","40","0.38","1","0.12","0.2","-","5","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS70L","BAS70LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS70LT1G","http://www.onsemi.com/pub/Collateral/BAS70LT1-D.PDF","70 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Schottky Diode","Single","70","0.41","0.1","0.07","0.1","-","2","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAS70L","NSVBAS70LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS70LT1G","http://www.onsemi.com/pub/Collateral/BAS70LT1-D.PDF","70 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Schottky Diode","Single","70","0.41","0.1","0.07","0.1","-","2","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54AL","BAT54ALT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54ALT1G","http://www.onsemi.com/pub/Collateral/BAT54ALT1-D.PDF","30 V Dual Common Anode Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Dual Common Anode Schottky Diode","Common Anode","30","0.32","2","0.2","0.6","5","10","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54AL","SBAT54ALT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAT54ALT1G","http://www.onsemi.com/pub/Collateral/BAT54ALT1-D.PDF","30 V Dual Common Anode Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Dual Common Anode Schottky Diode","Common Anode","30","0.32","2","0.2","0.6","5","10","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54AL","SBAT54ALT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAT54ALT3G","http://www.onsemi.com/pub/Collateral/BAT54ALT1-D.PDF","30 V Dual Common Anode Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Dual Common Anode Schottky Diode","Common Anode","30","0.32","2","0.2","0.6","5","10","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54C","BAT54CLT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54CLT1G","http://www.onsemi.com/pub/Collateral/BAT54CLT1-D.PDF","30 V Dual Common Cathode Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Dual Common Cathode Schottky Diode","Common Cathode","30","0.32","2","0.2","0.6","5","10","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54C","BAT54CLT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54CLT3G","http://www.onsemi.com/pub/Collateral/BAT54CLT1-D.PDF","30 V Dual Common Cathode Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Dual Common Cathode Schottky Diode","Common Cathode","30","0.32","2","0.2","0.6","5","10","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54C","SBAT54CLT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAT54CLT1G","http://www.onsemi.com/pub/Collateral/BAT54CLT1-D.PDF","30 V Dual Common Cathode Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Dual Common Cathode Schottky Diode","Common Cathode","30","0.32","2","0.2","0.6","5","10","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54CW","BAT54CWT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54CWT1G","http://www.onsemi.com/pub/Collateral/BAT54CWT1-D.PDF","Common Cathode Schottky Diode, dual, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Common Cathode Schottky Diode, dual, 30 V","Common Cathode","30","0.32","2","0.2","0.6","5","10","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54CW","SBAT54CWT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAT54CWT1G","http://www.onsemi.com/pub/Collateral/BAT54CWT1-D.PDF","Common Cathode Schottky Diode, dual, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Common Cathode Schottky Diode, dual, 30 V","Common Cathode","30","0.32","2","0.2","0.6","5","10","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54H","BAT54HT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54HT1G","http://www.onsemi.com/pub/Collateral/BAT54HT1-D.PDF","30 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Schottky Diode","Single","30","0.32","2","0.2","0.6","5","10","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54H","NSVBAT54HT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAT54HT1G","http://www.onsemi.com/pub/Collateral/BAT54HT1-D.PDF","30 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Schottky Diode","Single","30","0.32","2","0.2","0.6","5","10","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54M3T5G","BAT54M3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54M3T5G","http://www.onsemi.com/pub/Collateral/BAT54M3-D.PDF","Schottky Barrier Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode","Single","30","0.32","2","0.2","0.6","5","10","SOT-723-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54M3T5G","NSVBAT54M3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAT54M3T5G","http://www.onsemi.com/pub/Collateral/BAT54M3-D.PDF","Schottky Barrier Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode","Single","30","0.32","2","0.2","0.6","5","10","SOT-723-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54SW","BAT54SWT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54SWT1G","http://www.onsemi.com/pub/Collateral/BAT54SWT1-D.PDF","30 V Schottky Diode, dual, series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","ActiveNEW","30 V Schottky Diode, dual, series","Series","30","0.32","2","0.2","0.6","5","10","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54SW","NSVBAT54SWT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAT54SWT1G","http://www.onsemi.com/pub/Collateral/BAT54SWT1-D.PDF","30 V Schottky Diode, dual, series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","ActiveNEW","30 V Schottky Diode, dual, series","Series","30","0.32","2","0.2","0.6","5","10","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54XV2","BAT54XV2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54XV2T1G","http://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF","30 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Schottky Diode","Single","30","0.32","2","0.2","0.6","5","10","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54XV2","BAT54XV2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAT54XV2T5G","http://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF","30 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Schottky Diode","Single","30","0.32","2","0.2","0.6","5","10","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","BAT54XV2","SBAT54XV2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAT54XV2T1G","http://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF","30 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 V Schottky Diode","Single","30","0.32","2","0.2","0.6","5","10","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBD54DW","MBD54DWT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBD54DWT1G","http://www.onsemi.com/pub/Collateral/MBD54DWT1-D.PDF","Schottky Diode, Dual Isolated","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Diode, Dual Isolated","Dual","30","0.32","2","0.2","0.6","5","10","SC-88-6 / SC-70-6 / SOT-363-6"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0520L","MBR0520LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR0520LT1G","http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","Single","20","0.385","250","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0520L","MBR0520LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR0520LT3G","http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","Single","20","0.385","250","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0520L","SBR80520LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBR80520LT1G","http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","Single","20","0.385","250","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0520L","SBR80520LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBR80520LT3G","http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 20 V","Single","20","0.385","250","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0540","MBR0540T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR0540T1G","http://www.onsemi.com/pub/Collateral/MBR0540T1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","Single","40","0.51","20","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0540","MBR0540T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR0540T3G","http://www.onsemi.com/pub/Collateral/MBR0540T1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","Single","40","0.51","20","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0540","NRVB0540T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB0540T1G","http://www.onsemi.com/pub/Collateral/MBR0540T1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","Single","40","0.51","20","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR0540","NRVB0540T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB0540T3G","http://www.onsemi.com/pub/Collateral/MBR0540T1-D.PDF","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 0.5 A, 40 V","Single","40","0.51","20","0.5","5.5","-","-","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MBR10100MFS","MBR10100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR10100MFST1G","http://www.onsemi.com/pub/Collateral/MBR10100MFS-D.PDF","10 A, 100 V Schottky Diode in SO-8FL
+, 10A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","10 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.95","100","10","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR10100MFS","MBR10100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR10100MFST3G","http://www.onsemi.com/pub/Collateral/MBR10100MFS-D.PDF","10 A, 100 V Schottky Diode in SO-8FL
+, 10A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","10 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.95","100","10","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR10100MFS","NRVB10100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB10100MFST1G","http://www.onsemi.com/pub/Collateral/MBR10100MFS-D.PDF","10 A, 100 V Schottky Diode in SO-8FL
+, 10A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","10 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.95","100","10","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR10100MFS","NRVB10100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB10100MFST3G","http://www.onsemi.com/pub/Collateral/MBR10100MFS-D.PDF","10 A, 100 V Schottky Diode in SO-8FL
+, 10A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","10 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.95","100","10","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1045","MBR1045G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1045G","http://www.onsemi.com/pub/Collateral/MBR1035-D.PDF","Schottky Barrier Rectifier, 10 A, 45 V","Pb-free","Active","Schottky Barrier Rectifier, 10 A, 45 V","Single","45","0.84","100","10","150",,,"TO-220-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1060","MBR1060G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1060G","http://www.onsemi.com/pub/Collateral/MBR1060-D.PDF","Schottky Barrier Rectifier, 10 A, 60 V","Pb-free","Active","Schottky Barrier Rectifier, 10 A, 60 V","Single","60","0.8","6000","10","150",,,"TO-220-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1090","MBR1090G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1090G","http://www.onsemi.com/pub/Collateral/MBR1080-D.PDF","Schottky Barrier Rectifier, 10 A, 90 V","Pb-free","Active","Schottky Barrier Rectifier, 10 A, 90 V","Single","90","0.8","6000","10","150",,,"TO-220-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1100","MBR1100G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1100G","http://www.onsemi.com/pub/Collateral/MBR1100-D.PDF","Schottky Barrier Rectifier, 100 V, 1.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 100 V, 1.0 A","Single","100","0.79","500","1","50",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1100","MBR1100RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1100RLG","http://www.onsemi.com/pub/Collateral/MBR1100-D.PDF","Schottky Barrier Rectifier, 100 V, 1.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 100 V, 1.0 A","Single","100","0.79","500","1","50",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR120LSF","MBR120LSFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR120LSFT1G","http://www.onsemi.com/pub/Collateral/MBR120LSFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.45","40","1","50","-","-","SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR120LSF","MBR120LSFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR120LSFT3G","http://www.onsemi.com/pub/Collateral/MBR120LSFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.45","40","1","50","-","-","SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR120LSF","NRVB120LSFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB120LSFT1G","http://www.onsemi.com/pub/Collateral/MBR120LSFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.45","40","1","50","-","-","SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1240MFS","MBR1240MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1240MFST1G","http://www.onsemi.com/pub/Collateral/MBR1240MFS-D.PDF","12 A, 40 V Schottky Diode in SO-8FL, 12A 40V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","12 A, 40 V Schottky Diode in SO-8FL","Single","40","0.68","500","12","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1240MFS","MBR1240MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1240MFST3G","http://www.onsemi.com/pub/Collateral/MBR1240MFS-D.PDF","12 A, 40 V Schottky Diode in SO-8FL, 12A 40V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","12 A, 40 V Schottky Diode in SO-8FL","Single","40","0.68","500","12","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1240MFS","NRVB1240MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB1240MFST1G","http://www.onsemi.com/pub/Collateral/MBR1240MFS-D.PDF","12 A, 40 V Schottky Diode in SO-8FL, 12A 40V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","12 A, 40 V Schottky Diode in SO-8FL","Single","40","0.68","500","12","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1240MFS","NRVB1240MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB1240MFST3G","http://www.onsemi.com/pub/Collateral/MBR1240MFS-D.PDF","12 A, 40 V Schottky Diode in SO-8FL, 12A 40V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","12 A, 40 V Schottky Diode in SO-8FL","Single","40","0.68","500","12","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR130LSF","MBR130LSFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR130LSFT1G","http://www.onsemi.com/pub/Collateral/MBR130LSFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","Single","30","0.38","1000","1","40",,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR130LSF","NRVB130LSFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB130LSFT1G","http://www.onsemi.com/pub/Collateral/MBR130LSFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","Single","30","0.38","1000","1","40",,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR140SF","MBR140SFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR140SFT1G","http://www.onsemi.com/pub/Collateral/MBR140SFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","30","-","-","SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR140SF","MBR140SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR140SFT3G","http://www.onsemi.com/pub/Collateral/MBR140SFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","30","-","-","SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR140SF","NRVB140SFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB140SFT1G","http://www.onsemi.com/pub/Collateral/MBR140SFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","30","-","-","SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR140SF","NRVB140SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB140SFT3G","http://www.onsemi.com/pub/Collateral/MBR140SFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","30","-","-","SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1535CT","MBR1535CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1535CTG","http://www.onsemi.com/pub/Collateral/MBR1535CT-D.PDF","Schottky Power Rectifier, Switch-mode, 15 A, 35 V","Pb-free","Active","Schottky Power Rectifier, Switch-mode, 15 A, 35 V","Common Cathode","35","0.84","100","15","150",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR160","MBR160G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR160G","http://www.onsemi.com/pub/Collateral/MBR150-D.PDF","Schottky Barrier Rectifier, 60 V, 1.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 60 V, 1.0 A","Single","60","0.75","500","1","25",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR160","MBR160RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR160RLG","http://www.onsemi.com/pub/Collateral/MBR150-D.PDF","Schottky Barrier Rectifier, 60 V, 1.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 60 V, 1.0 A","Single","60","0.75","500","1","25",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1635","MBR1635G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1635G","http://www.onsemi.com/pub/Collateral/MBR1635-D.PDF","Schottky Power Rectifier, Switch-mode, 16 A, 35 V","Pb-free","Active","Schottky Power Rectifier, Switch-mode, 16 A, 35 V","Single","35","0.63","200","16","150",,,"TO-220-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1H100SF","MBR1H100SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR1H100SFT3G","http://www.onsemi.com/pub/Collateral/MBR1H100SF-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 100 V","Single","100","0.76","40","1","50",,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR1H100SF","NRVB1H100SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB1H100SFT3G","http://www.onsemi.com/pub/Collateral/MBR1H100SF-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 100 V","Single","100","0.76","40","1","50",,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2030CTL","MBR2030CTLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2030CTLG","http://www.onsemi.com/pub/Collateral/MBR2030CTL-D.PDF","Schottky Power Rectifier, Switch-mode, Dual, 20 A, 30 V","Pb-free","Active","Schottky Power Rectifier, Switch-mode, Dual, 20 A, 30 V","Common Cathode","30","0.58","5000","20","150",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2045MFS","MBR2045MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2045MFST1G","http://www.onsemi.com/pub/Collateral/MBR2045MFS-D.PDF","20 A, 45 V Schottky Diode in SO-8FL
+, 20A 45V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","20 A, 45 V Schottky Diode in SO-8FL
+","Single","45","0.61","600","20","400",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2045MFS","MBR2045MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2045MFST3G","http://www.onsemi.com/pub/Collateral/MBR2045MFS-D.PDF","20 A, 45 V Schottky Diode in SO-8FL
+, 20A 45V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","20 A, 45 V Schottky Diode in SO-8FL
+","Single","45","0.61","600","20","400",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2045MFS","NRVB2045MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB2045MFST1G","http://www.onsemi.com/pub/Collateral/MBR2045MFS-D.PDF","20 A, 45 V Schottky Diode in SO-8FL
+, 20A 45V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","20 A, 45 V Schottky Diode in SO-8FL
+","Single","45","0.61","600","20","400",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2045MFS","NRVB2045MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB2045MFST3G","http://www.onsemi.com/pub/Collateral/MBR2045MFS-D.PDF","20 A, 45 V Schottky Diode in SO-8FL
+, 20A 45V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","20 A, 45 V Schottky Diode in SO-8FL
+","Single","45","0.61","600","20","400",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2090CT","MBR2090CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2090CTG","http://www.onsemi.com/pub/Collateral/MBR20100CT-D.PDF","Schottky Barrier Rectifier, 20 A, 90 V","Pb-free","Active","Schottky Barrier Rectifier, 20 A, 90 V","Common Cathode","90","0.95","10","20","150",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR20L45","MBR20L45CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR20L45CTG","http://www.onsemi.com/pub/Collateral/MBR20L45CT-D.PDF","Schottky Barrier Rectifier, Dual, L-Series, 20 A, 90 V","Pb-free","Active","Schottky Barrier Rectifier, Dual, L-Series, 20 A, 90 V","Common Cathode","45","0.63","500","20","180",,,"TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR20L45","MBRF20L45CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF20L45CTG","http://www.onsemi.com/pub/Collateral/MBR20L45CT-D.PDF","Schottky Barrier Rectifier, Dual, L-Series, 20 A, 90 V","Pb-free","Active","Schottky Barrier Rectifier, Dual, L-Series, 20 A, 90 V","Common Cathode","45","0.63","500","20","180",,,"TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR230LSFT1G","MBR230LSFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR230LSFT1G","http://www.onsemi.com/pub/Collateral/MBR230LSFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 30 V, 2.0 A","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 30 V, 2.0 A","Single","30","0.43","1000","2","40",,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR230LSFT1G","NRVB230LSFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB230LSFT1G","http://www.onsemi.com/pub/Collateral/MBR230LSFT1-D.PDF","Schottky Power Rectifier, Surface Mount, 30 V, 2.0 A","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 30 V, 2.0 A","Single","30","0.43","1000","2","40",,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2535CT","MBR2535CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2535CTG","http://www.onsemi.com/pub/Collateral/MBR2535CT-D.PDF","35 V, 25 A Schottky Rectifier","Pb-free","Active","35 V, 25 A Schottky Rectifier","Common Cathode","35","0.82","200","30","150",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2545CT","MBR2545CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2545CTG","http://www.onsemi.com/pub/Collateral/MBR2535CT-D.PDF","Schottky Barrier Rectifier, 30 A, 45 V","Pb-free","Active","Schottky Barrier Rectifier, 30 A, 45 V","Common Cathode","45","0.82","20","30","150","-","-","TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2H200SF","MBR2H200SFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2H200SFT1G","http://www.onsemi.com/pub/Collateral/MBR2H200SF-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 200 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 200 V",,,,,,,,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR2H200SF","MBR2H200SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2H200SFT3G","http://www.onsemi.com/pub/Collateral/MBR2H200SF-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 200 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 200 V",,,,,,,,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR3045WT","MBR3045WTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR3045WTG","http://www.onsemi.com/pub/Collateral/MBR3045WT-D.PDF","Schottky Barrier Rectifier, 30 A, 45 V","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 30 A, 45 V","Common Cathode","45","0.76","1000","30","200",,,"TO-247-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR30H100MFS","MBR30H100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR30H100MFST1G","http://www.onsemi.com/pub/Collateral/MBR30H100MFS-D.PDF","30 A, 100 V Schottky Diode in SO-8FL, 30A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 A, 100 V Schottky Diode in SO-8FL","Single","100","0.9","100","30","300",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR30H100MFS","MBR30H100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR30H100MFST3G","http://www.onsemi.com/pub/Collateral/MBR30H100MFS-D.PDF","30 A, 100 V Schottky Diode in SO-8FL, 30A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 A, 100 V Schottky Diode in SO-8FL","Single","100","0.9","100","30","300",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR30H100MFS","NRVB30H100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB30H100MFST1G","http://www.onsemi.com/pub/Collateral/MBR30H100MFS-D.PDF","30 A, 100 V Schottky Diode in SO-8FL, 30A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 A, 100 V Schottky Diode in SO-8FL","Single","100","0.9","100","30","300",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR30H100MFS","NRVB30H100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB30H100MFST3G","http://www.onsemi.com/pub/Collateral/MBR30H100MFS-D.PDF","30 A, 100 V Schottky Diode in SO-8FL, 30A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","30 A, 100 V Schottky Diode in SO-8FL","Single","100","0.9","100","30","300",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR30L60CTG","MBR30L60CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR30L60CTG","http://www.onsemi.com/pub/Collateral/MBR30L60CT-D.PDF","Schottky Barrier Rectifier, L-Series, 60 V, 30 A","Pb-free","Active","Schottky Barrier Rectifier, L-Series, 60 V, 30 A","Common Cathode","60","0.81","350","30","240",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR340","MBR340G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR340G","http://www.onsemi.com/pub/Collateral/MBR340-D.PDF","Schottky Barrier Rectifier, 40 V, 3.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 40 V, 3.0 A","Single","40","0.6","600","3","80",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR340","MBR340RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR340RLG","http://www.onsemi.com/pub/Collateral/MBR340-D.PDF","Schottky Barrier Rectifier, 40 V, 3.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 40 V, 3.0 A","Single","40","0.6","600","3","80",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR360","MBR360G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR360G","http://www.onsemi.com/pub/Collateral/MBR350-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.74","600","3","80",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR360","MBR360RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR360RLG","http://www.onsemi.com/pub/Collateral/MBR350-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.74","600","3","80",,,"Axial Lead-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR4015LWT","MBR4015LWTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR4015LWTG","http://www.onsemi.com/pub/Collateral/MBR4015LWT-D.PDF","40 A, 15 V Schottky Rectifier","Pb-free","Active","40 A, 15 V Schottky Rectifier","Common Cathode","15","0.5","5000","40","120",,,"TO-247-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR40250T","MBR40250TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR40250TG","http://www.onsemi.com/pub/Collateral/MBR40250-D.PDF","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Pb-free","Active","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Single","250","0.97","30","40","150","35","500","TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR40H100WT","MBR40H100WTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR40H100WTG","http://www.onsemi.com/pub/Collateral/MBR40H100WT-D.PDF","Schottky Barrier Rectifier, H-Series, 100 V, 40 A","Pb-free","Active","Schottky Barrier Rectifier, H-Series, 100 V, 40 A","Common Cathode","100","0.8","10","40","200",,,"TO-247-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR40L60CTG","MBR40L60CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR40L60CTG","http://www.onsemi.com/pub/Collateral/MBR40L60CT-D.PDF","Schottky Barrier Rectifier, L-Series, 60 V, 40 A","Pb-free","Active","Schottky Barrier Rectifier, L-Series, 60 V, 40 A","Common Cathode","60","0.81","550","40","240",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR440MFS","MBR440MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR440MFST1G","http://www.onsemi.com/pub/Collateral/MBR440MFS-D.PDF","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","Single","40","0.65","800","4","40",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR440MFS","MBR440MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR440MFST3G","http://www.onsemi.com/pub/Collateral/MBR440MFS-D.PDF","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","Single","40","0.65","800","4","40",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR440MFS","NRVB440MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB440MFST1G","http://www.onsemi.com/pub/Collateral/MBR440MFS-D.PDF","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","Single","40","0.65","800","4","40",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR440MFS","NRVB440MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB440MFST3G","http://www.onsemi.com/pub/Collateral/MBR440MFS-D.PDF","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","Single","40","0.65","800","4","40",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR440MFS","NRVB440MFSWFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB440MFSWFT1G","http://www.onsemi.com/pub/Collateral/MBR440MFS-D.PDF","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","Single","40","0.65","800","4","40",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR440MFS","NRVB440MFSWFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB440MFSWFT3G","http://www.onsemi.com/pub/Collateral/MBR440MFS-D.PDF","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 4.0 A, 40 V","Single","40","0.65","800","4","40",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR5100MFS","MBR5100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR5100MFST1G","http://www.onsemi.com/pub/Collateral/MBR5100MFS-D.PDF","5A 100V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 100V Schottky Rectifier in SO-8FL","Single","100","0.98","10","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR5100MFS","MBR5100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR5100MFST3G","http://www.onsemi.com/pub/Collateral/MBR5100MFS-D.PDF","5A 100V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 100V Schottky Rectifier in SO-8FL","Single","100","0.98","10","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR5100MFS","NRVB5100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB5100MFST1G","http://www.onsemi.com/pub/Collateral/MBR5100MFS-D.PDF","5A 100V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 100V Schottky Rectifier in SO-8FL","Single","100","0.98","10","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR5100MFS","NRVB5100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB5100MFST3G","http://www.onsemi.com/pub/Collateral/MBR5100MFS-D.PDF","5A 100V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 100V Schottky Rectifier in SO-8FL","Single","100","0.98","10","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR560MFS","MBR560MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR560MFST1G","http://www.onsemi.com/pub/Collateral/MBR560MFS-D.PDF","5A 60V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 60V Schottky Rectifier in SO-8FL","Single","60","0.78","150","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR560MFS","MBR560MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR560MFST3G","http://www.onsemi.com/pub/Collateral/MBR560MFS-D.PDF","5A 60V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 60V Schottky Rectifier in SO-8FL","Single","60","0.78","150","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR560MFS","NRVB560MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB560MFST1G","http://www.onsemi.com/pub/Collateral/MBR560MFS-D.PDF","5A 60V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 60V Schottky Rectifier in SO-8FL","Single","60","0.78","150","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR560MFS","NRVB560MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB560MFST3G","http://www.onsemi.com/pub/Collateral/MBR560MFS-D.PDF","5A 60V Schottky Rectifier in SO-8FL","AEC Qualified
+Pb-free
+Halide free","Active","5A 60V Schottky Rectifier in SO-8FL","Single","60","0.78","150","5","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR6045WT","MBR6045WTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR6045WTG","http://www.onsemi.com/pub/Collateral/MBR6045WT-D.PDF","Schottky Barrier Rectifier, 60 A, 45 V","Pb-free","Active","Schottky Barrier Rectifier, 60 A, 45 V","Common Cathode","45","0.75","1000","60","500",,,"TO-247-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR60L45","MBR60L45CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR60L45CTG","http://www.onsemi.com/pub/Collateral/MBR60L45CT-D.PDF","Schottky Barrier Rectifier, L-Series, 60 A, 45 V","Pb-free","Active","Schottky Barrier Rectifier, L-Series, 60 A, 45 V","Common Cathode","45","0.73","1200","60","200",,,"TO-220-3
+TO-247-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR60L45","MBR60L45WTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR60L45WTG","http://www.onsemi.com/pub/Collateral/MBR60L45CT-D.PDF","Schottky Barrier Rectifier, L-Series, 60 A, 45 V","Pb-free","Active","Schottky Barrier Rectifier, L-Series, 60 A, 45 V","Common Cathode","45","0.73","1200","60","200",,,"TO-220-3
+TO-247-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBR735","MBR735G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR735G","http://www.onsemi.com/pub/Collateral/MBR735-D.PDF","Schottky Power Rectifier, Switch-mode, Dual, 7.5 A, 35 V","Pb-free","Active","Schottky Power Rectifier, Switch-mode, Dual, 7.5 A, 35 V","Single","35","0.84","10","7.5","150",,,"TO-220-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBR830MFS","MBR830MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR830MFST1G","http://www.onsemi.com/pub/Collateral/MBR830MFS-D.PDF","8 A, 30 V Schottky Diode in SO-8FL
+, 8A  30V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 30 V Schottky Diode in SO-8FL
+","Single","30","0.7","200","8","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR830MFS","MBR830MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR830MFST3G","http://www.onsemi.com/pub/Collateral/MBR830MFS-D.PDF","8 A, 30 V Schottky Diode in SO-8FL
+, 8A  30V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 30 V Schottky Diode in SO-8FL
+","Single","30","0.7","200","8","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR830MFS","NRVB830MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB830MFST1G","http://www.onsemi.com/pub/Collateral/MBR830MFS-D.PDF","8 A, 30 V Schottky Diode in SO-8FL
+, 8A  30V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 30 V Schottky Diode in SO-8FL
+","Single","30","0.7","200","8","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR830MFS","NRVB830MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB830MFST3G","http://www.onsemi.com/pub/Collateral/MBR830MFS-D.PDF","8 A, 30 V Schottky Diode in SO-8FL
+, 8A  30V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 30 V Schottky Diode in SO-8FL
+","Single","30","0.7","200","8","150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR8H100MFS","MBR8H100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR8H100MFST1G","http://www.onsemi.com/pub/Collateral/MBR8H100MFS-D.PDF","8 A, 100 V Schottky Diode in SO-8FL
+, 8A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.9","2","8","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR8H100MFS","MBR8H100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR8H100MFST3G","http://www.onsemi.com/pub/Collateral/MBR8H100MFS-D.PDF","8 A, 100 V Schottky Diode in SO-8FL
+, 8A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.9","2","8","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR8H100MFS","NRVB8H100MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB8H100MFST1G","http://www.onsemi.com/pub/Collateral/MBR8H100MFS-D.PDF","8 A, 100 V Schottky Diode in SO-8FL
+, 8A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.9","2","8","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBR8H100MFS","NRVB8H100MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVB8H100MFST3G","http://www.onsemi.com/pub/Collateral/MBR8H100MFS-D.PDF","8 A, 100 V Schottky Diode in SO-8FL
+, 8A 100V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","8 A, 100 V Schottky Diode in SO-8FL
+","Single","100","0.9","2","8","100",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA130L","MBRA130LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRA130LT3G","http://www.onsemi.com/pub/Collateral/MBRA130LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","Single","30","0.41","1000","1","25",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA130L","NRVBA130LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBA130LT3G","http://www.onsemi.com/pub/Collateral/MBRA130LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","Single","30","0.41","1000","1","25",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA160T3","MBRA160T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRA160T3G","http://www.onsemi.com/pub/Collateral/MBRA160T3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 60 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 60 V","Single","60","0.51","20","1","30",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA160T3","NRVBA160T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBA160T3G","http://www.onsemi.com/pub/Collateral/MBRA160T3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 60 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 60 V","Single","60","0.51","20","1","30",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA210ET3","MBRA210ET3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRA210ET3G","http://www.onsemi.com/pub/Collateral/MBRA210ET3-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 10 V","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 10 V","Single","10","0.5","15","2","150",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA2H100","MBRA2H100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRA2H100T3G","http://www.onsemi.com/pub/Collateral/MBRS2H100-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","Single","100","0.79","8","2","130",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA2H100","NRVBA2H100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBA2H100T3G","http://www.onsemi.com/pub/Collateral/MBRS2H100-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","Single","100","0.79","8","2","130",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA340","MBRA340T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRA340T3G","http://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","40","0.45","300","3","100",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRA340","NRVBA340T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBA340T3G","http://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","40","0.45","300","3","100",,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRAF1540","MBRAF1540T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRAF1540T3G","http://www.onsemi.com/pub/Collateral/MBRAF1540-D.PDF","1.5 A, 40 V Schottky Rectifier","AEC Qualified
+Pb-free
+Halide free","Active","1.5 A, 40 V Schottky Rectifier","Single","40","0.46","80","1.5","40","-","-","SMA-FL"
+"on","二极管和整流器---肖特基二极管及整流器","MBRAF2H100","MBRAF2H100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRAF2H100T3G","http://www.onsemi.com/pub/Collateral/MBRAF2H100-D.PDF","2.0 A, 100 V Schottky Rectifier","AEC Qualified
+Pb-free
+Halide free","Active","2.0 A, 100 V Schottky Rectifier","Single","100","0.79","8","2","130","-","-","SMA-FL"
+"on","二极管和整流器---肖特基二极管及整流器","MBRAF360","MBRAF360T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRAF360T3G","http://www.onsemi.com/pub/Collateral/MBRAF360-D.PDF","3 A, 60 V Schottky Rectifier","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","3 A, 60 V Schottky Rectifier","Single","60","0.74","150","3","125","-","-","SMA-FL"
+"on","二极管和整流器---肖特基二极管及整流器","MBRAF360","NRVBAF360T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBAF360T3G","http://www.onsemi.com/pub/Collateral/MBRAF360-D.PDF","3 A, 60 V Schottky Rectifier","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","3 A, 60 V Schottky Rectifier","Single","60","0.74","150","3","125","-","-","SMA-FL"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB1045","MBRB1045G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB1045G","http://www.onsemi.com/pub/Collateral/MBRB1045-D.PDF","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Single","45","0.84","100","10","70
+150","-","-","D<sup>2</sup>PAK-3
+DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB1045","MBRB1045T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB1045T4G","http://www.onsemi.com/pub/Collateral/MBRB1045-D.PDF","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Single","45","0.84","100","10","70
+150","-","-","D<sup>2</sup>PAK-3
+DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB1045","MBRD1045T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD1045T4G","http://www.onsemi.com/pub/Collateral/MBRB1045-D.PDF","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Single","45","0.84","100","10","70
+150","-","-","D<sup>2</sup>PAK-3
+DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB1045","SBRB1045G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRB1045G","http://www.onsemi.com/pub/Collateral/MBRB1045-D.PDF","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Single","45","0.84","100","10","70
+150","-","-","D<sup>2</sup>PAK-3
+DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB1045","SBRB1045T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRB1045T4G","http://www.onsemi.com/pub/Collateral/MBRB1045-D.PDF","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Single","45","0.84","100","10","70
+150","-","-","D<sup>2</sup>PAK-3
+DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB1045","SBRD81045T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD81045T4G","http://www.onsemi.com/pub/Collateral/MBRB1045-D.PDF","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 10 A, 45 V","Single","45","0.84","100","10","70
+150","-","-","D<sup>2</sup>PAK-3
+DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB20100CT","MBRB20100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB20100CTG","http://www.onsemi.com/pub/Collateral/MBRB20100CT-D.PDF","Schottky Barrier Rectifier, 100 V, 20 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 20 A","Common Cathode","100","0.95","100","20","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB20100CT","MBRB20100CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB20100CTT4G","http://www.onsemi.com/pub/Collateral/MBRB20100CT-D.PDF","Schottky Barrier Rectifier, 100 V, 20 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 20 A","Common Cathode","100","0.95","100","20","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB20100CT","NRVBB20100CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBB20100CTT4G","http://www.onsemi.com/pub/Collateral/MBRB20100CT-D.PDF","Schottky Barrier Rectifier, 100 V, 20 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 20 A","Common Cathode","100","0.95","100","20","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB20100CT","NRVBBS20100CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBBS20100CTT4G","http://www.onsemi.com/pub/Collateral/MBRB20100CT-D.PDF","Schottky Barrier Rectifier, 100 V, 20 A, 20 A, 100 V Schottky Rectifier","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 20 A","Common Cathode","100","0.95","100","20","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2060CT","MBR2060CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR2060CTG","http://www.onsemi.com/pub/Collateral/MBRB2060CT-D.PDF","Schottky Barrier Rectifier, 60 V, 20 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 20 A","Common Cathode","60","0.95","10
+150","20","150","-","-","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2060CT","MBRB2060CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB2060CTG","http://www.onsemi.com/pub/Collateral/MBRB2060CT-D.PDF","Schottky Barrier Rectifier, 60 V, 20 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 20 A","Common Cathode","60","0.95","10
+150","20","150","-","-","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2060CT","MBRB2060CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB2060CTT4G","http://www.onsemi.com/pub/Collateral/MBRB2060CT-D.PDF","Schottky Barrier Rectifier, 60 V, 20 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 20 A","Common Cathode","60","0.95","10
+150","20","150","-","-","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2060CT","NRVBB2060CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBB2060CTT4G","http://www.onsemi.com/pub/Collateral/MBRB2060CT-D.PDF","Schottky Barrier Rectifier, 60 V, 20 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 20 A","Common Cathode","60","0.95","10
+150","20","150","-","-","D<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2535CTL","MBRB2535CTLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB2535CTLG","http://www.onsemi.com/pub/Collateral/MBRB2535CTL-D.PDF","Schottky Barrier Rectifier, 35 V, 25 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 35 V, 25 A","Common Cathode","35","0.55","10000","12.5","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2535CTL","MBRB2535CTLT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB2535CTLT4G","http://www.onsemi.com/pub/Collateral/MBRB2535CTL-D.PDF","Schottky Barrier Rectifier, 35 V, 25 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 35 V, 25 A","Common Cathode","35","0.55","10000","12.5","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2535CTL","NRVBB2535CTLG","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBB2535CTLG","http://www.onsemi.com/pub/Collateral/MBRB2535CTL-D.PDF","Schottky Barrier Rectifier, 35 V, 25 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 35 V, 25 A","Common Cathode","35","0.55","10000","12.5","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB2535CTL","NRVBB2535CTLT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBB2535CTLT4G","http://www.onsemi.com/pub/Collateral/MBRB2535CTL-D.PDF","Schottky Barrier Rectifier, 35 V, 25 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 35 V, 25 A","Common Cathode","35","0.55","10000","12.5","150","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB3030CT","MBRB3030CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB3030CTG","http://www.onsemi.com/pub/Collateral/MBRB3030CT-D.PDF","Schottky Barrier Rectifier, 30 V, 30 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 30 V, 30 A","Common Cathode","30","0.67","600","30","200",,,"D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB3030CT","MBRB3030CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB3030CTT4G","http://www.onsemi.com/pub/Collateral/MBRB3030CT-D.PDF","Schottky Barrier Rectifier, 30 V, 30 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 30 V, 30 A","Common Cathode","30","0.67","600","30","200",,,"D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB30H30CT-1","MBR30H30CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR30H30CTG","http://www.onsemi.com/pub/Collateral/MBRB30H30CT-1-D.PDF","Schottky Barrier Rectifier, H-Series, 30 V, 30 A","Pb-free","Active","Schottky Barrier Rectifier, H-Series, 30 V, 30 A","Common Cathode","30","0.55","800","30","260","-","-","I<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB30H30CT-1","MBRB30H30CT-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB30H30CT-1G","http://www.onsemi.com/pub/Collateral/MBRB30H30CT-1-D.PDF","Schottky Barrier Rectifier, H-Series, 30 V, 30 A","Pb-free","Active","Schottky Barrier Rectifier, H-Series, 30 V, 30 A","Common Cathode","30","0.55","800","30","260","-","-","I<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB40250TG","MBRB40250TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB40250TG","http://www.onsemi.com/pub/Collateral/MBR40250-D.PDF","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Pb-free","ActiveNEW","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Single","250","0.97",,"40","150",,,"D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB40250TG","MBRB40250TT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB40250TT4G","http://www.onsemi.com/pub/Collateral/MBR40250-D.PDF","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Pb-free","ActiveNEW","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Single","250","0.97",,"40","150",,,"D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB8H100T4G","MBRB8H100T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRB8H100T4G","http://www.onsemi.com/pub/Collateral/MBRB8H100-D.PDF","Schottky Barrier Rectifier, 100 V, 8.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 8.0 A","Single","100","0.71","4.5","8","250","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRB8H100T4G","NBRB8H100T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBRB8H100T4G","http://www.onsemi.com/pub/Collateral/MBRB8H100-D.PDF","Schottky Barrier Rectifier, 100 V, 8.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 100 V, 8.0 A","Single","100","0.71","4.5","8","250","-","-","D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD320","MBRD320G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD320G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 20 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 20 V, 3.0 A","Single","20","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD320","MBRD320RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD320RLG","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 20 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 20 V, 3.0 A","Single","20","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD320","MBRD320T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD320T4G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 20 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 20 V, 3.0 A","Single","20","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD320","SBRD8320G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD8320G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 20 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 20 V, 3.0 A","Single","20","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD320","SBRD8320T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD8320T4G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 20 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 20 V, 3.0 A","Single","20","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD340","MBRD340G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD340G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 40 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 3.0 A","Single","40","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD340","MBRD340RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD340RLG","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 40 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 3.0 A","Single","40","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD340","MBRD340T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD340T4G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 40 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 3.0 A","Single","40","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD340","SBRD8340G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD8340G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 40 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 3.0 A","Single","40","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD340","SBRD8340T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD8340T4G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 40 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 3.0 A","Single","40","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD360","MBRD360G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD360G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD360","MBRD360RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD360RLG","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD360","MBRD360T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD360T4G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD360","SBRD8360G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD8360G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD360","SBRD8360RLG","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD8360RLG","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD360","SBRD8360T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRD8360T4G","http://www.onsemi.com/pub/Collateral/MBRD320-D.PDF","Schottky Barrier Rectifier, 60 V, 3.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 60 V, 3.0 A","Single","60","0.6","200","3","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD620CT","MBRD620CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD620CTT4G","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Barrier Rectifier, 20 V, 6.0 A","Pb-free
+Halide free","Active","Schottky Barrier Rectifier, 20 V, 6.0 A","Common Cathode","20","0.9","100","6","75",,,"DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD640CT","MBRD640CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD640CTT4G","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Barrier Rectifier, 40 V, 6.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 6.0 A","Common Cathode","40","0.9","15","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD640CT","NRVBD640CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBD640CTG","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Barrier Rectifier, 40 V, 6.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 6.0 A","Common Cathode","40","0.9","15","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD640CT","NRVBD640CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBD640CTT4G","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Barrier Rectifier, 40 V, 6.0 A","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Barrier Rectifier, 40 V, 6.0 A","Common Cathode","40","0.9","15","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD660CT","MBRD660CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD660CTG","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Common Cathode","60","0.9","100","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD660CT","MBRD660CTRLG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD660CTRLG","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Common Cathode","60","0.9","100","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD660CT","MBRD660CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRD660CTT4G","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Common Cathode","60","0.9","100","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD660CT","NRVBD660CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBD660CTG","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Common Cathode","60","0.9","100","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRD660CT","NRVBD660CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBD660CTT4G","http://www.onsemi.com/pub/Collateral/MBRD620CT-D.PDF","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Schottky Power Rectifier, Switch-mode, 6 A, 60 V","Common Cathode","60","0.9","100","6","75","-","-","DPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF10H150CTG","MBRF10H150CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF10H150CTG","http://www.onsemi.com/pub/Collateral/MBRF10H150C-D.PDF","150 V, 10 A H-Series Dual Schottky Rectifier","Pb-free","Active","150 V, 10 A H-Series Dual Schottky Rectifier","Common Cathode","150","0.69","45","10","150",,,"TO-220 FULLPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF20100CT","MBRF20100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF20100CTG","http://www.onsemi.com/pub/Collateral/MBRF20100CT-D.PDF","Schottky Power Rectifier, Switch-mode, 20 A, 100 V","Pb-free","Active","Schottky Power Rectifier, Switch-mode, 20 A, 100 V","Common Cathode","100","0.95","150","20","150",,,"TO-220 FULLPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF2045CTG","MBRF2045CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF2045CTG","http://www.onsemi.com/pub/Collateral/MBR2045CT-D.PDF","Schottky Barrier Rectifier, 45 V, 20 A","Pb-free","Active","Schottky Barrier Rectifier, 45 V, 20 A","Common Cathode","45","0.84","100","20","150",,,"TO-220 FULLPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF20H150CTG","MBR20H150CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR20H150CTG","http://www.onsemi.com/pub/Collateral/MBRF20H150CT-D.PDF","150 V, 20 A H-Series Dual Schottky Rectifier","Pb-free","Active","150 V, 20 A H-Series Dual Schottky Rectifier","Common Cathode","150","0.68","50","20","180",,,"TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF20H150CTG","MBRF20H150CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF20H150CTG","http://www.onsemi.com/pub/Collateral/MBRF20H150CT-D.PDF","150 V, 20 A H-Series Dual Schottky Rectifier","Pb-free","Active","150 V, 20 A H-Series Dual Schottky Rectifier","Common Cathode","150","0.68","50","20","180",,,"TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF2545CT","MBRF2545CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF2545CTG","http://www.onsemi.com/pub/Collateral/MBRF2545CT-D.PDF","Schottky Barrier Rectifier, 25 A, 45 V","Pb-free","Active","Schottky Barrier Rectifier, 25 A, 45 V","Common Cathode","45","0.7","200","25","150",,,"TO-220 FULLPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF30H150CTG","MBR30H150CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBR30H150CTG","http://www.onsemi.com/pub/Collateral/MBRF30H150C-D.PDF","150 V, 30 A H-Series Dual Schottky Rectifier","Pb-free","Active","150 V, 30 A H-Series Dual Schottky Rectifier","Common Cathode","150","0.73","60","30","200",,,"TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF30H150CTG","MBRF30H150CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF30H150CTG","http://www.onsemi.com/pub/Collateral/MBRF30H150C-D.PDF","150 V, 30 A H-Series Dual Schottky Rectifier","Pb-free","Active","150 V, 30 A H-Series Dual Schottky Rectifier","Common Cathode","150","0.73","60","30","200",,,"TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRF40250T","MBRF40250TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRF40250TG","http://www.onsemi.com/pub/Collateral/MBR40250-D.PDF","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Pb-free","Active","Schottky Power Rectifier, Switch-mode, 40 A, 250 V","Single","250","0.97","30","40","150","35","500","TO-220 FULLPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM110L","MBRM110LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRM110LT1G","http://www.onsemi.com/pub/Collateral/MBRM110L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","Single","10","0.365","500","1","50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM110L","MBRM110LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRM110LT3G","http://www.onsemi.com/pub/Collateral/MBRM110L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","Single","10","0.365","500","1","50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM110L","NRVBM110LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBM110LT1G","http://www.onsemi.com/pub/Collateral/MBRM110L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","Single","10","0.365","500","1","50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM110L","NRVBM110LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBM110LT3G","http://www.onsemi.com/pub/Collateral/MBRM110L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 10 V","Single","10","0.365","500","1","50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM120L","MBRM120LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRM120LT1G","http://www.onsemi.com/pub/Collateral/MBRM120L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.45","40","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM120L","MBRM120LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRM120LT3G","http://www.onsemi.com/pub/Collateral/MBRM120L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.45","40","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM120L","NRVBM120LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBM120LT1G","http://www.onsemi.com/pub/Collateral/MBRM120L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.45","40","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM120L","NRVBM120LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBM120LT3G","http://www.onsemi.com/pub/Collateral/MBRM120L-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.45","40","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM140","MBRM140T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRM140T1G","http://www.onsemi.com/pub/Collateral/MBRM140-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM140","MBRM140T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRM140T3G","http://www.onsemi.com/pub/Collateral/MBRM140-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM140","NRVBM140T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBM140T1G","http://www.onsemi.com/pub/Collateral/MBRM140-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM140","NRVBM140T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBM140T3G","http://www.onsemi.com/pub/Collateral/MBRM140-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 40 V","Single","40","0.55","500","1","50","-","-","POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM2H100","MBRM2H100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRM2H100T3G","http://www.onsemi.com/pub/Collateral/MBRM2H100-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","Single","100","0.84","20","2","50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRM2H100","NRVBM2H100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBM2H100T3G","http://www.onsemi.com/pub/Collateral/MBRM2H100-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","Single","100","0.84","20","2","50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS120","MBRS120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS120T3G","http://www.onsemi.com/pub/Collateral/MBRS120T3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.6","1000","1","40",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS120","SBRS8120T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRS8120T3G","http://www.onsemi.com/pub/Collateral/MBRS120T3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 20 V","Single","20","0.6","1000","1","40",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS130L","MBRS130LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS130LT3G","http://www.onsemi.com/pub/Collateral/MBRS130LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","Single","30","0.395","1000","1","40",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS130L","SBRS8130LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRS8130LT3G","http://www.onsemi.com/pub/Collateral/MBRS130LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 1.0 A, 30 V","Single","30","0.395","1000","1","40",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS1540","MBRS1540T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS1540T3G","http://www.onsemi.com/pub/Collateral/MBRS1540T3-D.PDF","40 V, 1.5 A Schottky Rectifier","AEC Qualified
+Pb-free
+Halide free","Active","40 V, 1.5 A Schottky Rectifier","Single","40","0.46","80","1.5","40",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS2040L","MBRS2040LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS2040LT3G","http://www.onsemi.com/pub/Collateral/MBRS2040LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","Single","40","0.43","80","2","70",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS2040L","NRVBS2040LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS2040LT3G","http://www.onsemi.com/pub/Collateral/MBRS2040LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","Single","40","0.43","80","2","70",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS240L","MBRS240LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS240LT3G","http://www.onsemi.com/pub/Collateral/MBRS240LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","Single","40","0.43","2000","2","25",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS240L","NRVBS240LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS240LT3G","http://www.onsemi.com/pub/Collateral/MBRS240LT3-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 40 V","Single","40","0.43","2000","2","25",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS2H100T3G","MBRS2H100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS2H100T3G","http://www.onsemi.com/pub/Collateral/MBRS2H100-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","Single","100","0.79","8","2","130",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS2H100T3G","NBRS2H100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBRS2H100T3G","http://www.onsemi.com/pub/Collateral/MBRS2H100-D.PDF","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 2.0 A, 100 V","Single","100","0.79","8","2","130",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS3100T3","MBRS3100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS3100T3G","http://www.onsemi.com/pub/Collateral/MBRS3100T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 100 V","Single","100","0.79","50","3","130",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS3100T3","NRVBS3100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS3100T3G","http://www.onsemi.com/pub/Collateral/MBRS3100T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 100 V","Single","100","0.79","50","3","130",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS3201","MBRS3201T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS3201T3G","http://www.onsemi.com/pub/Collateral/MBRS3201T3-D.PDF","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 3.0 A, 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 3.0 A, 200 V","Single","200","0.84","1000","3","100","35",,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS3201","NRVBS3201T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS3201T3G","http://www.onsemi.com/pub/Collateral/MBRS3201T3-D.PDF","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 3.0 A, 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 3.0 A, 200 V","Single","200","0.84","1000","3","100","35",,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS320P","MBRS320PT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS320PT3G","http://www.onsemi.com/pub/Collateral/MBRS320P-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 20 V","Pb-free
+Halide free","ActiveNEW","Schottky Power Rectifier, Surface Mount, 3.0 A, 20 V","Single","20","0.5","2000","3","80",,,"SMC 2-Lead"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS340","MBRS320T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS320T3G","http://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","20
+30
+40","0.5","2000","3","80",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS340","MBRS330T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS330T3G","http://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","20
+30
+40","0.5","2000","3","80",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS340","MBRS340T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS340T3G","http://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","20
+30
+40","0.5","2000","3","80",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS340","NRVBS330T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS330T3G","http://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","20
+30
+40","0.5","2000","3","80",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS340","SBRS8320T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRS8320T3G","http://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","20
+30
+40","0.5","2000","3","80",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS340","SBRS8340T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBRS8340T3G","http://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 40 V","Single","20
+30
+40","0.5","2000","3","80",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS360","MBRS360BT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS360BT3G","http://www.onsemi.com/pub/Collateral/MBRS360T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 60 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 60 V","Single","60","0.74","150","3","125",,,"SMB-2
+SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS360","MBRS360T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS360T3G","http://www.onsemi.com/pub/Collateral/MBRS360T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 60 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 60 V","Single","60","0.74","150","3","125",,,"SMB-2
+SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS360","NRVBS360T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS360T3G","http://www.onsemi.com/pub/Collateral/MBRS360T3-D.PDF","Schottky Power Rectifier, Surface Mount, 3.0 A, 60 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 3.0 A, 60 V","Single","60","0.74","150","3","125",,,"SMB-2
+SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS410ET3","MBRS410ET3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS410ET3G","http://www.onsemi.com/pub/Collateral/MBRS410ET3-D.PDF","Schottky Power Rectifier, Surface Mount, 4.0 A, 10 V","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Power Rectifier, Surface Mount, 4.0 A, 10 V","Single","10","0.5","150","4","250",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS4201","MBRS4201T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS4201T3G","http://www.onsemi.com/pub/Collateral/MBRS4201T3-D.PDF","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 4.0 A, 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 4.0 A, 200 V","Single","200","0.8","0.35","4","100","35",,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS4201","NRVBS4201T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS4201T3G","http://www.onsemi.com/pub/Collateral/MBRS4201T3-D.PDF","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 4.0 A, 200 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, Fast Soft-Recovery, 4.0 A, 200 V","Single","200","0.8","0.35","4","100","35",,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS540","MBRS540T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MBRS540T3G","http://www.onsemi.com/pub/Collateral/MBRS540T3-D.PDF","Schottky Power Rectifier, Surface Mount, 5.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 5.0 A, 40 V","Single","40","0.5","0.3
+300","5","190",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MBRS540","NRVBS540T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBS540T3G","http://www.onsemi.com/pub/Collateral/MBRS540T3-D.PDF","Schottky Power Rectifier, Surface Mount, 5.0 A, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Power Rectifier, Surface Mount, 5.0 A, 40 V","Single","40","0.5","0.3
+300","5","190",,,"SMC-2"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD101L","MMBD101LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD101LT1G","http://www.onsemi.com/pub/Collateral/MBD101-D.PDF","7.0 V Low Noise Schottky Diode","AEC Qualified
+Pb-free
+Halide free","Active","7.0 V Low Noise Schottky Diode","Single","7","0.6","2.5","-","-","-","1","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD301M3T5G","MMBD301M3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD301M3T5G","http://www.onsemi.com/pub/Collateral/MMBD301M3-D.PDF","Schottky Diode","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Diode","Single","30","0.45","0.2","-","-","-","1.5","SOT-723-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD352L","MMBD352LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD352LT1G","http://www.onsemi.com/pub/Collateral/MMBD352LT1-D.PDF","7.0 V Schottky Diode, dual, series, UHF","AEC Qualified
+Pb-free
+Halide free","Active","7.0 V Schottky Diode, dual, series, UHF","Series","7","0.6","0.25","-","-","-","1","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD353L","MMBD353LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD353LT1G","http://www.onsemi.com/pub/Collateral/MMBD352LT1-D.PDF","7.0 V Schottky Diode, dual, series reverse","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","7.0 V Schottky Diode, dual, series reverse","Series","7","0.6","0.25","-","-","-","1","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD353L","NSVMMBD353LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVMMBD353LT1G","http://www.onsemi.com/pub/Collateral/MMBD352LT1-D.PDF","7.0 V Schottky Diode, dual, series reverse","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","7.0 V Schottky Diode, dual, series reverse","Series","7","0.6","0.25","-","-","-","1","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD355L","MMBD355LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD355LT1G","http://www.onsemi.com/pub/Collateral/MMBD352LT1-D.PDF","7.0 V Dual Common Anode Schottky Diode","AEC Qualified
+Pb-free
+Halide free","Active","7.0 V Dual Common Anode Schottky Diode","Common Anode","7","0.6","0.25","-","-","-","1","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD701L","MMBD701LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD701LT1G","http://www.onsemi.com/pub/Collateral/MBD701-D.PDF","70 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Schottky Diode","Single","70","0.5","0.2","-","-","-","1","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD701L","SMMBD701LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMBD701LT1G","http://www.onsemi.com/pub/Collateral/MBD701-D.PDF","70 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Schottky Diode","Single","70","0.5","0.2","-","-","-","1","SOT-23-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD770","MMBD770T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD770T1G","http://www.onsemi.com/pub/Collateral/MMBD330T1-D.PDF","70 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Schottky Diode","Single","70","0.5","0.2","0.2","1","-","1","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMBD770","SMMBD770T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMBD770T1G","http://www.onsemi.com/pub/Collateral/MMBD330T1-D.PDF","70 V Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Schottky Diode","Single","70","0.5","0.2","0.2","1","-","1","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---肖特基二极管及整流器","MMDL301","MMDL301T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMDL301T1G","http://www.onsemi.com/pub/Collateral/MMDL301T1-D.PDF","Schottky Diode UHF 30 V","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Diode UHF 30 V","Single","30","0.45","0.2","-","-","-","1.5","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","MMSD301","MMSD301T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMSD301T1G","http://www.onsemi.com/pub/Collateral/MMSD301T1-D.PDF","Schottky Diode UHF 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Diode UHF 30 V","Single","30","0.45","0.2","0.2","-","-","1.5","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","MMSD301","SMMSD301T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMSD301T1G","http://www.onsemi.com/pub/Collateral/MMSD301T1-D.PDF","Schottky Diode UHF 30 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Diode UHF 30 V","Single","30","0.45","0.2","0.2","-","-","1.5","SOD-123"
+"on","二极管和整流器---肖特基二极管及整流器","NRVBB1060","NRVBB1060T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBB1060T4G","http://www.onsemi.com/pub/Collateral/NRVBB1060-D.PDF","60 V, 10 A Schottky Rectifier","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","ActiveNEW","60 V, 10 A Schottky Rectifier","Single","60","0.8","100","10","150",,,"D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","NRVBB1060","NRVBB1060W1T4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBB1060W1T4G","http://www.onsemi.com/pub/Collateral/NRVBB1060-D.PDF","60 V, 10 A Schottky Rectifier","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","ActiveNEW","60 V, 10 A Schottky Rectifier","Single","60","0.8","100","10","150",,,"D<sup>2</sup>PAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","NRVTSA4100E","NRVTSA4100ET3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTSA4100ET3G","http://www.onsemi.com/pub/Collateral/NRVTSA4100E-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 100V, 4A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 100V, 4A",,"100","0.68","9",,,,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","NRVTSM245E","NRVTSM245ET1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTSM245ET1G","http://www.onsemi.com/pub/Collateral/NRVTSM245E-D.PDF","Trench Schottky Rectifier, Very Low Leakage 45V, 2A in Powermite package","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage 45V, 2A in Powermite package",,"45","0.65","75",,"50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","NRVTSM245E","NRVTSM245ET3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTSM245ET3G","http://www.onsemi.com/pub/Collateral/NRVTSM245E-D.PDF","Trench Schottky Rectifier, Very Low Leakage 45V, 2A in Powermite package","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage 45V, 2A in Powermite package",,"45","0.65","75",,"50",,,"POWERMITE-2"
+"on","二极管和整流器---肖特基二极管及整流器","NRVTSS5100E","NRVTSS5100ET3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTSS5100ET3G","http://www.onsemi.com/pub/Collateral/NRVTSS5100E-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 100V, 5A,","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 100V, 5A,",,"100","0.69","9",,,,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0130P2","NSR0130P2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0130P2T5G","http://www.onsemi.com/pub/Collateral/NSR0130P2-D.PDF","Schottky Barrier Diode, 30 V, 100 mA, Low I","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 30 V, 100 mA, Low I<sub>R</sub>","Single","30","0.385","0.35","0.1","1","-","10","SOD-923-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0170HT","NSR0170HT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0170HT1G","http://www.onsemi.com/pub/Collateral/NSR0170H-D.PDF","Schottky Barrier Diode, 100 mA, 70 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 100 mA, 70 V","Single","70","0.64","3","0.07","0.1","-","-","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0170HT","NSVR0170HT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVR0170HT1G","http://www.onsemi.com/pub/Collateral/NSR0170H-D.PDF","Schottky Barrier Diode, 100 mA, 70 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 100 mA, 70 V","Single","70","0.64","3","0.07","0.1","-","-","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","NSR01F30MX","NSR01F30MXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR01F30MXT5G","http://www.onsemi.com/pub/Collateral/NSR01F30MX-D.PDF","30 V, 100 mA Low V","Pb-free
+Halide free","Active","30 V, 100 mA Low V<sub>F</sub> Schottky Diode","Single","30","0.35","5","0.1","2","-","0.9","X3DFN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR01L30MX","NSR01L30MXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR01L30MXT5G","http://www.onsemi.com/pub/Collateral/NSR01L30MX-D.PDF","30 V, 100 mA Low I","Pb-free
+Halide free","Active","30 V, 100 mA Low I<sub>R</sub> Schottky Diode","Single","30","0.35","0.2","0.1","2","-","0.8","X3DFN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0230","NSR0230M2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0230M2T5G","http://www.onsemi.com/pub/Collateral/NSR0230-D.PDF","Schottky Barrier Diode, 30 V, 200 mA, Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 30 V, 200 mA, Low V<sub>F</sub>","Single","30","0.325","10","0.2","1","-","-","SOD-723-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0230","NSVR0230M2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVR0230M2T5G","http://www.onsemi.com/pub/Collateral/NSR0230-D.PDF","Schottky Barrier Diode, 30 V, 200 mA, Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 30 V, 200 mA, Low V<sub>F</sub>","Single","30","0.325","10","0.2","1","-","-","SOD-723-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0240HT1G","NSR0240HT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0240HT1G","http://www.onsemi.com/pub/Collateral/NSR0240H-D.PDF","40 V, 0.25 A Low IR Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V, 0.25 A Low IR Schottky Diode","Single","40","0.71","0.55","0.25","1","3","4","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0240HT1G","NSVR0240HT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVR0240HT1G","http://www.onsemi.com/pub/Collateral/NSR0240H-D.PDF","40 V, 0.25 A Low IR Schottky Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V, 0.25 A Low IR Schottky Diode","Single","40","0.71","0.55","0.25","1","3","4","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0240P2","NSR0240P2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0240P2T5G","http://www.onsemi.com/pub/Collateral/NSR0240P2-D.PDF","Schottky Barrier Diode, 200 mA, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 200 mA, 40 V","Single","40","0.5","5","0.2","2","-","7","SOD-923-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0240P2","NSVR0240P2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVR0240P2T5G","http://www.onsemi.com/pub/Collateral/NSR0240P2-D.PDF","Schottky Barrier Diode, 200 mA, 40 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 200 mA, 40 V","Single","40","0.5","5","0.2","2","-","7","SOD-923-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR02F30MX","NSR02F30MXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR02F30MXT5G","http://www.onsemi.com/pub/Collateral/NSR02F30MX-D.PDF","200 mA, 30 V, x3DFN 0201 Schottky Barrier Diode","Pb-free
+Halide free","ActiveNEW","200 mA, 30 V, x3DFN 0201 Schottky Barrier Diode","Single","30","0.6","50","0.2","2","3","8","X3DFN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR02L30NXT5G","NSR02L30NXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR02L30NXT5G","http://www.onsemi.com/pub/Collateral/NSR02L30-D.PDF","Schottky Barrier Diode, 200 mA, 30 V, DSN2 (0201) Schottky Barrier Diode","Pb-free
+Halide free","Active","Schottky Barrier Diode, 200 mA, 30 V","Single","30","0.4","0.2","0.2","4","-","7","DSN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0320XV6","NSR0320XV6T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0320XV6T1G","http://www.onsemi.com/pub/Collateral/NSR0320XV6T1-D.PDF","23 V, 1.0 A Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","23 V, 1.0 A Low V<sub>F</sub> Schottky Diode","Single","23","0.27","50","1","7.5","-","35","SOT-563"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0320XV6","NSR0320XV6T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0320XV6T5G","http://www.onsemi.com/pub/Collateral/NSR0320XV6T1-D.PDF","23 V, 1.0 A Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","23 V, 1.0 A Low V<sub>F</sub> Schottky Diode","Single","23","0.27","50","1","7.5","-","35","SOT-563"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0320XV6","NSVR0320XV6T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVR0320XV6T1G","http://www.onsemi.com/pub/Collateral/NSR0320XV6T1-D.PDF","23 V, 1.0 A Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","23 V, 1.0 A Low V<sub>F</sub> Schottky Diode","Single","23","0.27","50","1","7.5","-","35","SOT-563"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0340P2","NSR0340P2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0340P2T5G","http://www.onsemi.com/pub/Collateral/NSR0340P2-D.PDF","Schottky Barrier Diode, 200 mA, 40 V","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 200 mA, 40 V","Single","40","0.56","5","0.2","1","3","4","SOD-923-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0520V2T1G","NSR0520V2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0520V2T1G","http://www.onsemi.com/pub/Collateral/NSR0520V2T1-D.PDF","Schottky Barrier Diode, 500 mA, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 500 mA, 20 V","Single","20","0.48","30","0.5","2","12","35","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0520V2T1G","NSR0520V2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0520V2T5G","http://www.onsemi.com/pub/Collateral/NSR0520V2T1-D.PDF","Schottky Barrier Diode, 500 mA, 20 V, 20V SOD-523 SCHOTTKY DIO","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 500 mA, 20 V","Single","20","0.48","30","0.5","2","12","35","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0520V2T1G","NSVR0520V2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVR0520V2T1G","http://www.onsemi.com/pub/Collateral/NSR0520V2T1-D.PDF","Schottky Barrier Diode, 500 mA, 20 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schottky Barrier Diode, 500 mA, 20 V","Single","20","0.48","30","0.5","2","12","35","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR0530P2","NSR0530P2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR0530P2T5G","http://www.onsemi.com/pub/Collateral/NSR0530P2-D.PDF","Schottky Barrier Diode, 500 mA, 30 V","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 500 mA, 30 V","Single","30","0.46","200","0.5","-","-","10","SOD-923-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR05F30NX","NSR05F30NXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR05F30NXT5G","http://www.onsemi.com/pub/Collateral/NSR05F30.PDF","30 V Schottky Diode, DSN2 (0402) Schottky Diodes 30 V 0.5 A","Pb-free
+Halide free","Active","30 V Schottky Diode","Single","30","0.43","15","0.5","10","-","-","DSN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR05T40P2","NSR05T40P2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR05T40P2T5G","http://www.onsemi.com/pub/Collateral/NSR05T40P2-D.PDF","500 mA, 40 V Schottky Barrier Diode, SSD Trench Schottky","Pb-free
+Halide free","ActiveNEW","500 mA, 40 V Schottky Barrier Diode","Single","40","0.55","55","0.5","3",,,"SOD-923-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR1020MW2","NSR1020MW2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR1020MW2T1G","http://www.onsemi.com/pub/Collateral/NSR1020MW2T1-D.PDF","20 V, 1.0 A Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","20 V, 1.0 A Low V<sub>F</sub> Schottky Diode","Single","20","0.44","40","1","5","-","29","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","NSR1020MW2","NSR1020MW2T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR1020MW2T3G","http://www.onsemi.com/pub/Collateral/NSR1020MW2T1-D.PDF","20 V, 1.0 A Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","20 V, 1.0 A Low V<sub>F</sub> Schottky Diode","Single","20","0.44","40","1","5","-","29","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","NSR1020MW2","NSVR1020MW2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVR1020MW2T1G","http://www.onsemi.com/pub/Collateral/NSR1020MW2T1-D.PDF","20 V, 1.0 A Low V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","20 V, 1.0 A Low V<sub>F</sub> Schottky Diode","Single","20","0.44","40","1","5","-","29","SOD-323"
+"on","二极管和整流器---肖特基二极管及整流器","NSR10F30NX","NSR10F30NXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR10F30NXT5G","http://www.onsemi.com/pub/Collateral/NSR10F30-D.PDF","Schottky Barrier Diode, 1.0 A, 30 V, DSN2 0502 Schottky Diode 30 V 1 A","Pb-free
+Halide free","Active","Schottky Barrier Diode, 1.0 A, 30 V","Single","30","0.45","20","1","18","-","-","DSN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR20F20NX","NSR20F20NXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR20F20NXT5G","http://www.onsemi.com/pub/Collateral/NSR20F20-D.PDF","Schottky Barrier Diode, 2.0 A, 20 V, DSN2 0603 Schottky Diodes 20 V 2A","Pb-free
+Halide free","Active","Schottky Barrier Diode, 2.0 A, 20 V","Single","20","0.47","30","2","28","-","-","DSN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSR20F40NX","NSR20F40NXT5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSR20F40NXT5G","http://www.onsemi.com/pub/Collateral/NSR20F40-D.PDF","DSN2 0603 Schottky Diode 40V 2A","Pb-free
+Halide free","Active","DSN2 0603 Schottky Diode 40V 2A","Single","40","0.55","150","2","28","-","-","DSN-2"
+"on","二极管和整流器---肖特基二极管及整流器","NSRLL30","NSRLL30XV2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSRLL30XV2T1G","http://www.onsemi.com/pub/Collateral/NSRLL30XV2-D.PDF","30 V, 200 mA Low V","AEC Qualified
+Pb-free
+Halide free","Active","30 V, 200 mA Low V<sub>F</sub> Schottky Diode","Single","30","0.6","1","0.2","-","-","10","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10100E","NRVTS10100EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS10100EMFST1G","http://www.onsemi.com/pub/Collateral/NTS10100EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V",,"100
+100V","0.72","50","10","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10100E","NRVTS10100EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS10100EMFST3G","http://www.onsemi.com/pub/Collateral/NTS10100EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V",,"100
+100V","0.72","50","10","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10100E","NTS10100EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS10100EMFST1G","http://www.onsemi.com/pub/Collateral/NTS10100EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V",,"100
+100V","0.72","50","10","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10100E","NTS10100EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS10100EMFST3G","http://www.onsemi.com/pub/Collateral/NTS10100EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 10 A, 100 V",,"100
+100V","0.72","50","10","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10120MFS","NRVTS10120MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS10120MFST1G","http://www.onsemi.com/pub/Collateral/NTS10120MFS-D.PDF","Trench Schottky Rectifier Low Vf 10A, 120V Part","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Low Vf 10A, 120V Part",,"120V","0.825","0.000055","10",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10120MFS","NRVTS10120MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS10120MFST3G","http://www.onsemi.com/pub/Collateral/NTS10120MFS-D.PDF","Trench Schottky Rectifier Low Vf 10A, 120V Part","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Low Vf 10A, 120V Part",,"120V","0.825","0.000055","10",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10120MFS","NTS10120MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS10120MFST1G","http://www.onsemi.com/pub/Collateral/NTS10120MFS-D.PDF","Trench Schottky Rectifier Low Vf 10A, 120V Part","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Low Vf 10A, 120V Part",,"120V","0.825","0.000055","10",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS10120MFS","NTS10120MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS10120MFST3G","http://www.onsemi.com/pub/Collateral/NTS10120MFS-D.PDF","Trench Schottky Rectifier Low Vf 10A, 120V Part","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Low Vf 10A, 120V Part",,"120V","0.825","0.000055","10",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1045E","NRVTS1045EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1045EMFST1G","http://www.onsemi.com/pub/Collateral/NTS1045EMFS-D.PDF","Trench Schottky Rectifier Very Low Leakage 10A, 45V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Very Low Leakage 10A, 45V",,"45","0.6","50","10",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1045E","NRVTS1045EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1045EMFST3G","http://www.onsemi.com/pub/Collateral/NTS1045EMFS-D.PDF","Trench Schottky Rectifier Very Low Leakage 10A, 45V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Very Low Leakage 10A, 45V",,"45","0.6","50","10",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1245E","NRVTS1245EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1245EMFST1G","http://www.onsemi.com/pub/Collateral/NRVTS1245EMFS-D.PDF","Trench Schottky Rectifier Very Low Leakage 12A, 45V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Very Low Leakage 12A, 45V",,"45","0.6","50","12",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1245E","NRVTS1245EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1245EMFST3G","http://www.onsemi.com/pub/Collateral/NRVTS1245EMFS-D.PDF","Trench Schottky Rectifier Very Low Leakage 12A, 45V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Very Low Leakage 12A, 45V",,"45","0.6","50","12",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1260E","NRVTS1260EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1260EMFST1G","http://www.onsemi.com/pub/Collateral/NRVTS1260EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 60V, 12A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 60V, 12A",,"60","0.6","50",,"210",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1260E","NRVTS1260EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1260EMFST3G","http://www.onsemi.com/pub/Collateral/NRVTS1260EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 60V, 12A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 60V, 12A",,"60","0.6","50",,"210",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1545E","NRVTS1545EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1545EMFST1G","http://www.onsemi.com/pub/Collateral/NTS1545EMFS-D.PDF","Trench Schottky Rectifier, 15A, 45V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, 15A, 45V ",,"45","0.6","50","15",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS1545E","NRVTS1545EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS1545EMFST3G","http://www.onsemi.com/pub/Collateral/NTS1545EMFS-D.PDF","Trench Schottky Rectifier, 15A, 45V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, 15A, 45V ",,"45","0.6","50","15",,,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS245E","NRVTS245ESFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS245ESFT1G","http://www.onsemi.com/pub/Collateral/NRVTS245ESF-D.PDF","Trench Schottky Rectifier, 45V, 2A Very Low Leakage","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, 45V, 2A Very Low Leakage",,"45","0.65","75",,,,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","NTS245E","NRVTS245ESFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS245ESFT3G","http://www.onsemi.com/pub/Collateral/NRVTS245ESF-D.PDF","Trench Schottky Rectifier, 45V, 2A Very Low Leakage","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, 45V, 2A Very Low Leakage",,"45","0.65","75",,,,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","NTS260SF","NTS260SFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS260SFT1G","http://www.onsemi.com/pub/Collateral/NTS260SF-D.PDF","Trench Schottky Rectifier Low Vf, 2A, 60V","AEC Qualified
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Low Vf, 2A, 60V ",,"60","0.65","50","2",,,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","NTS260SF","NTS260SFT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS260SFT3G","http://www.onsemi.com/pub/Collateral/NTS260SF-D.PDF","Trench Schottky Rectifier Low Vf, 2A, 60V","AEC Qualified
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Low Vf, 2A, 60V ",,"60","0.65","50","2",,,,"SOD123-2"
+"on","二极管和整流器---肖特基二极管及整流器","NTS560E","NRVTS560EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS560EMFST1G","http://www.onsemi.com/pub/Collateral/NRVTS560EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 60V, 5A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 60V, 5A",,"60","0.61","30",,"150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS560E","NRVTS560EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS560EMFST3G","http://www.onsemi.com/pub/Collateral/NRVTS560EMFS-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 60V, 5A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Very Low Leakage, 60V, 5A",,"60","0.61","30",,"150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS860","NTS860MFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS860MFST1G","http://www.onsemi.com/pub/Collateral/NTS860MFS-D.PDF","Trench Schottky Rectifier, 8A, 60V, Low Forward Voltage","AEC Qualified
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, 8A, 60V, Low Forward Voltage",,"60","0.62","55",,"150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTS860","NTS860MFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS860MFST3G","http://www.onsemi.com/pub/Collateral/NTS860MFS-D.PDF","Trench Schottky Rectifier, 8A, 60V, Low Forward Voltage","AEC Qualified
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, 8A, 60V, Low Forward Voltage",,"60","0.62","55",,"150",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","NTSA4100","NTSA4100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSA4100T3G","http://www.onsemi.com/pub/Collateral/NTSA4100-D.PDF","Trench Schottky Rectifier, Low Forward Voltage, 100V, 4A","AEC Qualified
+Pb-free
+Halide free","Active","Trench Schottky Rectifier, Low Forward Voltage, 100V, 4A",,"100","0.66","45",,,,,"SMA-2"
+"on","二极管和整流器---肖特基二极管及整流器","NTSAF5100","NTSAF5100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSAF5100T3G","http://www.onsemi.com/pub/Collateral/NTSS5100-D.PDF","TRENCH SCHOTTKY RECTIFIER, LOW VF 100V, 5A","AEC Qualified
+Pb-free
+Halide free","Active","TRENCH SCHOTTKY RECTIFIER, LOW VF 100V, 5A",,"100","0.69","25",,,,,"SMA-FL"
+"on","二极管和整流器---肖特基二极管及整流器","NTSJ2080CTG","NTSJ2080CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSJ2080CTG","http://www.onsemi.com/pub/Collateral/NTSJ2080CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 80 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 80 V","Common Cathode","80","0.83","600","20","150",,,"TO-220 FULLPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSJ30U80CTG","NTSJ30U80CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSJ30U80CTG","http://www.onsemi.com/pub/Collateral/NTSJ30U80CT-D.PDF","Schottky Rectifier, Low Forward Voltage, Dual, 30 A, 80 V","Pb-free
+Halide free","Active","Schottky Rectifier, Low Forward Voltage, Dual, 30 A, 80 V","Common Cathode","80","0.8","200","30","160",,,"TO-220 FULLPAK-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSS3100","NTSS3100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSS3100T3G","http://www.onsemi.com/pub/Collateral/NTSS3100-D.PDF","Trench Schottky Rectifier Low Forward Voltage, 3A, 100V","AEC Qualified
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Low Forward Voltage, 3A, 100V",,"100","0.995","5",,,,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20100CTG","NTSB20100CT-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB20100CT-1G","http://www.onsemi.com/pub/Collateral/NTST20100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20100CTG","NTSB20100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB20100CTG","http://www.onsemi.com/pub/Collateral/NTST20100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20100CTG","NTSB20100CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB20100CTT4G","http://www.onsemi.com/pub/Collateral/NTST20100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20100CTG","NTSJ20100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSJ20100CTG","http://www.onsemi.com/pub/Collateral/NTST20100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20100CTG","NTST20100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST20100CTG","http://www.onsemi.com/pub/Collateral/NTST20100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20U100CTG","NTSB20U100CT-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB20U100CT-1G","http://www.onsemi.com/pub/Collateral/NTST20U100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V, I2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20U100CTG","NTSB20U100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB20U100CTG","http://www.onsemi.com/pub/Collateral/NTST20U100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V, D2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20U100CTG","NTSB20U100CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB20U100CTT4G","http://www.onsemi.com/pub/Collateral/NTST20U100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V, D2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20U100CTG","NTSJ20U100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSJ20U100CTG","http://www.onsemi.com/pub/Collateral/NTST20U100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V, TO-220FP","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST20U100CTG","NTST20U100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST20U100CTG","http://www.onsemi.com/pub/Collateral/NTST20U100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V, TO-220","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.79","800","20","150",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30100SG","NTSB30100S-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB30100S-1G","http://www.onsemi.com/pub/Collateral/NTST30100S-D.PDF","Schottky Rectifier, Low Forward Voltage, 30 A, 100 V","Pb-free","Active","Schottky Rectifier, Low Forward Voltage, 30 A, 100 V","Single","100","0.95","1000","30","250",,,"I<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30100SG","NTST30100SG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST30100SG","http://www.onsemi.com/pub/Collateral/NTST30100S-D.PDF","Schottky Rectifier, Low Forward Voltage, 30 A, 100 V","Pb-free","Active","Schottky Rectifier, Low Forward Voltage, 30 A, 100 V","Single","100","0.95","1000","30","250",,,"I<sup>2</sup>PAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30U100CTG","NTSB30U100CT-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB30U100CT-1G","http://www.onsemi.com/pub/Collateral/NTST30U100CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 100 V, I2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 100 V","Common Cathode","100","0.8","675","30","160",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30U100CTG","NTSB30U100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB30U100CTG","http://www.onsemi.com/pub/Collateral/NTST30U100CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 100 V, D2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 100 V","Common Cathode","100","0.8","675","30","160",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30U100CTG","NTSB30U100CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB30U100CTT4G","http://www.onsemi.com/pub/Collateral/NTST30U100CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 100 V, D2Pak","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 100 V","Common Cathode","100","0.8","675","30","160",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30U100CTG","NTSJ30U100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSJ30U100CTG","http://www.onsemi.com/pub/Collateral/NTST30U100CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 100 V, TO-220FP","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 100 V","Common Cathode","100","0.8","675","30","160",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30U100CTG","NTST30U100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST30U100CTG","http://www.onsemi.com/pub/Collateral/NTST30U100CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 100 V, TO-220","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 100 V","Common Cathode","100","0.8","675","30","160",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST30U100CTG","NTST30U100CTH","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST30U100CTH","http://www.onsemi.com/pub/Collateral/NTST30U100CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 100 V, TO-220","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 100 V","Common Cathode","100","0.8","675","30","160",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST40120CTG","NTSB40120CT-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB40120CT-1G","http://www.onsemi.com/pub/Collateral/NTST40120CT-D.PDF","Schottky Power Rectifier, Dual, 40 A, 120 V, I2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 40 A, 120 V","Common Cathode","120","0.91","500","40","250",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST40120CTG","NTSB40120CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB40120CTG","http://www.onsemi.com/pub/Collateral/NTST40120CT-D.PDF","Schottky Power Rectifier, Dual, 40 A, 120 V, D2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 40 A, 120 V","Common Cathode","120","0.91","500","40","250",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST40120CTG","NTSB40120CTT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSB40120CTT4G","http://www.onsemi.com/pub/Collateral/NTST40120CT-D.PDF","Schottky Power Rectifier, Dual, 40 A, 120 V, D2PAK","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 40 A, 120 V","Common Cathode","120","0.91","500","40","250",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST40120CTG","NTSJ40120CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSJ40120CTG","http://www.onsemi.com/pub/Collateral/NTST40120CT-D.PDF","Schottky Power Rectifier, Dual, 40 A, 120 V, TO-220FP","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 40 A, 120 V","Common Cathode","120","0.91","500","40","250",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST40120CTG","NTST40120CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST40120CTG","http://www.onsemi.com/pub/Collateral/NTST40120CT-D.PDF","Schottky Power Rectifier, Dual, 40 A, 120 V, TO-220","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 40 A, 120 V","Common Cathode","120","0.91","500","40","250",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST40120CTG","NTST40120CTH","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST40120CTH","http://www.onsemi.com/pub/Collateral/NTST40120CT-D.PDF","Schottky Power Rectifier, Dual, 40 A, 120 V, TO-220","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 40 A, 120 V","Common Cathode","120","0.91","500","40","250",,,"D<sup>2</sup>PAK-3
+I<sup>2</sup>PAK-3
+TO-220 FULLPAK-3
+TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTST40H120E","NTST40H120ECTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTST40H120ECTG","http://www.onsemi.com/pub/Collateral/NTST40H120ECT-D.PDF","Trench Schottky Rectifier, Very Low Leakage, 40A, 120V, Dual Die","Pb-free","Active","Trench Schottky Rectifier, Very Low Leakage, 40A, 120V, Dual Die",,"120","0.93","35","40",,,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSV20100CTG","NTSV20100CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSV20100CTG","http://www.onsemi.com/pub/Collateral/NTSV20100CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 100 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 100 V","Common Cathode","100","0.98","800","20","100",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSV2080CTG","NTSV2080CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSV2080CTG","http://www.onsemi.com/pub/Collateral/NTSV2080CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 80 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 80 V","Common Cathode","80","0.98","600","20","100",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSV20H120E","NTSV20H120ECTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSV20H120ECTG","http://www.onsemi.com/pub/Collateral/NTSV20H120ECT-D.PDF","Trench Schottky Rectifier Very Low Leakage, 20A, 120V in TO-220 Package","AEC Qualified
+Pb-free
+Halide free","Active","Trench Schottky Rectifier Very Low Leakage, 20A, 120V in TO-220 Package",,"120","1","30","20","125",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSV20U80CTG","NTSV20U80CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSV20U80CTG","http://www.onsemi.com/pub/Collateral/NTSV20U80CT-D.PDF","Schottky Power Rectifier, Dual, 20 A, 80 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 20 A, 80 V","Common Cathode","80","0.98","600","20","100",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSV30100SG","NTSV30100SG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSV30100SG","http://www.onsemi.com/pub/Collateral/NTSV30100S-D.PDF","Schottky Rectifier, Very Low Forward Voltage, 30 A, 100 V","Pb-free
+Halide free","Active","Schottky Rectifier, Very Low Forward Voltage, 30 A, 100 V","Single","100","1.1","1000","30","100",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","NTSV3080CTG","NTSV3080CTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NTSV3080CTG","http://www.onsemi.com/pub/Collateral/NTSV3080CT-D.PDF","Schottky Power Rectifier, Dual, 30 A, 80 V","Pb-free
+Halide free","Active","Schottky Power Rectifier, Dual, 30 A, 80 V","Common Cathode","80","1.05","700","30","100",,,"TO-220-3"
+"on","二极管和整流器---肖特基二极管及整流器","RB520S30","RB520S30T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=RB520S30T1G","http://www.onsemi.com/pub/Collateral/RB520S30T1-D.PDF","Schottky Barrier Diode, 30 V","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 30 V","Single","30","0.6","1","0.2","-","-","10","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","RB520S30","RB520S30T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=RB520S30T5G","http://www.onsemi.com/pub/Collateral/RB520S30T1-D.PDF","Schottky Barrier Diode, 30 V","AEC Qualified
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 30 V","Single","30","0.6","1","0.2","-","-","10","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","RB751S40","NSVRB751S40T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVRB751S40T1G","http://www.onsemi.com/pub/Collateral/RB751S40T1-D.PDF","Schottky Barrier Diode, 30 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 30 V","Single","30","0.37","0.5","0.03","0.5","-","2.5","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","RB751S40","RB751S40T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=RB751S40T1G","http://www.onsemi.com/pub/Collateral/RB751S40T1-D.PDF","Schottky Barrier Diode, 30 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 30 V","Single","30","0.37","0.5","0.03","0.5","-","2.5","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","RB751S40","RB751S40T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=RB751S40T5G","http://www.onsemi.com/pub/Collateral/RB751S40T1-D.PDF","Schottky Barrier Diode, 30 V, SS 40V SHTKY SOD523","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Schottky Barrier Diode, 30 V","Single","30","0.37","0.5","0.03","0.5","-","2.5","SOD-523-2"
+"on","二极管和整流器---肖特基二极管及整流器","SB007-03C","SB007-03C-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB007-03C-TB-E","http://www.onsemi.com/pub/Collateral/SB007-03C-D.PDF","Schottky Barrier Diode, 30V, 70mA, Low IR, Single CP","Pb-free","Active","Schottky Barrier Diode, 30V, 70mA, Low IR, Single CP","Single","30","0.55","5","0.07","2","10","3","SC-59-3 / CP-3"
+"on","二极管和整流器---肖特基二极管及整流器","SB01-05C","SB01-05C-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB01-05C-TB-E","http://www.onsemi.com/pub/Collateral/SB01-05C-D.PDF","Schottky Barrier Diode, 50V, 0.1A, Low IR, Single CP","Pb-free","Active","Schottky Barrier Diode, 50V, 0.1A, Low IR, Single CP","Single","50","0.55","15","0.1","2","10","4.4","SC-59-3 / CP-3"
+"on","二极管和整流器---肖特基二极管及整流器","SB01-15C","SB01-15C-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB01-15C-TB-E","http://www.onsemi.com/pub/Collateral/SB01-15C-D.PDF","Schottky Barrier Diode, 150V, 0.1A, Low IR, Single CP","Pb-free","Active","Schottky Barrier Diode, 150V, 0.1A, Low IR, Single CP","Single","150","0.75","50","0.1","5","10","7","SC-59-3 / CP-3"
+"on","二极管和整流器---肖特基二极管及整流器","SB05-03C","SB05-03C-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB05-03C-TB-E","http://www.onsemi.com/pub/Collateral/SB05-03C-D.PDF","Schottky Barrier Diode, 30V, 0.5A, Low IR, Single CP","Pb-free","Active","Schottky Barrier Diode, 30V, 0.5A, Low IR, Single CP","Single","30","0.55","30","0.5","5","10","16","SC-59-3 / CP-3"
+"on","二极管和整流器---肖特基二极管及整流器","SB05-05C","SB05-05C-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB05-05C-TB-E","http://www.onsemi.com/pub/Collateral/SB05-05C-D.PDF","Schottky Barrier Diode, 50V, 0.5A, Low IR, Single CP","Pb-free","Active","Schottky Barrier Diode, 50V, 0.5A, Low IR, Single CP","Single","50","0.55","50","0.5","5","10","17","SC-59-3 / CP-3"
+"on","二极管和整流器---肖特基二极管及整流器","SB05W05C","SB05W05C-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB05W05C-TB-E","http://www.onsemi.com/pub/Collateral/SB05W05C-D.PDF","Schottky Barrier Diode, 50V, 0.5A, Low IR, Monolithic Dual CP Common Cathode","Pb-free","Active","Schottky Barrier Diode, 50V, 0.5A, Low IR, Monolithic Dual CP Common Cathode","Common Cathode","50","0.55","50","0.5","5","10","24","SC-59-3 / CP-3"
+"on","二极管和整流器---肖特基二极管及整流器","SB07-03P","SB07-03P-TD-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB07-03P-TD-E","http://www.onsemi.com/pub/Collateral/EN2981-D.PDF","Schottky Barrier Diode, 30V, 0.7A, Low IR, Single PCP","Pb-free","Active","Schottky Barrier Diode, 30V, 0.7A, Low IR, Single PCP","Single","30","0.55","80","0.7","5","10","26","SOT-89 / PCP-1"
+"on","二极管和整流器---肖特基二极管及整流器","SB10015M","SB10015M-TL-W","http://www.onsemi.cn/PowerSolutions/product.do?id=SB10015M-TL-W","http://www.onsemi.com/pub/Collateral/ENA0444-D.PDF","Schottky Barrier Diode, 15V, 1A, Low IR, Single MCPH3","Pb-free
+Halide free","Active","Schottky Barrier Diode, 15V, 1A, Low IR, Single MCPH3","Single","15","0.48","3","1","10","10","20","SC-70FL / MCPH-3"
+"on","二极管和整流器---肖特基二极管及整流器","SB20-03P","SB20-03P-TD-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SB20-03P-TD-E","http://www.onsemi.com/pub/Collateral/EN2985-D.PDF","Schottky Barrier Diode, 30V, 2A, Low IR, Single PCP","Pb-free","Active","Schottky Barrier Diode, 30V, 2A, Low IR, Single PCP","Single","30","0.55","100","2","20","20","70","SOT-89 / PCP-1"
+"on","二极管和整流器---肖特基二极管及整流器","SB3003CH","SB3003CH-TL-W","http://www.onsemi.cn/PowerSolutions/product.do?id=SB3003CH-TL-W","http://www.onsemi.com/pub/Collateral/SB3003CH-D.PDF","Schottky Barrier Diode, 30V, 3A, Low IR, Single","Pb-free
+Halide free","ActiveNEW","Schottky Barrier Diode, 30V, 3A, Low IR, Single","Single","30","0.485","42","3","20","20","90","CPH-6"
+"on","二极管和整流器---肖特基二极管及整流器","SB80W10T","SB80W10T-H","http://www.onsemi.cn/PowerSolutions/product.do?id=SB80W10T-H","http://www.onsemi.com/pub/Collateral/ENA1817-D.PDF","Schottky Barrier Diode, 100V, 8A, Low IR, Monolithic Dual TP Common Cathode","Pb-free
+Halide free","Active","Schottky Barrier Diode, 100V, 8A, Low IR, Monolithic Dual TP Common Cathode","Single","100","0.8","1000","8","40",,"90","DPAK / TP-FA
+IPAK / TP"
+"on","二极管和整流器---肖特基二极管及整流器","SB80W10T","SB80W10T-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=SB80W10T-TL-H","http://www.onsemi.com/pub/Collateral/ENA1817-D.PDF","Schottky Barrier Diode, 100V, 8A, Low IR, Monolithic Dual TP Common Cathode","Pb-free
+Halide free","Active","Schottky Barrier Diode, 100V, 8A, Low IR, Monolithic Dual TP Common Cathode","Single","100","0.8","1000","8","40",,"90","DPAK / TP-FA
+IPAK / TP"
+"on","二极管和整流器---肖特基二极管及整流器","SBE002","SBE002-TL-W","http://www.onsemi.cn/PowerSolutions/product.do?id=SBE002-TL-W","http://www.onsemi.com/pub/Collateral/EN6343-D.PDF","Schottky Barrier Diode, 50V, 1A, Low IR, Single CPH6","Pb-free
+Halide free","Active","Schottky Barrier Diode, 50V, 1A, Low IR, Single CPH6","Single","50","0.55","80","1","10","10","52","CPH-6"
+"on","二极管和整流器---肖特基二极管及整流器","SBE807","SBE807-TL-W","http://www.onsemi.cn/PowerSolutions/product.do?id=SBE807-TL-W","http://www.onsemi.com/pub/Collateral/ENA1055-D.PDF","Schottky Barrier Diode, 30V, 1A, Low IR","Pb-free
+Halide free","Active","Schottky Barrier Diode, 30V, 1A, Low IR","Dual","30","0.53","15","1","10","10","27","CPH-5"
+"on","二极管和整流器---肖特基二极管及整流器","SBE813","SBE813-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SBE813-TL-E","http://www.onsemi.com/pub/Collateral/EN8967-D.PDF","Schottky Barrier Diode, 30V, 3A, Low IR, Non-Monolithic Dual VEC8 Common Cathode","Pb-free","Active","Schottky Barrier Diode, 30V, 3A, Low IR, Non-Monolithic Dual VEC8 Common Cathode","Dual","30","0.485","42","3","20","20","90","SOT-28FL / VEC-8"
+"on","二极管和整流器---肖特基二极管及整流器","SBT700-06RH","SBT700-06RH-1E","http://www.onsemi.cn/PowerSolutions/product.do?id=SBT700-06RH-1E","http://www.onsemi.com/pub/Collateral/ENA1635-D.PDF","Schottky Barrier Diode 60V, 70A, VF; 0.66V Dual To-3PF-3L Cathode Common","Pb-free","Active","Schottky Barrier Diode 60V, 70A, VF; 0.66V Dual To-3PF-3L Cathode Common","Dual","60","0.66","1000","70","200",,"1400","TO-3PF-3L"
+"on","二极管和整流器---肖特基二极管及整流器","SS0503SH","SS0503SH-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SS0503SH-TL-E","http://www.onsemi.com/pub/Collateral/SS0503SH-D.PDF","Schottky Barrier Diode, 30V, 0.5A, Low VF, Single SCH6","Pb-free","Active","Schottky Barrier Diode, 30V, 0.5A, Low VF, Single SCH6","Single","30","0.42","120","0.5","5","10","13","SOT-563 / SCH-6"
+"on","二极管和整流器---肖特基二极管及整流器","SS2003M","SS2003M-TL-W","http://www.onsemi.cn/PowerSolutions/product.do?id=SS2003M-TL-W","http://www.onsemi.com/pub/Collateral/EN8345-D.PDF","Schottky Barrier Diode, 2.0 A, 30 V","Pb-free
+Halide free","Active","Schottky Barrier Diode, 2.0 A, 30 V","Single","30","0.35","1250","2","10","20","75","SC-88FL / MCPH-6"
+"on","二极管和整流器---肖特基二极管及整流器","SS26","NRVBSS26T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVBSS26T3G","http://www.onsemi.com/pub/Collateral/SS26-D.PDF","60 V, 2.0 A Schottky Rectifier","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","60 V, 2.0 A Schottky Rectifier","Single","60","0.63","20","2","40",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","SS26","SS26T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SS26T3G","http://www.onsemi.com/pub/Collateral/SS26-D.PDF","60 V, 2.0 A Schottky Rectifier","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","60 V, 2.0 A Schottky Rectifier","Single","60","0.63","20","2","40",,,"SMB-2"
+"on","二极管和整流器---肖特基二极管及整流器","TS12100EMFS","NRVTS12100EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS12100EMFST1G","http://www.onsemi.com/pub/Collateral/NTS12100EMFS-D.PDF","Trench Schottky Rectifier  Very Low Leakage 12A, 100V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier  Very Low Leakage 12A, 100V  ",,"100","0.73","55","12","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","TS12100EMFS","NRVTS12100EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS12100EMFST3G","http://www.onsemi.com/pub/Collateral/NTS12100EMFS-D.PDF","Trench Schottky Rectifier  Very Low Leakage 12A, 100V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier  Very Low Leakage 12A, 100V  ",,"100","0.73","55","12","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","TS12100EMFS","NTS12100EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS12100EMFST1G","http://www.onsemi.com/pub/Collateral/NTS12100EMFS-D.PDF","Trench Schottky Rectifier  Very Low Leakage 12A, 100V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier  Very Low Leakage 12A, 100V  ",,"100","0.73","55","12","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","TS12100EMFS","NTS12100EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS12100EMFST3G","http://www.onsemi.com/pub/Collateral/NTS12100EMFS-D.PDF","Trench Schottky Rectifier  Very Low Leakage 12A, 100V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier  Very Low Leakage 12A, 100V  ",,"100","0.73","55","12","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","TS12120EMFS","NRVTS12120EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS12120EMFST1G","http://www.onsemi.com/pub/Collateral/NTS12120EMFS-D.PDF","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V",,"120","0.83","55","12","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","TS12120EMFS","NRVTS12120EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NRVTS12120EMFST3G","http://www.onsemi.com/pub/Collateral/NTS12120EMFS-D.PDF","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V",,"120","0.83","55","12","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","TS12120EMFS","NTS12120EMFST1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS12120EMFST1G","http://www.onsemi.com/pub/Collateral/NTS12120EMFS-D.PDF","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V",,"120","0.83","55","12","200",,,"SO-8FL / DFN-5"
+"on","二极管和整流器---肖特基二极管及整流器","TS12120EMFS","NTS12120EMFST3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NTS12120EMFST3G","http://www.onsemi.com/pub/Collateral/NTS12120EMFS-D.PDF","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Trench Schottky Rectifier with Very Low Leakage, 12 A, 120 V",,"120","0.83","55","12","200",,,"SO-8FL / DFN-5"

@@ -1,0 +1,90 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Motor Control---BLDC","E910.87","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/02_bldc/e910-87_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=32&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=12e9a7fb5ea4bb134af637ebcb94e1db","3x Half-Bridge Driver with Adjustable Slew Rate","SPI for configuration  "," "," "," "," "," "," "," "," "," "," "," "," "," ","6.5V to 27V (40V)  "," "," ","6x ±300mA  ","6x ±40mA  ","≈800W  "," "," "," "," ","≈16Ω (HS)
+≈8Ω (LS) "," "," "," ","QFN44L7 "," "," 3 or 6 channel PWM control mode 
+Adjustable slew rate 
+Extensive protection system
+Auto dead time generation
+T
+ peak = +150°C"
+"elmos","Motor Control---BLDC","E523.50","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/02_bldc/e523-50_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=129&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=c8e80b48209d886104c397118d11c416","72V Brushless Motor Gate Driver","PWM for motor control  Diagnostic PINs  "," "," "," "," "," "," "," "," "," "," "," "," "," ","12V to 72V (7V to 76V)  "," "," ","6x ±500mA  ","6x ±50mA  ","≈6kW  "," "," "," "," ","10Ω (HS)
+5Ω (LS) "," "," "," ","QFN36L7 ","Engineering
+Samples "," DC/DC converter for gate supply 
+3.3V/20mA supply for external µC
+Usable for 48V Board Net
+T
+ peak = +150°C"
+"elmos","Motor Control---BLDC","E523.10","http://www.elmos.com/-","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=487&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=f281d4b15508daed622b8b47e084717c","BLDC-Motor Driver with Cold-Crank Capability"," PWM bidirectional
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (4.5V to 42V)  "," "," ","6x +400mA 6x -600mA  ","6x ±75mA  ","≈1.5kW (external FETs)<br />≈3W (direct drive)  "," "," "," "," ","8Ω (HS)
+4Ω (LS) "," "," "," ","QFN44L7 
+QSOP44 "," "," Voltage Regulator (3.3V/5V) selectable
+Precise deadtime generation
+Watchdog/Diagnostics
+T
+ peak = +170°C
+Demo software on request (sensorless sinus)"
+"elmos","Motor Control---BLDC","E523.52","http://www.elmos.com/-","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=489&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=5609bd92fbbbda16e904edc8be6e9469","72V Brushless Motor Gate Driver with 16bit CPU","SPI for configuration PWM Interface with external components LIN Interface with external LIN transceiver Flash Update via LIN  "," "," "," "," "," "," "," "," "," "," "," "," "," ","12V to 72V (7V to 76V)  "," "," ","6x ±500mA  ","6x ±50mA  ","≈6kW  "," "," "," "," ","10Ω (HS)
+5Ω (LS) "," "," "," ","QFN36L7 "," "," 16bit / 48 MHz CPU assisted by 2 powerful co-processors
+Library  ROM for LIN-stack and UDS software update via LIN(software support on request)
+Standard HVAC fan firmware on request
+T
+ peak = +125°C  (contact supplier for higher temperature)"
+"elmos","Motor Control---BLDC","E523.15","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/02_bldc/e523-05-15_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=203&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=baf3228fd57eeae50be5ec2ecf28949f","BLDC Motor Controller with 16bit CPU (LIN / PWM Interface)"," LIN 2.x (1.3 comp.) orSAE-J2602
+(only E523.05) or
+PWM bidirectional
+SPI for configuration
+LIN Flash update
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","6x ±400mA  ","6x ±75mA  ","≈1.5kW (external FETs)<br />≈3W (direct drive)  "," "," "," "," ","8Ω (HS)
+4Ω (LS) "," "," "," ","QFN48L7 "," "," 16bit / 48 MHzCPU assisted by 2 powerful co-processors
+Library  ROM for LIN-stack and UDS software update via LIN
+Software support on request
+Standard HVAC fan firmware on request
+TJunc peak = +125°C (contact supplier for higher temperature)
+E523.05 (*Plug & Play) Software for noise reduced sensorless HVAC fan with windmill synchronisation (Other applications like pumps on request)"
+"elmos","Motor Control---BLDC","E523.11","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-01c-02c-11c-12c_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=163&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=bde55cdce2fffa39d80d5d816ff27e4c","B6 Bridge FET Driver (LIN/PWM Interface)"," LIN 2.x (1.3 comp.) or SAE-J2602 
+(only E523.01) or
+PWM bidirectional
+LIN Flash update 
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","6x ±400mA  ","6x ±75mA  ","≈1.5kW (external FETs)<br />≈3W (direct drive)  "," "," "," "," ","8Ω (HS)
+4Ω (LS) "," "," "," ","QFN44L7 
+QSOP44 ","Production "," Voltage Regulator (3.3V/5V) selectable
+Precise deadtime generation
+Watchdog/Diagnostics
+T
+ peak = +170°C
+Demo software on request (sensorless sinus)"
+"elmos","Motor Control---BLDC","E523.40","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e523-40-41_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=488&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=dcbb9e1a4f3e438baddd11a9b7f83675","BLDC Motor Controller (LIN / PWM Interface)"," LIN 2.x (1.3 comp.) or 
+SAE-J2602 or
+LIN/PWM Interface
+Fast LIN Flash update 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","8V to 18V (6.5V to 42V)  "," "," ","3x±240mA  ","240mA  ","≈4.3W  "," "," "," "," ","3Ω (HS)
+3Ω (LS) "," "," "," ","QFN32L6 "," "," 8bit CPU, 8k FLASH, 8Byte E
+PROM
+Sensor supply
+4 GPIO pins for analog or digital sensor readout
+Software support on request
+T
+ peak = +150°C"
+"elmos","Motor Control---BLDC","E523.05","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/02_bldc/e523-05-15_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=203&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=baf3228fd57eeae50be5ec2ecf28949f","BLDC Motor Controller with 16bit CPU (LIN / PWM Interface)"," LIN 2.x (1.3 comp.) orSAE-J2602
+(only E523.05) or
+PWM bidirectional
+SPI for configuration
+LIN Flash update
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","6x ±400mA  ","6x ±75mA  ","≈1.5kW (external FETs)<br />≈3W (direct drive)  "," "," "," "," ","8Ω (HS)
+4Ω (LS) "," "," "," ","QFN48L7 "," "," 16bit / 48 MHzCPU assisted by 2 powerful co-processors
+Library  ROM for LIN-stack and UDS software update via LIN
+Software support on request
+Standard HVAC fan firmware on request
+TJunc peak = +125°C (contact supplier for higher temperature)
+E523.05 (*Plug & Play) Software for noise reduced sensorless HVAC fan with windmill synchronisation (Other applications like pumps on request)"
+"elmos","Motor Control---BLDC","E523.01","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-01c-02c-11c-12c_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/bldc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=163&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=bde55cdce2fffa39d80d5d816ff27e4c","B6 Bridge FET Driver (LIN/PWM Interface)"," LIN 2.x (1.3 comp.) or SAE-J2602 
+(only E523.01) or
+PWM bidirectional
+LIN Flash update 
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","6x ±400mA  ","6x ±75mA  ","≈1.5kW (external FETs)<br />≈3W (direct drive)  "," "," "," "," ","8Ω (HS)
+4Ω (LS) "," "," "," ","QFN44L7 
+QSOP44 ","Production "," Voltage Regulator (3.3V/5V) selectable
+Precise deadtime generation
+Watchdog/Diagnostics
+T
+ peak = +170°C
+Demo software on request (sensorless sinus)"

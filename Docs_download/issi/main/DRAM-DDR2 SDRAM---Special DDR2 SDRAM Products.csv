@@ -1,0 +1,3 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Den","Org","Type","Vcc","Refsh","Speed","Pkg(Pins)","Status","Models","Comment"
+"issi","DRAM-DDR2 SDRAM---Special DDR2 SDRAM Products","IS43DR16320","http://www.issi.com/US/product-dram-ddr2.shtml","http://www.issi.com/WW/pdf/43DR16320.pdf","512M","32Mx16","DDR2","1.8V","8K","800,667,533","BGA(84)","-","-"," "
+"issi","DRAM-DDR2 SDRAM---Special DDR2 SDRAM Products","IS43DR16640","http://www.issi.com/US/product-dram-ddr2.shtml","http://www.issi.com/WW/pdf/43-46DR81280-16640.pdf","1G","64Mx16","DDR2","1.8V","8K","800,667,533,400","BGA(84)","-","-"," "

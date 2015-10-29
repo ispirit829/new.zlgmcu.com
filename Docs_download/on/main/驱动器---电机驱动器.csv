@@ -1,0 +1,673 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","VM Min (V)","VM Max (V)","VCC Min (V)","VCC Max (V)","IO Max (A)","IO Peak Max (A)","Step Resolution","Control Type","Feedback Method","Current Sense","Regulator Output","Fault Detection","Flyback Protection","RDS(on) Typ (Ω)","Package Type"
+"on","驱动器---电机驱动器","AMIS-30421","AMIS30421C4211RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30421C4211RG","http://www.onsemi.com/pub/Collateral/AMIS-30421-D.PDF","Motor Pre-Driver, Microstepping Stepper, with Motor Bridge Control","Pb-free
+Halide free","Active","Motor Pre-Driver, Microstepping Stepper, with Motor Bridge Control","Stepper","6","40",,,"10","10","1/64","SPI","Back EMF/Sensorless","External Resistor","Yes","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"QFN-44"
+"on","驱动器---电机驱动器","AMIS-30512","AMIS30512C5122RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30512C5122RG","http://www.onsemi.com/pub/Collateral/AMIS30512-D.PDF","Microstepping Motor Driver","Pb-free
+Halide free","Active","Microstepping Motor Driver","Stepper","6","40",,,"0.8","0.8","1/32","SPI","Back EMF/Sensorless","Fully Integrated","Yes","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"SOIC-24"
+"on","驱动器---电机驱动器","AMIS-30522","AMIS30522C5222RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30522C5222RG","http://www.onsemi.com/pub/Collateral/AMIS-30522-D.PDF","Stepper Motor Driver with Comprehensive Diagnostic Feedback and SLA Output","Pb-free
+Halide free","Active","Stepper Motor Driver with Comprehensive Diagnostic Feedback and SLA Output","Stepper","6","40",,,"1.6","1.6","1/32","SPI","Back EMF/Sensorless","Fully Integrated","Yes","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"NQFP-32"
+"on","驱动器---电机驱动器","AMIS-30543","AMIS30543C5431RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30543C5431RG","http://www.onsemi.com/pub/Collateral/AMIS-30543-D.PDF","Microstepping Motor Driver","Pb-free
+Halide free","Active","Microstepping Motor Driver","Stepper","6","40",,,"3","3","1/128","SPI","Back EMF/Sensorless","Fully Integrated","Yes","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"QFN-32"
+"on","驱动器---电机驱动器","AMIS-30622","AMIS30622C6227G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30622C6227G","http://www.onsemi.com/pub/Collateral/AMIS-30622-D.PDF","Stepper Motor Driver and Controller with I","Pb-free
+Halide free","Active","Stepper Motor Driver and Controller with I<sup>2</sup>C Bus, Microstepping Features and Stall Detection","Stepper","6","40",,,"0.8","0.8","1/16","I2C","Back EMF/Sensorless","Fully Integrated","No","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"NQFP-32
+SOIC-20W"
+"on","驱动器---电机驱动器","AMIS-30622","AMIS30622C6227RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30622C6227RG","http://www.onsemi.com/pub/Collateral/AMIS-30622-D.PDF","Stepper Motor Driver and Controller with I","Pb-free
+Halide free","Active","Stepper Motor Driver and Controller with I<sup>2</sup>C Bus, Microstepping Features and Stall Detection","Stepper","6","40",,,"0.8","0.8","1/16","I2C","Back EMF/Sensorless","Fully Integrated","No","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"NQFP-32
+SOIC-20W"
+"on","驱动器---电机驱动器","AMIS-30622","AMIS30622C6228RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30622C6228RG","http://www.onsemi.com/pub/Collateral/AMIS-30622-D.PDF","Stepper Motor Driver and Controller with I","Pb-free
+Halide free","Active","Stepper Motor Driver and Controller with I<sup>2</sup>C Bus, Microstepping Features and Stall Detection","Stepper","6","40",,,"0.8","0.8","1/16","I2C","Back EMF/Sensorless","Fully Integrated","No","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"NQFP-32
+SOIC-20W"
+"on","驱动器---电机驱动器","AMIS-30624","AMIS30624C6244G","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30624C6244G","http://www.onsemi.com/pub/Collateral/AMIS-30624-D.PDF","Microstepping Motor Driver and Controller with I2C Bus and Stall Detection","Pb-free
+Halide free","Active","Microstepping Motor Driver and Controller with I2C Bus and Stall Detection","Stepper","6","40",,,"0.8","0.8","1/16","I2C","Back EMF/Sensorless","Fully Integrated","No","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"NQFP-32
+SOIC-20W"
+"on","驱动器---电机驱动器","AMIS-30624","AMIS30624C6244RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30624C6244RG","http://www.onsemi.com/pub/Collateral/AMIS-30624-D.PDF","Microstepping Motor Driver and Controller with I2C Bus and Stall Detection","Pb-free
+Halide free","Active","Microstepping Motor Driver and Controller with I2C Bus and Stall Detection","Stepper","6","40",,,"0.8","0.8","1/16","I2C","Back EMF/Sensorless","Fully Integrated","No","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"NQFP-32
+SOIC-20W"
+"on","驱动器---电机驱动器","AMIS-30624","AMIS30624C6245RG","http://www.onsemi.cn/PowerSolutions/product.do?id=AMIS30624C6245RG","http://www.onsemi.com/pub/Collateral/AMIS-30624-D.PDF","Microstepping Motor Driver and Controller with I2C Bus and Stall Detection","Pb-free
+Halide free","Active","Microstepping Motor Driver and Controller with I2C Bus and Stall Detection","Stepper","6","40",,,"0.8","0.8","1/16","I2C","Back EMF/Sensorless","Fully Integrated","No","Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"NQFP-32
+SOIC-20W"
+"on","驱动器---电机驱动器","CS3351","CS3351YDR14G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS3351YDR14G","http://www.onsemi.com/pub/Collateral/CS3341-D.PDF","Alternator Voltage Regulator Darlington Driver","Pb-free
+Halide free","Active","Alternator Voltage Regulator Darlington Driver","Regulator",,"27","9","27",,,,,,"None","No",,,,"SOIC-14"
+"on","驱动器---电机驱动器","CS8190","CS8190EDWFR20G","http://www.onsemi.cn/PowerSolutions/product.do?id=CS8190EDWFR20G","http://www.onsemi.com/pub/Collateral/CS8190-D.PDF","Motor Driver, Precision Air-Core, Tachometer / Speedometer, with Return to Zero","Pb-free
+Halide free","Active","Motor Driver, Precision Air-Core, Tachometer / Speedometer, with Return to Zero",,"8.5","24","8.5","15","0.01","0.042",,,"None","None","Yes",,,,"SOIC-20W"
+"on","驱动器---电机驱动器","LA6581MC","LA6581MC-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6581MC-BH","http://www.onsemi.com/pub/Collateral/ENA2028-D.PDF","Single-Phase Full-Wave BTL Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave BTL Fan Motor Driver","Single-Phase Fan Motor","2.2","16","2.2","16","0.4","0.5",,"DC",,"None",,"Thermal",,,"SOIC-8"
+"on","驱动器---电机驱动器","LA6584JA","LA6584JA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6584JA-AH","http://www.onsemi.com/pub/Collateral/ENA2125-D.PDF","BTL Driver Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","BTL Driver Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","2.8","14","2.8","14","1.2",,,"DC",,"None",,"Lock
+Thermal",,,"SSOP-20"
+"on","驱动器---电机驱动器","LA6584JA","LA6584JA-ZH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6584JA-ZH","http://www.onsemi.com/pub/Collateral/ENA2125-D.PDF","BTL Driver Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","BTL Driver Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","2.8","14","2.8","14","1.2",,,"DC",,"None",,"Lock
+Thermal",,,"SSOP-20"
+"on","驱动器---电机驱动器","LA6585FA","LA6585FA-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6585FA-BH","http://www.onsemi.com/pub/Collateral/ENA2088-D.PDF","Single-Phase Full-Wave BTL Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave BTL Fan Motor Driver","Single-Phase Fan Motor","2.2","14","2.2","14",,"0.5",,"DC",,"None",,"Lock
+Thermal",,,"Micro8™"
+"on","驱动器---电机驱动器","LA6586FA","LA6586FA-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6586FA-BH","http://www.onsemi.com/pub/Collateral/ENA2043-D.PDF","Single-Phase Full-Wave BTL Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave BTL Fan Motor Driver","Single-Phase Fan Motor","2.2","14","2.2","14","0.6",,,"DC",,"None",,"Lock
+Thermal",,,"Micro10"
+"on","驱动器---电机驱动器","LA6588MC","LA6588MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6588MC-AH","http://www.onsemi.com/pub/Collateral/ENA2020-D.PDF","Single-Phase Full-Wave BTL Fan Motor Driver for 24V Power Supply","Pb-free
+Halide free","Active","Single-Phase Full-Wave BTL Fan Motor Driver for 24V Power Supply","Single-Phase Fan Motor","8","26.4","8","26.4","0.8",,,"DC",,"None",,"Lock
+Thermal",,,"SOIC-10 W / MFP-10SK"
+"on","驱动器---电机驱动器","LA6597FMC","LA6597FMC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6597FMC-AH","http://www.onsemi.com/pub/Collateral/ENA2073-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","2.2","14","2.2","14",,"1",,"DC",,"None",,"Lock
+Thermal",,,"SOIC-10 NB"
+"on","驱动器---电机驱动器","LB11600JV","LB11600JV-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11600JV-MPB-E","http://www.onsemi.com/pub/Collateral/EN8321-D.PDF","Brushless Motor Predriver for Automotive","Pb-free","Active","Brushless Motor Predriver for Automotive","Brushless DC",,,"4.5","14","0.04",,,"DC
+PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,,"SSOP-30"
+"on","驱动器---电机驱动器","LB11600JV","LB11600JV-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11600JV-TLM-E","http://www.onsemi.com/pub/Collateral/EN8321-D.PDF","Brushless Motor Predriver for Automotive","Pb-free","Active","Brushless Motor Predriver for Automotive","Brushless DC",,,"4.5","14","0.04",,,"DC
+PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,,"SSOP-30"
+"on","驱动器---电机驱动器","LB11620T","LB11620T-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11620T-TLM-H","http://www.onsemi.com/pub/Collateral/ENA0662-D.PDF","Three-Phase Direct PWM Brushless Motor Driver","Pb-free
+Halide free","Active","Three-Phase Direct PWM Brushless Motor Driver","Brushless DC",,,"8","17","0.025","0.03",,"PWM",,"External Resistor",,"Lock
+Over-Current
+UVLO",,,"TSSOP-24"
+"on","驱动器---电机驱动器","LB11651","LB11651-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11651-E","http://www.onsemi.com/pub/Collateral/ENN7391-D.PDF","PWM Inuput Forward/Reverse Brush Motor Driver","Pb-free","Active","PWM Inuput Forward/Reverse Brush Motor Driver","Brush DC","8","30","3","7","3","4",,"Parallel",,"External Resistor","No","Over-Current
+Thermal
+UVLO","Integrated Active",,"SIP-14"
+"on","驱动器---电机驱动器","LB11660RV","LB11660RV-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11660RV-MPB-H","http://www.onsemi.com/pub/Collateral/LB11660RV-D.PDF","Half-pre Motor Driver, Single-Phase Full-Wave Drive, for Fan Motor","Pb-free
+Halide free","ActiveNEW","Half-pre Motor Driver, Single-Phase Full-Wave Drive, for Fan Motor","Single-Phase Fan Motor","3","15","4","15","1.5",,,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB11660RV","LB11660RV-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11660RV-TLM-H","http://www.onsemi.com/pub/Collateral/LB11660RV-D.PDF","Half-pre Motor Driver, Single-Phase Full-Wave Drive, for Fan Motor","Pb-free
+Halide free","ActiveNEW","Half-pre Motor Driver, Single-Phase Full-Wave Drive, for Fan Motor","Single-Phase Fan Motor","3","15","4","15","1.5",,,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB11660RV","LB11660RV-W-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11660RV-W-AH","http://www.onsemi.com/pub/Collateral/LB11660RV-D.PDF","Half-pre Motor Driver, Single-Phase Full-Wave Drive, for Fan Motor","Pb-free
+Halide free","ActiveNEW","Half-pre Motor Driver, Single-Phase Full-Wave Drive, for Fan Motor","Single-Phase Fan Motor","3","15","4","15","1.5",,,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB11669MC","LB11669MC-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11669MC-BH","http://www.onsemi.com/pub/Collateral/ENA2075-D.PDF","Two-Phase Half-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Two-Phase Half-Wave Fan Motor Driver","Two-Phase Fan Motor",,"30","5.95","6.65","0.4","0.8",,"DC",,"None",,"Lock
+Thermal",,,"SOIC-10 NB"
+"on","驱动器---电机驱动器","LB11685AV","LB11685AV-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11685AV-MPB-H","http://www.onsemi.com/pub/Collateral/ENA1772-D.PDF","Motor Driver, 3-Phase, Sensor Less","Pb-free
+Halide free","Active","Motor Driver, 3-Phase, Sensor Less","Brushless DC","4.5","18","4.5","18",,"1.2",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"SSOP-24J"
+"on","驱动器---电机驱动器","LB11685AV","LB11685AV-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11685AV-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1772-D.PDF","Motor Driver, 3-Phase, Sensor Less","Pb-free
+Halide free","Active","Motor Driver, 3-Phase, Sensor Less","Brushless DC","4.5","18","4.5","18",,"1.2",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"SSOP-24J"
+"on","驱动器---电机驱动器","LB11693H","LB11693H-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11693H-MPB-E","http://www.onsemi.com/pub/Collateral/ENA0287-D.PDF","Direct PWM Drive 3-Phase Brushless Motor Driver for Driving 24V Fan Motors","Pb-free","Active","Direct PWM Drive 3-Phase Brushless Motor Driver for Driving 24V Fan Motors","Three-Phase Fan Motor","9.5","28","9.5","28",,"1.8",,"DC
+PWM",,"External Resistor","Yes","Lock
+Thermal
+UVLO",,,"HSOP-36B"
+"on","驱动器---电机驱动器","LB11693H","LB11693H-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11693H-TLM-E","http://www.onsemi.com/pub/Collateral/ENA0287-D.PDF","Direct PWM Drive 3-Phase Brushless Motor Driver for Driving 24V Fan Motors","Pb-free","Active","Direct PWM Drive 3-Phase Brushless Motor Driver for Driving 24V Fan Motors","Three-Phase Fan Motor","9.5","28","9.5","28",,"1.8",,"DC
+PWM",,"External Resistor","Yes","Lock
+Thermal
+UVLO",,,"HSOP-36B"
+"on","驱动器---电机驱动器","LB11693H","LB11693H-TRM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11693H-TRM-E","http://www.onsemi.com/pub/Collateral/ENA0287-D.PDF","Direct PWM Drive 3-Phase Brushless Motor Driver for Driving 24V Fan Motors","Pb-free","Active","Direct PWM Drive 3-Phase Brushless Motor Driver for Driving 24V Fan Motors","Three-Phase Fan Motor","9.5","28","9.5","28",,"1.8",,"DC
+PWM",,"External Resistor","Yes","Lock
+Thermal
+UVLO",,,"HSOP-36B"
+"on","驱动器---电机驱动器","LB11696V","LB11696V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11696V-MPB-E","http://www.onsemi.com/pub/Collateral/LB11696V-D.PDF","Direct PWM Drive Brushless Motor Predriver","Pb-free","Active","Direct PWM Drive Brushless Motor Predriver","Brushless DC",,,"4.5","17","0.03",,,"DC
+PWM",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"SSOP-30"
+"on","驱动器---电机驱动器","LB11696V","LB11696V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11696V-TLM-E","http://www.onsemi.com/pub/Collateral/LB11696V-D.PDF","Direct PWM Drive Brushless Motor Predriver","Pb-free","Active","Direct PWM Drive Brushless Motor Predriver","Brushless DC",,,"4.5","17","0.03",,,"DC
+PWM",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"SSOP-30"
+"on","驱动器---电机驱动器","LB11696V","LB11696V-TRM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11696V-TRM-E","http://www.onsemi.com/pub/Collateral/LB11696V-D.PDF","Direct PWM Drive Brushless Motor Predriver","Pb-free","Active","Direct PWM Drive Brushless Motor Predriver","Brushless DC",,,"4.5","17","0.03",,,"DC
+PWM",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"SSOP-30"
+"on","驱动器---电机驱动器","LB11822","LB11822-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11822-E","-","Three-Phase Brushless Motor Driver","Pb-free","Active","Three-Phase Brushless Motor Driver","Brushless DC",,,"9.5","30","3.1",,,"Clock","PLL+Discriminator","External Resistor","Yes","Lock
+Thermal","External",,"PDIP-30"
+"on","驱动器---电机驱动器","LB11847","LB11847-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11847-E","http://www.onsemi.com/pub/Collateral/LB11847-D.PDF","PWM Current Control Type Stepping Motor Driver","Pb-free","Active","PWM Current Control Type Stepping Motor Driver","Stepper","10","45","4.75","7","1.5","1.75","1/16
+1/8
+¼
+½","Parallel",,"External Resistor",,"Thermal
+UVLO",,,"PDIP-30"
+"on","驱动器---电机驱动器","LB11851FA","LB11851FA-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11851FA-BH","http://www.onsemi.com/pub/Collateral/ENA2092-D.PDF","Microprocessor Fan Motor Interface Driver","Pb-free
+Halide free","Active","Microprocessor Fan Motor Interface Driver","Brushless DC",,,"6","16",,"0.02",,"PWM",,"External Resistor",,"Over-Current",,,"Micro10"
+"on","驱动器---电机驱动器","LB11852FV","LB11852FV-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11852FV-MPB-H","http://www.onsemi.com/pub/Collateral/ENA1112-D.PDF","Single-Phase Full-Wave Fan Motor Pre-Driver with Speed Control Function","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Pre-Driver with Speed Control Function","Single-Phase Fan Motor",,,"5.5","16","0.02",,,"DC
+PWM",,"External Resistor","Yes","Lock
+Over-Current",,,"SSOP-20J"
+"on","驱动器---电机驱动器","LB11852FV","LB11852FV-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11852FV-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1112-D.PDF","Single-Phase Full-Wave Fan Motor Pre-Driver with Speed Control Function","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Pre-Driver with Speed Control Function","Single-Phase Fan Motor",,,"5.5","16","0.02",,,"DC
+PWM",,"External Resistor","Yes","Lock
+Over-Current",,,"SSOP-20J"
+"on","驱动器---电机驱动器","LB11861MC","LB11861MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11861MC-AH","http://www.onsemi.com/pub/Collateral/ENA2023-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","4.5","16","4.5","16",,"1.2",,"PWM",,"None",,"Lock
+Thermal",,,"SOIC-10 W / MFP-10SK"
+"on","驱动器---电机驱动器","LB11867FV","LB11867FV-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11867FV-MPB-H","http://www.onsemi.com/pub/Collateral/LB11867FV-D.PDF","Variable Speed Single-Phase Full-Wave Pre-Driver","Pb-free
+Halide free","Active","Variable Speed Single-Phase Full-Wave Pre-Driver","Single-Phase Fan Motor",,,"5.5","16","0.02",,,"PWM",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB11867FV","LB11867FV-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11867FV-TLM-H","http://www.onsemi.com/pub/Collateral/LB11867FV-D.PDF","Variable Speed Single-Phase Full-Wave Pre-Driver","Pb-free
+Halide free","Active","Variable Speed Single-Phase Full-Wave Pre-Driver","Single-Phase Fan Motor",,,"5.5","16","0.02",,,"PWM",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB11868V","LB11868V-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11868V-MPB-H","http://www.onsemi.com/pub/Collateral/ENA1915-D.PDF","Fan Motor Pre-Driver, Single-Phase, Full-Wave, Variable Speed","Pb-free
+Halide free","Active","Fan Motor Pre-Driver, Single-Phase, Full-Wave, Variable Speed","Single-Phase Fan Motor",,,"4","16","0.03",,,"PWM",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"SSOP-20J"
+"on","驱动器---电机驱动器","LB11868V","LB11868V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11868V-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1915-D.PDF","Fan Motor Pre-Driver, Single-Phase, Full-Wave, Variable Speed","Pb-free
+Halide free","Active","Fan Motor Pre-Driver, Single-Phase, Full-Wave, Variable Speed","Single-Phase Fan Motor",,,"4","16","0.03",,,"PWM",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"SSOP-20J"
+"on","驱动器---电机驱动器","LB11872H","LB11872H-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11872H-MPB-E","http://www.onsemi.com/pub/Collateral/EN7257-D.PDF","Motor Driver, 3-Phase, Brushless","Pb-free","Active","Motor Driver, 3-Phase, Brushless","Brushless DC","10","28","10","28",,"1.2",,"Clock",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"HSOP-28H"
+"on","驱动器---电机驱动器","LB11872H","LB11872H-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11872H-TLM-E","http://www.onsemi.com/pub/Collateral/EN7257-D.PDF","Motor Driver, 3-Phase, Brushless","Pb-free","Active","Motor Driver, 3-Phase, Brushless","Brushless DC","10","28","10","28",,"1.2",,"Clock",,"External Resistor","Yes","Lock
+Over-Current
+Thermal",,,"HSOP-28H"
+"on","驱动器---电机驱动器","LB11876","LB11876-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11876-MPB-E","http://www.onsemi.com/pub/Collateral/EN8317-D.PDF","Three-Phase Brushless Motor Driver","Pb-free","Active","Three-Phase Brushless Motor Driver","Brushless DC",,,"8","17","0.03",,,"Clock",,"External Resistor","Yes","Lock
+Over-Current
+Thermal
+UVLO",,,"SSOP-36"
+"on","驱动器---电机驱动器","LB11876","LB11876-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11876-TLM-E","http://www.onsemi.com/pub/Collateral/EN8317-D.PDF","Three-Phase Brushless Motor Driver","Pb-free","Active","Three-Phase Brushless Motor Driver","Brushless DC",,,"8","17","0.03",,,"Clock",,"External Resistor","Yes","Lock
+Over-Current
+Thermal
+UVLO",,,"SSOP-36"
+"on","驱动器---电机驱动器","LB11921T","LB11921T-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11921T-TLM-E","http://www.onsemi.com/pub/Collateral/ENA0604-D.PDF","3-Phase Brushless Motor Driver","Pb-free","Active","3-Phase Brushless Motor Driver","Brushless DC",,,"4.4","8","0.01",,,"Clock",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,,"TSSOP-36"
+"on","驱动器---电机驱动器","LB11923V","LB11923V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11923V-TLM-E","http://www.onsemi.com/pub/Collateral/ENN7498-D.PDF","3-Phase Brushless Motor Driver","Pb-free","Active","3-Phase Brushless Motor Driver","Brushless DC",,,"4.4","8","0.03",,,"Clock",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,,"SSOP-44"
+"on","驱动器---电机驱动器","LB11948T","LB11948T-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11948T-MPB-E","http://www.onsemi.com/pub/Collateral/EN7947-D.PDF","PWM Current Control Stepping Motor Driver","Pb-free","Active","PWM Current Control Stepping Motor Driver","Stepper","3","15","3","15","0.4","0.5","1
+½","Parallel",,"External Resistor",,"Over-Current
+Thermal",,,"TSSOP-30"
+"on","驱动器---电机驱动器","LB11948T","LB11948T-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11948T-TLM-E","http://www.onsemi.com/pub/Collateral/EN7947-D.PDF","PWM Current Control Stepping Motor Driver","Pb-free","Active","PWM Current Control Stepping Motor Driver","Stepper","3","15","3","15","0.4","0.5","1
+½","Parallel",,"External Resistor",,"Over-Current
+Thermal",,,"TSSOP-30"
+"on","驱动器---电机驱动器","LB11961V","LB11961V-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11961V-MPB-H","http://www.onsemi.com/pub/Collateral/EN8794-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","4.5","16","4.5","16","1","1",,"DC",,"External Resistor",,"Lock
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB11961V","LB11961V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11961V-TLM-H","http://www.onsemi.com/pub/Collateral/EN8794-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","4.5","16","4.5","16","1","1",,"DC",,"External Resistor",,"Lock
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB11967V","LB11967V-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11967V-MPB-H","http://www.onsemi.com/pub/Collateral/EN8362-D.PDF","Single-Phase Variable Speed Fan Motor Pre-Driver","Pb-free
+Halide free","Active","Single-Phase Variable Speed Fan Motor Pre-Driver","Single-Phase Fan Motor","6","16","6","16","0.05",,,"PWM",,"External Resistor",,"Lock
+Over-Current",,,"SSOP-20"
+"on","驱动器---电机驱动器","LB11967V","LB11967V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11967V-TLM-H","http://www.onsemi.com/pub/Collateral/EN8362-D.PDF","Single-Phase Variable Speed Fan Motor Pre-Driver","Pb-free
+Halide free","Active","Single-Phase Variable Speed Fan Motor Pre-Driver","Single-Phase Fan Motor","6","16","6","16","0.05",,,"PWM",,"External Resistor",,"Lock
+Over-Current",,,"SSOP-20"
+"on","驱动器---电机驱动器","LB11970RV","LB11970RV-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11970RV-MPB-H","http://www.onsemi.com/pub/Collateral/ENA2095-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","3.5","16","4.5","16","1.2",,,"DC
+PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"SSOP-18"
+"on","驱动器---电机驱动器","LB11970RV","LB11970RV-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11970RV-TLM-H","http://www.onsemi.com/pub/Collateral/ENA2095-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","3.5","16","4.5","16","1.2",,,"DC
+PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"SSOP-18"
+"on","驱动器---电机驱动器","LB11988H","LB11988H-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11988H-TLM-E","http://www.onsemi.com/pub/Collateral/ENA0299-D.PDF","Three-Phase Full-Wave Fan Motor Driver","Pb-free","Active","Three-Phase Full-Wave Fan Motor Driver","Three-Phase Fan Motor","5","22","7","22",,"1",,"DC",,"External Resistor",,"Over-Current
+Thermal",,,"HSOP-28HC"
+"on","驱动器---电机驱动器","LB11988V","LB11988V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB11988V-TLM-E","http://www.onsemi.com/pub/Collateral/ENA0377-D.PDF","Current Linear Drive 3-Phase BL-Motor Driver","Pb-free","Active","Current Linear Drive 3-Phase BL-Motor Driver","Three-Phase Fan Motor","5","22","7","22",,"1.3",,"DC",,"External Resistor",,"Over-Current
+Thermal",,,"SSOP-24J"
+"on","驱动器---电机驱动器","LB1205M","LB1205M-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1205M-MPB-E","http://www.onsemi.com/pub/Collateral/EN5916-D.PDF","4-Channel Darlington Driver Array","Pb-free","Active","4-Channel Darlington Driver Array","Drivers",,"VCC","3.5","7","1.5",,,"DC",,"None",,,,,"SOIC-16-TL / MFP-16FS"
+"on","驱动器---电机驱动器","LB1205M","LB1205M-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1205M-TLM-E","http://www.onsemi.com/pub/Collateral/EN5916-D.PDF","4-Channel Darlington Driver Array","Pb-free","Active","4-Channel Darlington Driver Array","Drivers",,"VCC","3.5","7","1.5",,,"DC",,"None",,,,,"SOIC-16-TL / MFP-16FS"
+"on","驱动器---电机驱动器","LB1830MC","LB1830MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1830MC-AH","http://www.onsemi.com/pub/Collateral/ENA2049-D.PDF","Low-Voltage, Low-Saturation, Bidirectional Motor Driver","Pb-free
+Halide free","Active","Low-Voltage, Low-Saturation, Bidirectional Motor Driver","Brush DC","3","9","3","9",,"0.5",,"Parallel",,"None",,,,,"SOIC-10 NB"
+"on","驱动器---电机驱动器","LB1837M","LB1837M-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1837M-MPB-E","http://www.onsemi.com/pub/Collateral/LB1837M-D.PDF","Low-Voltage/Low-Saturation Bidirectional Constant-Voltage Regulated Motor Driver","Pb-free","Active","Low-Voltage/Low-Saturation Bidirectional Constant-Voltage Regulated Motor Driver","Stepper/ Brush DC","3","9","3","9","0.25",,"1
+½","Parallel",,"None",,"Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1837M","LB1837M-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1837M-TLM-E","http://www.onsemi.com/pub/Collateral/LB1837M-D.PDF","Low-Voltage/Low-Saturation Bidirectional Constant-Voltage Regulated Motor Driver","Pb-free","Active","Low-Voltage/Low-Saturation Bidirectional Constant-Voltage Regulated Motor Driver","Stepper/ Brush DC","3","9","3","9","0.25",,"1
+½","Parallel",,"None",,"Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1838M","LB1838M-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1838M-TLM-E","http://www.onsemi.com/pub/Collateral/LB1838M-D.PDF","Motor Driver, Low Saturation, Bidirectional, for Low Voltage Drive","Pb-free","Active","Motor Driver, Low Saturation, Bidirectional, for Low Voltage Drive","Stepper","1.8","9","2.5","9","1",,"1
+1/2
+½","Parallel",,"None",,"Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1838M","LB1838M-TRM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1838M-TRM-E","http://www.onsemi.com/pub/Collateral/LB1838M-D.PDF","Motor Driver, Low Saturation, Bidirectional, for Low Voltage Drive","Pb-free","Active","Motor Driver, Low Saturation, Bidirectional, for Low Voltage Drive","Stepper","1.8","9","2.5","9","1",,"1
+1/2
+½","Parallel",,"None",,"Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1845","LB1845-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1845-E","http://www.onsemi.com/pub/Collateral/LB1845-D.PDF","PWM Current Controlling Stepping Motor Driver","Pb-free","Active","PWM Current Controlling Stepping Motor Driver","Stepper","10","44.5","4.75","7","1.5","1.75","1
+¼
+½","Parallel",,"External Resistor",,"Thermal",,,"PDIP-30"
+"on","驱动器---电机驱动器","LB1847","LB1847-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1847-E","http://www.onsemi.com/pub/Collateral/LB1847-D.PDF","PWM Current Control Type Stepper Motor Driver","Pb-free","Active","PWM Current Control Type Stepper Motor Driver","Stepper","10","45","4.75","7","1.5","1.75","1/16
+1/8
+¼
+½","Parallel",,"External Resistor",,"Thermal
+UVLO",,,"PDIP-30"
+"on","驱动器---电机驱动器","LB1860M","LB1860M-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1860M-TLM-H","http://www.onsemi.com/pub/Collateral/LB1860_60M_61_61M-D.PDF","2-Phase Half-Wave Variable Speed Fan Motor Driver","Pb-free
+Halide free","Active","2-Phase Half-Wave Variable Speed Fan Motor Driver","Two-Phase Fan Motor",,,,,"1.5",,,,,,,,,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1862MC","LB1862MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1862MC-AH","http://www.onsemi.com/pub/Collateral/ENA2024-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","3.8","16.8","3.8","16.8",,"0.5",,"DC",,"None",,"Lock
+Thermal",,,"SOIC-10 W / MFP-10SK"
+"on","驱动器---电机驱动器","LB1867M","LB1867M-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1867M-MPB-H","http://www.onsemi.com/pub/Collateral/EN6204-D.PDF","Two-Phase Brushless Fan Motor Driver","Pb-free
+Halide free","Active","Two-Phase Brushless Fan Motor Driver","Two-Phase Fan Motor",,"60","6.4","7","1",,,"Parallel",,"None",,"Lock
+Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1867M","LB1867M-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1867M-TLM-H","http://www.onsemi.com/pub/Collateral/EN6204-D.PDF","Two-Phase Brushless Fan Motor Driver","Pb-free
+Halide free","Active","Two-Phase Brushless Fan Motor Driver","Two-Phase Fan Motor",,"60","6.4","7","1",,,"Parallel",,"None",,"Lock
+Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1876","LB1876-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1876-MPB-E","http://www.onsemi.com/pub/Collateral/EN6201-D.PDF","Three-Phase Brushless Motor Driver for Polygon Mirror Motors","Pb-free","Active","Three-Phase Brushless Motor Driver for Polygon Mirror Motors","Brushless DC","9.5","28","9.5","28",,"2.5",,"Clock",,"External Resistor","Yes","Lock
+Thermal
+UVLO",,,"HSOP-36"
+"on","驱动器---电机驱动器","LB1876","LB1876-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1876-TLM-E","http://www.onsemi.com/pub/Collateral/EN6201-D.PDF","Three-Phase Brushless Motor Driver for Polygon Mirror Motors","Pb-free","Active","Three-Phase Brushless Motor Driver for Polygon Mirror Motors","Brushless DC","9.5","28","9.5","28",,"2.5",,"Clock",,"External Resistor","Yes","Lock
+Thermal
+UVLO",,,"HSOP-36"
+"on","驱动器---电机驱动器","LB1927","LB1927-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1927-E","http://www.onsemi.com/pub/Collateral/EN6197-D.PDF","Three-Phase Brushless Motor Driver for Office Automation Equipment","Pb-free","Active","Three-Phase Brushless Motor Driver for Office Automation Equipment","Brushless DC","9.5","28","9.5","28",,"2.5",,"Clock",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"PDIP-30"
+"on","驱动器---电机驱动器","LB1929","LB1929-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1929-E","http://www.onsemi.com/pub/Collateral/EN7099-D.PDF","Three-Phase Brushless Motor Driver for Office Automation Equipment","Pb-free","Active","Three-Phase Brushless Motor Driver for Office Automation Equipment","Brushless DC","9.5","28","9.5","28",,"3.5",,"Clock",,"External Resistor",,"Lock
+Over-Current
+Thermal",,,"PDIP-30"
+"on","驱动器---电机驱动器","LB1933M","LB1933M-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1933M-MPB-E","http://www.onsemi.com/pub/Collateral/EN6505-D.PDF","Low-Voltage, Low-Saturation, Forward/Reverse Motor Driver","Pb-free","Active","Low-Voltage, Low-Saturation, Forward/Reverse Motor Driver","Stepper","1.8","7.5","2.2","7.5","1",,"1
+½","Parallel",,"None",,"Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1933M","LB1933M-TRM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1933M-TRM-E","http://www.onsemi.com/pub/Collateral/EN6505-D.PDF","Low-Voltage, Low-Saturation, Forward/Reverse Motor Driver","Pb-free","Active","Low-Voltage, Low-Saturation, Forward/Reverse Motor Driver","Stepper","1.8","7.5","2.2","7.5","1",,"1
+½","Parallel",,"None",,"Thermal",,,"SOIC-14W / MFP-14S"
+"on","驱动器---电机驱动器","LB1936V","LB1936V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1936V-TLM-E","http://www.onsemi.com/pub/Collateral/LB1936V-D.PDF","Low Voltage, Low Saturation, Bidirectional Motor Driver","Pb-free","Active","Low Voltage, Low Saturation, Bidirectional Motor Driver","Stepper/ Brush DC","2.5","9.5","2.5","9.5","0.8",,"1
+½","Parallel",,"External Resistor",,"Over-Current
+Thermal",,,"SSOP-16"
+"on","驱动器---电机驱动器","LB1938FA","LB1938FA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1938FA-AH","http://www.onsemi.com/pub/Collateral/ENA2041-D.PDF","Motor Driver, Forward / Reverse, Low Voltage, Low Saturation","Pb-free
+Halide free","Active","Motor Driver, Forward / Reverse, Low Voltage, Low Saturation","Brush DC","2.2","10","2.2","10",,"0.8",,"Parallel",,"None",,"Thermal",,,"Micro8™"
+"on","驱动器---电机驱动器","LB1938FA","LB1938FA-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1938FA-BH","http://www.onsemi.com/pub/Collateral/ENA2041-D.PDF","Motor Driver, Forward / Reverse, Low Voltage, Low Saturation","Pb-free
+Halide free","Active","Motor Driver, Forward / Reverse, Low Voltage, Low Saturation","Brush DC","2.2","10","2.2","10",,"0.8",,"Parallel",,"None",,"Thermal",,,"Micro8™"
+"on","驱动器---电机驱动器","LB1940T","LB1940T-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1940T-TLM-H","http://www.onsemi.com/pub/Collateral/LB1940T-D.PDF","2-Channel H-Bridge Constant Current Driver","Pb-free
+Halide free","Active","2-Channel H-Bridge Constant Current Driver","Stepper","1.6","7.5","1.6","7.5","0.4",,"1
+½","Parallel",,"External Resistor",,"Thermal",,,"TSSOP-20"
+"on","驱动器---电机驱动器","LB1945H","LB1945H-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1945H-MPB-E","http://www.onsemi.com/pub/Collateral/LB1945H-D.PDF","PWM Current Control Type Stepping Motor Driver","Pb-free","Active","PWM Current Control Type Stepping Motor Driver","Stepper","10","28","4.75","6","0.8","1","1
+¼
+½","Parallel",,"External Resistor",,"Thermal",,,"HSOP-28H"
+"on","驱动器---电机驱动器","LB1945H","LB1945H-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1945H-TLM-E","http://www.onsemi.com/pub/Collateral/LB1945H-D.PDF","PWM Current Control Type Stepping Motor Driver","Pb-free","Active","PWM Current Control Type Stepping Motor Driver","Stepper","10","28","4.75","6","0.8","1","1
+¼
+½","Parallel",,"External Resistor",,"Thermal",,,"HSOP-28H"
+"on","驱动器---电机驱动器","LB1948MC","LB1948MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1948MC-AH","http://www.onsemi.com/pub/Collateral/ENA2015-D.PDF","Motor Driver, Forward / Reverse, Low Saturation Voltage, 12 V","Pb-free
+Halide free","Active","Motor Driver, Forward / Reverse, Low Saturation Voltage, 12 V ","Stepper/ Brush DC","2.5","16","2.5","16",,"0.8","1
+½","Parallel",,"None",,"Thermal",,,"SOIC-10 W / MFP-10SK"
+"on","驱动器---电机驱动器","LB1962MC","LB1962MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1962MC-AH","http://www.onsemi.com/pub/Collateral/ENA2025-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","3.8","16.8","3.8","16.8",,"0.5",,"DC",,"None",,"Lock
+Thermal",,,"SOIC-10 NB"
+"on","驱动器---电机驱动器","LB1975","LB1975-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1975-E","http://www.onsemi.com/pub/Collateral/EN6087-D.PDF","3-Phase Brushless Motor Driver","Pb-free","Active","3-Phase Brushless Motor Driver","Brushless DC","20","42","4.5","7","2.5",,,"DC",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,,"PDIP-30"
+"on","驱动器---电机驱动器","LB1980H","LB1980H-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1980H-MPB-E","http://www.onsemi.com/pub/Collateral/EN5974-D.PDF","Three-Phase Brushless Motor Driver for VCR Capstan Motors","Pb-free","Active","Three-Phase Brushless Motor Driver for VCR Capstan Motors","Brushless DC","5","22","4.5","5.5","1.3",,,,,"External Resistor",,"Over-Current
+Thermal",,,"HSOP-28H"
+"on","驱动器---电机驱动器","LB1980H","LB1980H-TRM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB1980H-TRM-E","http://www.onsemi.com/pub/Collateral/EN5974-D.PDF","Three-Phase Brushless Motor Driver for VCR Capstan Motors","Pb-free","Active","Three-Phase Brushless Motor Driver for VCR Capstan Motors","Brushless DC","5","22","4.5","5.5","1.3",,,,,"External Resistor",,"Over-Current
+Thermal",,,"HSOP-28H"
+"on","驱动器---电机驱动器","LB8503V","LB8503V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB8503V-MPB-E","http://www.onsemi.com/pub/Collateral/ENA0366-D.PDF","DC Fan Motor Speed Controller","Pb-free","Active","DC Fan Motor Speed Controller","Brushless DC","7.5","17","6.5","5.5","0.0025","0.003",,"DC
+PWM",,"None",,,,,"SSOP-16"
+"on","驱动器---电机驱动器","LB8503V","LB8503V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LB8503V-TLM-E","http://www.onsemi.com/pub/Collateral/ENA0366-D.PDF","DC Fan Motor Speed Controller","Pb-free","Active","DC Fan Motor Speed Controller","Brushless DC","7.5","17","6.5","5.5","0.0025","0.003",,"DC
+PWM",,"None",,,,,"SSOP-16"
+"on","驱动器---电机驱动器","LC898111AXB","LC898111AXB-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898111AXB-MH","http://www.onsemi.com/pub/Collateral/LC898111AXB-D.PDF","Optical Image Stabilization (OIS) Controller & Driver","Pb-free
+Halide free","Active","Optical Image Stabilization (OIS) Controller & Driver","OIS/AF","2.6","3.6","2.6","3.6","0.22","0.3",,"I2C
+SPI",,,"Yes",,,,"WLCSP-48"
+"on","驱动器---电机驱动器","LC898119XC","LC898119XC-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898119XC-MH","http://www.onsemi.com/pub/Collateral/LC898119XC-D.PDF","Optical Image Stabilization (OIS) Controller & Driver","Pb-free
+Halide free","Active","Optical Image Stabilization (OIS) Controller & Driver","OIS/AF","2.6","3.6","2.6","3.6","0.22",,,"I2C",,,"Yes",,,,"WLCSP-25"
+"on","驱动器---电机驱动器","LC898122AXA","LC898122AXA-VH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898122AXA-VH","http://www.onsemi.com/pub/Collateral/LC898122AXA-D.PDF","Optical Image Stabilization (OIS) / Auto Focus (AF) Controller & Driver","Pb-free
+Halide free","Active","Optical Image Stabilization (OIS) / Auto Focus (AF) Controller & Driver","OIS/AF","2.6","3.6","2.6","3.6","0.22",,,"I2C",,,"Yes",,,,"WLCSP-30"
+"on","驱动器---电机驱动器","LC898123AXD","LC898123AXD-VH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898123AXD-VH","http://www.onsemi.com/pub/Collateral/LC898123AXD-D.PDF","Optical Image Stabilization (OIS) / Auto Focus (AF) Controller & Driver","Pb-free
+Halide free","ActiveNEW","Optical Image Stabilization (OIS) / Auto Focus (AF) Controller & Driver","OIS/AF","2.6","3.6","2.6","3.6","0.220/0.150","0.300/0.200",,"Serial",,"None","Yes",,"Integrated Active","2.4/2.9","WLCSP-35"
+"on","驱动器---电机驱动器","LC898212XC","LC898212XC-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898212XC-MH","http://www.onsemi.com/pub/Collateral/ENA2241-D.PDF","Auto Focus (AF) Controller","Pb-free
+Halide free","Active","Auto Focus (AF) Controller","OIS/AF","2.6","3.6","2.6","3.6","0.13","0.195",,"I2C",,,"Yes",,,"7.7","WLCSP-12 / WLP-12"
+"on","驱动器---电机驱动器","LC898213XC","LC898213XC-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898213XC-MH","http://www.onsemi.com/pub/Collateral/ENA2251-D.PDF","Auto Focus (AF) Controller","Pb-free
+Halide free","Active","Auto Focus (AF) Controller","OIS/AF","2.6","3.6","2.6","3.6","0.13","0.195",,"I2C",,,"Yes",,,"6.5","WLCSP-11"
+"on","驱动器---电机驱动器","LC898214XD","LC898214XD-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898214XD-MH","http://www.onsemi.com/pub/Collateral/LC898214XD-D.PDF","Auto Focus (AF) Controller","Pb-free
+Halide free","Active","Auto Focus (AF) Controller","OIS/AF","2.6","3.6","2.6","3.6","0.12","0.18",,"I2C",,,"No",,,,"WLCSP-8"
+"on","驱动器---电机驱动器","LC898300XA","LC898300XA-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898300XA-MH","http://www.onsemi.com/pub/Collateral/ENA2053-D.PDF","Linear Vibrator Driver","Pb-free
+Halide free","Active","Linear Vibrator Driver","Drivers","2.7","3.3","2.7","3.3","0.15",,,"I2C","Back EMF/Sensorless","None",,,,"4","WLCSP-9 / WLP-9"
+"on","驱动器---电机驱动器","LC898301XA","LC898301XA-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LC898301XA-MH","http://www.onsemi.com/pub/Collateral/ENA2231-D.PDF","Linear Vibrator Driver","Pb-free
+Halide free","Active","Linear Vibrator Driver","Drivers","3","5.5","3","5.5","0.2",,,"I2C","Back EMF/Sensorless","none",,"Open-Short Thermal",,"3.5","WLCSP-8"
+"on","驱动器---电机驱动器","LV11961HA","LV11961HA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV11961HA-AH","http://www.onsemi.com/pub/Collateral/LV11961HA-D.PDF","Single-phase FAN Motor Driver","Pb-free
+Halide free","Active","Single-phase FAN Motor Driver","Single-Phase Fan Motor",,,"3.6","18",,"1",,"DC","None","None",,"Lock
+Thermal
+UVLO",,"1.7","HSSOP-14"
+"on","驱动器---电机驱动器","LV8012T","LV8012T-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8012T-TLM-E","http://www.onsemi.com/pub/Collateral/LV8012T-D.PDF","Forward/Reverse Motor Driver","Pb-free","Active","Forward/Reverse Motor Driver","Stepper/ Brush DC","2","7","2.7","6",,"1.4","1
+½","Parallel",,"None",,"Thermal
+UVLO",,"0.75","TSSOP-24"
+"on","驱动器---电机驱动器","LV8018W","LV8018W-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8018W-MPB-E","-","4-Channel PWM H-Bridge Driver","Pb-free","Active","4-Channel PWM H-Bridge Driver","Brush DC","1.2","5.5","2","3.6","0.5",,,"Parallel","None","None","No","Thermal","Integrated Active",,"SPQFP-48 / SQFP-48"
+"on","驱动器---电机驱动器","LV8019V","LV8019V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8019V-MPB-E","http://www.onsemi.com/pub/Collateral/LV8019V-D.PDF","Forward/Reverse Motor Driver","Pb-free","Active","Forward/Reverse Motor Driver","Brush DC","3","7.4","2.7","7","1.2","5",,"Parallel",,"None",,"Thermal
+UVLO",,"0.3","SSOP-16"
+"on","驱动器---电机驱动器","LV8019V","LV8019V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8019V-TLM-E","http://www.onsemi.com/pub/Collateral/LV8019V-D.PDF","Forward/Reverse Motor Driver","Pb-free","Active","Forward/Reverse Motor Driver","Brush DC","3","7.4","2.7","7","1.2","5",,"Parallel",,"None",,"Thermal
+UVLO",,"0.3","SSOP-16"
+"on","驱动器---电机驱动器","LV8063FA","LV8063FA-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8063FA-BH","http://www.onsemi.com/pub/Collateral/ENA2062-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","2.2","6","2.2","6","0.7","1",,"PWM",,"None",,"Lock
+Thermal",,,"Micro10"
+"on","驱动器---电机驱动器","LV8075LP","LV8075LP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8075LP-E","http://www.onsemi.com/pub/Collateral/LV8075LP-D.PDF","Motor Driver, Forward / Reverse, 1-Channel, Constant Voltage Control","Pb-free","Active","Motor Driver, Forward / Reverse, 1-Channel, Constant Voltage Control","Brush DC","2.5","5.5","2.5","5.5","0.5",,,"Parallel",,"None",,"Thermal
+UVLO",,"1.75","VCT-16"
+"on","驱动器---电机驱动器","LV8075LP","LV8075LP-TE-L-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8075LP-TE-L-E","http://www.onsemi.com/pub/Collateral/LV8075LP-D.PDF","Motor Driver, Forward / Reverse, 1-Channel, Constant Voltage Control","Pb-free","Active","Motor Driver, Forward / Reverse, 1-Channel, Constant Voltage Control","Brush DC","2.5","5.5","2.5","5.5","0.5",,,"Parallel",,"None",,"Thermal
+UVLO",,"1.75","VCT-16"
+"on","驱动器---电机驱动器","LV8104V","LV8104V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8104V-TLM-H","http://www.onsemi.com/pub/Collateral/LV8104V-D.PDF","Motor Predriver, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Predriver, Brushless, 3-Phase","Brushless DC",,,"16","28","0.015",,,"Clock",,"External Resistor","Yes","Lock
+Thermal
+UVLO",,,"SSOP-44"
+"on","驱动器---电机驱动器","LV8111VB","LV8111VB-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8111VB-AH","http://www.onsemi.com/pub/Collateral/LV8111VB-D.PDF","3-phase Brushless Motor Driver for a Polygon Mirror Motor","Pb-free
+Halide free","Active","3-phase Brushless Motor Driver for a Polygon Mirror Motor","Brushless DC","10","37","10","37",,"3",,"Clock",,"External Resistor","Yes","Lock
+Over-Current
+Thermal
+UVLO",,"1.5","SSOP-44K EP"
+"on","驱动器---电机驱动器","LV8121V","LV8121V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8121V-TLM-H","http://www.onsemi.com/pub/Collateral/ENA2135-D.PDF","Three-Phase Brushless Motor Driver","Pb-free
+Halide free","Active","Three-Phase Brushless Motor Driver","Three-Phase Fan Motor","8","35","8","35",,"3.5",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,"0.53","SSOP-44K EP"
+"on","驱动器---电机驱动器","LV8136V","LV8136V-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8136V-MPB-H","http://www.onsemi.com/pub/Collateral/ENA2005-D.PDF","Motor Predriver, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Predriver, Brushless, 3-Phase","Brushless DC",,,"9.5","16.5",,"0.015",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,"30","SSOP-30"
+"on","驱动器---电机驱动器","LV8136V","LV8136V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8136V-TLM-H","http://www.onsemi.com/pub/Collateral/ENA2005-D.PDF","Motor Predriver, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Predriver, Brushless, 3-Phase","Brushless DC",,,"9.5","16.5",,"0.015",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,"30","SSOP-30"
+"on","驱动器---电机驱动器","LV8163QA","LV8163QA-BH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8163QA-BH","http://www.onsemi.com/pub/Collateral/ENA2065-D.PDF","Single-Phase Full-Wave Fan Motor Driver","Pb-free
+Halide free","Active","Single-Phase Full-Wave Fan Motor Driver","Single-Phase Fan Motor","2.2","6","2.2","6",,"0.7",,"PWM",,"None",,"Lock
+Thermal",,,"UDFN-10"
+"on","驱动器---电机驱动器","LV8401V","LV8401V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8401V-MPB-E","http://www.onsemi.com/pub/Collateral/LV8401V-D.PDF","Motor Driver, Forward / Reverse","Pb-free","Active","Motor Driver, Forward / Reverse","Brush DC","4","15","2.7","6","1.2","3.8",,"Parallel",,"None","Yes","Thermal
+UVLO",,"0.33","SSOP-16"
+"on","驱动器---电机驱动器","LV8401V","LV8401V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8401V-TLM-E","http://www.onsemi.com/pub/Collateral/LV8401V-D.PDF","Motor Driver, Forward / Reverse","Pb-free","Active","Motor Driver, Forward / Reverse","Brush DC","4","15","2.7","6","1.2","3.8",,"Parallel",,"None","Yes","Thermal
+UVLO",,"0.33","SSOP-16"
+"on","驱动器---电机驱动器","LV8402V","LV8402V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8402V-MPB-E","http://www.onsemi.com/pub/Collateral/ENA1888-D.PDF","2-Channel Forward/Reverse Motor Driver","Pb-free","Active","2-Channel Forward/Reverse Motor Driver","Stepper/ Brush DC","1.5","15","2.8","5.5","1.4","2.5","1
+1/2","Parallel",,"None",,"Thermal
+UVLO",,"0.75","SSOP-16"
+"on","驱动器---电机驱动器","LV8402V","LV8402V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8402V-TLM-E","http://www.onsemi.com/pub/Collateral/ENA1888-D.PDF","2-Channel Forward/Reverse Motor Driver","Pb-free","Active","2-Channel Forward/Reverse Motor Driver","Stepper/ Brush DC","1.5","15","2.8","5.5","1.4","2.5","1
+1/2","Parallel",,"None",,"Thermal
+UVLO",,"0.75","SSOP-16"
+"on","驱动器---电机驱动器","LV8406T","LV8406T-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8406T-MPB-E","http://www.onsemi.com/pub/Collateral/LV8406T-D.PDF","Motor Driver, Forward / Reverse, 2-Channel","Pb-free","Active","Motor Driver, Forward / Reverse, 2-Channel","Stepper/ Brush DC","1.5","16","2.8","5.5","1.4","2.5","1
+½","Parallel",,"None",,"Thermal
+UVLO",,"0.75","TSSOP-20 / TSSOP-20J"
+"on","驱动器---电机驱动器","LV8406T","LV8406T-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8406T-TLM-E","http://www.onsemi.com/pub/Collateral/LV8406T-D.PDF","Motor Driver, Forward / Reverse, 2-Channel","Pb-free","Active","Motor Driver, Forward / Reverse, 2-Channel","Stepper/ Brush DC","1.5","16","2.8","5.5","1.4","2.5","1
+½","Parallel",,"None",,"Thermal
+UVLO",,"0.75","TSSOP-20 / TSSOP-20J"
+"on","驱动器---电机驱动器","LV8413GP","LV8413GP-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8413GP-H","http://www.onsemi.com/pub/Collateral/LV8413GP-D.PDF","Motor Driver, H-Bridge x 2-Channel, for DSC and Phone Camera","Pb-free
+Halide free","Active","Motor Driver, H-Bridge x 2-Channel, for DSC and Phone Camera","Stepper/ Brush DC","2.5","5.5","2.5","6","0.4","0.6","1
+½","Parallel",,"None",,"Thermal
+UVLO",,"0.8","VCT-16"
+"on","驱动器---电机驱动器","LV8413GP","LV8413GP-TE-L-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8413GP-TE-L-H","http://www.onsemi.com/pub/Collateral/LV8413GP-D.PDF","Motor Driver, H-Bridge x 2-Channel, for DSC and Phone Camera","Pb-free
+Halide free","Active","Motor Driver, H-Bridge x 2-Channel, for DSC and Phone Camera","Stepper/ Brush DC","2.5","5.5","2.5","6","0.4","0.6","1
+½","Parallel",,"None",,"Thermal
+UVLO",,"0.8","VCT-16"
+"on","驱动器---电机驱动器","LV8415XA","LV8415XA-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8415XA-MH","http://www.onsemi.com/pub/Collateral/ENA2245-D.PDF","Blurring Correction Driver","Pb-free
+Halide free","Active","Blurring Correction Driver","Brush DC","2.7","5.5","2.7","5.5","0.35","0.6",,"I2C
+Serial",,"None",,"Thermal
+UVLO",,"1.2","WLCSP-32"
+"on","驱动器---电机驱动器","LV8483CS","LV8483CS-TE-L-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8483CS-TE-L-H","-","Composite Channel Lens Driver","Pb-free
+Halide free","Active","Composite Channel Lens Driver","Brush DC","2.5","5",,,"0.4",,,"I2C","None","External Resistor","No","Thermal
+UVLO","Integrated Active",,"WLCSP-10 / WLP-10J"
+"on","驱动器---电机驱动器","LV8498CT","LV8498CT-TE-L-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8498CT-TE-L-H","http://www.onsemi.com/pub/Collateral/ENA1625-D.PDF","Motor Driver, Constant Current, Control Voice Coil","Pb-free
+Halide free","Active","Motor Driver, Constant Current, Control Voice Coil","Drivers","2.2","5","2.2","5","0.15",,,"I2C",,"Fully Integrated",,"Thermal
+UVLO",,"2","WLCSP-6 / WLP-6K"
+"on","驱动器---电机驱动器","LV8549MC","LV8549MC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8549MC-AH","http://www.onsemi.com/pub/Collateral/ENA2039-D.PDF","Stepping Motor Driver, Low Saturation Voltage, 12 V","Pb-free
+Halide free","Active","Stepping Motor Driver, Low Saturation Voltage, 12 V","Stepper","4","16","4","16",,"1","1","Parallel",,"None",,"Thermal
+UVLO",,"1","SOIC-10 NB"
+"on","驱动器---电机驱动器","LV8711T","LV8711T-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8711T-TLM-H","http://www.onsemi.com/pub/Collateral/LV8711T-D.PDF","Stepper Motor Driver, PWM, Constant Current Control","Pb-free
+Halide free","Active","Stepper Motor Driver, PWM, Constant Current Control","Stepper/ Brush DC","4","16","2.7","5.5","0.8","1","1
+½","Parallel",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"1.1","TSSOP-24"
+"on","驱动器---电机驱动器","LV8713T","LV8713T-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8713T-TLM-H","http://www.onsemi.com/pub/Collateral/LV8713T-D.PDF","Stepping Motor Driver, PWM, Constant Current Control","Pb-free
+Halide free","Active","Stepping Motor Driver, PWM, Constant Current Control","Stepper","4","16","2.7","5.5","0.8","1","1
+1/16
+1/32
+½","Clock",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"1.1","TSSOP-24"
+"on","驱动器---电机驱动器","LV8716QA","LV8716QA-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8716QA-MH","http://www.onsemi.com/pub/Collateral/ENA2254-D.PDF","Dual H-bridge Motor Driver","Pb-free
+Halide free","Active","Dual H-bridge Motor Driver","Stepper/ Brush DC","2.7","10.5","2.7","10.5","1","1.5","1
+1/2","Parallel",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"1","QFN-16"
+"on","驱动器---电机驱动器","LV8727","LV8727-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8727-E","http://www.onsemi.com/pub/Collateral/ENA1998-D.PDF","Stepping Motor Driver, PWM, Constant Current Control","Pb-free","Active","Stepping Motor Driver, PWM, Constant Current Control","Stepper","9","45","9","45","4","4.6","1/128
+1/16
+1/32
+1/64
+1/8
+½","Clock",,"External Resistor",,"Over-Current
+Thermal",,"0.4","HZIP-25"
+"on","驱动器---电机驱动器","LV8731V","LV8731V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8731V-TLM-H","http://www.onsemi.com/pub/Collateral/LV8731V-D.PDF","Stepper Motor Driver, PWM, Constant Current Control","Pb-free
+Halide free","Active","Stepper Motor Driver, PWM, Constant Current Control","Stepper/ Brush DC","9","32","9","32","2","2.5","1
+1/16
+¼
+½","Clock
+Parallel",,"External Resistor",,"Over-Current
+Thermal",,"0.55","SSOP-44K EP"
+"on","驱动器---电机驱动器","LV8734V","LV8734V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8734V-TLM-H","http://www.onsemi.com/pub/Collateral/LV8734V-D.PDF","Stepper Motor Driver, PWM, Constant Current Control","Pb-free
+Halide free","Active","Stepper Motor Driver, PWM, Constant Current Control","Stepper/ Brush DC","9","32","9","32","1.5","1.75","1
+1/8
+¼
+½","Clock
+Parallel",,"External Resistor",,"Over-Current
+Thermal",,"0.8","SSOP-44K EP"
+"on","驱动器---电机驱动器","LV8736V","LV8736V-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8736V-TLM-H","http://www.onsemi.com/pub/Collateral/LV8736V-D.PDF","Stepper Motor Driver, PWM, Constant Current Control","Pb-free
+Halide free","Active","Stepper Motor Driver, PWM, Constant Current Control","Stepper/ Brush DC","9","32","9","32","1","1.5","1
+1/8
+¼
+½","Clock
+Parallel",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"1.25","SSOP-44K EP"
+"on","驱动器---电机驱动器","LV8741V","LV8741V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8741V-MPB-E","http://www.onsemi.com/pub/Collateral/LV8741V-D.PDF","PWM Current Control Stepper Motor Driver","Pb-free","Active","PWM Current Control Stepper Motor Driver","Stepper/ Brush DC","9.5","35","2.7","5.5","1.5","1.75","1
+¼
+½","Clock
+Parallel",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"1","SSOP-44K EP"
+"on","驱动器---电机驱动器","LV8741V","LV8741V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8741V-TLM-E","http://www.onsemi.com/pub/Collateral/LV8741V-D.PDF","PWM Current Control Stepper Motor Driver","Pb-free","Active","PWM Current Control Stepper Motor Driver","Stepper/ Brush DC","9.5","35","2.7","5.5","1.5","1.75","1
+¼
+½","Clock
+Parallel",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"1","SSOP-44K EP"
+"on","驱动器---电机驱动器","LV8747TA","LV8747TA-NH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8747TA-NH","http://www.onsemi.com/pub/Collateral/ENA2019-D.PDF","PWM Constant-Current Control Stepping Motor Driver and Switching Regulator Controller","Pb-free
+Halide free","Active","PWM Constant-Current Control Stepping Motor Driver and Switching Regulator Controller","Stepper","10","35","10","35","1.5","1.75","1
+1/2
+1/4","Parallel",,"External Resistor","Yes","Over-Current
+Thermal
+UVLO",,"1","TQFP-64 / TQFP-64L"
+"on","驱动器---电机驱动器","LV8761V","LV8761V-MPB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8761V-MPB-E","http://www.onsemi.com/pub/Collateral/LV8761V-D.PDF","Motor Driver, H-Bridge, Forward / Reverse","Pb-free","Active","Motor Driver, H-Bridge, Forward / Reverse","Brush DC","9","35","3","6","3","4",,"Parallel",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"0.52","SSOP-36J EP"
+"on","驱动器---电机驱动器","LV8761V","LV8761V-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8761V-TLM-E","http://www.onsemi.com/pub/Collateral/LV8761V-D.PDF","Motor Driver, H-Bridge, Forward / Reverse","Pb-free","Active","Motor Driver, H-Bridge, Forward / Reverse","Brush DC","9","35","3","6","3","4",,"Parallel",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"0.52","SSOP-36J EP"
+"on","驱动器---电机驱动器","LV8772","LV8772-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8772-E","http://www.onsemi.com/pub/Collateral/LV8772.PDF","Stepping Motor Driver, PWM, Constant Current Control","Pb-free","Active","Stepping Motor Driver, PWM, Constant Current Control","Stepper","9","32","9","32","2.5","3","1
+1/16
+¼
+½","Clock",,"External Resistor",,"Over-Current
+Thermal
+UVLO",,"0.55","PDIP-28 W/ HEAT SPREADER / DIP-28H"
+"on","驱动器---电机驱动器","LV8774Q","LV8774Q-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8774Q-AH","http://www.onsemi.com/pub/Collateral/LV8774Q-D.PDF","PWM Constant-Current Control Stepper Motor Driver, PWM Constant-Current Control Stepper Motor Driver","Pb-free","Active","PWM Constant-Current Control Stepper Motor Driver","Stepper/ Brush DC","9","32",,,"2","2.5","1
+1/16
+1/2
+1/4","Clock
+Parallel",,"External Resistor",,"Over-Current
+Thermal",,"0.55","QFN-44 / VQFN-44L"
+"on","驱动器---电机驱动器","LV8804FV","LV8804FV-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8804FV-MPB-H","http://www.onsemi.com/pub/Collateral/LV8804FV-D.PDF","Motor Driver, Sensor Less, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Driver, Sensor Less, Brushless, 3-Phase","Three-Phase Fan Motor","6","15","6","15",,"1.2",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,"1.2","SSOP-20J"
+"on","驱动器---电机驱动器","LV8804FV","LV8804FV-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8804FV-TLM-H","http://www.onsemi.com/pub/Collateral/LV8804FV-D.PDF","Motor Driver, Sensor Less, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Driver, Sensor Less, Brushless, 3-Phase","Three-Phase Fan Motor","6","15","6","15",,"1.2",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,"1.2","SSOP-20J"
+"on","驱动器---电机驱动器","LV8804FV","LV8804FV-TRM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8804FV-TRM-H","http://www.onsemi.com/pub/Collateral/LV8804FV-D.PDF","Motor Driver, Sensor Less, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Driver, Sensor Less, Brushless, 3-Phase","Three-Phase Fan Motor","6","15","6","15",,"1.2",,"DC",,"External Resistor",,"Lock
+Over-Current
+Thermal",,"1.2","SSOP-20J"
+"on","驱动器---电机驱动器","LV8805SV","LV8805SV-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8805SV-MPB-H","http://www.onsemi.com/pub/Collateral/LV8805SV-D.PDF","Motor Driver, Sensor Less, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Driver, Sensor Less, Brushless, 3-Phase","Three-Phase Fan Motor","6","15","6","15",,"1.2",,"PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal",,"1.2","SSOP-20J"
+"on","驱动器---电机驱动器","LV8805SV","LV8805SV-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8805SV-TLM-H","http://www.onsemi.com/pub/Collateral/LV8805SV-D.PDF","Motor Driver, Sensor Less, Brushless, 3-Phase","Pb-free
+Halide free","Active","Motor Driver, Sensor Less, Brushless, 3-Phase","Three-Phase Fan Motor","6","15","6","15",,"1.2",,"PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal",,"1.2","SSOP-20J"
+"on","驱动器---电机驱动器","LV8806QA","LV8806QA-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8806QA-MH","http://www.onsemi.com/pub/Collateral/ENA2213-D.PDF","3-phase sensor-less motor driver IC","Pb-free
+Halide free","Active","3-phase sensor-less motor driver IC","Brushless DC","2","6","2","6",,"0.7",,"PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,"1","UQFN-16"
+"on","驱动器---电机驱动器","LV8827LFQA","LV8827LFQA-NH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8827LFQA-NH","http://www.onsemi.com/pub/Collateral/ENA2058-D.PDF","Three-Phase PWM Brushless Motor Driver","Pb-free
+Halide free","Active","Three-Phase PWM Brushless Motor Driver","Brushless DC","8","35","8","35",,"1.5",,"PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal
+UVLO",,"1.14","WQFN-24 / VQFN-24N"
+"on","驱动器---电机驱动器","LV8850GA","LV8850GA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8850GA-AH","http://www.onsemi.com/pub/Collateral/ENA2205-D.PDF","Three-Phase sensorless FAN Motor Pre-Driver","Pb-free
+Halide free","Active","Three-Phase sensorless FAN Motor Pre-Driver","Three-Phase Fan Motor",,,"4","16","0.03",,,"DC
+PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal",,"65","TSSOP-36"
+"on","驱动器---电机驱动器","LV8862JA","LV8862JA-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV8862JA-AH","http://www.onsemi.com/pub/Collateral/LV8862JA-D.PDF","Single-phase FAN Motor Driver","Pb-free
+Halide free","Active","Single-phase FAN Motor Driver","Single-Phase Fan Motor",,,"3.6","16","1.5",,,"PWM","None","External Resistor","Yes","Lock
+Over-Current
+Thermal
+UVLO","Integrated Active","0.6","SSOP-16"
+"on","驱动器---电机驱动器","MC33033","MC33033DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33033DWR2G","http://www.onsemi.com/pub/Collateral/MC33033-D.PDF","Brushless DC Motor Controller, 3-Phase","Pb-free
+Halide free","Active","Brushless DC Motor Controller, 3-Phase","Brushless DC","10","40","10","30","0.1","0.1",,,,"External Resistor","Yes",,,,"SOIC-20W"
+"on","驱动器---电机驱动器","MC33039","MC33039DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33039DR2G","http://www.onsemi.com/pub/Collateral/MC33039-D.PDF","Motor Driver, Closed Loop, Brushless","Pb-free
+Halide free","Active","Motor Driver, Closed Loop, Brushless","Brushless DC","5.5","7.5","5.5","9","0.02","0.02",,,,"None","No",,,,"SOIC-8"
+"on","驱动器---电机驱动器","NCV70501","NCV70501DW002G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV70501DW002G","http://www.onsemi.com/pub/Collateral/NCV70501-D.PDF","Microstepping Motor Driver for Bipolar Stepper Motors","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Microstepping Motor Driver for Bipolar Stepper Motors",,,,,,,"0.3",,"Parallel
+SPI","Back EMF/Sensorless","Fully Integrated",,"Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"SOIC-16"
+"on","驱动器---电机驱动器","NCV70501","NCV70501DW002R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV70501DW002R2G","http://www.onsemi.com/pub/Collateral/NCV70501-D.PDF","Microstepping Motor Driver for Bipolar Stepper Motors","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Microstepping Motor Driver for Bipolar Stepper Motors",,,,,,,"0.3",,"Parallel
+SPI","Back EMF/Sensorless","Fully Integrated",,"Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"SOIC-16"
+"on","驱动器---电机驱动器","NCV70521","NCV70521MN003G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV70521MN003G","http://www.onsemi.com/pub/Collateral/AMIS-30521-D.PDF","SPI Stepper Motor Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","SPI Stepper Motor Driver","Stepper",,,"6","40","1.5",,,,,,,,,,"NQFP-32"
+"on","驱动器---电机驱动器","NCV70521","NCV70521MN003R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV70521MN003R2G","http://www.onsemi.com/pub/Collateral/AMIS-30521-D.PDF","SPI Stepper Motor Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","SPI Stepper Motor Driver","Stepper",,,"6","40","1.5",,,,,,,,,,"NQFP-32"
+"on","驱动器---电机驱动器","NCV70522DQ","NCV70522DQ004G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV70522DQ004G","http://www.onsemi.com/pub/Collateral/NCV70522DQ-D.PDF","SPI Stepper Driver with Voltage Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","SPI Stepper Driver with Voltage Regulator",,,,,,,,,,,,,,,,"SSOP-36 EP"
+"on","驱动器---电机驱动器","NCV70522DQ","NCV70522DQ004R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV70522DQ004R2G","http://www.onsemi.com/pub/Collateral/NCV70522DQ-D.PDF","SPI Stepper Driver with Voltage Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","SPI Stepper Driver with Voltage Regulator",,,,,,,,,,,,,,,,"SSOP-36 EP"
+"on","驱动器---电机驱动器","NCV7702B","NCV7702BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7702BDWR2G","http://www.onsemi.com/pub/Collateral/NCV7702B-D.PDF","Motor Driver, Dual H-Bridge, 1.0 A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Motor Driver, Dual H-Bridge, 1.0 A",,"7","30","7","16","0.001","1.6",,"Parallel",,,"No","Over-Current
+Thermal",,,"SOIC-24"
+"on","驱动器---电机驱动器","NCV7707","NCV7707DQR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7707DQR2G","http://www.onsemi.com/pub/Collateral/NCV7707-D.PDF","Door Module Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Door Module Driver",,,,,,,,,,,,,,,,"SSOP-36 EP"
+"on","驱动器---电机驱动器","NCV7718","NCV7718DPR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7718DPR2G","http://www.onsemi.com/pub/Collateral/NCV7718-D.PDF","Hex Half-Bridge Driver","AEC Qualified
+PPAP Capable
+Pb-free","Active","Hex Half-Bridge Driver",,,,,,,,,"SPI",,,,"Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"SSOP-24"
+"on","驱动器---电机驱动器","NCV7719","NCV7719DQR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7719DQR2G","http://www.onsemi.com/pub/Collateral/NCV7719-D.PDF","Octal Half-Bridge Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Octal Half-Bridge Driver",,,,,,,"0.55",,"SPI",,,,"Open Coil
+Over-Current
+Thermal
+UVLO","Integrated Active",,"SSOP-24 NB EP"
+"on","驱动器---电机驱动器","NCV7728","NCV7728DPR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7728DPR2G","http://www.onsemi.com/pub/Collateral/NCV7728-D.PDF","Hex Half-Bridge Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Hex Half-Bridge Driver",,"5.5","28","3.15","5.25","0.8","0.55",,"SPI","None",,,"Over-Current","Integrated Active",,"SSOP-24"
+"on","驱动器---电机驱动器","SS30","SS30-TE-L-E","http://www.onsemi.cn/PowerSolutions/product.do?id=SS30-TE-L-E","http://www.onsemi.com/pub/Collateral/ENA1878-D.PDF","Three-Phase All Wave Sensor-less Motor Driver for Notebook PC","Pb-free","Active","Three-Phase All Wave Sensor-less Motor Driver for Notebook PC","Three-Phase Fan Motor","2.2","6","2.2","6","0.7",,,"PWM",,"External Resistor",,"Lock
+Over-Current
+Thermal",,"1.2","VCT-20"
+"on","驱动器---电机驱动器","STK531U394A-E","STK531U394A-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK531U394A-E","http://www.onsemi.com/pub/Collateral/STK531U394A-E-D.PDF","Inverter IPM for 3-phase Motor Drive","Pb-free","Active","Inverter IPM for 3-phase Motor Drive","Inverter",,"600",,"20","15","30",,"PWM","None","Fully Integrated",,"Over-Current
+Thermal
+UVLO",,,"SIP-29"
+"on","驱动器---电机驱动器","STK534U362C-E","STK534U362C-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK534U362C-E","http://www.onsemi.com/pub/Collateral/ENA2345-D.PDF","Inverter IPM for 3-phase Motor Drive","Pb-free","Active","Inverter IPM for 3-phase Motor Drive","Inverter","-","600","-","20","10","20",,"PWM","None","External Resistor","No","Over-Current
+Thermal
+UVLO","External",,"SIP-29"
+"on","驱动器---电机驱动器","STK541UC62K-E","STK541UC62K-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK541UC62K-E","http://www.onsemi.com/pub/Collateral/ENA2355-D.PDF","Inverter IPM for 3-phase Motor Drive","Pb-free","Active","Inverter IPM for 3-phase Motor Drive","Inverter",,"600",,"20","10","20",,"PWM","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO",,,"SIP-23"
+"on","驱动器---电机驱动器","STK551U362A-E","STK551U362A-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK551U362A-E","http://www.onsemi.com/pub/Collateral/ENA2210-D.PDF","Intelligent Power Module for 3-Phase Motor Driver","Pb-free","Active","Intelligent Power Module for 3-Phase Motor Driver","Inverter","-","600","-","20","10","20",,"PWM","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO","External",,"SIP-29"
+"on","驱动器---电机驱动器","STK551U3A2A-E","STK551U3A2A-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK551U3A2A-E","http://www.onsemi.com/pub/Collateral/ENA2216-D.PDF","Intelligent Power Module for 3-Phase Motor Driver","Pb-free","Active","Intelligent Power Module for 3-Phase Motor Driver","Inverter","-","600","-0.3","20","20","40",,"PWM","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO","External",,"SIP-29"
+"on","驱动器---电机驱动器","STK554U362C-E","STK554U362C-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK554U362C-E","http://www.onsemi.com/pub/Collateral/ENA2215-D.PDF","Intelligent Power Module for 3-Phase Motor Driver","Pb-free","Active","Intelligent Power Module for 3-Phase Motor Driver","Inverter","-","600","-","20","10","20",,"PWM","None","External Resistor","No","Over-Current
+Thermal
+UVLO","External",,"SIP-29"
+"on","驱动器---电机驱动器","STK57FU391A-E","STK57FU391A-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK57FU391A-E","http://www.onsemi.com/pub/Collateral/ENA2240-D.PDF","PFC Converter + Inverter IPM for 3-phase Motor Drive","Pb-free","Active","PFC Converter + Inverter IPM for 3-phase Motor Drive","PFC + Inverter","-","600","-","20","15","30",,"PWM","None","External Resistor","No","Over-Current
+Thermal
+UVLO","External",,"SIP-35 / SIP-2A"
+"on","驱动器---电机驱动器","STK5C4U332J-E","STK5C4U332J-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK5C4U332J-E","http://www.onsemi.com/pub/Collateral/STK5C4U332J-E-D.PDF","Inverter IPM for 3-phase Motor Drive","Pb-free","Active","Inverter IPM for 3-phase Motor Drive","Inverter","-","600","-","20","3","6",,"PWM","None","External Resistor","No","Over-Current
+UVLO","External",,"HYBRID INTEGRATED MODULE / DIP-S"
+"on","驱动器---电机驱动器","STK5F1U3C3D-E","STK5F1U3C3D-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK5F1U3C3D-E","http://www.onsemi.com/pub/Collateral/STK5F1U3C3D-E-D.PDF","Intelligent Power Module for 3-Phase Motor Driver","Pb-free","Active","Intelligent Power Module for 3-Phase Motor Driver","Inverter","-","600","-0.3","20","30","49",,"PWM","None","Fully Integrated","No","Over-Current
+UVLO","External",,"Hybrid Integrated Module"
+"on","驱动器---电机驱动器","STK5F1U3E3D-E","STK5F1U3E3D-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK5F1U3E3D-E","http://www.onsemi.com/pub/Collateral/STK5F1U3E3D-E-D.PDF","Intelligent Power Module for 3-Phase Motor Driver","Pb-free","Active","Intelligent Power Module for 3-Phase Motor Driver","Inverter","-","600","-0.3","20","50","76",,"PWM","None","Fully Integrated","No","Over-Current
+UVLO","External",,"Hybrid Integrated Module"
+"on","驱动器---电机驱动器","STK5F4U3E2D-E","STK5F4U3E2D-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK5F4U3E2D-E","http://www.onsemi.com/pub/Collateral/ENA2230-D.PDF","Intelligent Power Module for 3-Phase Motor Driver, 3-Phase Inverter Hybrid IC","Pb-free","Active","Intelligent Power Module for 3-Phase Motor Driver","Inverter","-","600","-","20","50","100",,"PWM","None","External resistor","No","Over-Current
+Thermal
+UVLO","External",,"Hybrid Integrated Module"
+"on","驱动器---电机驱动器","STK5Q4U362J-E","STK5Q4U362J-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK5Q4U362J-E","http://www.onsemi.com/pub/Collateral/STK5Q4U362J-E-D.PDF","Inverter IPM for 3-phase Motor Drive","Pb-free","ActiveNEW","Inverter IPM for 3-phase Motor Drive","Inverter","-","600","-","20","10","20",,"None","None","External Resistor","No","Over-Current
+Thermal
+UVLO","External",,"MODULE SPCM24 29.6x18.2 DIP S3"
+"on","驱动器---电机驱动器","STK672-432AN-E","STK672-432AN-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK672-432AN-E","http://www.onsemi.com/pub/Collateral/ENA2295-D.PDF","Unipolar 2-Phase Micro Stepper Motor Driver, Unipolar 2-Phase Micro Stepper Motor Driver","Pb-free","Active","Unipolar 2-Phase Micro Stepper Motor Driver","Stepper","10","52","4.75","5.25","2.5","10","1/16","Clock","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK672-440AN-E","STK672-440AN-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK672-440AN-E","http://www.onsemi.com/pub/Collateral/ENA2272-D.PDF","Unipolar 2-phase Stepper Motor Driver","Pb-free","Active","Unipolar 2-phase Stepper Motor Driver","Stepper","10","52","4.75","5.25","3.5","20","1/16","Clock","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK672-442AN-E","STK672-442AN-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK672-442AN-E","http://www.onsemi.com/pub/Collateral/ENA2274-D.PDF","Unipolar 2-phase Stepper Motor Driver","Pb-free","Active","Unipolar 2-phase Stepper Motor Driver","Stepper","20","52","4.75","5.25","3.5","20","1/16","Clock","None","Fully Integrated","No","Thermal",,,"SIP-19"
+"on","驱动器---电机驱动器","STK672-630AN-E","STK672-630AN-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK672-630AN-E","http://www.onsemi.com/pub/Collateral/ENA2296-D.PDF","Unipolar 2-Phase Stepper Motor Driver, Unipolar 2-Phase Stepper Motor Driver","Pb-free","Active","Unipolar 2-Phase Stepper Motor Driver","Stepper","10","52","4.75","5.25","2.65","10","1/2","Clock","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK672-632AN-E","STK672-632AN-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK672-632AN-E","http://www.onsemi.com/pub/Collateral/ENA2297-D.PDF","Unipolar 2-Phase Stepper Motor Driver, Unipolar 2-Phase Stepper Motor Driver","Pb-free","Active","Unipolar 2-Phase Stepper Motor Driver","Stepper","10","52","4.75","5.25","2.65","10","1/2","Clock","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK672-640CN-E","STK672-640CN-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK672-640CN-E","http://www.onsemi.com/pub/Collateral/ENA2317-D.PDF","Unipolar 2-Phase Stepper Motor Driver","Pb-free","Active","Unipolar 2-Phase Stepper Motor Driver","Stepper","10","46","4.75","5.25","4","20","1/2","Clock","None","Fully Integrated","No","Open Coil
+Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK672-732AN-E","STK672-732AN-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK672-732AN-E","http://www.onsemi.com/pub/Collateral/ENA2309-D.PDF","Stepper Motor Driver, Unipolar 2-Phase","Pb-free","Active","Stepper Motor Driver, Unipolar 2-Phase","Stepper","10","52","4.75","5.25","2.65","10","1/2","Parallel","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK681-300","STK681-300","http://www.onsemi.cn/PowerSolutions/product.do?id=STK681-300","http://www.onsemi.com/pub/Collateral/ENA0760-D.PDF","Motor Driver, DC, Forward / Reverse, with Brush","Pb-free","Active","Motor Driver, DC, Forward / Reverse, with Brush","Brush DC","-","52","4.75","5.25","2.9","5",,"Parallel","None","Fully Integrated","No","Over-Current
+Thermal",,,"SIP-19"
+"on","驱动器---电机驱动器","STK681-320","STK681-320","http://www.onsemi.cn/PowerSolutions/product.do?id=STK681-320","http://www.onsemi.com/pub/Collateral/ENA0762-D.PDF","Motor Driver, DC, Forward / Reverse, with Brush","Pb-free","Active","Motor Driver, DC, Forward / Reverse, with Brush","Brush DC","-","52","4.75","5.25","5.2","8",,"Parallel","None","Fully Integrated","No","Over-Current
+Thermal",,,"SIP-19"
+"on","驱动器---电机驱动器","STK681-352-E","STK681-352-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK681-352-E","http://www.onsemi.com/pub/Collateral/ENA1929-D.PDF","Motor Driver, DC, Forward / Reverse, with Brush","Pb-free","Active","Motor Driver, DC, Forward / Reverse, with Brush","Brush DC","-","38","-","-","6.4","12",,"Parallel
+PWM","None","External Resistor","No","Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK682-010-E","STK682-010-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK682-010-E","http://www.onsemi.com/pub/Collateral/ENA2252-D.PDF","Bipolar Ultra-micro Stepping Motor Driver","Pb-free","Active","Bipolar Ultra-micro Stepping Motor Driver","Stepper","0","36","4.75","5.25","3","3","1/128","Clock","None","External","No","Over-Current
+Thermal
+UVLO",,,"SIP-19"
+"on","驱动器---电机驱动器","STK984-091A-E","STK984-091A-E","http://www.onsemi.cn/PowerSolutions/product.do?id=STK984-091A-E","http://www.onsemi.com/pub/Collateral/ENA2117-D.PDF","Motor Driver, DC, 3-Phase, Brushless","Pb-free","Active","Motor Driver, DC, 3-Phase, Brushless","Brushless DC","-0.3","40","-0.3","6","20","180",,"Parallel","None","Fully Integrated","No","Over-Current
+Thermal
+UVLO",,,"SIP-23"

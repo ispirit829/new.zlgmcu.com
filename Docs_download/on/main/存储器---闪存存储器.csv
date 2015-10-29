@@ -1,0 +1,31 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Density","Organization","tACC Max (ns)","VCC Min (V)","VCC Max (V)","I(standby) Max (µA)","Iact Max (mA)","T Min (°C)","T Max (°C)","Package Type"
+"on","存储器---闪存存储器","LE25S161","LE25S161MDTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25S161MDTWG","http://www.onsemi.com/pub/Collateral/LE25S161-D.PDF","Serial Flash Memory, 16 Mb (2048K x 8)","Pb-free
+Halide free","ActiveNEW","Serial Flash Memory, 16 Mb (2048K x 8)","16 Mb","2048k x 8","8","1.65","1.95","12","4.5","-40","90","SOIC-8
+UDFN8 4x3, 0.8P
+WLCSP-8"
+"on","存储器---闪存存储器","LE25S161","LE25S161PCTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25S161PCTXG","http://www.onsemi.com/pub/Collateral/LE25S161-D.PDF","Serial Flash Memory, 16 Mb (2048K x 8)","Pb-free
+Halide free","ActiveNEW","Serial Flash Memory, 16 Mb (2048K x 8)","16 Mb","2048k x 8","8","1.65","1.95","12","4.5","-40","90","SOIC-8
+UDFN8 4x3, 0.8P
+WLCSP-8"
+"on","存储器---闪存存储器","LE25S161","LE25S161XATAG","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25S161XATAG","http://www.onsemi.com/pub/Collateral/LE25S161-D.PDF","Serial Flash Memory, 16 Mb (2048K x 8)","Pb-free
+Halide free","ActiveNEW","Serial Flash Memory, 16 Mb (2048K x 8)","16 Mb","2048k x 8","8","1.65","1.95","12","4.5","-40","90","SOIC-8
+UDFN8 4x3, 0.8P
+WLCSP-8"
+"on","存储器---闪存存储器","LE25S20MB","LE25S20MB-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25S20MB-AH","http://www.onsemi.com/pub/Collateral/LE25S20MB-D.PDF","Serial Flash Memory, 2 Mb (256K x 8)","Pb-free
+Halide free","Active","Serial Flash Memory, 2 Mb (256K x 8)","2 Mb","256k x 8","11","1.65","1.95","50","6","-40","85","SOIC-8 / SOP-8K"
+"on","存储器---闪存存储器","LE25S40MB","LE25S40MB-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25S40MB-AH","http://www.onsemi.com/pub/Collateral/ENA2096-D.PDF","Serial Flash Memory, 4 Mb (512k x 8)","Pb-free
+Halide free","Active","Serial Flash Memory, 4 Mb (512k x 8)","4 Mb","512k x 8","11","1.65","1.95","50","6","-40","85","SOIC-8 / SOP-8K"
+"on","存储器---闪存存储器","LE25S81A","LE25S81AFDTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25S81AFDTWG","http://www.onsemi.com/pub/Collateral/LE25S81A-D.PDF","Serial Flash Memory, 8 Mb (1024K x 8)","Pb-free
+Halide free","ActiveNEW","Serial Flash Memory, 8 Mb (1024K x 8)","8 Mb","1024k x 8","8","1.65","2.4","35","5","-40","90","SOIC-8
+VSOIC-8 NB"
+"on","存储器---闪存存储器","LE25S81A","LE25S81AMDTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25S81AMDTWG","http://www.onsemi.com/pub/Collateral/LE25S81A-D.PDF","Serial Flash Memory, 8 Mb (1024K x 8)","Pb-free
+Halide free","ActiveNEW","Serial Flash Memory, 8 Mb (1024K x 8)","8 Mb","1024k x 8","8","1.65","2.4","35","5","-40","90","SOIC-8
+VSOIC-8 NB"
+"on","存储器---闪存存储器","LE25U20AMB","LE25U20AMB-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25U20AMB-AH","http://www.onsemi.com/pub/Collateral/ENA2097-D.PDF","Serial Flash Memory, 2 Mb (256k x 8)","Pb-free
+Halide free","Active","Serial Flash Memory, 2 Mb (256k x 8)","2 Mb","256k x 8","15","2.3","3.6","50","6","-40","85","SOIC-8 / SOP-8K"
+"on","存储器---闪存存储器","LE25U40CMC","LE25U40CMC-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25U40CMC-AH","http://www.onsemi.com/pub/Collateral/ENA2098-D.PDF","Serial Flash Memory, 4 Mb (512K x 8)","Pb-free
+Halide free","Active","Serial Flash Memory, 4 Mb (512K x 8)","4 Mb","512k x 8","15","2.3","3.6","50","6","-40","85","SOIC-8 / SOP-8J"
+"on","存储器---闪存存储器","LE25U40CQE","LE25U40CQE-AH","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25U40CQE-AH","http://www.onsemi.com/pub/Collateral/ENA2163-D.PDF","Serial Flash Memory, 4 Mb (512K x 8)","Pb-free
+Halide free","Active","Serial Flash Memory, 4 Mb (512K x 8)","4 Mb","512k x 8","11","2.3","3.6","50","6","-40","85","VDFN-8 / VSON-8T"
+"on","存储器---闪存存储器","LE25U40PCMC","LE25U40PCMC-AH-1","http://www.onsemi.cn/PowerSolutions/product.do?id=LE25U40PCMC-AH-1","http://www.onsemi.com/pub/Collateral/LE25U40PCMC-D.PDF","Serial Flash Memory, 4 Mb (512K x 8)","Pb-free
+Halide free","Active","Serial Flash Memory, 4 Mb (512K x 8)","4 Mb","512k x 8","15","2.3","3.6","50","6","-40","105","SOIC-8 / SOP-8J"

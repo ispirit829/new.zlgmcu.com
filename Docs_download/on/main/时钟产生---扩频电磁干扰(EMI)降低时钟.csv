@@ -1,0 +1,63 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","VDD Typ (V)","fin Typ (MHz)","fout Typ (MHz)","Deviation Type","Features","TA Min (&#0176;C)","TA Max (&#0176;C)","Package Type"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P18S19B","P3P18S19BF-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3P18S19BF-08SR","http://www.onsemi.com/pub/Collateral/P3P18S19B-D.PDF","Notebook LCD Panel EMI Reduction IC","Pb-free
+Halide free","Active","Notebook LCD Panel EMI Reduction IC","3.3","20-40","20-40","-1.25% to -1.75%","Spread Deviation Selection","0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P2111B","ASM3P2111BG-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=ASM3P2111BG-08SR","http://www.onsemi.com/pub/Collateral/ASM3P2111-D.PDF","Peak EMI Reducing Solution","Pb-free
+Halide free","Active","Peak EMI Reducing Solution","3.3","25","48
+66","-1.7",,"0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P2182A","ASM3P2182AF-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=ASM3P2182AF-08SR","http://www.onsemi.com/pub/Collateral/ASM3P2182A-D.PDF","LCD Panel EMI Reduction IC","Pb-free
+Halide free","Active","LCD Panel EMI Reduction IC","3.3","25-210","25-210","±0.13 to ±1.24",,"0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P2760A","ASM3P2760AF-06OR","http://www.onsemi.cn/PowerSolutions/product.do?id=ASM3P2760AF-06OR","http://www.onsemi.com/pub/Collateral/ASM3P2760-D.PDF","Standard Peak EMI Reducing Solution","Pb-free
+Halide free","Active","Standard Peak EMI Reducing Solution","2.5
+3.3","6-12
+6-13","6-12
+6-13","±0.65","PDB","0","70","TSOP-6"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P2779A","ASM3P2779AF-06OR","http://www.onsemi.cn/PowerSolutions/product.do?id=ASM3P2779AF-06OR","http://www.onsemi.com/pub/Collateral/ASM3P2779-D.PDF","Standard Peak EMI Reducing Solution","Pb-free
+Halide free","Active","Standard Peak EMI Reducing Solution","2.5
+3.3","13-30","13-30","±1","PDB","0","70","TSOP-6"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P2812A","ASM3P2812AF-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=ASM3P2812AF-08SR","http://www.onsemi.com/pub/Collateral/ASM3P2812-D.PDF","Standard Peak EMI Reduction IC","Pb-free
+Halide free","Active","Standard Peak EMI Reduction IC","3.3","10-40","20-80","-2.5 to -3.8
+±1.2 to ±1.9","ModOUT=2x Input Clock","0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P2863A","ASM3P2863AF-06OR","http://www.onsemi.cn/PowerSolutions/product.do?id=ASM3P2863AF-06OR","http://www.onsemi.com/pub/Collateral/ASM3P2863A-D.PDF","Standard Peak EMI Reducing solution","Pb-free
+Halide free","Active","Standard Peak EMI Reducing solution","2.5
+3.3","6-12
+6-13","6-12
+6-13","±0.5","REFOUT","0","70","TSOP-6"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","ASM3P623S05B","P3P623S05BG-08TR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3P623S05BG-08TR","http://www.onsemi.com/pub/Collateral/P3P623S05B-D.PDF","Timing-Safe™ Peak EMI Reduction IC","Pb-free
+Halide free","Active","Timing-Safe&#8482; Peak EMI Reduction IC","3.3","20-50","20-50","±0.25
+±0.5",,"0","70","TSSOP-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P1727A","P1727AF-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=P1727AF-08SR","http://www.onsemi.com/pub/Collateral/P1727-D.PDF","Standard Notebook LCD Panel EMI Reduction IC","Pb-free
+Halide free","Active","Standard Notebook LCD Panel EMI Reduction IC","3.3","20-40","20-40","Selectable ±0.625% to -3.50%",,"0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P1P8160A","P1P8160AG-10CR","http://www.onsemi.cn/PowerSolutions/product.do?id=P1P8160AG-10CR","http://www.onsemi.com/pub/Collateral/P1P8160A-D.PDF","Low Jitter Clock Generator and Peak EMI Reduction IC","Pb-free
+Halide free","Active","Low Jitter Clock Generator and Peak EMI Reduction IC","3.3","27","27
+100","Selectable Down Spread",,"-10","85","WDFN-10"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P2781A","P2781AF-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=P2781AF-08SR","http://www.onsemi.com/pub/Collateral/P2781-D.PDF","General Purpose EMI Reduction IC","Pb-free
+Halide free","Active","General Purpose EMI Reduction IC","3.3","3-78","3-78","±0.25 to ±5","External loop filter for deviation setting","0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P2811B","P2811BF-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=P2811BF-08SR","http://www.onsemi.com/pub/Collateral/P2811-D.PDF","Low Power EMI Reduction IC","Pb-free
+Halide free","Active","Low Power EMI Reduction IC","3.3","10-40","10-40","±0.625 to -3.5",,"0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P3MS650100H","P3MS650100H-4CR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3MS650100H-4CR","http://www.onsemi.com/pub/Collateral/P3MS650100H-D.PDF","Peak EMI Reduction Clock Generator, LVCMOS, 1.8 V /2.5 V / 3.3 V","Pb-free
+Halide free","Active","Peak EMI Reduction Clock Generator, LVCMOS, 1.8 V /2.5 V / 3.3 V","1.8
+2.5
+3.3","15-30
+15-60","15-30
+15-60","±1.4% @ 24MHz","Power Down","-20","85","WDFN-4"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P3P2043B","P3P2043BG-08SR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3P2043BG-08SR","http://www.onsemi.com/pub/Collateral/P3P2043B-D.PDF","LCD Panel EMI Reduction IC","Pb-free
+Halide free","Active","LCD Panel EMI Reduction IC","3.3","30-110","30-110","±0.4 to ±3","SSON/OFF","0","70","SOIC-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P3P816711A","P3P816711A-06OR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3P816711A-06OR","http://www.onsemi.com/pub/Collateral/P3P816711A-D.PDF","Spread Spectrum Peak EMI Reduction Device","Pb-free
+Halide free","Active","Spread Spectrum Peak EMI Reduction Device","3.3","30","30","±0.3%",,"0","70","TSOP-6"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P3P8220A","P3P8220AG-08CR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3P8220AG-08CR","http://www.onsemi.com/pub/Collateral/P3P8220A-D.PDF","General Purpose Peak EMI Reduction IC","Pb-free
+Halide free","Active","General Purpose Peak EMI Reduction IC","1.8
+2.5
+3.3","0-60","0-60","7.5nS","Supports Non−continuous Input Clock","0","70","WDFN-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P3PS550AH","P3PS550AHG-08-CR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3PS550AHG-08-CR","http://www.onsemi.com/pub/Collateral/P3PS550AH-D.PDF","Peak EMI Reduction IC, General Purpose","Pb-free
+Halide free","Active","Peak EMI Reduction IC, General Purpose","2.3-3.6","18-36","18-36","±0.4 to ±2.5","High Drive, PDB","-20","85","WDFN-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","P3PSL450AH","P3PSL450AHG-08CR","http://www.onsemi.cn/PowerSolutions/product.do?id=P3PSL450AHG-08CR","http://www.onsemi.com/pub/Collateral/P3PSL450A-D.PDF","Peak Emi Reduction IC, Low Voltage, Timing-Safe™","Pb-free
+Halide free","Active","Peak Emi Reduction IC, Low Voltage, Timing-Safe&trade;","1.8","15-60","15-60","Analog","PDB","-20","85","WDFN-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","PCS3I8504AG-08CR","PCS3I8504AG-08CR","http://www.onsemi.cn/PowerSolutions/product.do?id=PCS3I8504AG-08CR","http://www.onsemi.com/pub/Collateral/PCS3I8504A-D.PDF","GENERAL PURPOSE PEAK EMI","Pb-free
+Halide free","Active","GENERAL PURPOSE PEAK EMI","3.3","15 - 50","15 - 50","Analog +/-25%",,"-40","85","WDFN-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","PCS3P7303A","PCS3P7303AG-08CR","http://www.onsemi.cn/PowerSolutions/product.do?id=PCS3P7303AG-08CR","http://www.onsemi.com/pub/Collateral/PCS3P7303A-D.PDF","General Purpose Peak EMI Reduction IC","Pb-free
+Halide free","Active","General Purpose Peak EMI Reduction IC","2.5
+3.3","10-70
+10-80","10-70
+10-80","Analog",,"0","70","WDFN-8"
+"on","时钟产生---扩频电磁干扰(EMI)降低时钟","PCS3PS550A","PCS3PS550AG-08CR","http://www.onsemi.cn/PowerSolutions/product.do?id=PCS3PS550AG-08CR","http://www.onsemi.com/pub/Collateral/PCS3PS550A-D.PDF","Peak EMI Reduction IC, General Purpose","Pb-free
+Halide free","Active","Peak EMI Reduction IC, General Purpose","2.3-3.6","18-36","18-36","±0.4 to ±2.5","PDB","-20","85","WDFN-8"

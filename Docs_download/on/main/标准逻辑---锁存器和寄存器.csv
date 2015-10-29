@@ -1,0 +1,284 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Channels","VCC Min (V)","VCC Max (V)","tpd Max (ns)","IO Max (mA)","Package Type"
+"on","标准逻辑---锁存器和寄存器","74LVC373","74LVC373ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC373ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC373A-D.PDF","Low Voltage CMOS Octal Transparent Latch","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Octal Transparent Latch","Latch","8","1.2","3.6","8.5","24","TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC14014B","MC14014BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14014BDG","http://www.onsemi.com/pub/Collateral/MC14014B-D.PDF","8-Bit Static Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Static Shift Register","Shift Register","1","3","18","340","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14014B","MC14014BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14014BDR2G","http://www.onsemi.com/pub/Collateral/MC14014B-D.PDF","8-Bit Static Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Static Shift Register","Shift Register","1","3","18","340","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14014B","NLV14014BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14014BDR2G","http://www.onsemi.com/pub/Collateral/MC14014B-D.PDF","8-Bit Static Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Static Shift Register","Shift Register","1","3","18","340","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14021B","MC14021BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14021BDG","http://www.onsemi.com/pub/Collateral/MC14014B-D.PDF","8-Bit Static Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Static Shift Register","Shift Register","1","3","18","340","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14021B","MC14021BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14021BDR2G","http://www.onsemi.com/pub/Collateral/MC14014B-D.PDF","8-Bit Static Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Static Shift Register","Shift Register","1","3","18","340","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14021B","NLV14021BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14021BDR2G","http://www.onsemi.com/pub/Collateral/MC14014B-D.PDF","8-Bit Static Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Static Shift Register","Shift Register","1","3","18","340","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14043B","MC14043BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14043BDG","http://www.onsemi.com/pub/Collateral/MC14043B-D.PDF","Quad R-S Latches","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad R-S Latches","Latch","4","3","18","175","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14043B","MC14043BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14043BDR2G","http://www.onsemi.com/pub/Collateral/MC14043B-D.PDF","Quad R-S Latches","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad R-S Latches","Latch","4","3","18","175","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14043B","NLV14043BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14043BDG","http://www.onsemi.com/pub/Collateral/MC14043B-D.PDF","Quad R-S Latches","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad R-S Latches","Latch","4","3","18","175","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14043B","NLV14043BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14043BDR2G","http://www.onsemi.com/pub/Collateral/MC14043B-D.PDF","Quad R-S Latches","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad R-S Latches","Latch","4","3","18","175","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14076B","MC14076BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14076BDG","http://www.onsemi.com/pub/Collateral/MC14076B-D.PDF","4-Bit D Register with Three-State Outputs","Pb-free
+Halide free","Active","4-Bit D Register with Three-State Outputs","Register","4","3","18","250","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14076B","MC14076BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14076BDR2G","http://www.onsemi.com/pub/Collateral/MC14076B-D.PDF","4-Bit D Register with Three-State Outputs","Pb-free
+Halide free","Active","4-Bit D Register with Three-State Outputs","Register","4","3","18","250","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14076B","NLV14076BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14076BDR2G","http://www.onsemi.com/pub/Collateral/MC14076B-D.PDF","4-Bit D Register with Three-State Outputs","Pb-free
+Halide free","Active","4-Bit D Register with Three-State Outputs","Register","4","3","18","250","2.25","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC14099B","MC14099BDWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14099BDWG","http://www.onsemi.com/pub/Collateral/MC14099B-D.PDF","8-Bit Addressable Latch","Pb-free
+Halide free","Active","8-Bit Addressable Latch","Latch","1","3","18","150","2.25","SOIC-16W"
+"on","标准逻辑---锁存器和寄存器","MC14099B","MC14099BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14099BDWR2G","http://www.onsemi.com/pub/Collateral/MC14099B-D.PDF","8-Bit Addressable Latch","Pb-free
+Halide free","Active","8-Bit Addressable Latch","Latch","1","3","18","150","2.25","SOIC-16W"
+"on","标准逻辑---锁存器和寄存器","MC14517B","MC14517BDWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14517BDWG","http://www.onsemi.com/pub/Collateral/MC14517B-D.PDF","Dual 64-Bit Static Shift Register","Pb-free
+Halide free","Active","Dual 64-Bit Static Shift Register","Shift Register","2","3","18","300","2.25","SOIC-16W"
+"on","标准逻辑---锁存器和寄存器","MC14517B","MC14517BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14517BDWR2G","http://www.onsemi.com/pub/Collateral/MC14517B-D.PDF","Dual 64-Bit Static Shift Register","Pb-free
+Halide free","Active","Dual 64-Bit Static Shift Register","Shift Register","2","3","18","300","2.25","SOIC-16W"
+"on","标准逻辑---锁存器和寄存器","MC14549B","MC14549BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14549BDWR2G","http://www.onsemi.com/pub/Collateral/MC14549B-D.PDF","Successive Approximation Register","Pb-free
+Halide free","Active","Successive Approximation Register","Shift Register","1","3","18","420","2.25","SOIC-16W"
+"on","标准逻辑---锁存器和寄存器","MC14559B","MC14559BDWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14559BDWR2G","http://www.onsemi.com/pub/Collateral/MC14549B-D.PDF","Successive Approximation Register","Pb-free
+Halide free","Active","Successive Approximation Register","Shift Register","1","3","18","420","2.25","SOIC-16W"
+"on","标准逻辑---锁存器和寄存器","MC74AC373","MC74AC373DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC373DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC373-D.PDF","Octal Transparent Latch with 3-State Outputs","Pb-free
+Halide free","Active","Octal Transparent Latch with 3-State Outputs","Latch","8","2","6","9.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74AC373","MC74AC373DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC373DWG","http://www.onsemi.com/pub/Collateral/MC74AC373-D.PDF","Octal Transparent Latch with 3-State Outputs","Pb-free
+Halide free","Active","Octal Transparent Latch with 3-State Outputs","Latch","8","2","6","9.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74AC373","MC74AC373DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC373DWR2G","http://www.onsemi.com/pub/Collateral/MC74AC373-D.PDF","Octal Transparent Latch with 3-State Outputs","Pb-free
+Halide free","Active","Octal Transparent Latch with 3-State Outputs","Latch","8","2","6","9.5","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74ACT259","MC74ACT259DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT259DG","http://www.onsemi.com/pub/Collateral/MC74AC259-D.PDF","8-Bit Addressable Latch","Pb-free
+Halide free","Active","8-Bit Addressable Latch","Latch","8","4.5","5.5","11","24","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC74ACT259","MC74ACT259DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT259DR2G","http://www.onsemi.com/pub/Collateral/MC74AC259-D.PDF","8-Bit Addressable Latch","Pb-free
+Halide free","Active","8-Bit Addressable Latch","Latch","8","4.5","5.5","11","24","SOIC-16"
+"on","标准逻辑---锁存器和寄存器","MC74ACT564","MC74ACT564DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT564DWR2G","http://www.onsemi.com/pub/Collateral/MC74ACT564-D.PDF","Octal D Latch with 3-State Outputs","Pb-free
+Halide free","Active","Octal D Latch with 3-State Outputs","Latch","8","4.5","5.5","10.5","24","SOIC-20W"
+"on","标准逻辑---锁存器和寄存器","MC74HC164A","MC74HC164ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC164ADG","http://www.onsemi.com/pub/Collateral/MC74HC164A-D.PDF","8-Bit Serial-Input/Parallel-Output Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Serial-Input/Parallel-Output Shift Register","Shift Register","1","2","6","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---锁存器和寄存器","MC74HC164A","MC74HC164ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC164ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC164A-D.PDF","8-Bit Serial-Input/Parallel-Output Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Serial-Input/Parallel-Output Shift Register","Shift Register","1","2","6","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---锁存器和寄存器","MC74HC164A","MC74HC164ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC164ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC164A-D.PDF","8-Bit Serial-Input/Parallel-Output Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Serial-Input/Parallel-Output Shift Register","Shift Register","1","2","6","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---锁存器和寄存器","MC74HC164A","NLV74HC164ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC164ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC164A-D.PDF","8-Bit Serial-Input/Parallel-Output Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Serial-Input/Parallel-Output Shift Register","Shift Register","1","2","6","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---锁存器和寄存器","MC74HC164A","NLV74HC164ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC164ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC164A-D.PDF","8-Bit Serial-Input/Parallel-Output Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Serial-Input/Parallel-Output Shift Register","Shift Register","1","2","6","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---锁存器和寄存器","MC74HC259A","MC74HC259ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC259ADG","http://www.onsemi.com/pub/Collateral/MC74HC259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","8","2","6","100","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC259A","MC74HC259ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC259ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","8","2","6","100","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC259A","MC74HC259ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC259ADTG","http://www.onsemi.com/pub/Collateral/MC74HC259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","8","2","6","100","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC259A","MC74HC259ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC259ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","8","2","6","100","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC259A","NLV74HC259ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC259ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","8","2","6","100","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC4094A","MC74HC4094ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4094ADG","http://www.onsemi.com/pub/Collateral/MC74HC4094A-D.PDF","8-Bit Shift and Store Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift and Store Register","Shift Register","1","2","6","150","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC4094A","MC74HC4094ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4094ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC4094A-D.PDF","8-Bit Shift and Store Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift and Store Register","Shift Register","1","2","6","150","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC4094A","MC74HC4094ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4094ADTG","http://www.onsemi.com/pub/Collateral/MC74HC4094A-D.PDF","8-Bit Shift and Store Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift and Store Register","Shift Register","1","2","6","150","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC4094A","MC74HC4094ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC4094ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC4094A-D.PDF","8-Bit Shift and Store Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift and Store Register","Shift Register","1","2","6","150","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC4094A","NLV74HC4094BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC4094BDR2G","http://www.onsemi.com/pub/Collateral/MC74HC4094A-D.PDF","8-Bit Shift and Store Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift and Store Register","Shift Register","1","2","6","150","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC589A","MC74HC589ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC589ADG","http://www.onsemi.com/pub/Collateral/MC74HC589A-D.PDF","8-Bit Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift Register","Shift Register","1","2","6","40","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC589A","MC74HC589ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC589ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC589A-D.PDF","8-Bit Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift Register","Shift Register","1","2","6","40","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC589A","MC74HC589ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC589ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC589A-D.PDF","8-Bit Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift Register","Shift Register","1","2","6","40","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC589A","NLV74HC589ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC589ADG","http://www.onsemi.com/pub/Collateral/MC74HC589A-D.PDF","8-Bit Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift Register","Shift Register","1","2","6","40","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC589A","NLV74HC589ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC589ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC589A-D.PDF","8-Bit Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift Register","Shift Register","1","2","6","40","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC589A","NLV74HC589ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC589ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC589A-D.PDF","8-Bit Shift Register","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","8-Bit Shift Register","Shift Register","1","2","6","40","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC597A","MC74HC597ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC597ADG","http://www.onsemi.com/pub/Collateral/MC74HC597A-D.PDF","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Pb-free
+Halide free","Active","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Shift Register","1","2","6","250","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC597A","MC74HC597ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC597ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC597A-D.PDF","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Pb-free
+Halide free","Active","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Shift Register","1","2","6","250","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC597A","MC74HC597ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC597ADTG","http://www.onsemi.com/pub/Collateral/MC74HC597A-D.PDF","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Pb-free
+Halide free","Active","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Shift Register","1","2","6","250","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HC597A","MC74HC597ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC597ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC597A-D.PDF","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Pb-free
+Halide free","Active","8-Bit Serial or Parallel-Input/Serial-Output Shift Register with Input Latch","Shift Register","1","2","6","250","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT4094A","M74HCT4094ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74HCT4094ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4094A-D.PDF","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Shift Register","1","4.5","5.5","50","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT4094A","MC74HCT4094ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4094ADG","http://www.onsemi.com/pub/Collateral/MC74HCT4094A-D.PDF","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Shift Register","1","4.5","5.5","50","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT4094A","MC74HCT4094ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4094ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT4094A-D.PDF","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Shift Register","1","4.5","5.5","50","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT4094A","MC74HCT4094ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT4094ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT4094A-D.PDF","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","8-Bit Shift and Store Register with LSTTL Compatible Inputs","Shift Register","1","4.5","5.5","50","2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT595A","MC74HCT595ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT595ADG","http://www.onsemi.com/pub/Collateral/MC74HCT595A-D.PDF","Shift Register 3-State, TTL","Pb-free
+Halide free","Active","Shift Register 3-State, TTL","Shift Register","1","4.5","5.5","28","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT595A","MC74HCT595ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT595ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT595A-D.PDF","Shift Register 3-State, TTL","Pb-free
+Halide free","Active","Shift Register 3-State, TTL","Shift Register","1","4.5","5.5","28","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT595A","MC74HCT595ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT595ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT595A-D.PDF","Shift Register 3-State, TTL","Pb-free
+Halide free","Active","Shift Register 3-State, TTL","Shift Register","1","4.5","5.5","28","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74HCT595A","MC74HCT595ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT595ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT595A-D.PDF","Shift Register 3-State, TTL","Pb-free
+Halide free","Active","Shift Register 3-State, TTL","Shift Register","1","4.5","5.5","28","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74LCX373","MC74LCX373DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX373DTG","http://www.onsemi.com/pub/Collateral/MC74LCX373-D.PDF","Low Voltage CMOS Octal Transparent Latch","Pb-free
+Halide free","Active","Low Voltage CMOS Octal Transparent Latch","Latch","8","2","3.6","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74LCX373","MC74LCX373DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX373DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX373-D.PDF","Low Voltage CMOS Octal Transparent Latch","Pb-free
+Halide free","Active","Low Voltage CMOS Octal Transparent Latch","Latch","8","2","3.6","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74LCX373","MC74LCX373DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX373DWR2G","http://www.onsemi.com/pub/Collateral/MC74LCX373-D.PDF","Low Voltage CMOS Octal Transparent Latch","Pb-free
+Halide free","Active","Low Voltage CMOS Octal Transparent Latch","Latch","8","2","3.6","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74LV594A","MC74LV594ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LV594ADR2G","http://www.onsemi.com/pub/Collateral/MC74LV594A-D.PDF","8-Bit Shift Register with Output Register","Pb-free
+Halide free","Active","8-Bit Shift Register with Output Register","Shift Register","1","2","6","6.5","12","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74LV594A","MC74LV594ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LV594ADTR2G","http://www.onsemi.com/pub/Collateral/MC74LV594A-D.PDF","8-Bit Shift Register with Output Register","Pb-free
+Halide free","Active","8-Bit Shift Register with Output Register","Shift Register","1","2","6","6.5","12","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74LVX373","MC74LVX373DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX373DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX373-D.PDF","Octal Transparent Latch 3-State","Pb-free
+Halide free","Active","Octal Transparent Latch 3-State","Latch","8","2","3.6","12.8","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74LVX373","MC74LVX373DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX373DWR2G","http://www.onsemi.com/pub/Collateral/MC74LVX373-D.PDF","Octal Transparent Latch 3-State","Pb-free
+Halide free","Active","Octal Transparent Latch 3-State","Latch","8","2","3.6","12.8","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74VHC259","MC74VHC259DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC259DG","http://www.onsemi.com/pub/Collateral/MC74VHC259-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","2","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHC259","MC74VHC259DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC259DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC259-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","2","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHC259","MC74VHC259DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC259DTG","http://www.onsemi.com/pub/Collateral/MC74VHC259-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","2","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHC259","MC74VHC259DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC259DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC259-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","2","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHC573","MC74VHC573DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC573DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC573-D.PDF","Octal Non-Inverting D Latch, 3-State Output","Pb-free
+Halide free","Active","Octal Non-Inverting D Latch, 3-State Output","Latch","8","2","5.5","8.8","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74VHC573","MC74VHC573DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC573DWR2G","http://www.onsemi.com/pub/Collateral/MC74VHC573-D.PDF","Octal Non-Inverting D Latch, 3-State Output","Pb-free
+Halide free","Active","Octal Non-Inverting D Latch, 3-State Output","Latch","8","2","5.5","8.8","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT259A","MC74VHCT259ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT259ADG","http://www.onsemi.com/pub/Collateral/MC74VHCT259A-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","4.5","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT259A","MC74VHCT259ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT259ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT259A-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","4.5","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT259A","MC74VHCT259ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT259ADTG","http://www.onsemi.com/pub/Collateral/MC74VHCT259A-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","4.5","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT259A","MC74VHCT259ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT259ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT259A-D.PDF","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Pb-free
+Halide free","Active","8-Bit Addressable Latch/1-of-8 Decoder CMOS Logic Level Shifter","Latch","1","4.5","5.5","10","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT573A","MC74VHCT573ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT573ADTG","http://www.onsemi.com/pub/Collateral/MC74VHCT573A-D.PDF","Octal D Latch with 3-State Output","Pb-free
+Halide free","Active","Octal D Latch with 3-State Output","Latch","8","4.5","5.5","9.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT573A","MC74VHCT573ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT573ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT573A-D.PDF","Octal D Latch with 3-State Output","Pb-free
+Halide free","Active","Octal D Latch with 3-State Output","Latch","8","4.5","5.5","9.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT573A","MC74VHCT573ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT573ADWG","http://www.onsemi.com/pub/Collateral/MC74VHCT573A-D.PDF","Octal D Latch with 3-State Output","Pb-free
+Halide free","Active","Octal D Latch with 3-State Output","Latch","8","4.5","5.5","9.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","MC74VHCT573A","MC74VHCT573ADWRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT573ADWRG","http://www.onsemi.com/pub/Collateral/MC74VHCT573A-D.PDF","Octal D Latch with 3-State Output","Pb-free
+Halide free","Active","Octal D Latch with 3-State Output","Latch","8","4.5","5.5","9.5","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---锁存器和寄存器","NLV74HC165A","NLV74HC165ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC165ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC165A-D.PDF","8-Bit Serial or Parallel-Input/Serial Output Shift Register","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","8-Bit Serial or Parallel-Input/Serial Output Shift Register","Shift Register","1","2","6","30","4","SOIC-16"

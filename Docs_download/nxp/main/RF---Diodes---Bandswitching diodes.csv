@@ -1,0 +1,4 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Package version","VR [max]","IF [max]","rD [max]","@IF","@f","Cd [max]","@VR","@foffset"
+"nxp","RF---Diodes---Bandswitching diodes","BA591","http://www.nxp.com/products/rf/diodes/bandswitching_diodes/BA591.html","http://www.nxp.com/documents/data_sheet/BA591.pdf","SOD323","35","100","0.7","3","100","1.05","1","1"
+"nxp","RF---Diodes---Bandswitching diodes","BA891","http://www.nxp.com/products/rf/diodes/bandswitching_diodes/BA891.html","http://www.nxp.com/documents/data_sheet/BA891_N.pdf","SOD523","35","100","0.7","3","100","1.05","1","1"
+"nxp","RF---Diodes---Bandswitching diodes","BAT18","http://www.nxp.com/products/rf/diodes/bandswitching_diodes/BAT18.html","http://www.nxp.com/documents/data_sheet/BAT18.pdf","SOT23","35","100","0.7","5","200","1","20","1"

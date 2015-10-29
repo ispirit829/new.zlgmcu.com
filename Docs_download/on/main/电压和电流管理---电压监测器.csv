@@ -1,0 +1,3899 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Voltages Monitored","VCC Max (V)","V(TO) Typ (V)","IQ Typ (microA)","Reset Active State","Reset Timer","Manual Reset","Watchdog Timer","Package Type"
+"on","电压和电流管理---电压监测器","CAT1832","CAT1832L-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT1832L-G","http://www.onsemi.com/pub/Collateral/CAT1832-D.PDF","Voltage Supervisor, Watchdog Timer, Manual Reset, 3.3 V, with Active High and Low Resets","Pb-free
+Halide free","Active","Voltage Supervisor, Watchdog Timer, Manual Reset, 3.3 V, with Active High and Low Resets","1","5.5","2.55
+2.88","20","High
+Low","Yes","No","Yes","MSOP-8
+PDIP-8
+SOIC-8"
+"on","电压和电流管理---电压监测器","CAT1832","CAT1832V-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT1832V-GT3","http://www.onsemi.com/pub/Collateral/CAT1832-D.PDF","Voltage Supervisor, Watchdog Timer, Manual Reset, 3.3 V, with Active High and Low Resets","Pb-free
+Halide free","Active","Voltage Supervisor, Watchdog Timer, Manual Reset, 3.3 V, with Active High and Low Resets","1","5.5","2.55
+2.88","20","High
+Low","Yes","No","Yes","MSOP-8
+PDIP-8
+SOIC-8"
+"on","电压和电流管理---电压监测器","CAT1832","CAT1832Z-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT1832Z-GT3","http://www.onsemi.com/pub/Collateral/CAT1832-D.PDF","Voltage Supervisor, Watchdog Timer, Manual Reset, 3.3 V, with Active High and Low Resets","Pb-free
+Halide free","Active","Voltage Supervisor, Watchdog Timer, Manual Reset, 3.3 V, with Active High and Low Resets","1","5.5","2.55
+2.88","20","High
+Low","Yes","No","Yes","MSOP-8
+PDIP-8
+SOIC-8"
+"on","电压和电流管理---电压监测器","CAT803","CAT803SSDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT803SSDI-GT3","http://www.onsemi.com/pub/Collateral/CAT803-D.PDF","Voltage Supervisor, Open Drain, Active Low","Pb-free
+Halide free","Active","Voltage Supervisor, Open Drain, Active Low","1","5.5","2.93","6","Low","Yes","No","No","SC-70-3"
+"on","电压和电流管理---电压监测器","CAT810","CAT810JTBI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT810JTBI-GT3","http://www.onsemi.com/pub/Collateral/CAT810-D.PDF","Voltage Supervisor, Push-Pull, Active High","Pb-free
+Halide free","Active","Voltage Supervisor, Push-Pull, Active High","1","5.5","3.08
+4","6","High","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","CAT810","CAT810TTBI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT810TTBI-GT3","http://www.onsemi.com/pub/Collateral/CAT810-D.PDF","Voltage Supervisor, Push-Pull, Active High","Pb-free
+Halide free","Active","Voltage Supervisor, Push-Pull, Active High","1","5.5","3.08
+4","6","High","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","CAT823","CAT823RTDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT823RTDI-GT3","http://www.onsemi.com/pub/Collateral/CAT823-D.PDF","Voltage Supervisor with Manual Reset and Watchdog","Pb-free
+Halide free","Active","Voltage Supervisor with Manual Reset and Watchdog","1","5.5","2.19
+2.32
+2.63
+2.93
+3.08","6","Low","Yes","Yes","Yes","TSOT-23-5"
+"on","电压和电流管理---电压监测器","CAT823","CAT823STDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT823STDI-GT3","http://www.onsemi.com/pub/Collateral/CAT823-D.PDF","Voltage Supervisor with Manual Reset and Watchdog","Pb-free
+Halide free","Active","Voltage Supervisor with Manual Reset and Watchdog","1","5.5","2.19
+2.32
+2.63
+2.93
+3.08","6","Low","Yes","Yes","Yes","TSOT-23-5"
+"on","电压和电流管理---电压监测器","CAT823","CAT823TTDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT823TTDI-GT3","http://www.onsemi.com/pub/Collateral/CAT823-D.PDF","Voltage Supervisor with Manual Reset and Watchdog","Pb-free
+Halide free","Active","Voltage Supervisor with Manual Reset and Watchdog","1","5.5","2.19
+2.32
+2.63
+2.93
+3.08","6","Low","Yes","Yes","Yes","TSOT-23-5"
+"on","电压和电流管理---电压监测器","CAT823","CAT823YTDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT823YTDI-GT3","http://www.onsemi.com/pub/Collateral/CAT823-D.PDF","Voltage Supervisor with Manual Reset and Watchdog","Pb-free
+Halide free","Active","Voltage Supervisor with Manual Reset and Watchdog","1","5.5","2.19
+2.32
+2.63
+2.93
+3.08","6","Low","Yes","Yes","Yes","TSOT-23-5"
+"on","电压和电流管理---电压监测器","CAT823","CAT823ZTDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT823ZTDI-GT3","http://www.onsemi.com/pub/Collateral/CAT823-D.PDF","Voltage Supervisor with Manual Reset and Watchdog","Pb-free
+Halide free","Active","Voltage Supervisor with Manual Reset and Watchdog","1","5.5","2.19
+2.32
+2.63
+2.93
+3.08","6","Low","Yes","Yes","Yes","TSOT-23-5"
+"on","电压和电流管理---电压监测器","CAT853","CAT853STBI-T3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT853STBI-T3","http://www.onsemi.com/pub/Collateral/CAT853-D.PDF","Voltage Supervisor, Open Drain, Active Low","Pb-free
+Halide free","Active","Voltage Supervisor, Open Drain, Active Low","1","5.5","2.93
+3.08","6","Low","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","CAT853","CAT853TTBI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT853TTBI-GT3","http://www.onsemi.com/pub/Collateral/CAT853-D.PDF","Voltage Supervisor, Open Drain, Active Low","Pb-free
+Halide free","Active","Voltage Supervisor, Open Drain, Active Low","1","5.5","2.93
+3.08","6","Low","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","CAT874","CAT874-80ULGT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT874-80ULGT3","http://www.onsemi.com/pub/Collateral/CAT874-D.PDF","Switch Controller","Pb-free
+Halide free","Active","Switch Controller","1","5.5","-","0.1","High","Yes","Yes","No","ULLGA-6"
+"on","电压和电流管理---电压监测器","MAX708","MAX708CUA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708CUA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 4.38 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX708","MAX708ESA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708ESA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 4.38 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX708","MAX708RCUA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708RCUA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 2.63 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX708","MAX708RESA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708RESA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 2.63 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX708","MAX708SCUA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708SCUA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 2.93 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX708","MAX708SESA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708SESA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 2.93 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX708","MAX708TCUA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708TCUA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 3.08 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX708","MAX708TESA-TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX708TESA-TG","http://www.onsemi.com/pub/Collateral/MAX707-D.PDF","MicroPower Voltage Supervisor, 3.08 V","Pb-free
+Halide free","Active","MicroPower Voltage Supervisor","2","5.5","2.63
+2.93
+3.08
+4.38","12","High
+Low","No","Yes","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","MAX809","MAX809HTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809HTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.55 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809JTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809JTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.00 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809LTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809LTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.63 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809MTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809MTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.38 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809MTRGH","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809MTRGH","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809RTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809RTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.63 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SN120T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SN120T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 1.20 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SN160T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SN160T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 1.60 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SN232T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SN232T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.32 V, 40 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SN293D1T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SN293D1T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 1.0 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SN293D2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SN293D2T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 20 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SN293D3T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SN293D3T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 100 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SN490T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SN490T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.90 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ120T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ120T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 1.20 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ232T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ232T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.32 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ263T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ263T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.63 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ293D1T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ293D1T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 1.0 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ293D2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ293D2T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 20 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ293D3T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ293D3T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 100 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ293T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ293T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ308T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ308T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 3.08 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ400T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ400T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.00 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ438T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ438T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.38 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809SQ463T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809SQ463T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 4.63 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809STRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809STRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 2.93 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809STRGH","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809STRGH","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","MAX809TTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAX809TTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, 3.08 V, 140 ms minimum delay","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MAX809","NCV809SN293D1T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV809SN293D1T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor, AUTO 2.93V VTH UP RESET","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Very Low Supply Current, 3-Pin Microprocessor, Reset Monitor","1","5.5","1.2
+1.6
+2.32
+2.63
+2.93
+3.08
+4
+4.38
+4.55
+4.63
+4.9","0.5","Low","Yes","No","No","SC-70-3 / SOT-323-3
+SOT-23-3"
+"on","电压和电流管理---电压监测器","MC33064","MC33064D-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33064D-5G","http://www.onsemi.com/pub/Collateral/MC34064-D.PDF","Voltage Supervisor, Undervoltage Sensing Circuit","Pb-free
+Halide free","Active","Voltage Supervisor, Undervoltage Sensing Circuit","1","6.5","4.61","390","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC33064","MC33064D-5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33064D-5R2G","http://www.onsemi.com/pub/Collateral/MC34064-D.PDF","Voltage Supervisor, Undervoltage Sensing Circuit","Pb-free
+Halide free","Active","Voltage Supervisor, Undervoltage Sensing Circuit","1","6.5","4.61","390","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC33064","MC33064DM-5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33064DM-5R2G","http://www.onsemi.com/pub/Collateral/MC34064-D.PDF","Voltage Supervisor, Undervoltage Sensing Circuit","Pb-free
+Halide free","Active","Voltage Supervisor, Undervoltage Sensing Circuit","1","6.5","4.61","390","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC33064","MC33064P-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33064P-5G","http://www.onsemi.com/pub/Collateral/MC34064-D.PDF","Voltage Supervisor, Undervoltage Sensing Circuit","Pb-free
+Halide free","Active","Voltage Supervisor, Undervoltage Sensing Circuit","1","6.5","4.61","390","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC33064","MC33064P-5RAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33064P-5RAG","http://www.onsemi.com/pub/Collateral/MC34064-D.PDF","Voltage Supervisor, Undervoltage Sensing Circuit","Pb-free
+Halide free","Active","Voltage Supervisor, Undervoltage Sensing Circuit","1","6.5","4.61","390","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC33064","MC33064P-5RPG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33064P-5RPG","http://www.onsemi.com/pub/Collateral/MC34064-D.PDF","Voltage Supervisor, Undervoltage Sensing Circuit","Pb-free
+Halide free","Active","Voltage Supervisor, Undervoltage Sensing Circuit","1","6.5","4.61","390","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC33064","MC33064SN-5T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33064SN-5T1G","http://www.onsemi.com/pub/Collateral/MC34064-D.PDF","Voltage Supervisor, Undervoltage Sensing Circuit","Pb-free
+Halide free","Active","Voltage Supervisor, Undervoltage Sensing Circuit","1","6.5","4.61","390","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC33164","MC33164D-3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164D-3G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164D-3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164D-3R2G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164D-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164D-5G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164D-5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164D-5R2G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164DM-3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164DM-3R2G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164DM-5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164DM-5R2G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164P-3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164P-3G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164P-3RAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164P-3RAG","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164P-3RPG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164P-3RPG","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164P-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164P-5G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164P-5RAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164P-5RAG","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC33164","MC33164P-5RPG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33164P-5RPG","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压监测器","MC34164","MC34164D-3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164D-3R2G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC34164","MC34164D-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164D-5G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC34164","MC34164D-5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164D-5R2G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC34164","MC34164DM-5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164DM-5R2G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC34164","MC34164P-3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164P-3G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC34164","MC34164P-3RPG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164P-3RPG","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 2.65 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC34164","MC34164P-5G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164P-5G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","MC34164","MC34164SN-5T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34164SN-5T1G","http://www.onsemi.com/pub/Collateral/MC34164-D.PDF","Voltage Supervisor, Micropower Undervoltage Sensing Circuit, 4.27 V","Pb-free
+Halide free","Active","Voltage Supervisor, Micropower Undervoltage Sensing Circuit","1","10","2.71
+4.33","24
+32","Low","No","No","No","Micro8™
+SOIC-8
+TO-92
+TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301HSN09T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301HSN09T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 0.9 V, Reset High","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301HSN18T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301HSN18T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 1.8 V, Reset High","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301HSN22T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301HSN22T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.2 V, Reset High","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301HSN27T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301HSN27T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.7 V, Reset High","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301HSN30T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301HSN30T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.0 V, Reset High","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301HSN45T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301HSN45T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 4.5 V, Reset High","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN09T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN09T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 0.9 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN10T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN10T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 1.0 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN11T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN11T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 1.1 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN12T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN12T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 1.2 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN16T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN16T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 1.6 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN18T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN18T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 1.8 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN20T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN20T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.0 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN22T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN22T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.2 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN24T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN24T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.4 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN25T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN25T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.5 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN26T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN26T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.6 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN27T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN27T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.7 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN28T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN28T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 2.8 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN30T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN30T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.0 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN31T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN31T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.1 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN32T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN32T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.2 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN33T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN33T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.3 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN34T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN34T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.4 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN36T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN36T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.6 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN39T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN39T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.9 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN40T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN40T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 4.0 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN42T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN42T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 4.2 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN45T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN45T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 4.5 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN46T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN46T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 4.6 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCP301LSN47T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP301LSN47T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 4.7 V, Reset Low","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP301","NCV301LSN30T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN30T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series with Open Drain N-Channel Output, 3.0V, Reset Low, Auto","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Detector Series with Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.2
+1.6
+1.8
+2
+2.2
+2.4
+2.5
+2.6
+2.7
+2.8
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.9
+4
+4.2
+4.5
+4.6
+4.7","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN09T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN09T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 0.9 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN09T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN09T2G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, NCP303LSN09 in T2 T&R Orientation","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN10T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN10T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.0 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN11T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN11T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.1 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN13T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN13T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.3 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN14T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN14T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.4 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN15T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN15T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.5 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN16T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN16T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.6 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN17T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN17T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.7 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN18T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN18T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 1.8 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN20T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN20T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.0 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN22T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN22T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.2 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN23T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN23T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.3 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN24T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN24T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.4 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN25T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN25T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.5 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN26T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN26T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.6 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN27T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN27T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.7 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN28T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN28T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.8 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN29T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN29T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.9 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN30T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN30T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 3.0 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN31T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN31T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 3.1 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN32T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN32T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 3.2 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN33T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN33T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 3.3 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN34T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN34T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 3.4 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN36T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN36T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 3.6 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN38T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN38T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 3.8 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN40T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN40T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 4.0 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN42T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN42T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 4.2 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN44T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN44T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 4.4 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN45T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN45T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 4.5 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN46T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN46T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 4.6 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN47T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN47T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 4.7 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCP303LSN49T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP303LSN49T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 4.9 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN09T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN09T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 0.9V, Reset Low, Auto","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN11T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN11T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN22T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN22T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN24T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN24T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.4 V, Reset Low","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN25T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN25T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, 2.5V, Reset Low, Auto","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN27T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN27T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, VOLTAGE DETECTOR 2.7V AUTO","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN31T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN31T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN34T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN34T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP303","NCV303LSN40T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN40T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output, Undervoltage Detector","Pb-free
+Halide free
+PPAP Capable
+AEC Qualified","Active","Voltage Detector Series with Programmable Delay and Open Drain N-Channel Output","1","10","0.9
+1
+1.1
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+2
+2.2
+2.3
+2.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3
+3.1
+3.2
+3.3
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.5
+4.6
+4.8
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCP304A","NCP304ALSQ43T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP304ALSQ43T1G","http://www.onsemi.com/pub/Collateral/NCP304A.PDF","Voltage Detector with Reverse Pin Out, 4.3 V","Pb-free
+Halide free","Active","Voltage Detector with Reverse Pin Out","1","10","4.3","1","Low","No","No","No","SC-82AB-4"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT090TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT090TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Pgmmable Delay Time Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT120TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT120TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT125TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT125TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT150TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT150TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT180TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT180TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT190TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT190TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT250TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT250TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT280TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT280TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT300TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT300TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT330TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT330TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MT500TBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MT500TBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low quiescent current, delay time pgmmable supervisory ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308MTADJTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308MTADJTBG","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Pgmmable Delay Time Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN090T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN090T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN120T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN120T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low quiescent current, delay time pgmmable supervisory circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN125T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN125T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN150T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN150T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay time Pgmmable Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN180T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN180T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low quiescent current, delay time pgmmable supervisory ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN190T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN190T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay time Pgmmable Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN250T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN250T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN280T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN280T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN300T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN300T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low quiescent current, delay time pgmmable supervisory ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN330T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN330T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low quiescent current, delay time pgmmable supervisory ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SN500T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SN500T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Circuit","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCP308SNADJT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP308SNADJT1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Delay Time Pgmmable Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCV308SN330T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV308SN330T1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Pgmmable Delay Time Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCP308","NCV308SNADJT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV308SNADJT1G","http://www.onsemi.com/pub/Collateral/NCP308-D.PDF","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time, Low Quiescent Current, Pgmmable Delay Time Supervisory Ckt","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Voltage Supervisor, Ultra Low Quiescent Current, Programmable Delay Time","1","5.5","0.405 min
+0.9
+1.2
+1.25
+1.5
+1.8
+1.9
+2.5
+2.8
+3
+3.3
+5","1.6","Low","Yes","Yes","No","TSOP-6
+WDFN-6"
+"on","电压和电流管理---电压监测器","NCT80","NCT80DBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT80DBR2G","http://www.onsemi.com/pub/Collateral/NCT80-D.PDF","Hardware Monitor with I2C serial interface","Pb-free
+Halide free","Active","Hardware Monitor with I2C serial interface","7","5.75",,"0.58","Low","No","Yes","No","TSSOP-24"
+"on","电压和电流管理---电压监测器","NCV301","NCV301HSN27T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301HSN27T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 2.7 V, Reset High","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN12T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN12T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 1.2 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN16T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN16T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 1.6 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN20T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN20T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 2.0 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN22T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN22T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 2.2 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN25T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN25T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 2.5 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN28T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN28T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 2.8 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN33T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN33T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 3.3 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN40T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN40T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 4.0 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN42T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN42T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 4.2 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV301","NCV301LSN45T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV301LSN45T1G","http://www.onsemi.com/pub/Collateral/NCP300-D.PDF","Voltage Detector Series - Auto Rated, 4.5 V, Reset Low","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series - Auto Rated","1","10","1.2
+1.6
+2
+2.2
+2.5
+2.7
+2.8
+3.3
+4
+4.2
+4.5","0.5","High
+Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN10T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN10T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN15T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN15T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN17T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN17T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN23T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN23T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN29T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN29T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN30T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN30T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN42T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN42T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN44T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN44T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN45T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN45T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN47T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN47T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV303","NCV303LSN49T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV303LSN49T1G","http://www.onsemi.com/pub/Collateral/NCP302-D.PDF","Voltage Detector Series with Programmable Delay - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Detector Series with Programmable Delay - Auto Rated","1","10","1
+1.5
+1.7
+2.3
+2.9
+3
+4.2
+4.4
+4.5
+4.7
+4.9","0.5","Low","No","No","No","TSOP-5 / SOT-23-5"
+"on","电压和电流管理---电压监测器","NCV33161","NCV33161DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33161DMR2G","http://www.onsemi.com/pub/Collateral/MC34161-D.PDF","Universal Voltage Monitor - Auto Rated, Univ Volt Monitor Auto Std","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Universal Voltage Monitor - Auto Rated","2","40","1.27","560",,"No","No","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","NCV33161","NCV33161DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33161DR2G","http://www.onsemi.com/pub/Collateral/MC34161-D.PDF","Universal Voltage Monitor - Auto Rated","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Universal Voltage Monitor - Auto Rated","2","40","1.27","560",,"No","No","No","Micro8™
+SOIC-8"
+"on","电压和电流管理---电压监测器","NCV809","NCV809LTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV809LTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","1","5.5","2.63
+2.93
+3.08
+4.38
+4.63","0.5","Low","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","NCV809","NCV809MTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV809MTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors, AEC 4.38V UPROC RESET","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","1","5.5","2.63
+2.93
+3.08
+4.38
+4.63","0.5","Low","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","NCV809","NCV809RTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV809RTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","1","5.5","2.63
+2.93
+3.08
+4.38
+4.63","0.5","Low","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","NCV809","NCV809SN293D2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV809SN293D2T1G","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors, ANA 2.93V MCROPROC RESET","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","1","5.5","2.63
+2.93
+3.08
+4.38
+4.63","0.5","Low","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","NCV809","NCV809STRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV809STRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","1","5.5","2.63
+2.93
+3.08
+4.38
+4.63","0.5","Low","Yes","No","No","SOT-23-3"
+"on","电压和电流管理---电压监测器","NCV809","NCV809TTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV809TTRG","http://www.onsemi.com/pub/Collateral/MAX809S-D.PDF","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors, 3.08, 140 ms minimum delay, Auto","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Supervisor, 3-Pin, Microprocessor, Very Low Supply Current, Reset Monitors","1","5.5","2.63
+2.93
+3.08
+4.38
+4.63","0.5","Low","Yes","No","No","SOT-23-3"

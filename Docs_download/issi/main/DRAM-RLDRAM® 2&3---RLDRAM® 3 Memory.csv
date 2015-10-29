@@ -1,0 +1,3 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Den","Org","Interface","Pkg(Pins)","Status","Comment"
+"issi","DRAM-RLDRAM® 2/3---RLDRAM® 3 Memory","IS49RL18320","http://www.issi.com/US/product-rldram.shtml","http://www.issi.com/WW/pdf/49RL18320-36160.pdf","576M","32Mx18","Common I/O","BGA(168)","Prod","-"
+"issi","DRAM-RLDRAM® 2/3---RLDRAM® 3 Memory","IS49RL36160","http://www.issi.com/US/product-rldram.shtml","http://www.issi.com/WW/pdf/49RL18320-36160.pdf","-","16Mx36","Common I/O","BGA(168)","Prod","-"

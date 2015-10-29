@@ -1,0 +1,126 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","VI Max (V)","IO Max (mA)","LEDs in Series, Max #","LEDs in Parallel, Max #","Package Type"
+"on","LED Drivers---LED驱动器","CAT4002A","CAT4002ASD-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4002ASD-GT3","http://www.onsemi.com/pub/Collateral/CAT4002A-D.PDF","LED Driver, 2-Channel, with 32 Dimming Levels and Reset","Pb-free
+Halide free","Active","LED Driver, 2-Channel, with 32 Dimming Levels and Reset","5.5","40","1","2","SC-88-6 / SC-70-6
+TSOT-23-6"
+"on","LED Drivers---LED驱动器","CAT4002A","CAT4002ATD-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4002ATD-GT3","http://www.onsemi.com/pub/Collateral/CAT4002A-D.PDF","LED Driver, 2-Channel, with 32 Dimming Levels and Reset","Pb-free
+Halide free","Active","LED Driver, 2-Channel, with 32 Dimming Levels and Reset","5.5","40","1","2","SC-88-6 / SC-70-6
+TSOT-23-6"
+"on","LED Drivers---LED驱动器","CAT4004A","CAT4004AHU2-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4004AHU2-GT3","http://www.onsemi.com/pub/Collateral/CAT4004A-D.PDF","LED Driver, 4-Channel, with 32 Dimming Levels and Reset","Pb-free
+Halide free","Active","LED Driver, 4-Channel, with 32 Dimming Levels and Reset","5.5","40","1","4","UDFN-8"
+"on","LED Drivers---LED驱动器","CAT4008","CAT4008Y-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4008Y-T2","http://www.onsemi.com/pub/Collateral/CAT4008-D.PDF","LED Driver, 8-Channel, Constant Current","Pb-free
+Halide free","Active","LED Driver, 8-Channel, Constant Current","5.5","800","8","8","TSSOP-16"
+"on","LED Drivers---LED驱动器","CAT4026","CAT4026V-T1","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4026V-T1","http://www.onsemi.com/pub/Collateral/CAT4026-D.PDF","LED Controller, 6-Channel, with Fault Diagnostics","Pb-free
+Halide free","Active","LED Controller, 6-Channel, with Fault Diagnostics","5.5","-","80","6","SOIC-28W"
+"on","LED Drivers---LED驱动器","CAT4104","CAT4104V-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4104V-GT3","http://www.onsemi.com/pub/Collateral/CAT4104-D.PDF","LED Driver, 4-Channels, 700 mA","Pb-free
+Halide free","Active","LED Driver, 4-Channels, 700 mA","5.5","700","8","4","SOIC-8
+TDFN-8"
+"on","LED Drivers---LED驱动器","CAT4104","CAT4104VP2-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4104VP2-GT3","http://www.onsemi.com/pub/Collateral/CAT4104-D.PDF","LED Driver, 4-Channels, 700 mA","Pb-free
+Halide free","Active","LED Driver, 4-Channels, 700 mA","5.5","700","8","4","SOIC-8
+TDFN-8"
+"on","LED Drivers---LED驱动器","LV5212VH","LV5212VH-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5212VH-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1585-D.PDF","LED Driver, 8-Channel","Pb-free
+Halide free","Active","LED Driver, 8-Channel","5.5","300",,"8","HSSOP-16"
+"on","LED Drivers---LED驱动器","LV5234V","LV5234VZ-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5234VZ-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1936-D.PDF","LED Driver, 9-Channel","Pb-free
+Halide free","Active","LED Driver, 9-Channel","5.5","100",,"9","SSOP-30"
+"on","LED Drivers---LED驱动器","LV5236V","LV5236V-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5236V-MPB-H","http://www.onsemi.com/pub/Collateral/ENA1943-D.PDF","LED Driver, 24-Channel","Pb-free
+Halide free","Active","LED Driver, 24-Channel","5.5","50
+100",,"24","SSOP-44J EP"
+"on","LED Drivers---LED驱动器","LV5236V","LV5236VZ-MPB-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5236VZ-MPB-H","http://www.onsemi.com/pub/Collateral/ENA1943-D.PDF","LED Driver, 24-Channel","Pb-free
+Halide free","Active","LED Driver, 24-Channel","5.5","50
+100",,"24","SSOP-44J EP"
+"on","LED Drivers---LED驱动器","LV5236V","LV5236VZ-TLM-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5236VZ-TLM-H","http://www.onsemi.com/pub/Collateral/ENA1943-D.PDF","LED Driver, 24-Channel","Pb-free
+Halide free","Active","LED Driver, 24-Channel","5.5","50
+100",,"24","SSOP-44J EP"
+"on","LED Drivers---LED驱动器","LV5239TA","LV5239TAZ-NH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5239TAZ-NH","http://www.onsemi.com/pub/Collateral/LV5239TA-D.PDF","LED Driver, 24-channel","Pb-free
+Halide free","ActiveNEW","LED Driver, 24-channel","12.8","50
+100","10","24","QFP-48 / TQFP-48"
+"on","LED Drivers---LED驱动器","NCV7680","NCV7680PWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV7680PWR2G","http://www.onsemi.com/pub/Collateral/NCV7680-D.PDF","LED Driver for Automotive LED Rear Combination Lamps","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","LED Driver for Automotive LED Rear Combination Lamps","45","75",,"16","SOIC-16W EP"
+"on","LED Drivers---LED驱动器","NLSF595","NLSF595DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSF595DTR2G","http://www.onsemi.com/pub/Collateral/NLSF595-D.PDF","Tri-Color LED Driver","Pb-free
+Halide free","Active","Tri-Color LED Driver","7","12","1","8","QFN-16
+TSSOP-16"
+"on","LED Drivers---LED驱动器","NLSF595","NLSF595MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSF595MNR2G","http://www.onsemi.com/pub/Collateral/NLSF595-D.PDF","Tri-Color LED Driver","Pb-free
+Halide free","Active","Tri-Color LED Driver","7","12","1","8","QFN-16
+TSSOP-16"
+"on","LED Drivers---LED驱动器","NSI45020","NSI45020T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI45020T1G","http://www.onsemi.com/pub/Collateral/NSI45020-D.PDF","LED Driver, Constant Current Regulator, 20 mA, 45 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 20 mA, 45 V","45","20","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI45020","NSV45020T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSV45020T1G","http://www.onsemi.com/pub/Collateral/NSI45020-D.PDF","LED Driver, Constant Current Regulator, 20 mA, 45 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 20 mA, 45 V","45","20","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI45020J","NSI45020JZT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI45020JZT1G","http://www.onsemi.com/pub/Collateral/NSI45020JZ-D.PDF","LED Driver, Adjustable Constant Current Regulator, 45 V, 20 mA","AEC Qualified
+Pb-free
+Halide free","Active","LED Driver, Adjustable Constant Current Regulator, 45 V, 20 mA","45","40","80","16","SOT-223-4 / TO-261-4"
+"on","LED Drivers---LED驱动器","NSI45025A","NSI45025AT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI45025AT1G","http://www.onsemi.com/pub/Collateral/NSI45025A-D.PDF","LED Driver, Constant Current Regulator, 25 mA, 45 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 25 mA, 45 V","45","25","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI45025A","NSV45025AT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSV45025AT1G","http://www.onsemi.com/pub/Collateral/NSI45025A-D.PDF","LED Driver, Constant Current Regulator, 25 mA, 45 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 25 mA, 45 V","45","25","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI45025Z","NSI45025ZT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI45025ZT1G","http://www.onsemi.com/pub/Collateral/NSI45025Z-D.PDF","LED Driver, Constant Current Regulator, 25 mA, 45 V","AEC Qualified
+Pb-free
+Halide free","Active","LED Driver, Constant Current Regulator, 25 mA, 45 V","45","25","80","16","SOT-223-4 / TO-261-4"
+"on","LED Drivers---LED驱动器","NSI45030A","NSI45030AT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI45030AT1G","http://www.onsemi.com/pub/Collateral/NSI45030A-D.PDF","LED Driver, Constant Current Regulator, 30 mA, 45 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 30 mA, 45 V","45","30","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI45030A","NSV45030AT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSV45030AT1G","http://www.onsemi.com/pub/Collateral/NSI45030A-D.PDF","LED Driver, Constant Current Regulator, 30 mA, 45 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 30 mA, 45 V","45","30","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI45030Z","NSI45030ZT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI45030ZT1G","http://www.onsemi.com/pub/Collateral/NSI45030Z-D.PDF","LED Driver, Constant Current Regulator, 30 mA, 45 V","AEC Qualified
+Pb-free
+Halide free","Active","LED Driver, Constant Current Regulator, 30 mA, 45 V","45","30","80","16","SOT-223-4 / TO-261-4"
+"on","LED Drivers---LED驱动器","NSI45060JD","NSI45060JDT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI45060JDT4G","http://www.onsemi.com/pub/Collateral/NSI45060JD-D.PDF","LED Driver, Adjustable Constant Current Regulator, 45 V, 60 - 100 mA","AEC Qualified
+Pb-free
+PPAP Capable
+Halide free","Active","LED Driver, Adjustable Constant Current Regulator, 45 V, 60 - 100 mA","45","100","80","16","DPAK-3"
+"on","LED Drivers---LED驱动器","NSI45060JD","NSV45060JDT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSV45060JDT4G","http://www.onsemi.com/pub/Collateral/NSI45060JD-D.PDF","LED Driver, Adjustable Constant Current Regulator, 45 V, 60 - 100 mA","AEC Qualified
+Pb-free
+PPAP Capable
+Halide free","Active","LED Driver, Adjustable Constant Current Regulator, 45 V, 60 - 100 mA","45","100","80","16","DPAK-3"
+"on","LED Drivers---LED驱动器","NSI50010YT1G","NSI50010YT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI50010YT1G","http://www.onsemi.com/pub/Collateral/NSI50010Y-D.PDF","LED Driver, Constant Current Regulator, 50 V, 10 mA","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 50 V, 10 mA","50","10","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI50010YT1G","NSV50010YT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSV50010YT1G","http://www.onsemi.com/pub/Collateral/NSI50010Y-D.PDF","LED Driver, Constant Current Regulator, 50 V, 10 mA","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 50 V, 10 mA","50","10","80","16","SOD-123"
+"on","LED Drivers---LED驱动器","NSI50350AD","NSI50350ADT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSI50350ADT4G","http://www.onsemi.com/pub/Collateral/NSI50350AD-D.PDF","LED Driver, Constant Current Regulator, 50 V, 350 mA","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 50 V, 350 mA","50","350","80","16","DPAK-3"
+"on","LED Drivers---LED驱动器","NSI50350AD","NSV50350ADT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSV50350ADT4G","http://www.onsemi.com/pub/Collateral/NSI50350AD-D.PDF","LED Driver, Constant Current Regulator, 50 V, 350 mA","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","LED Driver, Constant Current Regulator, 50 V, 350 mA","50","350","80","16","DPAK-3"
+"on","LED Drivers---LED驱动器","NSIC2020JB","NSIC2020JBT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSIC2020JBT3G","http://www.onsemi.com/pub/Collateral/NSIC2020JB-D.PDF","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 20 mA ±15%","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 20 mA ±15% ","120","20","80",,"SMB-2"
+"on","LED Drivers---LED驱动器","NSIC2020JB","NSVC2020JBT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVC2020JBT3G","http://www.onsemi.com/pub/Collateral/NSIC2020JB-D.PDF","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 20 mA ±15%","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 20 mA ±15% ","120","20","80",,"SMB-2"
+"on","LED Drivers---LED驱动器","NSIC2050JB","NSIC2050JBT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSIC2050JBT3G","http://www.onsemi.com/pub/Collateral/NSIC2050JB-D.PDF","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 50 mA ±15%","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 50 mA ±15%","120","50","80",,"SMB-2"
+"on","LED Drivers---LED驱动器","NSIC2050JB","NSVC2050JBT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVC2050JBT3G","http://www.onsemi.com/pub/Collateral/NSIC2050JB-D.PDF","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 50 mA ±15%","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Constant Current Regulator & LED Driver for A/C off-line Applications, 120 V, 50 mA ±15%","120","50","80",,"SMB-2"
+"on","LED Drivers---LED驱动器","NUD4001","NSVD4001DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVD4001DR2G","http://www.onsemi.com/pub/Collateral/NUD4001-D.PDF","High Current LED Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","High Current LED Driver","30","500","8","16","SOIC-8"
+"on","LED Drivers---LED驱动器","NUD4001","NUD4001DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUD4001DR2G","http://www.onsemi.com/pub/Collateral/NUD4001-D.PDF","High Current LED Driver","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","High Current LED Driver","30","500","8","16","SOIC-8"

@@ -1,0 +1,29 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","GBW Typ (MHz)","VCC Max (V)","ID Typ (mA)","TA Min (degreesC)","TA Max (degreesC)","Package Type"
+"on","放大器和比较器---视频放大器","LA72730","LA72730-N-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA72730-N-E","http://www.onsemi.com/pub/Collateral/LA72730-D.PDF","Audio/Video Switch for TV","Pb-free","Active","Audio/Video Switch for TV",,,,,,,"PDIP-28"
+"on","放大器和比较器---视频放大器","NCS2553","NCS2553DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2553DG","http://www.onsemi.com/pub/Collateral/NCS2553-D.PDF","Video Amplifier, 3-Channel, with Standard Definition Reconstruction Filters","Pb-free
+Halide free","Active","Video Amplifier, 3-Channel, with Standard Definition Reconstruction Filters","3","8","5.5","23","-40","85","SOIC-8"
+"on","放大器和比较器---视频放大器","NCS2553","NCS2553DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2553DR2G","http://www.onsemi.com/pub/Collateral/NCS2553-D.PDF","Video Amplifier, 3-Channel, with Standard Definition Reconstruction Filters","Pb-free
+Halide free","Active","Video Amplifier, 3-Channel, with Standard Definition Reconstruction Filters","3","8","5.5","23","-40","85","SOIC-8"
+"on","放大器和比较器---视频放大器","NCS2563","NCS2563DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2563DG","http://www.onsemi.com/pub/Collateral/NCS2563-D.PDF","Video Amplifier, 3-Channel, with HD Reconstruction Filters","Pb-free
+Halide free","Active","Video Amplifier, 3-Channel, with HD Reconstruction Filters","3","30","5.5","22","-40","85","SOIC-8"
+"on","放大器和比较器---视频放大器","NCS2563","NCS2563DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2563DR2G","http://www.onsemi.com/pub/Collateral/NCS2563-D.PDF","Video Amplifier, 3-Channel, with HD Reconstruction Filters","Pb-free
+Halide free","Active","Video Amplifier, 3-Channel, with HD Reconstruction Filters","3","30","5.5","22","-40","85","SOIC-8"
+"on","放大器和比较器---视频放大器","NCS2566","NCS2566DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2566DTBR2G","http://www.onsemi.com/pub/Collateral/NCS2566-D.PDF","Video Amplifier, 6-Channel  (Triple SD, Triple Selectable SD/HD)","Pb-free
+Halide free","Active","Video Amplifier, 6-Channel  (Triple SD, Triple Selectable SD/HD)","6","8
+34","5.3","65","-40","85","TSSOP-20"
+"on","放大器和比较器---视频放大器","NE592","NE592D14G","http://www.onsemi.cn/PowerSolutions/product.do?id=NE592D14G","http://www.onsemi.com/pub/Collateral/NE592-D.PDF","Video Amplifier","Pb-free
+Halide free","Active","Video Amplifier","1","40
+90","8","18","0","70","SOIC-14
+SOIC-8"
+"on","放大器和比较器---视频放大器","NE592","NE592D14R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NE592D14R2G","http://www.onsemi.com/pub/Collateral/NE592-D.PDF","Video Amplifier","Pb-free
+Halide free","Active","Video Amplifier","1","40
+90","8","18","0","70","SOIC-14
+SOIC-8"
+"on","放大器和比较器---视频放大器","NE592","NE592D8G","http://www.onsemi.cn/PowerSolutions/product.do?id=NE592D8G","http://www.onsemi.com/pub/Collateral/NE592-D.PDF","Video Amplifier","Pb-free
+Halide free","Active","Video Amplifier","1","40
+90","8","18","0","70","SOIC-14
+SOIC-8"
+"on","放大器和比较器---视频放大器","NE592","NE592D8R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NE592D8R2G","http://www.onsemi.com/pub/Collateral/NE592-D.PDF","Video Amplifier","Pb-free
+Halide free","Active","Video Amplifier","1","40
+90","8","18","0","70","SOIC-14
+SOIC-8"

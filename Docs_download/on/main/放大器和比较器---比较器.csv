@@ -1,0 +1,133 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","VCC Min (V)","VCC Max (V)","IO Typ (mA)","ICC Typ (mA)","tres Typ (ns)","VIO Max (mV)","TA Min (degreesC)","TA Max (degreesC)","Package Type"
+"on","放大器和比较器---比较器","LM211","LM211DG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM211DG","http://www.onsemi.com/pub/Collateral/LM211-D.PDF","Single Comparator","Pb-free
+Halide free","Active","Single Comparator","1","5","36","8","2.4","200","3","-25","85","SOIC-8"
+"on","放大器和比较器---比较器","LM211","LM211DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM211DR2G","http://www.onsemi.com/pub/Collateral/LM211-D.PDF","Single Comparator","Pb-free
+Halide free","Active","Single Comparator","1","5","36","8","2.4","200","3","-25","85","SOIC-8"
+"on","放大器和比较器---比较器","LM2901","LM2901DG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901DG","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2901","LM2901DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901DR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2901","LM2901DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901DTBR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2901","LM2901NG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901NG","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2901","LM2901VDG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901VDG","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2901","LM2901VDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901VDR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2901","LM2901VDTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901VDTBR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2901","LM2901VNG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2901VNG","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade), T","Pb-free
+Halide free","Active","Low Cost, 36V, Single Supply Quad Comparator (Industrial Grade)","4","3","36","16","1","1300","7","-40","105
+125","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LM2903","LM2903DG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2903DG","http://www.onsemi.com/pub/Collateral/LM393-D.PDF","Low Offset Voltage Dual Comparator","Pb-free
+Halide free","Active","Low Offset Voltage Dual Comparator","2","2","36","16","0.7","1500","7","-40","105","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---比较器","LM2903","LM2903DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2903DMR2G","http://www.onsemi.com/pub/Collateral/LM393-D.PDF","Low Offset Voltage Dual Comparator","Pb-free
+Halide free","Active","Low Offset Voltage Dual Comparator","2","2","36","16","0.7","1500","7","-40","105","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---比较器","LM2903","LM2903DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2903DR2G","http://www.onsemi.com/pub/Collateral/LM393-D.PDF","Low Offset Voltage Dual Comparator","Pb-free
+Halide free","Active","Low Offset Voltage Dual Comparator","2","2","36","16","0.7","1500","7","-40","105","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---比较器","LM2903","LM2903NG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2903NG","http://www.onsemi.com/pub/Collateral/LM393-D.PDF","Low Offset Voltage Dual Comparator","Pb-free
+Halide free","Active","Low Offset Voltage Dual Comparator","2","2","36","16","0.7","1500","7","-40","105","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---比较器","LM2903V","LM2903VDG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2903VDG","http://www.onsemi.com/pub/Collateral/LM393-D.PDF","Low Offset Voltage Dual Comparator","Pb-free
+Halide free","Active","Low Offset Voltage Dual Comparator","2","2","36","16","0.7","1500","7","-40","125","SOIC-8"
+"on","放大器和比较器---比较器","LM2903V","LM2903VDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2903VDR2G","http://www.onsemi.com/pub/Collateral/LM393-D.PDF","Low Offset Voltage Dual Comparator","Pb-free
+Halide free","Active","Low Offset Voltage Dual Comparator","2","2","36","16","0.7","1500","7","-40","125","SOIC-8"
+"on","放大器和比较器---比较器","LM311","LM311DG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM311DG","http://www.onsemi.com/pub/Collateral/LM211-D.PDF","Single Comparator","Pb-free
+Halide free","Active","Single Comparator","1","5","36","8","2.4","200","7.5","0","70","SOIC-8"
+"on","放大器和比较器---比较器","LM311","LM311DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM311DR2G","http://www.onsemi.com/pub/Collateral/LM211-D.PDF","Single Comparator","Pb-free
+Halide free","Active","Single Comparator","1","5","36","8","2.4","200","7.5","0","70","SOIC-8"
+"on","放大器和比较器---比较器","LM339S","LM339SNG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM339SNG","http://www.onsemi.com/pub/Collateral/LM339S-D.PDF","Comparator, Single Supply, Quad","Pb-free
+Halide free","Active","Comparator, Single Supply, Quad","4","3","36","16","1","200","5","0","70","PDIP-14"
+"on","放大器和比较器---比较器","LM393S","LM393SNG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM393SNG","http://www.onsemi.com/pub/Collateral/LM393S-D.PDF","Comparator, Dual, Low Offset Voltage","Pb-free
+Halide free","Active","Comparator, Dual, Low Offset Voltage","2","2","36","16","0.75","200","9","0","70","PDIP-8"
+"on","放大器和比较器---比较器","LMV339","LMV339DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV339DR2G","http://www.onsemi.com/pub/Collateral/LMV331-D.PDF","Comparator, Low Voltage, Quad, General Purpose","Pb-free
+Halide free","Active","Comparator, Low Voltage, Quad, General Purpose","4","2.7","5","84","0.17","800","9","-40","85","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","LMV339","LMV339DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV339DTBR2G","http://www.onsemi.com/pub/Collateral/LMV331-D.PDF","Comparator, Low Voltage, Quad, General Purpose","Pb-free
+Halide free","Active","Comparator, Low Voltage, Quad, General Purpose","4","2.7","5","84","0.17","800","9","-40","85","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","MC10E1651","MC10E1651FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E1651FNG","http://www.onsemi.com/pub/Collateral/MC10E1651-D.PDF","5.0 V, -5.0 V Dual ECL Output Comparator with Latch","Pb-free
+Halide free","Active","5.0 V, -5.0 V Dual ECL Output Comparator with Latch","2","-5.2","5","50","55","0.925","25","0","85","PLLC-20"
+"on","放大器和比较器---比较器","MC10E1651","MC10E1651FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E1651FNR2G","http://www.onsemi.com/pub/Collateral/MC10E1651-D.PDF","5.0 V, -5.0 V Dual ECL Output Comparator with Latch","Pb-free
+Halide free","Active","5.0 V, -5.0 V Dual ECL Output Comparator with Latch","2","-5.2","5","50","55","0.925","25","0","85","PLLC-20"
+"on","放大器和比较器---比较器","MC3302","MC3302DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC3302DG","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Single Supply Quad Comparator","Pb-free
+Halide free","Active","Single Supply Quad Comparator","4","3","30","16","1","1300","20","-40","85","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","MC3302","MC3302DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC3302DR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Single Supply Quad Comparator","Pb-free
+Halide free","Active","Single Supply Quad Comparator","4","3","30","16","1","1300","20","-40","85","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","MC3302","MC3302DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC3302DTBR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Single Supply Quad Comparator","Pb-free
+Halide free","Active","Single Supply Quad Comparator","4","3","30","16","1","1300","20","-40","85","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","NCS2200A","NCS2200AMUT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2200AMUT1G","http://www.onsemi.com/pub/Collateral/NCS2200-D.PDF","Low Voltage Comparator, Complementary","Pb-free
+Halide free","Active","Low Voltage Comparator, Complementary ","1","0.85","6","60","0.01","1100","5","-40","105","UDFN-6"
+"on","放大器和比较器---比较器","NCS2202A","NCS2202AMUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2202AMUTBG","http://www.onsemi.com/pub/Collateral/NCS2200-D.PDF","Low Voltage Comparator, Open Drain","Pb-free
+Halide free","Active","Low Voltage Comparator, Open Drain","1","0.85","6","10","0.008","580","12","-40","105","UDFN-6"
+"on","放大器和比较器---比较器","NCS2300","NCS2300MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2300MUTAG","http://www.onsemi.com/pub/Collateral/NCS2300-D.PDF","Headset Detection Interface","Pb-free
+Halide free","Active","Headset Detection Interface",,,,,,,,,,"UDFN-6"
+"on","放大器和比较器---比较器","NCS3402","NCS3402DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS3402DR2G","http://www.onsemi.com/pub/Collateral/NCS3402-D.PDF","470nA Ultra low power, Dual Comparator","Pb-free
+Halide free","Active","470nA Ultra low power, Dual Comparator","2","2.7","16","0.00000005","0.00047","5000","3.6","-40","125","SOIC-8"
+"on","放大器和比较器---比较器","NCV2901","NCV2901CTR","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2901CTR","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Single Supply Quad Comparator, 3-36V Quad Comparator - Bare die","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Single Supply Quad Comparator","4","3","36","16","1","1300","7","-40","125
+150","Bare Die
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","NCV2901","NCV2901DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2901DR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Single Supply Quad Comparator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Single Supply Quad Comparator","4","3","36","16","1","1300","7","-40","125
+150","Bare Die
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","NCV2901","NCV2901DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2901DTBR2G","http://www.onsemi.com/pub/Collateral/LM339-D.PDF","Single Supply Quad Comparator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Single Supply Quad Comparator","4","3","36","16","1","1300","7","-40","125
+150","Bare Die
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---比较器","NCV331","NCV331SN3T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV331SN3T1G","http://www.onsemi.com/pub/Collateral/LMV331-D.PDF","Single General Purpose, Low Voltage Comparator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Single General Purpose, Low Voltage Comparator","1","2.7","5","84","0.06","800","9","-40","125","TSOP-5 / SOT-23-5"
+"on","放大器和比较器---比较器","TS391","NCV391SN2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV391SN2T1G","http://www.onsemi.com/pub/Collateral/TS391-D.PDF","Comparator, Low Power, 36V Single , Pinout Style: 2","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Comparator, Low Power, 36V Single ","1","2","36","16","0.5","400","5","-40","125","TSOP-5 / SOT-23-5"
+"on","放大器和比较器---比较器","TS391","TS391SN2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=TS391SN2T1G","http://www.onsemi.com/pub/Collateral/TS391-D.PDF","Comparator, Low Power, 36V Single , Pinout Style: 2","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Comparator, Low Power, 36V Single ","1","2","36","16","0.5","400","5","-40","125","TSOP-5 / SOT-23-5"

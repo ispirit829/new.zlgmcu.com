@@ -1,0 +1,241 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","Input Level","VCC Min (V)","VCC Max (V)","tpd Max (ns)","IO Max (mA)","Package Type"
+"on","标准逻辑---转换器","MC14504B","MC14504BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14504BDG","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","MC14504B","MC14504BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14504BDR2G","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","MC14504B","MC14504BDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14504BDTG","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","MC14504B","MC14504BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14504BDTR2G","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","MC14504B","NLV14504BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14504BDG","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","MC14504B","NLV14504BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14504BDR2G","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","MC14504B","NLV14504BDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14504BDTG","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","MC14504B","NLV14504BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14504BDTR2G","http://www.onsemi.com/pub/Collateral/MC14504B-D.PDF","Hex Level Shifter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Level Shifter","1","CMOS
+TTL","3","18","340","2.25","SOIC-16
+TSSOP-16"
+"on","标准逻辑---转换器","NLA16T245","NLA16T245DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLA16T245DTR2G","http://www.onsemi.com/pub/Collateral/NLA16T245-D.PDF","16 bit translators","Pb-free
+Halide free","Active","16 bit translators","16","CMOS","0.9","4.5","4.5","12","TSSOP-48"
+"on","标准逻辑---转换器","NLSV1T244","NLSV1T244MUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV1T244MUTBG","http://www.onsemi.com/pub/Collateral/NLSV1T244-D.PDF","1-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1-Bit Dual-Supply Non-Inverting Level Translator","1","CMOS","0.9","4.5","3.3","50","UDFN-6"
+"on","标准逻辑---转换器","NLSV1T244","NLVSV1T244MUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVSV1T244MUTBG","http://www.onsemi.com/pub/Collateral/NLSV1T244-D.PDF","1-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1-Bit Dual-Supply Non-Inverting Level Translator","1","CMOS","0.9","4.5","3.3","50","UDFN-6"
+"on","标准逻辑---转换器","NLSV22T244MUTAG","NLSV22T244MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV22T244MUTAG","http://www.onsemi.com/pub/Collateral/NLSV22T244-D.PDF","Dual 2-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","Dual 2-Bit Dual-Supply Non-Inverting Level Translator","4","CMOS","1.65","3.6","3.3","50","UQFN-12"
+"on","标准逻辑---转换器","NLSV2T244","NLSV2T244DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV2T244DMR2G","http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF","2-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","2-Bit Dual-Supply Non-Inverting Level Translator","2","CMOS","0.9","4.5","3.3","50","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSV2T244","NLSV2T244DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV2T244DR2G","http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF","2-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","2-Bit Dual-Supply Non-Inverting Level Translator","2","CMOS","0.9","4.5","3.3","50","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSV2T244","NLSV2T244MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV2T244MUTAG","http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF","2-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","2-Bit Dual-Supply Non-Inverting Level Translator","2","CMOS","0.9","4.5","3.3","50","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSV4T240E","NLSV4T240EDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV4T240EDR2G","http://www.onsemi.com/pub/Collateral/NLSV4T240E-D.PDF","4-Bit Dual-Supply Inverting Level Translator","Pb-free
+Halide free","Active","4-Bit Dual-Supply Inverting Level Translator","4","CMOS","0.9","4.5","2.5","24","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSV4T240E","NLSV4T240EDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV4T240EDTR2G","http://www.onsemi.com/pub/Collateral/NLSV4T240E-D.PDF","4-Bit Dual-Supply Inverting Level Translator","Pb-free
+Halide free","Active","4-Bit Dual-Supply Inverting Level Translator","4","CMOS","0.9","4.5","2.5","24","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSV4T240E","NLSV4T240EMUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV4T240EMUTAG","http://www.onsemi.com/pub/Collateral/NLSV4T240E-D.PDF","4-Bit Dual-Supply Inverting Level Translator","Pb-free
+Halide free","Active","4-Bit Dual-Supply Inverting Level Translator","4","CMOS","0.9","4.5","2.5","24","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSV4T244E","NLSV4T244EDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV4T244EDR2G","http://www.onsemi.com/pub/Collateral/NLSV4T244E-D.PDF","4-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","4-Bit Dual-Supply Non-Inverting Level Translator","4","CMOS","0.9","4.5","2.5","24","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSV4T244E","NLSV4T244EDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV4T244EDTR2G","http://www.onsemi.com/pub/Collateral/NLSV4T244E-D.PDF","4-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","4-Bit Dual-Supply Non-Inverting Level Translator","4","CMOS","0.9","4.5","2.5","24","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSV4T244E","NLSV4T244EMUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV4T244EMUTAG","http://www.onsemi.com/pub/Collateral/NLSV4T244E-D.PDF","4-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","4-Bit Dual-Supply Non-Inverting Level Translator","4","CMOS","0.9","4.5","2.5","24","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSV4T3234","NLSV4T3234FCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV4T3234FCT1G","http://www.onsemi.com/pub/Collateral/NLSV4T3234.PDF","4-Bit Dual Supply Bus Buffer Translator w/ 26 Ohm Output Series Resistor, 4-Bit Dual-Level Bus Buffer Level Translator w/ 26 ohm Output Series Resistor","Pb-free
+Halide free","Active","4-Bit Dual Supply Bus Buffer Translator w/ 26 Ohm Output Series Resistor","4","CMOS","0.9","4.5","5.6","50","Flip-Chip-10"
+"on","标准逻辑---转换器","NLSV8T244","NLSV8T244DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV8T244DTR2G","http://www.onsemi.com/pub/Collateral/NLSV8T244-D.PDF","8-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","8-Bit Dual-Supply Non-Inverting Level Translator","8","CMOS","0.9","4.5","3.3","50","SOIC-20W
+TSSOP-20
+UDFN-20"
+"on","标准逻辑---转换器","NLSV8T244","NLSV8T244DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV8T244DWR2G","http://www.onsemi.com/pub/Collateral/NLSV8T244-D.PDF","8-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","8-Bit Dual-Supply Non-Inverting Level Translator","8","CMOS","0.9","4.5","3.3","50","SOIC-20W
+TSSOP-20
+UDFN-20"
+"on","标准逻辑---转换器","NLSV8T244","NLSV8T244MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSV8T244MUTAG","http://www.onsemi.com/pub/Collateral/NLSV8T244-D.PDF","8-Bit Dual-Supply Non-Inverting Level Translator","Pb-free
+Halide free","Active","8-Bit Dual-Supply Non-Inverting Level Translator","8","CMOS","0.9","4.5","3.3","50","SOIC-20W
+TSSOP-20
+UDFN-20"
+"on","标准逻辑---转换器","NLSX3012","NLSX3012DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX3012DMR2G","http://www.onsemi.com/pub/Collateral/NLSX3012-D.PDF","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free","Active","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","2","CMOS","1.3","4.5","7.2","0.02","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX3012","NLSX3012DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX3012DR2G","http://www.onsemi.com/pub/Collateral/NLSX3012-D.PDF","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free","Active","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","2","CMOS","1.3","4.5","7.2","0.02","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX3012","NLSX3012MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX3012MUTAG","http://www.onsemi.com/pub/Collateral/NLSX3012-D.PDF","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free","Active","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","2","CMOS","1.3","4.5","7.2","0.02","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX3014","NLSX3014MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX3014MUTAG","http://www.onsemi.com/pub/Collateral/NLSX3014-D.PDF","Level Translator, 4-Bit, Configurable Dual-Supply, 100 Mbps","Pb-free
+Halide free","Active","Level Translator, 4-Bit, Configurable Dual-Supply, 100 Mbps","4","CMOS","0.9","4.5","6.5","0.02","UQFN-12"
+"on","标准逻辑---转换器","NLSX3373","NLSX3373MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX3373MUTAG","http://www.onsemi.com/pub/Collateral/NLSX3373-D.PDF","Translator, Dual-Supply Level, 2-Bit, 20 Mb/s","Pb-free
+Halide free","Active","Translator, Dual-Supply Level, 2-Bit, 20 Mb/s","2","CMOS","1.2","5.5","30","40","UDFN-8"
+"on","标准逻辑---转换器","NLSX4014","NLSX4014DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX4014DR2G","http://www.onsemi.com/pub/Collateral/NLSX4014-D.PDF","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","4","CMOS","1.3","4.5","17","0.02","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSX4014","NLSX4014DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX4014DTR2G","http://www.onsemi.com/pub/Collateral/NLSX4014-D.PDF","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","4","CMOS","1.3","4.5","17","0.02","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSX4014","NLSX4014MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX4014MUTAG","http://www.onsemi.com/pub/Collateral/NLSX4014-D.PDF","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","4","CMOS","1.3","4.5","17","0.02","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSX4014","NLVSX4014MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVSX4014MUTAG","http://www.onsemi.com/pub/Collateral/NLSX4014-D.PDF","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","4-Bit 100 Mbps Configurable Dual-Supply Level Translator","4","CMOS","1.3","4.5","17","0.02","SOIC-14
+TSSOP-14
+UQFN-12"
+"on","标准逻辑---转换器","NLSX4373","NLSX4373DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX4373DMR2G","http://www.onsemi.com/pub/Collateral/NLSX4373-D.PDF","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","2","CMOS","1.5","5.5","20","1","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX4373","NLSX4373DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX4373DR2G","http://www.onsemi.com/pub/Collateral/NLSX4373-D.PDF","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","2","CMOS","1.5","5.5","20","1","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX4373","NLSX4373MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX4373MUTAG","http://www.onsemi.com/pub/Collateral/NLSX4373-D.PDF","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","2","CMOS","1.5","5.5","20","1","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX4373","NLVSX4373DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVSX4373DR2G","http://www.onsemi.com/pub/Collateral/NLSX4373-D.PDF","Level Translator, 2-Bit, 20 Mbps, Dual-Supply, 2-Bit 20 Mb/s Dual-Supply Level Translator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","2","CMOS","1.5","5.5","20","1","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX4373","NLVSX4373MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVSX4373MUTAG","http://www.onsemi.com/pub/Collateral/NLSX4373-D.PDF","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Level Translator, 2-Bit, 20 Mbps, Dual-Supply","2","CMOS","1.5","5.5","20","1","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX4401","NLSX4401MU1TCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX4401MU1TCG","http://www.onsemi.com/pub/Collateral/NLSX4401-D.PDF","1-Bit 20 Mb/s Dual-Supply
+Level Translator","Pb-free
+Halide free","Active","1-Bit 20 Mb/s Dual-Supply
+Level Translator","2","CMOS","1.5","5.5","8.6","0.02","UDFN-6"
+"on","标准逻辑---转换器","NLSX5002","NLSX5002BMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX5002BMUTCG","http://www.onsemi.com/pub/Collateral/NLSX5002-D.PDF","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","Pb-free
+Halide free","Active","2-Bit 100 Mbps Configurable Dual-Supply Level Translator","2","CMOS","0.9","4.5","13","0.02","UQFN-8"
+"on","标准逻辑---转换器","NLSX5012","NLSX5012DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX5012DMR2G","http://www.onsemi.com/pub/Collateral/NLSX5012-D.PDF","Level Translator, 2-Bit, 140 Mbps, Enhanced Dual-Supply, Auto Sense","Pb-free
+Halide free","Active","Level Translator, 2-Bit, 140 Mbps, Enhanced Dual-Supply, Auto Sense","2","CMOS","0.9","4.5","11","0.02","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX5012","NLSX5012DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX5012DR2G","http://www.onsemi.com/pub/Collateral/NLSX5012-D.PDF","Level Translator, 2-Bit, 140 Mbps, Enhanced Dual-Supply, Auto Sense","Pb-free
+Halide free","Active","Level Translator, 2-Bit, 140 Mbps, Enhanced Dual-Supply, Auto Sense","2","CMOS","0.9","4.5","11","0.02","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","NLSX5012","NLSX5012MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSX5012MUTAG","http://www.onsemi.com/pub/Collateral/NLSX5012-D.PDF","Level Translator, 2-Bit, 140 Mbps, Enhanced Dual-Supply, Auto Sense","Pb-free
+Halide free","Active","Level Translator, 2-Bit, 140 Mbps, Enhanced Dual-Supply, Auto Sense","2","CMOS","0.9","4.5","11","0.02","Micro8™
+SOIC-8
+UDFN-8"
+"on","标准逻辑---转换器","PCA9306","NLV9306USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV9306USG","http://www.onsemi.com/pub/Collateral/PCA9306-D.PDF","Dual Bidirectional I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Dual Bidirectional I<sup>2</sup>C Bus and SMBus Voltage Level Translator","2","CMOS","0","5.5","2","64","TSSOP-8
+UDFN-8
+UQFN-8
+US8"
+"on","标准逻辑---转换器","PCA9306","PCA9306AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9306AMUTCG","http://www.onsemi.com/pub/Collateral/PCA9306-D.PDF","Dual Bidirectional I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Dual Bidirectional I<sup>2</sup>C Bus and SMBus Voltage Level Translator","2","CMOS","0","5.5","2","64","TSSOP-8
+UDFN-8
+UQFN-8
+US8"
+"on","标准逻辑---转换器","PCA9306","PCA9306DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9306DTR2G","http://www.onsemi.com/pub/Collateral/PCA9306-D.PDF","Dual Bidirectional I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Dual Bidirectional I<sup>2</sup>C Bus and SMBus Voltage Level Translator","2","CMOS","0","5.5","2","64","TSSOP-8
+UDFN-8
+UQFN-8
+US8"
+"on","标准逻辑---转换器","PCA9306","PCA9306FMUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9306FMUTAG","http://www.onsemi.com/pub/Collateral/PCA9306-D.PDF","Dual Bidirectional I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Dual Bidirectional I<sup>2</sup>C Bus and SMBus Voltage Level Translator","2","CMOS","0","5.5","2","64","TSSOP-8
+UDFN-8
+UQFN-8
+US8"
+"on","标准逻辑---转换器","PCA9306","PCA9306FMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9306FMUTCG","http://www.onsemi.com/pub/Collateral/PCA9306-D.PDF","Dual Bidirectional I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Dual Bidirectional I<sup>2</sup>C Bus and SMBus Voltage Level Translator","2","CMOS","0","5.5","2","64","TSSOP-8
+UDFN-8
+UQFN-8
+US8"
+"on","标准逻辑---转换器","PCA9306","PCA9306USG","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9306USG","http://www.onsemi.com/pub/Collateral/PCA9306-D.PDF","Dual Bidirectional I","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Dual Bidirectional I<sup>2</sup>C Bus and SMBus Voltage Level Translator","2","CMOS","0","5.5","2","64","TSSOP-8
+UDFN-8
+UQFN-8
+US8"

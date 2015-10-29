@@ -1,0 +1,258 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Channels","Input Level","Output Level","VCC Typ (V)","fToggle Max (MHz)","tpd Typ (ns)","tJitter Typ (ps)","tR & tF Max (ps)","Package Type"
+"on","时钟及数据分配---逻辑门","MC100E101","MC100E101FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E101FNR2G","http://www.onsemi.com/pub/Collateral/MC10E101-D.PDF","5.0 V ECL Quad 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","5.0 V ECL Quad 4-Input OR/NOR Gate","OR/NOR","4","ECL","ECL","5","700","0.45","1","575","PLCC-28"
+"on","时钟及数据分配---逻辑门","MC100E107","MC100E107FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E107FNR2G","http://www.onsemi.com/pub/Collateral/MC10E107-D.PDF","5.0 V ECL Quint 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","5.0 V ECL Quint 2-Input XOR/XNOR Gate","XOR/XNOR","5","ECL","ECL","5","700","0.41","1","700","PLCC-28"
+"on","时钟及数据分配---逻辑门","MC100EL01","MC100EL01DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL01DG","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR / NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR / NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EL01","MC100EL01DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL01DR2G","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR / NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR / NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EL01","MC100EL01DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL01DTG","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR / NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR / NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EL01","MC100EL01DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL01DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR / NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR / NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EL05","MC100EL05DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL05DG","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EL05","MC100EL05DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL05DR2G","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EL05","MC100EL05DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL05DTG","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EL05","MC100EL05DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL05DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP01","MC100EP01DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP01DG","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP01","MC100EP01DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP01DR2G","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP01","MC100EP01DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP01DTG","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP01","MC100EP01DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP01DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP01","MC100EP01MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP01MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP08","MC100EP08DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP08DG","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP08","MC100EP08DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP08DR2G","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP08","MC100EP08DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP08DTG","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP08","MC100EP08DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP08DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100EP105","MC100EP105FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP105FAG","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC100EP105","MC100EP105FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP105FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC100EP105","MC100EP105MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP105MNG","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC100EP105","MC100EP105MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP105MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC100LVEL05","MC100LVEL05DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL05DG","http://www.onsemi.com/pub/Collateral/MC100LVEL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL
+LVDS","ECL","3.3","2000","0.34","1","320","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100LVEL05","MC100LVEL05DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL05DR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL
+LVDS","ECL","3.3","2000","0.34","1","320","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100LVEL05","MC100LVEL05DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL05DTG","http://www.onsemi.com/pub/Collateral/MC100LVEL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL
+LVDS","ECL","3.3","2000","0.34","1","320","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC100LVEL05","MC100LVEL05DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL05DTR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL05-D.PDF","ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL
+LVDS","ECL","3.3","2000","0.34","1","320","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10E101","MC10E101FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E101FNR2G","http://www.onsemi.com/pub/Collateral/MC10E101-D.PDF","Quad 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","Quad 4-Input OR/NOR Gate","OR/NOR","4","ECL","ECL","5","700","0.45","1","575","PLCC-28"
+"on","时钟及数据分配---逻辑门","MC10E107","MC10E107FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E107FNG","http://www.onsemi.com/pub/Collateral/MC10E107-D.PDF","ECL Quint 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","ECL Quint 2-Input XOR/XNOR Gate","XOR/XNOR","5","ECL","ECL","5","700","0.41","1","700","PLCC-28"
+"on","时钟及数据分配---逻辑门","MC10EL01","MC10EL01DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL01DG","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EL01","MC10EL01DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL01DR2G","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EL01","MC10EL01DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL01DTG","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EL01","MC10EL01DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL01DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL01-D.PDF","ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","ECL 4-Input OR/NOR Gate","OR/NOR","1","ECL","ECL","5","2000","0.23","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EL05","MC10EL05DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL05DG","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","5.0 V ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","5.0 V ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EL05","MC10EL05DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL05DR2G","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","5.0 V ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","5.0 V ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EL05","MC10EL05DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL05DTG","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","5.0 V ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","5.0 V ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EL05","MC10EL05DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL05DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL05-D.PDF","5.0 V ECL 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","5.0 V ECL 2-Input Differential AND/NAND Gate","AND/NAND","1","ECL","ECL","5","2000","0.275","1","350","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP01","MC10EP01DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP01DG","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP01","MC10EP01DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP01DR2G","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP01","MC10EP01DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP01DTG","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP01","MC10EP01DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP01DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP01","MC10EP01MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP01MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP01-D.PDF","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 4-Input OR/NOR Gate","OR/NOR","1","CML
+ECL","ECL","3.3
+5","3000","0.27","0.2","170","DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP08","MC10EP08DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP08DG","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP08","MC10EP08DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP08DR2G","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP08","MC10EP08DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP08DTG","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP08","MC10EP08DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP08DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP08-D.PDF","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V Differential 2-Input XOR/XNOR Gate","XOR/XNOR","1","CML
+ECL","ECL","3.3
+5","3000","0.25","0.2","170","SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---逻辑门","MC10EP105","MC10EP105FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP105FAG","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC10EP105","MC10EP105FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP105FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC10EP105","MC10EP105MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP105MNG","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC10EP105","MC10EP105MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP105MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP105-D.PDF","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL Quad 2-Input Differential AND/NAND Gate","AND/NAND","1","CML
+ECL","ECL","3.3
+5","3000","0.275","0.2","200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---逻辑门","MC10H102","MC10H102FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H102FNR2G","http://www.onsemi.com/pub/Collateral/MC10H102-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free","Active","Quad 2-Input NOR Gate","NOR","4","ECL","ECL","-5.2",,"1",,"1500","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","MC10H102","MC10H102PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H102PG","http://www.onsemi.com/pub/Collateral/MC10H102-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free","Active","Quad 2-Input NOR Gate","NOR","4","ECL","ECL","-5.2",,"1",,"1500","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","MC10H104","MC10H104FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H104FNG","http://www.onsemi.com/pub/Collateral/MC10H104-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","ECL","ECL","-5.2",,"1",,"1600","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","MC10H104","MC10H104FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H104FNR2G","http://www.onsemi.com/pub/Collateral/MC10H104-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","ECL","ECL","-5.2",,"1",,"1600","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","MC10H104","MC10H104PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H104PG","http://www.onsemi.com/pub/Collateral/MC10H104-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","ECL","ECL","-5.2",,"1",,"1600","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","MC10H107","MC10H107FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H107FNG","http://www.onsemi.com/pub/Collateral/MC10H107-D.PDF","Triple 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","Triple 2-Input XOR/XNOR Gate","XOR/XNOR","3","ECL","ECL","-5.2",,"1",,"1500","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","MC10H107","MC10H107FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H107FNR2G","http://www.onsemi.com/pub/Collateral/MC10H107-D.PDF","Triple 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","Triple 2-Input XOR/XNOR Gate","XOR/XNOR","3","ECL","ECL","-5.2",,"1",,"1500","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","MC10H107","MC10H107PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H107PG","http://www.onsemi.com/pub/Collateral/MC10H107-D.PDF","Triple 2-Input XOR/XNOR Gate","Pb-free
+Halide free","Active","Triple 2-Input XOR/XNOR Gate","XOR/XNOR","3","ECL","ECL","-5.2",,"1",,"1500","PDIP-16
+PLLC-20"
+"on","时钟及数据分配---逻辑门","NBSG86A","NBSG86AMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG86AMNG","http://www.onsemi.com/pub/Collateral/NBSG86A-D.PDF","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","Pb-free
+Halide free","Active","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","SmartGate","1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","8000","0.165","0.5","65","QFN-16"
+"on","时钟及数据分配---逻辑门","NBSG86A","NBSG86AMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG86AMNHTBG","http://www.onsemi.com/pub/Collateral/NBSG86A-D.PDF","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","Pb-free
+Halide free","Active","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","SmartGate","1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","8000","0.165","0.5","65","QFN-16"
+"on","时钟及数据分配---逻辑门","NBSG86A","NBSG86AMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG86AMNR2G","http://www.onsemi.com/pub/Collateral/NBSG86A-D.PDF","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","Pb-free
+Halide free","Active","SiGe Differential Smart Gate, 2.5 V / 3.3 V, with Output Level Select","SmartGate","1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","8000","0.165","0.5","65","QFN-16"

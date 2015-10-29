@@ -1,0 +1,380 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","V(BR) Typ (V)","Tolerance (&#37;)","IQ Typ (mA)","IR Min (mA)","VF Max (V)","TA Min (degreesC)","TA Max (degreesC)","Package Type"
+"on","电压和电流管理---电压参考","CAT102","CAT102TDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT102TDI-GT3","http://www.onsemi.com/pub/Collateral/CAT102-D.PDF","Voltage Reference, 600 mV","Pb-free
+Halide free","Active","Voltage Reference, 600 mV","Adjustable","0.6","1","0.09","0.1","18","-40","85","TSOT-23-5"
+"on","电压和电流管理---电压参考","LM385","LM385D-1.2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385D-1.2G","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 1.2 V, ±2%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385D-1.2R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385D-1.2R2G","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 1.2 V, ±2%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385D-2.5G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385D-2.5G","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 2.5 V, ±3%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385D-2.5R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385D-2.5R2G","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 2.5 V, ±3%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385Z-1.2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385Z-1.2G","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 1.2 V, ±2%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385Z-1.2RAG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385Z-1.2RAG","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 1.2 V, ±2%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385Z-1.2RPG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385Z-1.2RPG","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 1.2 V, ±2%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385Z-2.5G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385Z-2.5G","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 2.5 V, ±3%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","LM385","LM385Z-2.5RPG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM385Z-2.5RPG","http://www.onsemi.com/pub/Collateral/LM285-D.PDF","MicroPower Voltage Reference Diodes, 2.5 V, ±3%","Pb-free
+Halide free","Active","MicroPower Voltage Reference Diodes","Fixed","1.235
+2.5","2
+3",,"0.015",,"0","70","SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","NCP4300A","NCP4300ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP4300ADG","http://www.onsemi.com/pub/Collateral/NCP4300A-D.PDF","Voltage Reference and Dual Operational Amplifier","Pb-free
+Halide free","Active","Voltage Reference and Dual Operational Amplifier","Fixed","2.6","1",,"0.08","36","0","105","SOIC-8"
+"on","电压和电流管理---电压参考","NCP4300A","NCP4300ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP4300ADR2G","http://www.onsemi.com/pub/Collateral/NCP4300A-D.PDF","Voltage Reference and Dual Operational Amplifier","Pb-free
+Halide free","Active","Voltage Reference and Dual Operational Amplifier","Fixed","2.6","1",,"0.08","36","0","105","SOIC-8"
+"on","电压和电流管理---电压参考","NCP4328","NCP4328ASNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP4328ASNT1G","http://www.onsemi.com/pub/Collateral/NCP4328-D.PDF","Secondary Side Controller, Constant Voltage / Constant Current (CV / CC)","Pb-free
+Halide free","Active","Secondary Side Controller, Constant Voltage / Constant Current (CV / CC)","Adjustable","1.25 0.0625","0.48","0.105
+0.115","0.105
+0.115","1.256","-40","125","TSOP-5 / SOT-23-5
+TSOP-6"
+"on","电压和电流管理---电压参考","NCP4328","NCP4328BSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP4328BSNT1G","http://www.onsemi.com/pub/Collateral/NCP4328-D.PDF","Secondary Side Controller, Constant Voltage / Constant Current (CV / CC), with LED driver","Pb-free
+Halide free","Active","Secondary Side Controller, Constant Voltage / Constant Current (CV / CC)","Adjustable","1.25 0.0625","0.48","0.105
+0.115","0.105
+0.115","1.256","-40","125","TSOP-5 / SOT-23-5
+TSOP-6"
+"on","电压和电流管理---电压参考","NCS1002","NCS1002DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS1002DR2G","http://www.onsemi.com/pub/Collateral/NCS1002-D.PDF","Secondary-Side Controller, Constant Current, Constant Voltage","Pb-free
+Halide free","Active","Secondary-Side Controller, Constant Current, Constant Voltage",,,"0.4","0.4",,,"-40","105","SOIC-8"
+"on","电压和电流管理---电压参考","NCV1009","NCV1009DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV1009DR2G","http://www.onsemi.com/pub/Collateral/NCV1009-D.PDF","2.5 V Voltage Reference","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","2.5 V Voltage Reference","Fixed","2.5","0.2",,"0.4",,"-40","125","SOIC-8"
+"on","电压和电流管理---电压参考","TL431","NCV431AIDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV431AIDMR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","NCV431AIDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV431AIDR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","NCV431BVDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV431BVDMR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","NCV431BVDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV431BVDR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431CDG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431CDG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431CDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431CDMR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431CDR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431CLPG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431CLPG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431CLPRAG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431CLPRAG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431CLPRPG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431CLPRPG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431IDG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431IDG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431IDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431IDMR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431IDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431IDR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431ILPG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431ILPG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431ILPRAG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431ILPRAG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431","TL431ILPRPG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431ILPRPG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4
+1
+2.2","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BCDG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BCDG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BCDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BCDMR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BCDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BCDR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BCLPG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BCLPG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BCLPRAG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BCLPRAG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BCLPREG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BCLPREG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BCLPRMG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BCLPRMG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BIDG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BIDG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BIDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BIDMR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BIDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BIDR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BILPG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BILPG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BILPRAG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BILPRAG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BVDG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BVDG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BVDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BVDMR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BVDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BVDR2G","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BVLPG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BVLPG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"
+"on","电压和电流管理---电压参考","TL431B","TL431BVLPRAG","http://www.onsemi.cn/PowerSolutions/product.do?id=TL431BVLPRAG","http://www.onsemi.com/pub/Collateral/TL431-D.PDF","Voltage Reference, Programmable Precision, Shunt Regulator","PPAP Capable
+Pb-free
+Halide free","Active","Voltage Reference, Programmable Precision, Shunt Regulator","Adjustable","2.495","0.4","0.5","1","36","-40
+0","70
+85
+125","Micro8™
+SOIC-8
+TO-92"

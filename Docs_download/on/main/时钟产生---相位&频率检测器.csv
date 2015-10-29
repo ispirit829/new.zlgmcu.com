@@ -1,0 +1,21 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Input Level","Output Level","VCC Typ (V)","Transfer Gain Typ (mV/degree)","CMRR Max (V)","fToggle Max (MHz)","tpd Typ (ns)","tJitter Typ (ps)","tR & tF Max (ps)","Package Type"
+"on","时钟产生---相位/频率检测器","MC100EP140","MC100EP140DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP140DG","http://www.onsemi.com/pub/Collateral/MC100EP140-D.PDF","Phase-Frequency Detector, 3.3 V, ECL","Pb-free
+Halide free","Active","Phase-Frequency Detector, 3.3 V, ECL","CML
+ECL","ECL","3.3","1.2073",,"2000","0.475","0.2","200","SOIC-8"
+"on","时钟产生---相位/频率检测器","MC100EP140","MC100EP140DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP140DR2G","http://www.onsemi.com/pub/Collateral/MC100EP140-D.PDF","Phase-Frequency Detector, 3.3 V, ECL","Pb-free
+Halide free","Active","Phase-Frequency Detector, 3.3 V, ECL","CML
+ECL","ECL","3.3","1.2073",,"2000","0.475","0.2","200","SOIC-8"
+"on","时钟产生---相位/频率检测器","MC100LVEL40","MC100LVEL40DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL40DWG","http://www.onsemi.com/pub/Collateral/MC100LVEL40-D.PDF","Phase - Frequency Detector, Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Phase - Frequency Detector, Differential, ECL, 3.3 V / 5.0 V","CML
+ECL
+LVDS","ECL","3.3
+5","2","1.2","250","1.35","0.2","475","SOIC-20W"
+"on","时钟产生---相位/频率检测器","MC100LVEL40","MC100LVEL40DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL40DWR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL40-D.PDF","Phase - Frequency Detector, Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Phase - Frequency Detector, Differential, ECL, 3.3 V / 5.0 V","CML
+ECL
+LVDS","ECL","3.3
+5","2","1.2","250","1.35","0.2","475","SOIC-20W"
+"on","时钟产生---相位/频率检测器","MCK12140","MCK12140DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MCK12140DG","http://www.onsemi.com/pub/Collateral/MCH12140-D.PDF","Phase Frequency Detector","Pb-free
+Halide free","Active","Phase Frequency Detector","ECL","ECL","5",,,"800","0.44","0.2","350","SOIC-8"
+"on","时钟产生---相位/频率检测器","MCK12140","MCK12140DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MCK12140DR2G","http://www.onsemi.com/pub/Collateral/MCH12140-D.PDF","Phase Frequency Detector","Pb-free
+Halide free","Active","Phase Frequency Detector","ECL","ECL","5",,,"800","0.44","0.2","350","SOIC-8"

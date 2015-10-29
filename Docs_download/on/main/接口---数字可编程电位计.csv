@@ -1,0 +1,601 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","# of Pots","# of Taps","Type","Control Interface","Resistance Typ (kOhms)","VH Max (V)","Wiper Position Memory","VDD Max (V)","Package Type"
+"on","接口---数字可编程电位计","CAT5110","CAT5110SDI-00GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5110SDI-00GT3","http://www.onsemi.com/pub/Collateral/CAT5110-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5110","CAT5110SDI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5110SDI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5110-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5110","CAT5110SDI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5110SDI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5110-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5110","CAT5110TBI-00GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5110TBI-00GT3","http://www.onsemi.com/pub/Collateral/CAT5110-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5110","CAT5110TBI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5110TBI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5110-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5110","CAT5110TBI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5110TBI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5110-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5112","CAT5112LI-00-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112LI-00-G","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112LI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112LI-10-G","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112LI-50-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112LI-50-G","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112VI-00-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112VI-00-G","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112VI-00-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112VI-00-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112VI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112VI-10-G","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112VI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112VI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112VI-50-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112VI-50-G","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112VI-50-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112VI-50-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112YI-00-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112YI-00-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112YI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112YI-10-G","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112YI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112YI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112YI-50-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112YI-50-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112ZI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112ZI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5112","CAT5112ZI-50-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5112ZI-50-GT3","http://www.onsemi.com/pub/Collateral/CAT5112-D.PDF","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with Buffered Wiper","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114LI-00-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114LI-00-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114LI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114LI-10-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114LI-50-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114LI-50-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VI-00-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VI-00-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VI-00-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VI-00-GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VI-10-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VI-50-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VI-50-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VI-50-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VI-50-GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VP2I00GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VP2I00GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114VP2I50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114VP2I50GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114YI-00-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114YI-00-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114YI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114YI-10-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114YI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114YI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114YI-50-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114YI-50-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114ZI-00-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114ZI-00-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114ZI-00-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114ZI-00-GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114ZI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114ZI-10-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114ZI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114ZI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114ZI-50-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114ZI-50-G","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5114","CAT5114ZI-50-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5114ZI-50-GT3","http://www.onsemi.com/pub/Collateral/CAT5114-D.PDF","Digital Potentiometer (POT), 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap","1","32","Potentiometer","Up/Down","10
+50
+100","VCC","Yes","6","MSOP-8
+PDIP-8
+SOIC-8
+TDFN-8
+TSSOP-8"
+"on","接口---数字可编程电位计","CAT5118","CAT5118SDI-00GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5118SDI-00GT3","http://www.onsemi.com/pub/Collateral/CAT5118-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Rheostat","Up/Down","10
+50
+100","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5118","CAT5118SDI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5118SDI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5118-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Rheostat","Up/Down","10
+50
+100","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5118","CAT5118SDI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5118SDI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5118-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Rheostat","Up/Down","10
+50
+100","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5118","CAT5118TBI-00GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5118TBI-00GT3","http://www.onsemi.com/pub/Collateral/CAT5118-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Rheostat","Up/Down","10
+50
+100","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5118","CAT5118TBI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5118TBI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5118-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Rheostat","Up/Down","10
+50
+100","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5118","CAT5118TBI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5118TBI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5118-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Rheostat","Up/Down","10
+50
+100","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5120","CAT5120SDI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5120SDI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5120-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Potentiometer","Up/Down","10
+50","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5120","CAT5120SDI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5120SDI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5120-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Potentiometer","Up/Down","10
+50","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5120","CAT5120TBI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5120TBI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5120-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Potentiometer","Up/Down","10
+50","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5120","CAT5120TBI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5120TBI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5120-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Potentiometer","Up/Down","10
+50","VCC","No","5.5","SC-88-6 / SC-70-6
+SOT-23-6"
+"on","接口---数字可编程电位计","CAT5122","CAT5122SDI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5122SDI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5122-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Rheostat","Up/Down","10
+50","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5122","CAT5122SDI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5122SDI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5122-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Rheostat","Up/Down","10
+50","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5122","CAT5122TBI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5122TBI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5122-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Rheostat","Up/Down","10
+50","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5122","CAT5122TBI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5122TBI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5122-D.PDF","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 16-Tap, with 2-Wire Interface","1","16","Rheostat","Up/Down","10
+50","VCC","No","5.5","SC-88A-5 / SC-70-5
+SOT-23-8"
+"on","接口---数字可编程电位计","CAT5124","CAT5124TBI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5124TBI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5124-D.PDF","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 32-Tap, with 2-Wire Interface","1","32","Rheostat","Up/Down","50","VCC","No","5.5","SOT-23-6"
+"on","接口---数字可编程电位计","CAT5126","CAT5126VP2I10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5126VP2I10GT3","http://www.onsemi.com/pub/Collateral/CAT5126-D.PDF","Digital Potentiometer (POT), One-Time, 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), One-Time, 32-Tap","1","32","Potentiometer","Up/Down","10","VCC","OTP","5.5","MSOP-8
+TDFN-8"
+"on","接口---数字可编程电位计","CAT5126","CAT5126ZI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5126ZI-10-G","http://www.onsemi.com/pub/Collateral/CAT5126-D.PDF","Digital Potentiometer (POT), One-Time, 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), One-Time, 32-Tap","1","32","Potentiometer","Up/Down","10","VCC","OTP","5.5","MSOP-8
+TDFN-8"
+"on","接口---数字可编程电位计","CAT5126","CAT5126ZI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5126ZI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5126-D.PDF","Digital Potentiometer (POT), One-Time, 32-Tap, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), One-Time, 32-Tap","1","32","Potentiometer","Up/Down","10","VCC","OTP","5.5","MSOP-8
+TDFN-8"
+"on","接口---数字可编程电位计","CAT5128","CAT5128TBI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5128TBI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5128-D.PDF","Digital Potentiometer (POT), Up/Down Control, 32-Tap, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Up/Down Control, 32-Tap","1","32","Potentiometer","Up/Down","10
+50","VCC","No","5.5","SOT-23-8"
+"on","接口---数字可编程电位计","CAT5128","CAT5128TBI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5128TBI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5128-D.PDF","Digital Potentiometer (POT), Up/Down Control, 32-Tap, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Up/Down Control, 32-Tap","1","32","Potentiometer","Up/Down","10
+50","VCC","No","5.5","SOT-23-8"
+"on","接口---数字可编程电位计","CAT5133","CAT5133ZI-10-G","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5133ZI-10-G","http://www.onsemi.com/pub/Collateral/CAT5133-D.PDF","Digital Potentiometer (POT), 128-Tap, with Increment Decrement Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 128-Tap, with Increment Decrement Interface","1","128","Potentiometer","Up/Down","10","16","Yes","5.5","MSOP-10"
+"on","接口---数字可编程电位计","CAT5133","CAT5133ZI-10-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5133ZI-10-GT3","http://www.onsemi.com/pub/Collateral/CAT5133-D.PDF","Digital Potentiometer (POT), 128-Tap, with Increment Decrement Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 128-Tap, with Increment Decrement Interface","1","128","Potentiometer","Up/Down","10","16","Yes","5.5","MSOP-10"
+"on","接口---数字可编程电位计","CAT5138","CAT5138SDI-10GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5138SDI-10GT3","http://www.onsemi.com/pub/Collateral/CAT5136-D.PDF","Digital Potentiometer (POT), 128-Taps, I2C Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 128-Taps, I2C Interface","1","128","Potentiometer","I2C","10","VCC","No","5.5","SC-88-6 / SC-70-6"
+"on","接口---数字可编程电位计","CAT5171","CAT5171TBI-00GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5171TBI-00GT3","http://www.onsemi.com/pub/Collateral/CAT5171-D.PDF","Digital Potentiometer (POT), 256-Tap, I2C  Compatible","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 256-Tap, I2C  Compatible","1","256","Potentiometer","I2C","50
+100","VCC","No","5.5","SOT-23-8"
+"on","接口---数字可编程电位计","CAT5171","CAT5171TBI-50GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5171TBI-50GT3","http://www.onsemi.com/pub/Collateral/CAT5171-D.PDF","Digital Potentiometer (POT), 256-Tap, I2C  Compatible","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 256-Tap, I2C  Compatible","1","256","Potentiometer","I2C","50
+100","VCC","No","5.5","SOT-23-8"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI-00-T1","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI-00-T1","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI-10-T1","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI-10-T1","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI-25-T1","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI-25-T1","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI-50-T1","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI-50-T1","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI00","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI00","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI10","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI10","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI25","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI25","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221WI50","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221WI50","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI-00-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI-00-T2","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI-10-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI-10-T2","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI-25-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI-25-T2","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI-50-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI-50-T2","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI00","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI00","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI10","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI10","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI25","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI25","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5221","CAT5221YI50","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5221YI50","http://www.onsemi.com/pub/Collateral/CAT5221-D.PDF","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), 64-Tap, with I2C  Interface","2","64","Potentiometer","I2C","2.5
+10
+50
+100","VCC","Yes","6","SOIC-20W
+TSSOP-20"
+"on","接口---数字可编程电位计","CAT5251","CAT5251YI-00-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5251YI-00-T2","http://www.onsemi.com/pub/Collateral/CAT5251-D.PDF","Digital Potentiometer (POT), Quad 256-Tap, with I","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 256-Tap, with I<sup>2</sup>C  Interface","4","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5251","CAT5251YI-50-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5251YI-50-T2","http://www.onsemi.com/pub/Collateral/CAT5251-D.PDF","Digital Potentiometer (POT), Quad 256-Tap, with I","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 256-Tap, with I<sup>2</sup>C  Interface","4","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5251","CAT5251YI00","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5251YI00","http://www.onsemi.com/pub/Collateral/CAT5251-D.PDF","Digital Potentiometer (POT), Quad 256-Tap, with I","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 256-Tap, with I<sup>2</sup>C  Interface","4","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5251","CAT5251YI50","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5251YI50","http://www.onsemi.com/pub/Collateral/CAT5251-D.PDF","Digital Potentiometer (POT), Quad 256-Tap, with I","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 256-Tap, with I<sup>2</sup>C  Interface","4","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5261","CAT5261YI-00-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5261YI-00-T2","http://www.onsemi.com/pub/Collateral/CAT5261-D.PDF","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","2","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5261","CAT5261YI-50-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5261YI-50-T2","http://www.onsemi.com/pub/Collateral/CAT5261-D.PDF","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","2","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5261","CAT5261YI00","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5261YI00","http://www.onsemi.com/pub/Collateral/CAT5261-D.PDF","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","2","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5261","CAT5261YI50","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5261YI50","http://www.onsemi.com/pub/Collateral/CAT5261-D.PDF","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 256-Tap, with SPI Interface","2","256","Potentiometer","SPI","50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5271","CAT5271ZI-00-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5271ZI-00-GT3","http://www.onsemi.com/pub/Collateral/CAT5271-D.PDF","Digital Potentiometer (POT), Dual 256-Tap, with  I2C Compatible Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 256-Tap, with  I2C Compatible Interface","2","256","Potentiometer","I2C","50
+100","VCC","No","6.5","MSOP-10"
+"on","接口---数字可编程电位计","CAT5271","CAT5271ZI-50-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5271ZI-50-GT3","http://www.onsemi.com/pub/Collateral/CAT5271-D.PDF","Digital Potentiometer (POT), Dual 256-Tap, with  I2C Compatible Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 256-Tap, with  I2C Compatible Interface","2","256","Potentiometer","I2C","50
+100","VCC","No","6.5","MSOP-10"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI-00-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI-00-T2","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI-10-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI-10-T2","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI-25-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI-25-T2","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 2.5 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI-50-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI-50-T2","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI00","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI00","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI10","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI10","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI25","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI25","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 2.5 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5401","CAT5401YI50","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5401YI50","http://www.onsemi.com/pub/Collateral/CAT5401-D.PDF","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Quad 64-Tap, with SPI Interface","4","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI-00-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI-00-T2","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI-10-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI-10-T2","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI-25-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI-25-T2","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 2.5 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI-50-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI-50-T2","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI00","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI00","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 100 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI10","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI10","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 10 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI25","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI25","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 2.5 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"
+"on","接口---数字可编程电位计","CAT5411","CAT5411YI50","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT5411YI50","http://www.onsemi.com/pub/Collateral/CAT5411-D.PDF","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface, 50 kΩ","Pb-free
+Halide free","Active","Digital Potentiometer (POT), Dual 64-Tap, with SPI Interface","2","64","Potentiometer","SPI","2.5
+10
+50
+100","VCC","Yes","6","TSSOP-24"

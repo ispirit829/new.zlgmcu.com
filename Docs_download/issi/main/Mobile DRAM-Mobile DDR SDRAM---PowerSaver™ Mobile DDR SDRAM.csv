@@ -1,0 +1,32 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Den","Org","Type","Vcc","Refsh","Speed(Mhz)","Pkg(Pins)","Status","Models","Comment"
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16200C","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43LR16200C.pdf","32M","2Mx16","MDDR","1.8V","4K","166,133","BGA(60)","NR","-"," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16200D","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16200D.pdf"," ","2Mx16","MDDR","1.8V","4K","200,166,133","BGA(60)","S=NOW"," "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32100C","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43LR32100C.pdf"," ","1Mx32","MDDR","1.8V","4K","166,133","BGA(90)","NR","-"," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32100D","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32100D.pdf"," ","1Mx32","MDDR","1.8V","4K","200,166,133","BGA(90)","S=NOW"," "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16400B","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16400B.pdf","64M","4Mx16","MDDR","1.8V","4K","166,133","BGA(60)","NR","-"," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16400C","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16400C.pdf"," ","4Mx16","MDDR","1.8V","4K","200,166,133","BGA(60)","Prod"," "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32200B","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32200B.pdf"," ","2Mx32","MDDR","1.8V","4K","166,133","BGA(90)","NR","-"," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32200C","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32200C.pdf"," ","2Mx32","MDDR","1.8V","4K","200,166,133","BGA(90)","Prod"," "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16800F","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16800F.pdf","128M","8Mx16","MDDR","1.8V","4K","166","BGA(60)","NR","-"," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16800G","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16800G.pdf"," ","8Mx16","MDDR","1.8V","4K","200,166,133","BGA(60)","Prod"," "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32400F","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32400F.pdf"," ","4Mx32","MDDR","1.8V","4K","166","BGA(90)","NR","-"," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32400G","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32400G.pdf"," ","4Mx32","MDDR","1.8V","4K","200,166,133","BGA(90)","Prod"," "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16160F","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16160F.pdf","256M","16Mx16","MDDR","1.8V","8K","200,166,133","BGA(60)","NR","-"," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16160G","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16160G.pdf"," ","16Mx16","MDDR","1.8V","8K","200,166,133","BGA(60)","Prod",", 
+    "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32800F","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32800F.pdf"," ","8Mx32","MDDR","1.8V","4K","200,166,133","BGA(90)","NR",",
+    "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32800G","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32800G.pdf"," ","8Mx32","MDDR","1.8V","4K","200,166,133","BGA(90)","Prod",", 
+    "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16320B","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16320B.pdf","512M","32Mx16","MDDR","1.8V","8K","166,133","BGA(60)","Prod",","," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16320C","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16320C.pdf"," ","32Mx16","MDDR","1.8V","8K","200,166,133","BGA(60)","Prod",",
+    "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32160B","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32160B.pdf"," ","16Mx32","MDDR","1.8V","8K","166,133","BGA(90)","Prod",","," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32160C","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32160C.pdf"," ","16Mx32","MDDR","1.8V","8K","200,166,133","BGA(90)","Prod",",
+    "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR16640A","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR16640A.pdf","1G","64Mx16","MDDR","1.8V","8K","200,166,133","BGA(60)","Prod",",
+    "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32320B","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32320B.pdf"," ","32Mx32","MDDR","1.8V","8K","200,166,133","BGA(90)","Prod",",
+    "," "
+"issi","Mobile DRAM-Mobile DDR SDRAM---PowerSaver™ Mobile DDR SDRAM","IS43/46LR32640A","http://www.issi.com/US/product-dram-mobile-ddr.shtml","http://www.issi.com/WW/pdf/43-46LR32640A.pdf","2G","64Mx32","MDDR","1.8V","8K","200,166,133","BGA(90)","Prod",",
+    "," "

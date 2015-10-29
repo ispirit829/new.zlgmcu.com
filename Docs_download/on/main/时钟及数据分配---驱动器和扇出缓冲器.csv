@@ -1,0 +1,1175 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Channels","Input / Output Ratio","Input Level","Output Level","VCC Typ (V)","tJitterRMS Typ (ps)","tskew(o-o) Max (ps)","tpd Typ (ns)","tR & tF Max (ps)","fmaxClock Typ (MHz)","fmaxData Typ (Mbps)","Package Type"
+"on","时钟及数据分配---驱动器和扇出缓冲器","LV5609LP","LV5609LP-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5609LP-E","http://www.onsemi.com/pub/Collateral/LV5609LP-D.PDF","Vertical Clock Driver for CCD","Pb-free","Active","Vertical Clock Driver for CCD","Signal Driver","3","2:1","CMOS","CMOS","3.3",,,"200","800000",,,"VCT-24"
+"on","时钟及数据分配---驱动器和扇出缓冲器","LV5609LP","LV5609LP-TE-L-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5609LP-TE-L-E","http://www.onsemi.com/pub/Collateral/LV5609LP-D.PDF","Vertical Clock Driver for CCD","Pb-free","Active","Vertical Clock Driver for CCD","Signal Driver","3","2:1","CMOS","CMOS","3.3",,,"200","800000",,,"VCT-24"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100E111","MC100E111FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E111FNG","http://www.onsemi.com/pub/Collateral/MC10E111-D.PDF","5.0 V ECL 1:9 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","5.0 V ECL 1:9 Differential Clock/Data Fanout Buffer","Buffer","1","1:9","ECL","ECL","5","<1","75","0.53","650","800",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100E111","MC100E111FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E111FNR2G","http://www.onsemi.com/pub/Collateral/MC10E111-D.PDF","5.0 V ECL 1:9 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","5.0 V ECL 1:9 Differential Clock/Data Fanout Buffer","Buffer","1","1:9","ECL","ECL","5","<1","75","0.53","650","800",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100E116","MC100E116FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E116FNG","http://www.onsemi.com/pub/Collateral/MC10E116-D.PDF","ECL Quint Differential Line Receiver","Pb-free
+Halide free","Active","ECL Quint Differential Line Receiver","Signal Driver","5","1:1","ECL","ECL","5","<1","50","0.3","625","800",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100E116","MC100E116FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E116FNR2G","http://www.onsemi.com/pub/Collateral/MC10E116-D.PDF","ECL Quint Differential Line Receiver","Pb-free
+Halide free","Active","ECL Quint Differential Line Receiver","Signal Driver","5","1:1","ECL","ECL","5","<1","50","0.3","625","800",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100E211","MC100E211FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E211FNG","http://www.onsemi.com/pub/Collateral/MC10E211-D.PDF","5.0 V ECL 1:6 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","5.0 V ECL 1:6 Differential Clock/Data Fanout Buffer","Buffer","1","1:6","ECL","ECL","5","<1","75","0.94","400","700",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100E211","MC100E211FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E211FNR2G","http://www.onsemi.com/pub/Collateral/MC10E211-D.PDF","5.0 V ECL 1:6 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","5.0 V ECL 1:6 Differential Clock/Data Fanout Buffer","Buffer","1","1:6","ECL","ECL","5","<1","75","0.94","400","700",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL11","MC100EL11DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL11DG","http://www.onsemi.com/pub/Collateral/MC10EL11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Buffer","1","1:2","ECL","ECL","5","0.6","20","0.265","350","1500",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL11","MC100EL11DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL11DR2G","http://www.onsemi.com/pub/Collateral/MC10EL11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Buffer","1","1:2","ECL","ECL","5","0.6","20","0.265","350","1500",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL11","MC100EL11DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL11DTG","http://www.onsemi.com/pub/Collateral/MC10EL11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Buffer","1","1:2","ECL","ECL","5","0.6","20","0.265","350","1500",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL11","MC100EL11DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL11DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 5.0 V","Buffer","1","1:2","ECL","ECL","5","0.6","20","0.265","350","1500",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL13","MC100EL13DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL13DWG","http://www.onsemi.com/pub/Collateral/MC100EL13-D.PDF","Clock / Data Fanout Buffer, 1:3 Differential, ECL, 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:3 Differential, ECL, 5.0 V","Buffer","2","1:3","ECL","ECL","5","0.2","50","0.525","500","1000",,"SOIC-20W"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL13","MC100EL13DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL13DWR2G","http://www.onsemi.com/pub/Collateral/MC100EL13-D.PDF","Clock / Data Fanout Buffer, 1:3 Differential, ECL, 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:3 Differential, ECL, 5.0 V","Buffer","2","1:3","ECL","ECL","5","0.2","50","0.525","500","1000",,"SOIC-20W"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL15","MC100EL15DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL15DG","http://www.onsemi.com/pub/Collateral/MC10EL15-D.PDF","Clock Fanout Buffer, 1:4 ECL, 5.0 V","Pb-free
+Halide free","Active","Clock Fanout Buffer, 1:4 ECL, 5.0 V","Buffer","1","2:1:4","ECL","ECL","5","2.6","50","0.57","575","1250",,"SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL15","MC100EL15DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL15DR2G","http://www.onsemi.com/pub/Collateral/MC10EL15-D.PDF","Clock Fanout Buffer, 1:4 ECL, 5.0 V","Pb-free
+Halide free","Active","Clock Fanout Buffer, 1:4 ECL, 5.0 V","Buffer","1","2:1:4","ECL","ECL","5","2.6","50","0.57","575","1250",,"SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL17","MC100EL17DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL17DWG","http://www.onsemi.com/pub/Collateral/MC100EL17-D.PDF","ECL Quad Differential Receiver","Pb-free
+Halide free","Active","ECL Quad Differential Receiver","Signal Driver","4","1:1","ECL
+LVDS","ECL","5","0.7","75","0.45","550","1000",,"SOIC-20W"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EL17","MC100EL17DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EL17DWR2G","http://www.onsemi.com/pub/Collateral/MC100EL17-D.PDF","ECL Quad Differential Receiver","Pb-free
+Halide free","Active","ECL Quad Differential Receiver","Signal Driver","4","1:1","ECL
+LVDS","ECL","5","0.7","75","0.45","550","1000",,"SOIC-20W"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP116","MC100EP116FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP116FAG","http://www.onsemi.com/pub/Collateral/MC10EP116-D.PDF","Differential Line Receiver / Driver","Pb-free
+Halide free","Active","Differential Line Receiver / Driver","Signal Driver","6","1:1","ECL","ECL","3.3
+5","0.2","20","0.26","220","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP116","MC100EP116FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP116FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP116-D.PDF","Differential Line Receiver / Driver","Pb-free
+Halide free","Active","Differential Line Receiver / Driver","Signal Driver","6","1:1","ECL","ECL","3.3
+5","0.2","20","0.26","220","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP116","MC100EP116MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP116MNG","http://www.onsemi.com/pub/Collateral/MC10EP116-D.PDF","Differential Line Receiver / Driver","Pb-free
+Halide free","Active","Differential Line Receiver / Driver","Signal Driver","6","1:1","ECL","ECL","3.3
+5","0.2","20","0.26","220","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP116","MC100EP116MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP116MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP116-D.PDF","Differential Line Receiver / Driver","Pb-free
+Halide free","Active","Differential Line Receiver / Driver","Signal Driver","6","1:1","ECL","ECL","3.3
+5","0.2","20","0.26","220","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16","MC100EP16DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16DG","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential  Driver / Receiver","Pb-free
+Halide free","Active","Differential  Driver / Receiver","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16","MC100EP16DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16DR2G","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential  Driver / Receiver","Pb-free
+Halide free","Active","Differential  Driver / Receiver","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16","MC100EP16DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16DTG","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential  Driver / Receiver","Pb-free
+Halide free","Active","Differential  Driver / Receiver","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16","MC100EP16DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential  Driver / Receiver","Pb-free
+Halide free","Active","Differential  Driver / Receiver","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16","MC100EP16MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential  Driver / Receiver","Pb-free
+Halide free","Active","Differential  Driver / Receiver","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16T","MC100EP16TDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16TDG","http://www.onsemi.com/pub/Collateral/MC10EP16T-D.PDF","Differential Driver / Receiver with Internal Termination","Pb-free
+Halide free","Active","Differential Driver / Receiver with Internal Termination","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16T","MC100EP16TDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16TDR2G","http://www.onsemi.com/pub/Collateral/MC10EP16T-D.PDF","Differential Driver / Receiver with Internal Termination","Pb-free
+Halide free","Active","Differential Driver / Receiver with Internal Termination","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16T","MC100EP16TDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16TDTG","http://www.onsemi.com/pub/Collateral/MC10EP16T-D.PDF","Differential Driver / Receiver with Internal Termination","Pb-free
+Halide free","Active","Differential Driver / Receiver with Internal Termination","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16T","MC100EP16TDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16TDTR2G","http://www.onsemi.com/pub/Collateral/MC10EP16T-D.PDF","Differential Driver / Receiver with Internal Termination","Pb-free
+Halide free","Active","Differential Driver / Receiver with Internal Termination","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16T","MC100EP16TMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16TMNR4G","http://www.onsemi.com/pub/Collateral/MC10EP16T-D.PDF","Differential Driver / Receiver with Internal Termination","Pb-free
+Halide free","Active","Differential Driver / Receiver with Internal Termination","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VB","MC100EP16VBDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VBDG","http://www.onsemi.com/pub/Collateral/MC100EP16VB-D.PDF","Differential Driver / Receiver with High and Low Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver with High and Low Gain","Signal Driver","1","1:2","CML
+ECL","ECL","3.3
+5","0.2","20","0.3","400","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VB","MC100EP16VBDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VBDR2G","http://www.onsemi.com/pub/Collateral/MC100EP16VB-D.PDF","Differential Driver / Receiver with High and Low Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver with High and Low Gain","Signal Driver","1","1:2","CML
+ECL","ECL","3.3
+5","0.2","20","0.3","400","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VB","MC100EP16VBDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VBDTG","http://www.onsemi.com/pub/Collateral/MC100EP16VB-D.PDF","Differential Driver / Receiver with High and Low Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver with High and Low Gain","Signal Driver","1","1:2","CML
+ECL","ECL","3.3
+5","0.2","20","0.3","400","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VB","MC100EP16VBDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VBDTR2G","http://www.onsemi.com/pub/Collateral/MC100EP16VB-D.PDF","Differential Driver / Receiver with High and Low Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver with High and Low Gain","Signal Driver","1","1:2","CML
+ECL","ECL","3.3
+5","0.2","20","0.3","400","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VS","MC100EP16VSDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VSDG","http://www.onsemi.com/pub/Collateral/MC100EP16VS-D.PDF","Differential Driver / Receiver with Variable Output Swing","Pb-free
+Halide free","Active","Differential Driver / Receiver with Variable Output Swing","Signal Driver","1","1:1","ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VS","MC100EP16VSDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VSDR2G","http://www.onsemi.com/pub/Collateral/MC100EP16VS-D.PDF","Differential Driver / Receiver with Variable Output Swing","Pb-free
+Halide free","Active","Differential Driver / Receiver with Variable Output Swing","Signal Driver","1","1:1","ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VS","MC100EP16VSDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VSDTG","http://www.onsemi.com/pub/Collateral/MC100EP16VS-D.PDF","Differential Driver / Receiver with Variable Output Swing","Pb-free
+Halide free","Active","Differential Driver / Receiver with Variable Output Swing","Signal Driver","1","1:1","ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP16VS","MC100EP16VSDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP16VSDTR2G","http://www.onsemi.com/pub/Collateral/MC100EP16VS-D.PDF","Differential Driver / Receiver with Variable Output Swing","Pb-free
+Halide free","Active","Differential Driver / Receiver with Variable Output Swing","Signal Driver","1","1:1","ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP17","MC100EP17DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP17DTG","http://www.onsemi.com/pub/Collateral/MC10EP17-D.PDF","Quad Differential Driver / Receiver","Pb-free
+Halide free","Active","Quad Differential Driver / Receiver","Signal Driver","4","1:1","CML
+ECL","ECL","3.3
+5","0.147",,"0.22","220","3000",,"QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP17","MC100EP17DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP17DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP17-D.PDF","Quad Differential Driver / Receiver","Pb-free
+Halide free","Active","Quad Differential Driver / Receiver","Signal Driver","4","1:1","CML
+ECL","ECL","3.3
+5","0.147",,"0.22","220","3000",,"QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP17","MC100EP17DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP17DWG","http://www.onsemi.com/pub/Collateral/MC10EP17-D.PDF","Quad Differential Driver / Receiver","Pb-free
+Halide free","Active","Quad Differential Driver / Receiver","Signal Driver","4","1:1","CML
+ECL","ECL","3.3
+5","0.147",,"0.22","220","3000",,"QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP17","MC100EP17DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP17DWR2G","http://www.onsemi.com/pub/Collateral/MC10EP17-D.PDF","Quad Differential Driver / Receiver","Pb-free
+Halide free","Active","Quad Differential Driver / Receiver","Signal Driver","4","1:1","CML
+ECL","ECL","3.3
+5","0.147",,"0.22","220","3000",,"QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP17","MC100EP17MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP17MNG","http://www.onsemi.com/pub/Collateral/MC10EP17-D.PDF","Quad Differential Driver / Receiver","Pb-free
+Halide free","Active","Quad Differential Driver / Receiver","Signal Driver","4","1:1","CML
+ECL","ECL","3.3
+5","0.147",,"0.22","220","3000",,"QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP17","MC100EP17MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP17MNTXG","http://www.onsemi.com/pub/Collateral/MC10EP17-D.PDF","Quad Differential Driver / Receiver","Pb-free
+Halide free","Active","Quad Differential Driver / Receiver","Signal Driver","4","1:1","CML
+ECL","ECL","3.3
+5","0.147",,"0.22","220","3000",,"QFN-20
+SOIC-20W
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP809","MC100EP809FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP809FAG","http://www.onsemi.com/pub/Collateral/MC100EP809-D.PDF","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Buffer","1","2:1:9","CML
+ECL
+HSTL
+LVDS","HSTL","3.3","1.4","50","0.82
+0.85","600","750",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP809","MC100EP809FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP809FAR2G","http://www.onsemi.com/pub/Collateral/MC100EP809-D.PDF","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Buffer","1","2:1:9","CML
+ECL
+HSTL
+LVDS","HSTL","3.3","1.4","50","0.82
+0.85","600","750",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP809","MC100EP809MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP809MNG","http://www.onsemi.com/pub/Collateral/MC100EP809-D.PDF","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Buffer","1","2:1:9","CML
+ECL
+HSTL
+LVDS","HSTL","3.3","1.4","50","0.82
+0.85","600","750",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100EP809","MC100EP809MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP809MNR4G","http://www.onsemi.com/pub/Collateral/MC100EP809-D.PDF","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 2:1:9 Differential HSTL / PECL to HSTL, 3.3 V","Buffer","1","2:1:9","CML
+ECL
+HSTL
+LVDS","HSTL","3.3","1.4","50","0.82
+0.85","600","750",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100H643","MC100H643FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100H643FNG","http://www.onsemi.com/pub/Collateral/MC10H643-D.PDF","1:8 Clock Driver","Pb-free
+Halide free","Active","1:8 Clock Driver","Buffer","1","1:8","ECL","TTL","5",,"500","4.6","1200","80",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100H643","MC100H643FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100H643FNR2G","http://www.onsemi.com/pub/Collateral/MC10H643-D.PDF","1:8 Clock Driver","Pb-free
+Halide free","Active","1:8 Clock Driver","Buffer","1","1:8","ECL","TTL","5",,"500","4.6","1200","80",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100H680","MC100H680FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100H680FNG","http://www.onsemi.com/pub/Collateral/MC10H680-D.PDF","4-Bit Differential ECL Bus/TTL Bus Transceiver","Pb-free
+Halide free","Active","4-Bit Differential ECL Bus/TTL Bus Transceiver","Signal Driver","4","1:1","ECL","TTL","5",,,"3.2","3400",,,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVE210","MC100LVE210FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVE210FNG","http://www.onsemi.com/pub/Collateral/MC100LVE210-D.PDF","Clock / Data Fanout Buffer, 1:4 / 1:5 Differential, Dual ECL, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 / 1:5 Differential, Dual ECL, 3.3 V","Buffer","1","1:4
+1:5","ECL","ECL","3.3","<1","75","0.7","600","700",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVE210","MC100LVE210FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVE210FNR2G","http://www.onsemi.com/pub/Collateral/MC100LVE210-D.PDF","Clock / Data Fanout Buffer, 1:4 / 1:5 Differential, Dual ECL, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 / 1:5 Differential, Dual ECL, 3.3 V","Buffer","1","1:4
+1:5","ECL","ECL","3.3","<1","75","0.7","600","700",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL11","MC100LVEL11DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL11DG","http://www.onsemi.com/pub/Collateral/MC100LVEL11-D.PDF","ECL 1:2 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock/Data Fanout Buffer","Buffer","1","1:2","ECL
+LVDS","ECL","3.3","0.6","20","0.33","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL11","MC100LVEL11DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL11DR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL11-D.PDF","ECL 1:2 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock/Data Fanout Buffer","Buffer","1","1:2","ECL
+LVDS","ECL","3.3","0.6","20","0.33","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL11","MC100LVEL11DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL11DTG","http://www.onsemi.com/pub/Collateral/MC100LVEL11-D.PDF","ECL 1:2 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock/Data Fanout Buffer","Buffer","1","1:2","ECL
+LVDS","ECL","3.3","0.6","20","0.33","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL11","MC100LVEL11DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL11DTR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL11-D.PDF","ECL 1:2 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock/Data Fanout Buffer","Buffer","1","1:2","ECL
+LVDS","ECL","3.3","0.6","20","0.33","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL11","MC100LVEL11MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL11MNR4G","http://www.onsemi.com/pub/Collateral/MC100LVEL11-D.PDF","ECL 1:2 Differential Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock/Data Fanout Buffer","Buffer","1","1:2","ECL
+LVDS","ECL","3.3","0.6","20","0.33","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL13","MC100LVEL13DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL13DWG","http://www.onsemi.com/pub/Collateral/MC100LVEL13-D.PDF","Clock / Data Fanout Buffer, 1:3 Differential, Dual ECL, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:3 Differential, Dual ECL, 3.3 V","Buffer","2","1:3","ECL
+LVDS","ECL","3.3","0.2","50","0.5","500","1000",,"SOIC-20W"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL13","MC100LVEL13DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL13DWR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL13-D.PDF","Clock / Data Fanout Buffer, 1:3 Differential, Dual ECL, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:3 Differential, Dual ECL, 3.3 V","Buffer","2","1:3","ECL
+LVDS","ECL","3.3","0.2","50","0.5","500","1000",,"SOIC-20W"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL16","MC100LVEL16DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL16DG","http://www.onsemi.com/pub/Collateral/MC100LVEL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL
+LVDS","ECL","3.3","0.7","20","0.3","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL16","MC100LVEL16DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL16DR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL
+LVDS","ECL","3.3","0.7","20","0.3","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL16","MC100LVEL16DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL16DTG","http://www.onsemi.com/pub/Collateral/MC100LVEL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL
+LVDS","ECL","3.3","0.7","20","0.3","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL16","MC100LVEL16DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL16DTR2G","http://www.onsemi.com/pub/Collateral/MC100LVEL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL
+LVDS","ECL","3.3","0.7","20","0.3","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEL16","MC100LVEL16MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEL16MNR4G","http://www.onsemi.com/pub/Collateral/MC100LVEL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL
+LVDS","ECL","3.3","0.7","20","0.3","320","1000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP11","MC100LVEP11DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP11DG","http://www.onsemi.com/pub/Collateral/MC10LVEP11-D.PDF","ECL 1:2 Differential Clock / Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock / Data Fanout Buffer","Buffer","1","1:2","CML
+ECL
+LVDS","ECL","2.5
+3.3","1.42","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP11","MC100LVEP11DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP11DR2G","http://www.onsemi.com/pub/Collateral/MC10LVEP11-D.PDF","ECL 1:2 Differential Clock / Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock / Data Fanout Buffer","Buffer","1","1:2","CML
+ECL
+LVDS","ECL","2.5
+3.3","1.42","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP11","MC100LVEP11DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP11DTG","http://www.onsemi.com/pub/Collateral/MC10LVEP11-D.PDF","ECL 1:2 Differential Clock / Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock / Data Fanout Buffer","Buffer","1","1:2","CML
+ECL
+LVDS","ECL","2.5
+3.3","1.42","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP11","MC100LVEP11DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP11DTR2G","http://www.onsemi.com/pub/Collateral/MC10LVEP11-D.PDF","ECL 1:2 Differential Clock / Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock / Data Fanout Buffer","Buffer","1","1:2","CML
+ECL
+LVDS","ECL","2.5
+3.3","1.42","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP11","MC100LVEP11MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP11MNR4G","http://www.onsemi.com/pub/Collateral/MC10LVEP11-D.PDF","ECL 1:2 Differential Clock / Data Fanout Buffer","Pb-free
+Halide free","Active","ECL 1:2 Differential Clock / Data Fanout Buffer","Buffer","1","1:2","CML
+ECL
+LVDS","ECL","2.5
+3.3","1.42","20","0.24","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP14","MC100LVEP14DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP14DTG","http://www.onsemi.com/pub/Collateral/MC100LVEP14-D.PDF","2.5 V / 3.3 V 1:5 Differential ECL/PECL/HSTL Clock / Data Fanout Buffer","Pb-free
+Halide free","Active","2.5 V / 3.3 V 1:5 Differential ECL/PECL/HSTL Clock / Data Fanout Buffer","Buffer","1","2:1:5","CML
+ECL
+HSTL
+LVDS","ECL","2.5
+3.3","0.181","25","0.4","225","2000",,"TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP14","MC100LVEP14DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP14DTR2G","http://www.onsemi.com/pub/Collateral/MC100LVEP14-D.PDF","2.5 V / 3.3 V 1:5 Differential ECL/PECL/HSTL Clock / Data Fanout Buffer","Pb-free
+Halide free","Active","2.5 V / 3.3 V 1:5 Differential ECL/PECL/HSTL Clock / Data Fanout Buffer","Buffer","1","2:1:5","CML
+ECL
+HSTL
+LVDS","ECL","2.5
+3.3","0.181","25","0.4","225","2000",,"TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP210","MC100LVEP210FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP210FAG","http://www.onsemi.com/pub/Collateral/MC100LVEP210-D.PDF","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Buffer","2","1:5","CML
+ECL
+HSTL
+LVDS","ECL","2.5
+3.3","0.207","25","0.35","250","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP210","MC100LVEP210FARG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP210FARG","http://www.onsemi.com/pub/Collateral/MC100LVEP210-D.PDF","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Buffer","2","1:5","CML
+ECL
+HSTL
+LVDS","ECL","2.5
+3.3","0.207","25","0.35","250","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP210","MC100LVEP210MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP210MNG","http://www.onsemi.com/pub/Collateral/MC100LVEP210-D.PDF","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Buffer","2","1:5","CML
+ECL
+HSTL
+LVDS","ECL","2.5
+3.3","0.207","25","0.35","250","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC100LVEP210","MC100LVEP210MNRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100LVEP210MNRG","http://www.onsemi.com/pub/Collateral/MC100LVEP210-D.PDF","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Clock Driver, 1:5 Differential, Dual ECL / PECL / HSTL, 2.5 V / 3.3 V","Buffer","2","1:5","CML
+ECL
+HSTL
+LVDS","ECL","2.5
+3.3","0.207","25","0.35","250","3000",,"LQFP-32
+QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10E112","MC10E112FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E112FNR2G","http://www.onsemi.com/pub/Collateral/MC10E112-D.PDF","ECL Quad Driver","Pb-free
+Halide free","Active","ECL Quad Driver","Signal Driver","4","1:2","ECL","ECL","5","<1","40","0.55","700","700",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10E122","MC10E122FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E122FNG","http://www.onsemi.com/pub/Collateral/MC10E122-D.PDF","ECL 9-Bit Buffer","Pb-free
+Halide free","Active","ECL 9-Bit Buffer","Signal Driver","9","1:1","ECL","ECL","5","<1","75","0.35","800","800",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10E122","MC10E122FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E122FNR2G","http://www.onsemi.com/pub/Collateral/MC10E122-D.PDF","ECL 9-Bit Buffer","Pb-free
+Halide free","Active","ECL 9-Bit Buffer","Signal Driver","9","1:1","ECL","ECL","5","<1","75","0.35","800","800",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10E416","MC10E416FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E416FNG","http://www.onsemi.com/pub/Collateral/MC10E416-D.PDF","Quint Differential Line Receiver","Pb-free
+Halide free","Active","Quint Differential Line Receiver","Signal Driver","5","1:1","ECL","ECL","5","<1","10","0.35","350","2000",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10E416","MC10E416FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10E416FNR2G","http://www.onsemi.com/pub/Collateral/MC10E416-D.PDF","Quint Differential Line Receiver","Pb-free
+Halide free","Active","Quint Differential Line Receiver","Signal Driver","5","1:1","ECL","ECL","5","<1","10","0.35","350","2000",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL12","MC10EL12DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL12DG","http://www.onsemi.com/pub/Collateral/MC10EL12-D.PDF","ECL Low Impedance Driver","Pb-free
+Halide free","Active","ECL Low Impedance Driver","Signal Driver","1","1:2","ECL","ECL","5",,,"0.29","550",,,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL12","MC10EL12DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL12DR2G","http://www.onsemi.com/pub/Collateral/MC10EL12-D.PDF","ECL Low Impedance Driver","Pb-free
+Halide free","Active","ECL Low Impedance Driver","Signal Driver","1","1:2","ECL","ECL","5",,,"0.29","550",,,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL12","MC10EL12DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL12DTG","http://www.onsemi.com/pub/Collateral/MC10EL12-D.PDF","ECL Low Impedance Driver","Pb-free
+Halide free","Active","ECL Low Impedance Driver","Signal Driver","1","1:2","ECL","ECL","5",,,"0.29","550",,,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL12","MC10EL12DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL12DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL12-D.PDF","ECL Low Impedance Driver","Pb-free
+Halide free","Active","ECL Low Impedance Driver","Signal Driver","1","1:2","ECL","ECL","5",,,"0.29","550",,,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL16","MC10EL16DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL16DG","http://www.onsemi.com/pub/Collateral/MC10EL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL","ECL","5","0.7","20","0.25","350","1750",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL16","MC10EL16DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL16DR2G","http://www.onsemi.com/pub/Collateral/MC10EL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL","ECL","5","0.7","20","0.25","350","1750",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL16","MC10EL16DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL16DTG","http://www.onsemi.com/pub/Collateral/MC10EL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL","ECL","5","0.7","20","0.25","350","1750",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EL16","MC10EL16DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EL16DTR2G","http://www.onsemi.com/pub/Collateral/MC10EL16-D.PDF","Differential Receiver","Pb-free
+Halide free","Active","Differential Receiver","Signal Driver","1","1:1","ECL","ECL","5","0.7","20","0.25","350","1750",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP11","MC10EP11DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP11DG","http://www.onsemi.com/pub/Collateral/MC10EP11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Buffer","1","1:2","ECL","ECL","3.3
+5","0.2","15","0.22","170","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP11","MC10EP11DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP11DR2G","http://www.onsemi.com/pub/Collateral/MC10EP11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Buffer","1","1:2","ECL","ECL","3.3
+5","0.2","15","0.22","170","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP11","MC10EP11DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP11DTG","http://www.onsemi.com/pub/Collateral/MC10EP11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Buffer","1","1:2","ECL","ECL","3.3
+5","0.2","15","0.22","170","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP11","MC10EP11DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP11DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP11-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, ECL, 3.3 V / 5.0 V","Buffer","1","1:2","ECL","ECL","3.3
+5","0.2","15","0.22","170","3000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16","MC10EP16DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16DG","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver ","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16","MC10EP16DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16DR2G","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver ","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16","MC10EP16DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16DTG","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver ","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16","MC10EP16DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver ","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.22","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16VA","MC10EP16VADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16VADG","http://www.onsemi.com/pub/Collateral/MC10EP16VA-D.PDF","Differential Driver / Receiver  with High Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver  with High Gain","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.27","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16VA","MC10EP16VADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16VADR2G","http://www.onsemi.com/pub/Collateral/MC10EP16VA-D.PDF","Differential Driver / Receiver  with High Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver  with High Gain","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.27","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16VA","MC10EP16VADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16VADTG","http://www.onsemi.com/pub/Collateral/MC10EP16VA-D.PDF","Differential Driver / Receiver  with High Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver  with High Gain","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.27","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16VA","MC10EP16VADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16VADTR2G","http://www.onsemi.com/pub/Collateral/MC10EP16VA-D.PDF","Differential Driver / Receiver  with High Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver  with High Gain","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.27","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP16VA","MC10EP16VAMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP16VAMNR4G","http://www.onsemi.com/pub/Collateral/MC10EP16VA-D.PDF","Differential Driver / Receiver  with High Gain","Pb-free
+Halide free","Active","Differential Driver / Receiver  with High Gain","Signal Driver","1","1:1","CML
+ECL","ECL","3.3
+5","0.2","20","0.27","170","3000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP89","MC10EP89DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP89DG","http://www.onsemi.com/pub/Collateral/MC10EP89-D.PDF","Coaxial Cable Driver","Pb-free
+Halide free","Active","Coaxial Cable Driver","Coaxial Cable Driver","1","1:2","CML
+ECL","2X ECL","3.3
+5","0.5","20","0.31","325","2000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP89","MC10EP89DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP89DR2G","http://www.onsemi.com/pub/Collateral/MC10EP89-D.PDF","Coaxial Cable Driver","Pb-free
+Halide free","Active","Coaxial Cable Driver","Coaxial Cable Driver","1","1:2","CML
+ECL","2X ECL","3.3
+5","0.5","20","0.31","325","2000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP89","MC10EP89DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP89DTG","http://www.onsemi.com/pub/Collateral/MC10EP89-D.PDF","Coaxial Cable Driver","Pb-free
+Halide free","Active","Coaxial Cable Driver","Coaxial Cable Driver","1","1:2","CML
+ECL","2X ECL","3.3
+5","0.5","20","0.31","325","2000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP89","MC10EP89DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP89DTR2G","http://www.onsemi.com/pub/Collateral/MC10EP89-D.PDF","Coaxial Cable Driver","Pb-free
+Halide free","Active","Coaxial Cable Driver","Coaxial Cable Driver","1","1:2","CML
+ECL","2X ECL","3.3
+5","0.5","20","0.31","325","2000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10EP89","MC10EP89MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP89MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP89-D.PDF","Coaxial Cable Driver","Pb-free
+Halide free","Active","Coaxial Cable Driver","Coaxial Cable Driver","1","1:2","CML
+ECL","2X ECL","3.3
+5","0.5","20","0.31","325","2000",,"DFN-8
+SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H116","MC10H116DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H116DG","http://www.onsemi.com/pub/Collateral/MC10H116-D.PDF","Triple Line Receiver","Pb-free
+Halide free","Active","Triple Line Receiver","Signal Driver","3","1:1","ECL
+HSTL","ECL","-5.2",,,"0.85","1500",,,"PDIP-16
+PLLC-20
+SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H116","MC10H116DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H116DR2G","http://www.onsemi.com/pub/Collateral/MC10H116-D.PDF","Triple Line Receiver","Pb-free
+Halide free","Active","Triple Line Receiver","Signal Driver","3","1:1","ECL
+HSTL","ECL","-5.2",,,"0.85","1500",,,"PDIP-16
+PLLC-20
+SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H116","MC10H116FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H116FNG","http://www.onsemi.com/pub/Collateral/MC10H116-D.PDF","Triple Line Receiver","Pb-free
+Halide free","Active","Triple Line Receiver","Signal Driver","3","1:1","ECL
+HSTL","ECL","-5.2",,,"0.85","1500",,,"PDIP-16
+PLLC-20
+SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H116","MC10H116FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H116FNR2G","http://www.onsemi.com/pub/Collateral/MC10H116-D.PDF","Triple Line Receiver","Pb-free
+Halide free","Active","Triple Line Receiver","Signal Driver","3","1:1","ECL
+HSTL","ECL","-5.2",,,"0.85","1500",,,"PDIP-16
+PLLC-20
+SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H116","MC10H116PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H116PG","http://www.onsemi.com/pub/Collateral/MC10H116-D.PDF","Triple Line Receiver","Pb-free
+Halide free","Active","Triple Line Receiver","Signal Driver","3","1:1","ECL
+HSTL","ECL","-5.2",,,"0.85","1500",,,"PDIP-16
+PLLC-20
+SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H640","MC10H640FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H640FNG","http://www.onsemi.com/pub/Collateral/MC10H640-D.PDF","ECL/TTL Clock Driver","Pb-free
+Halide free","Active","ECL/TTL Clock Driver","Buffer","1","2:6","ECL","TTL","5",,"500","5","2500","135",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H640","MC10H640FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H640FNR2G","http://www.onsemi.com/pub/Collateral/MC10H640-D.PDF","ECL/TTL Clock Driver","Pb-free
+Halide free","Active","ECL/TTL Clock Driver","Buffer","1","2:6","ECL","TTL","5",,"500","5","2500","135",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H643","MC10H643FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H643FNG","http://www.onsemi.com/pub/Collateral/MC10H643-D.PDF","1:8 Clock Driver","Pb-free
+Halide free","Active","1:8 Clock Driver","Buffer","1","1:8","ECL","TTL","5",,"500","4.6","1200","80",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H643","MC10H643FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H643FNR2G","http://www.onsemi.com/pub/Collateral/MC10H643-D.PDF","1:8 Clock Driver","Pb-free
+Halide free","Active","1:8 Clock Driver","Buffer","1","1:8","ECL","TTL","5",,"500","4.6","1200","80",,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H646","MC10H646FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H646FNG","http://www.onsemi.com/pub/Collateral/MC10H646-D.PDF","PECL/TTL-TTL 1:8 Distribution Chip","Pb-free
+Halide free","Active","PECL/TTL-TTL 1:8 Distribution Chip","Buffer","1","2:1:8","ECL","TTL","5",,"350
+500","4.9
+5.35","1500",,,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10H646","MC10H646FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10H646FNR2G","http://www.onsemi.com/pub/Collateral/MC10H646-D.PDF","PECL/TTL-TTL 1:8 Distribution Chip","Pb-free
+Halide free","Active","PECL/TTL-TTL 1:8 Distribution Chip","Buffer","1","2:1:8","ECL","TTL","5",,"350
+500","4.9
+5.35","1500",,,"PLCC-28"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10LVEP16","MC10LVEP16DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10LVEP16DG","http://www.onsemi.com/pub/Collateral/MC10LVEP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver","Signal Driver","1","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3","0.147","20","0.24","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10LVEP16","MC10LVEP16DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10LVEP16DR2G","http://www.onsemi.com/pub/Collateral/MC10LVEP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver","Signal Driver","1","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3","0.147","20","0.24","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10LVEP16","MC10LVEP16DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10LVEP16DTG","http://www.onsemi.com/pub/Collateral/MC10LVEP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver","Signal Driver","1","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3","0.147","20","0.24","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10LVEP16","MC10LVEP16DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10LVEP16DTR2G","http://www.onsemi.com/pub/Collateral/MC10LVEP16-D.PDF","Differential Driver / Receiver","Pb-free
+Halide free","Active","Differential Driver / Receiver","Signal Driver","1","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3","0.147","20","0.24","170","4000",,"SOIC-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10SX1189","MC10SX1189DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10SX1189DG","http://www.onsemi.com/pub/Collateral/MC10SX1189-D.PDF","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit","Pb-free
+Halide free","Active","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit","Fibre Channel Coaxial Cable Driver","1","2:2","ECL","2X ECL","5",,"15","0.325
+0.425
+0.45
+0.65","400
+550",,,"SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","MC10SX1189","MC10SX1189DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10SX1189DR2G","http://www.onsemi.com/pub/Collateral/MC10SX1189-D.PDF","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit","Pb-free
+Halide free","Active","Fibre Channel Coaxial Cable Driver and Loop Resiliency Circuit","Fibre Channel Coaxial Cable Driver","1","2:2","ECL","2X ECL","5",,"15","0.325
+0.425
+0.45
+0.65","400
+550",,,"SOIC-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB100LVEP17","NB100LVEP17DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP17DTG","http://www.onsemi.com/pub/Collateral/NB100LVEP17-D.PDF","Quad Differential Driver/Receiver/Buffer","Pb-free
+Halide free","Active","Quad Differential Driver/Receiver/Buffer","Signal Driver","4","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3
+5","0.5","25","0.25","225","2500","2500","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB100LVEP17","NB100LVEP17DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP17DTR2G","http://www.onsemi.com/pub/Collateral/NB100LVEP17-D.PDF","Quad Differential Driver/Receiver/Buffer","Pb-free
+Halide free","Active","Quad Differential Driver/Receiver/Buffer","Signal Driver","4","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3
+5","0.5","25","0.25","225","2500","2500","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB100LVEP17","NB100LVEP17MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP17MNG","http://www.onsemi.com/pub/Collateral/NB100LVEP17-D.PDF","Quad Differential Driver/Receiver/Buffer","Pb-free
+Halide free","Active","Quad Differential Driver/Receiver/Buffer","Signal Driver","4","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3
+5","0.5","25","0.25","225","2500","2500","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB100LVEP17","NB100LVEP17MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP17MNR2G","http://www.onsemi.com/pub/Collateral/NB100LVEP17-D.PDF","Quad Differential Driver/Receiver/Buffer","Pb-free
+Halide free","Active","Quad Differential Driver/Receiver/Buffer","Signal Driver","4","1:1","CML
+ECL
+LVDS","ECL","2.5
+3.3
+5","0.5","25","0.25","225","2500","2500","QFN-24
+TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB100LVEP222","NB100LVEP222MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP222MNG","http://www.onsemi.com/pub/Collateral/NB100LVEP222-D.PDF","Clock / Data Fanout Buffer, 2:1:15 Differential, ÷1 / ÷2, ECL / PECL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 2:1:15 Differential, &divide;1 / &divide;2, ECL / PECL, 2.5 V / 3.3 V","Buffer","1","2:1:15","CML
+ECL
+LVDS","ECL","2.5
+3.3","1","20","0.875
+0.9","300","1000",,"QFN-52"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB100LVEP222","NB100LVEP222MNRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB100LVEP222MNRG","http://www.onsemi.com/pub/Collateral/NB100LVEP222-D.PDF","Clock / Data Fanout Buffer, 2:1:15 Differential, ÷1 / ÷2, ECL / PECL, 2.5 V / 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 2:1:15 Differential, &divide;1 / &divide;2, ECL / PECL, 2.5 V / 3.3 V","Buffer","1","2:1:15","CML
+ECL
+LVDS","ECL","2.5
+3.3","1","20","0.875
+0.9","300","1000",,"QFN-52"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3F8L3010C","NB3F8L3010CMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3F8L3010CMNG","http://www.onsemi.com/pub/Collateral/NB3F8L3010C-D.PDF","Clock / Data Fanout Buffer, 3:1:10 Differential, LVCMOS, 3.3 V / 2.5 V / 1.8 V / 1.5 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 3:1:10 Differential, LVCMOS, 3.3 V / 2.5 V / 1.8 V / 1.5 V","Buffer","1","3:1:10","Crystal
+HCSL
+LVCMOS
+LVDS
+LVPECL
+LVTTL
+SSTL","LVCMOS","2.5
+3.3","0.08
+0.13
+0.14
+0.18
+0.19
+0.27","50",,"500
+600","100",,"QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3F8L3010C","NB3F8L3010CMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3F8L3010CMNR4G","http://www.onsemi.com/pub/Collateral/NB3F8L3010C-D.PDF","Clock / Data Fanout Buffer, 3:1:10 Differential, LVCMOS, 3.3 V / 2.5 V / 1.8 V / 1.5 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 3:1:10 Differential, LVCMOS, 3.3 V / 2.5 V / 1.8 V / 1.5 V","Buffer","1","3:1:10","Crystal
+HCSL
+LVCMOS
+LVDS
+LVPECL
+LVTTL
+SSTL","LVCMOS","2.5
+3.3","0.08
+0.13
+0.14
+0.18
+0.19
+0.27","50",,"500
+600","100",,"QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3F8L3010C","NB3F8L3010CMNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3F8L3010CMNTWG","http://www.onsemi.com/pub/Collateral/NB3F8L3010C-D.PDF","Clock / Data Fanout Buffer, 3:1:10 Differential, LVCMOS, 3.3 V / 2.5 V / 1.8 V / 1.5 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 3:1:10 Differential, LVCMOS, 3.3 V / 2.5 V / 1.8 V / 1.5 V","Buffer","1","3:1:10","Crystal
+HCSL
+LVCMOS
+LVDS
+LVPECL
+LVTTL
+SSTL","LVCMOS","2.5
+3.3","0.08
+0.13
+0.14
+0.18
+0.19
+0.27","50",,"500
+600","100",,"QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L02","NB3L02FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L02FCT2G","http://www.onsemi.com/pub/Collateral/NB3L02-D.PDF","Clock Fanout Buffer, High Precision, 1:2, 2.8 V","Pb-free
+Halide free","Active","Clock Fanout Buffer, High Precision, 1:2, 2.8 V","Buffer","1","1:2","Crystal
+Sine Wave
+Square Wave","Square Wave","2.8",,"30","4","1200","26",,"WLCSP-6"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L14S","NB3L14SMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L14SMNG","http://www.onsemi.com/pub/Collateral/NB3L14S-D.PDF","2.5 V 1:4 LVDS Fanout Buffer, 2.5 V 1:4 LVDS Fanout Buffer","Pb-free
+Halide free","Active","2.5 V 1:4 LVDS Fanout Buffer",,"1","1:4","LVDS","LVDS","2.5",,"20","0.45","350","300",,"QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L14S","NB3L14SMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L14SMNTXG","http://www.onsemi.com/pub/Collateral/NB3L14S-D.PDF","2.5 V 1:4 LVDS Fanout Buffer, 2.5 V 1:4 LVDS Fanout Buffer","Pb-free
+Halide free","Active","2.5 V 1:4 LVDS Fanout Buffer",,"1","1:4","LVDS","LVDS","2.5",,"20","0.45","350","300",,"QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L553","NB3L553DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L553DG","http://www.onsemi.com/pub/Collateral/NB3L553-D.PDF","Clock / Data Fanout Buffer, 2.5 V / 3.3 V / 5.0 V 1:4","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 2.5 V / 3.3 V / 5.0 V 1:4","Buffer","1","1:4","CMOS","CMOS","2.5
+3.3
+5","0.018
+0.029","50","2.4
+2.5
+3","0.0007
+0.001
+0.0015","200",,"DFN-8
+SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L553","NB3L553DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L553DR2G","http://www.onsemi.com/pub/Collateral/NB3L553-D.PDF","Clock / Data Fanout Buffer, 2.5 V / 3.3 V / 5.0 V 1:4","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 2.5 V / 3.3 V / 5.0 V 1:4","Buffer","1","1:4","CMOS","CMOS","2.5
+3.3
+5","0.018
+0.029","50","2.4
+2.5
+3","0.0007
+0.001
+0.0015","200",,"DFN-8
+SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L553","NB3L553MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L553MNR4G","http://www.onsemi.com/pub/Collateral/NB3L553-D.PDF","Clock / Data Fanout Buffer, 2.5 V / 3.3 V / 5.0 V 1:4","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 2.5 V / 3.3 V / 5.0 V 1:4","Buffer","1","1:4","CMOS","CMOS","2.5
+3.3
+5","0.018
+0.029","50","2.4
+2.5
+3","0.0007
+0.001
+0.0015","200",,"DFN-8
+SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L8504S","NB3L8504SDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L8504SDTG","http://www.onsemi.com/pub/Collateral/NB3L8504S-D.PDF","2.5 V / 3.3 V 1:4 Differential Input to LVDS Fanout Buffer / Translator","Pb-free
+Halide free","Active","2.5 V / 3.3 V 1:4 Differential Input to LVDS Fanout Buffer / Translator","Buffer","1","1:4","HCSL
+HSTL
+LVDS
+LVPECL
+SSTL","LVDS","2.5
+3.3","0.07","50","1.3","660","700",,"TSSOP-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L8504S","NB3L8504SDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L8504SDTR2G","http://www.onsemi.com/pub/Collateral/NB3L8504S-D.PDF","2.5 V / 3.3 V 1:4 Differential Input to LVDS Fanout Buffer / Translator","Pb-free
+Halide free","Active","2.5 V / 3.3 V 1:4 Differential Input to LVDS Fanout Buffer / Translator","Buffer","1","1:4","HCSL
+HSTL
+LVDS
+LVPECL
+SSTL","LVDS","2.5
+3.3","0.07","50","1.3","660","700",,"TSSOP-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L8533","NB3L8533DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L8533DTG","http://www.onsemi.com/pub/Collateral/NB3L8533-D.PDF","2.5V/3.3V Differential 2:1 MUX to 4 LVPECL Fanout Buffer","Pb-free
+Halide free","Active","2.5V/3.3V Differential 2:1 MUX to 4 LVPECL Fanout Buffer","Buffer","1","2:1:4","CML
+HCSL
+HSTL
+LVDS
+LVPECL
+SSTL","LVPECL","2.5
+3.3","0.05","30",,"600","650",,"TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3L8533","NB3L8533DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3L8533DTR2G","http://www.onsemi.com/pub/Collateral/NB3L8533-D.PDF","2.5V/3.3V Differential 2:1 MUX to 4 LVPECL Fanout Buffer","Pb-free
+Halide free","Active","2.5V/3.3V Differential 2:1 MUX to 4 LVPECL Fanout Buffer","Buffer","1","2:1:4","CML
+HCSL
+HSTL
+LVDS
+LVPECL
+SSTL","LVPECL","2.5
+3.3","0.05","30",,"600","650",,"TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3M8302C","NB3M8302CDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3M8302CDG","http://www.onsemi.com/pub/Collateral/NB3M8302C-D.PDF","LVCMOS/LVTTL Low Skew Fanout Buffer; 1:2, 3.3 V, 200 MHz","Pb-free
+Halide free","Active","LVCMOS/LVTTL Low Skew Fanout Buffer; 1:2, 3.3 V, 200 MHz","Buffer","1","1:2","CMOS
+TTL","CMOS
+TTL","2.5
+3.3",,"85","2.65","650
+800","200",,"SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3M8302C","NB3M8302CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3M8302CDR2G","http://www.onsemi.com/pub/Collateral/NB3M8302C-D.PDF","LVCMOS/LVTTL Low Skew Fanout Buffer; 1:2, 3.3 V, 200 MHz","Pb-free
+Halide free","Active","LVCMOS/LVTTL Low Skew Fanout Buffer; 1:2, 3.3 V, 200 MHz","Buffer","1","1:2","CMOS
+TTL","CMOS
+TTL","2.5
+3.3",,"85","2.65","650
+800","200",,"SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3M8T3910G","NB3M8T3910GMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3M8T3910GMNR2G","http://www.onsemi.com/pub/Collateral/NB3M8T3910-D.PDF","Differential Clock Fanout Buffer with LVCMOS Reference Output, Configurable, 2.5 V/3.3 V 3:1:10","Pb-free
+Halide free","Active","Differential Clock Fanout Buffer with LVCMOS Reference Output, Configurable, 2.5 V/3.3 V 3:1:10","Buffer","1","3:1:10","HCSL
+LVDS
+LVPECL
+SSTL","HCSL
+LVCMOS
+LVDS
+LVPECL","2.5
+3.3","0.03","50","0.9","325","1400",,"QFN-48"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N108K","NB3N108KMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N108KMNG","http://www.onsemi.com/pub/Collateral/NB3N108K.PDF","Clock / Data Fanout Buffer, 1:8 Differential, 3.3 V, with HCSL Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:8 Differential, 3.3 V, with HCSL Outputs","Buffer","1","1:8","CMOS
+ECL
+HCSL
+LVDS
+TTL","HCSL","3.3","0.1","100","0.8","400","400","400","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N108K","NB3N108KMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N108KMNR4G","http://www.onsemi.com/pub/Collateral/NB3N108K.PDF","Clock / Data Fanout Buffer, 1:8 Differential, 3.3 V, with HCSL Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:8 Differential, 3.3 V, with HCSL Outputs","Buffer","1","1:8","CMOS
+ECL
+HCSL
+LVDS
+TTL","HCSL","3.3","0.1","100","0.8","400","400","400","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N1200K","NB3N1200KMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N1200KMNG","http://www.onsemi.com/pub/Collateral/NB3N1200K-D.PDF","3.3 V 100/133 MHz Differential 1:12 HCSL Clock ZDB/Fanout Buffer for PCle","Pb-free
+Halide free","Active","3.3 V 100/133 MHz Differential 1:12 HCSL Clock ZDB/Fanout Buffer for PCle","Buffer","1","1:12","HCSL","HCSL","3.3","0.001
+0.002
+0.04","50",,"125","100
+133",,"QFN-64"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N1200K","NB3N1200KMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N1200KMNTXG","http://www.onsemi.com/pub/Collateral/NB3N1200K-D.PDF","3.3 V 100/133 MHz Differential 1:12 HCSL Clock ZDB/Fanout Buffer for PCle","Pb-free
+Halide free","Active","3.3 V 100/133 MHz Differential 1:12 HCSL Clock ZDB/Fanout Buffer for PCle","Buffer","1","1:12","HCSL","HCSL","3.3","0.001
+0.002
+0.04","50",,"125","100
+133",,"QFN-64"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N1900K","NB3N1900KMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N1900KMNG","http://www.onsemi.com/pub/Collateral/NB3N1900K-D.PDF","3.3V 100/133 MHz Differential 1:19 HCSL Clock ZDB/Fanout Buffer for PCIe","Pb-free
+Halide free","Active","3.3V 100/133 MHz Differential 1:19 HCSL Clock ZDB/Fanout Buffer for PCIe","Buffer","1","1:19","HCSL","HCSL","3.3","0.001
+0.002
+0.04","65",,"125","100
+133",,"QFN-72"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N1900K","NB3N1900KMNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N1900KMNTWG","http://www.onsemi.com/pub/Collateral/NB3N1900K-D.PDF","3.3V 100/133 MHz Differential 1:19 HCSL Clock ZDB/Fanout Buffer for PCIe","Pb-free
+Halide free","Active","3.3V 100/133 MHz Differential 1:19 HCSL Clock ZDB/Fanout Buffer for PCIe","Buffer","1","1:19","HCSL","HCSL","3.3","0.001
+0.002
+0.04","65",,"125","100
+133",,"QFN-72"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N1900K","NB3N1900KMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N1900KMNTXG","http://www.onsemi.com/pub/Collateral/NB3N1900K-D.PDF","3.3V 100/133 MHz Differential 1:19 HCSL Clock ZDB/Fanout Buffer for PCIe","Pb-free
+Halide free","Active","3.3V 100/133 MHz Differential 1:19 HCSL Clock ZDB/Fanout Buffer for PCIe","Buffer","1","1:19","HCSL","HCSL","3.3","0.001
+0.002
+0.04","65",,"125","100
+133",,"QFN-72"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N201S","NB3N201SDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N201SDG","http://www.onsemi.com/pub/Collateral/NB3N201S-D.PDF","3.3V Differential Multipoint Low Voltage M-LVDS Driver Receiver","Pb-free
+Halide free","Active","3.3V Differential Multipoint Low Voltage M-LVDS Driver Receiver","Signal Driver","1","1:1","M-LVDS","M-LVDS","3.3","2
+4",,"1.5
+4","1600
+2300",,,"SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N201S","NB3N201SDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N201SDR2G","http://www.onsemi.com/pub/Collateral/NB3N201S-D.PDF","3.3V Differential Multipoint Low Voltage M-LVDS Driver Receiver","Pb-free
+Halide free","Active","3.3V Differential Multipoint Low Voltage M-LVDS Driver Receiver","Signal Driver","1","1:1","M-LVDS","M-LVDS","3.3","2
+4",,"1.5
+4","1600
+2300",,,"SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N2304NZ","NB3N2304NZDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N2304NZDTG","http://www.onsemi.com/pub/Collateral/NB3N2304NZ-D.PDF","Clock / Data Fanout Buffer, 1:4, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4, 3.3 V","Buffer","1","1:4","CMOS","CMOS","3.3",,"100","3.5","1500","140",,"DFN-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N2304NZ","NB3N2304NZDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N2304NZDTR2G","http://www.onsemi.com/pub/Collateral/NB3N2304NZ-D.PDF","Clock / Data Fanout Buffer, 1:4, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4, 3.3 V","Buffer","1","1:4","CMOS","CMOS","3.3",,"100","3.5","1500","140",,"DFN-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N2304NZ","NB3N2304NZMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N2304NZMNR4G","http://www.onsemi.com/pub/Collateral/NB3N2304NZ-D.PDF","Clock / Data Fanout Buffer, 1:4, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4, 3.3 V","Buffer","1","1:4","CMOS","CMOS","3.3",,"100","3.5","1500","140",,"DFN-8
+TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N853501E","NB3N853501EDTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N853501EDTG","http://www.onsemi.com/pub/Collateral/NB3N853501E-D.PDF","Input Mux - 2:1, LVTTL / LVCMOS, 3.3 V, Fanout Buffer - 1:4 LVPECL","Pb-free
+Halide free","Active","Input Mux - 2:1, LVTTL / LVCMOS, 3.3 V, Fanout Buffer - 1:4 LVPECL","Buffer","1","2:1:4","LVCMOS
+LVTTL","LVPECL","3.3","0.062","30",,"700","266",,"TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3N853501E","NB3N853501EDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3N853501EDTR2G","http://www.onsemi.com/pub/Collateral/NB3N853501E-D.PDF","Input Mux - 2:1, LVTTL / LVCMOS, 3.3 V, Fanout Buffer - 1:4 LVPECL","Pb-free
+Halide free","Active","Input Mux - 2:1, LVTTL / LVCMOS, 3.3 V, Fanout Buffer - 1:4 LVPECL","Buffer","1","2:1:4","LVCMOS
+LVTTL","LVPECL","3.3","0.062","30",,"700","266",,"TSSOP-20"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3RL02","NB3RL02FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3RL02FCT2G","http://www.onsemi.com/pub/Collateral/NB3RL02-D.PDF","Clock Fanout Buffer, 2-Channel, Low Phase Noise","Pb-free
+Halide free","Active","Clock Fanout Buffer, 2-Channel, Low Phase Noise","Buffer","2","1:2","Crystal
+Sine Wave
+Square Wave","Square Wave","2.5
+3.3
+5","0.37","500","10
+12","5000","26",,"WLCSP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3U23C","NB3U23CMNTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3U23CMNTAG","http://www.onsemi.com/pub/Collateral/NB3U23C-D.PDF","1.2 V Dual Channel CMOS Buffer / Translator","Pb-free
+Halide free","Active","1.2 V Dual Channel CMOS Buffer / Translator","Buffer","2","1:1","CMOS","CMOS","1.2","0.15",,"5","2000",,,"SC-88-6 / SC-70-6 / SOT-363-6
+UDFN-6"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3U23C","NB3U23CSQTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3U23CSQTCG","http://www.onsemi.com/pub/Collateral/NB3U23C-D.PDF","1.2 V Dual Channel CMOS Buffer / Translator","Pb-free
+Halide free","Active","1.2 V Dual Channel CMOS Buffer / Translator","Buffer","2","1:1","CMOS","CMOS","1.2","0.15",,"5","2000",,,"SC-88-6 / SC-70-6 / SOT-363-6
+UDFN-6"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3V1103C","NB3V1103CDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3V1103CDTR2G","http://www.onsemi.com/pub/Collateral/NB3V1102C-D.PDF","Low Skew Fanout Buffer, 1:3, LVCMOS, 3.3V/2.5V/1.8V","Pb-free
+Halide free","ActiveNEW","Low Skew Fanout Buffer, 1:3, LVCMOS, 3.3V/2.5V/1.8V","Buffer","1","1:3","LVCMOS
+LVTTL","LVCMOS
+LVTTL","1.8
+2.5
+3.3","<0.2","<65","<3.5","<1200","133
+180
+250","~NA","TSSOP-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3V1106C","NB3V1106CDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3V1106CDTR2G","http://www.onsemi.com/pub/Collateral/NB3V1102C-D.PDF","Low Skew Fanout Buffer, 1:6, LVCMOS, 3.3V/2.5V/1.8V","Pb-free
+Halide free","ActiveNEW","Low Skew Fanout Buffer, 1:6, LVCMOS, 3.3V/2.5V/1.8V","Buffer","1","1:6","LVCMOS
+LVTTL","LVCMOS
+LVTTL","1.8
+2.5
+3.3","<0.2","<65","<3.5","<1200","133
+180
+250","~NA","TSSOP-14"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3W1200L","NB3W1200LMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3W1200LMNG","http://www.onsemi.com/pub/Collateral/NB3N1200K-D.PDF","3.3 V 100/133 MHz Differential 1:12 Push-Pull Clock ZDB/Fanout Buffer for PCle","Pb-free
+Halide free","Active","3.3 V 100/133 MHz Differential 1:12 Push-Pull Clock ZDB/Fanout Buffer for PCle","Buffer","1","1:12","HCSL","HCSL","3.3","0.001
+0.002
+0.04","50",,"125","100
+133",,"QFN-64"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3W1200L","NB3W1200LMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3W1200LMNTXG","http://www.onsemi.com/pub/Collateral/NB3N1200K-D.PDF","3.3 V 100/133 MHz Differential 1:12 Push-Pull Clock ZDB/Fanout Buffer for PCle","Pb-free
+Halide free","Active","3.3 V 100/133 MHz Differential 1:12 Push-Pull Clock ZDB/Fanout Buffer for PCle","Buffer","1","1:12","HCSL","HCSL","3.3","0.001
+0.002
+0.04","50",,"125","100
+133",,"QFN-64"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3W800L","NB3W800LMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3W800LMNG","http://www.onsemi.com/pub/Collateral/NB3W800L-D.PDF","3.3 V 100/133 MHz Differential 1:8 HCSL Compatible Push-Pull Clock ZDB/Fanout Buffer for PCIe","Pb-free
+Halide free","ActiveNEW","3.3 V 100/133 MHz Differential 1:8 HCSL Compatible Push-Pull Clock ZDB/Fanout Buffer for PCIe","Buffer","1","1:8","HCSL","HCSL","3.3",,"50",,,"100
+133",,"QFN-48"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB3W800L","NB3W800LMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB3W800LMNTXG","http://www.onsemi.com/pub/Collateral/NB3W800L-D.PDF","3.3 V 100/133 MHz Differential 1:8 HCSL Compatible Push-Pull Clock ZDB/Fanout Buffer for PCIe","Pb-free
+Halide free","ActiveNEW","3.3 V 100/133 MHz Differential 1:8 HCSL Compatible Push-Pull Clock ZDB/Fanout Buffer for PCIe","Buffer","1","1:8","HCSL","HCSL","3.3",,"50",,,"100
+133",,"QFN-48"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB4N111K","NB4N111KMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N111KMNG","http://www.onsemi.com/pub/Collateral/NB4N111K-D.PDF","Clock Fanout Buffer, 1:10 Differential, 3.3 V, with HCSL Level Output","Pb-free
+Halide free","Active","Clock Fanout Buffer, 1:10 Differential, 3.3 V, with HCSL Level Output","Buffer","1","1:10","CML
+ECL
+LVDS","HCSL","3.3","1","100","0.8","700","400",,"QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB4N111K","NB4N111KMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N111KMNR4G","http://www.onsemi.com/pub/Collateral/NB4N111K-D.PDF","Clock Fanout Buffer, 1:10 Differential, 3.3 V, with HCSL Level Output","Pb-free
+Halide free","Active","Clock Fanout Buffer, 1:10 Differential, 3.3 V, with HCSL Level Output","Buffer","1","1:10","CML
+ECL
+LVDS","HCSL","3.3","1","100","0.8","700","400",,"QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB4N121K","NB4N121KMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N121KMNG","http://www.onsemi.com/pub/Collateral/NB4N121K-D.PDF","Clock Fanout Buffer, 1:21 Differential, 3.3 V, with HCSL Level Output","Pb-free
+Halide free","Active","Clock Fanout Buffer, 1:21 Differential, 3.3 V, with HCSL Level Output","Buffer","1","1:21","CML
+CMOS
+ECL
+LVDS
+TTL","HCSL","3.3","1","50","0.8","700","200",,"QFN-52"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB4N121K","NB4N121KMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N121KMNR2G","http://www.onsemi.com/pub/Collateral/NB4N121K-D.PDF","Clock Fanout Buffer, 1:21 Differential, 3.3 V, with HCSL Level Output","Pb-free
+Halide free","Active","Clock Fanout Buffer, 1:21 Differential, 3.3 V, with HCSL Level Output","Buffer","1","1:21","CML
+CMOS
+ECL
+LVDS
+TTL","HCSL","3.3","1","50","0.8","700","200",,"QFN-52"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB4N527S","NB4N527SMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N527SMNG","http://www.onsemi.com/pub/Collateral/NB4N527S-D.PDF","Translator, 3.3 V, 2.5 Gb/s Dual AnyLevel™ to LVDS Receiver/Driver/Buffer, with Internal Termination","Pb-free
+Halide free","Active","Translator, 3.3 V, 2.5 Gb/s Dual AnyLevel&trade; to LVDS Receiver/Driver/Buffer, with Internal Termination","Signal Driver","2","1:1","CML
+CMOS
+ECL
+HSTL
+LVDS","LVDS","3.3","0.5","25","0.37","140","1500","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB4N527S","NB4N527SMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB4N527SMNR2G","http://www.onsemi.com/pub/Collateral/NB4N527S-D.PDF","Translator, 3.3 V, 2.5 Gb/s Dual AnyLevel™ to LVDS Receiver/Driver/Buffer, with Internal Termination","Pb-free
+Halide free","Active","Translator, 3.3 V, 2.5 Gb/s Dual AnyLevel&trade; to LVDS Receiver/Driver/Buffer, with Internal Termination","Signal Driver","2","1:1","CML
+CMOS
+ECL
+HSTL
+LVDS","LVDS","3.3","0.5","25","0.37","140","1500","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6HQ14M","NB6HQ14MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6HQ14MMNG","http://www.onsemi.com/pub/Collateral/NB6HQ14M-D.PDF","2.5 V, 5 GHz/6.5 Gbps Differential Input to 1.8 V / 2.5 V 1:4 CML Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","2.5 V, 5 GHz/6.5 Gbps Differential Input to 1.8 V / 2.5 V 1:4 CML Clock/Data Fanout Buffer","Buffer","1","1:4","CML
+ECL
+LVDS","CML","2.5","0.2","15","0.22","60","7000","10000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6HQ14M","NB6HQ14MMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6HQ14MMNHTBG","http://www.onsemi.com/pub/Collateral/NB6HQ14M-D.PDF","2.5 V, 5 GHz/6.5 Gbps Differential Input to 1.8 V / 2.5 V 1:4 CML Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","2.5 V, 5 GHz/6.5 Gbps Differential Input to 1.8 V / 2.5 V 1:4 CML Clock/Data Fanout Buffer","Buffer","1","1:4","CML
+ECL
+LVDS","CML","2.5","0.2","15","0.22","60","7000","10000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6HQ14M","NB6HQ14MMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6HQ14MMNTXG","http://www.onsemi.com/pub/Collateral/NB6HQ14M-D.PDF","2.5 V, 5 GHz/6.5 Gbps Differential Input to 1.8 V / 2.5 V 1:4 CML Clock/Data Fanout Buffer","Pb-free
+Halide free","Active","2.5 V, 5 GHz/6.5 Gbps Differential Input to 1.8 V / 2.5 V 1:4 CML Clock/Data Fanout Buffer","Buffer","1","1:4","CML
+ECL
+LVDS","CML","2.5","0.2","15","0.22","60","7000","10000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L11M","NB6L11MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L11MMNG","http://www.onsemi.com/pub/Collateral/NB6L11M-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, with CML Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, with CML Outputs","Buffer","1","1:2","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","CML","2.5
+3.3","0.2","15","0.225","120","4000",,"QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L11M","NB6L11MMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L11MMNR2G","http://www.onsemi.com/pub/Collateral/NB6L11M-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, with CML Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, with CML Outputs","Buffer","1","1:2","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","CML","2.5
+3.3","0.2","15","0.225","120","4000",,"QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L14","NB6L14MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L14MNG","http://www.onsemi.com/pub/Collateral/NB6L14-D.PDF","Clock / Data Fanout Buffer, 1:4 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.2","20","0.37","200","3000","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L14","NB6L14MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L14MNR2G","http://www.onsemi.com/pub/Collateral/NB6L14-D.PDF","Clock / Data Fanout Buffer, 1:4 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.2","20","0.37","200","3000","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L14S","NB6L14SMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L14SMNG","http://www.onsemi.com/pub/Collateral/NB6L14S-D.PDF","Clock / Data Fanout Buffer, 1:4 AnyLevel™ Input, LVDS, 2.5 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 AnyLevel&trade; Input, LVDS, 2.5 V","Buffer","1","1:4","CML
+CMOS
+ECL
+HCSL
+HSTL
+LVDS
+TTL","LVDS","2.5","0.5","20","0.45","225","2000","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L14S","NB6L14SMNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L14SMNTWG","http://www.onsemi.com/pub/Collateral/NB6L14S-D.PDF","Clock / Data Fanout Buffer, 1:4 AnyLevel™ Input, LVDS, 2.5 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 AnyLevel&trade; Input, LVDS, 2.5 V","Buffer","1","1:4","CML
+CMOS
+ECL
+HCSL
+HSTL
+LVDS
+TTL","LVDS","2.5","0.5","20","0.45","225","2000","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L14S","NB6L14SMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L14SMNTXG","http://www.onsemi.com/pub/Collateral/NB6L14S-D.PDF","Clock / Data Fanout Buffer, 1:4 AnyLevel™ Input, LVDS, 2.5 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 AnyLevel&trade; Input, LVDS, 2.5 V","Buffer","1","1:4","CML
+CMOS
+ECL
+HCSL
+HSTL
+LVDS
+TTL","LVDS","2.5","0.5","20","0.45","225","2000","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L611","NB6L611MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L611MNG","http://www.onsemi.com/pub/Collateral/NB6L611-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Buffer","1","1:2","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","2.5
+3.3","0.2","15","0.28","170","4000",,"QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6L611","NB6L611MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L611MNR2G","http://www.onsemi.com/pub/Collateral/NB6L611-D.PDF","Clock / Data Fanout Buffer, 1:2 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:2 Differential, 3 GHz, 2.5 V / 3.3 V, with LVPECL Outputs","Buffer","1","1:2","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","2.5
+3.3","0.2","15","0.28","170","4000",,"QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6N14S","NB6N14SMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6N14SMNG","http://www.onsemi.com/pub/Collateral/NB6N14S-D.PDF","Clock / Data Fanout Buffer, 1:4 AnyLevel™ Input, LVDS, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 AnyLevel&trade; Input, LVDS, 3.3 V","Buffer","1","1:4","CML
+CMOS
+ECL
+LVDS
+TTL","LVDS","3.3","0.5","20","0.45","190","2000","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB6N14S","NB6N14SMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6N14SMNR2G","http://www.onsemi.com/pub/Collateral/NB6N14S-D.PDF","Clock / Data Fanout Buffer, 1:4 AnyLevel™ Input, LVDS, 3.3 V","Pb-free
+Halide free","Active","Clock / Data Fanout Buffer, 1:4 AnyLevel&trade; Input, LVDS, 3.3 V","Buffer","1","1:4","CML
+CMOS
+ECL
+LVDS
+TTL","LVDS","3.3","0.5","20","0.45","190","2000","2500","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L1008","NB7L1008MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L1008MNG","http://www.onsemi.com/pub/Collateral/NB7L1008-D.PDF","2.5 V / 3.3 V 1:8 LVPECL Fanout Buffer","Pb-free
+Halide free","Active","2.5 V / 3.3 V 1:8 LVPECL Fanout Buffer","Buffer","1","1:8","CML
+ECL
+LVDS","ECL","2.5
+3.3","0.2","20","0.16","80","7000","12000","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L1008","NB7L1008MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L1008MNTXG","http://www.onsemi.com/pub/Collateral/NB7L1008-D.PDF","2.5 V / 3.3 V 1:8 LVPECL Fanout Buffer","Pb-free
+Halide free","Active","2.5 V / 3.3 V 1:8 LVPECL Fanout Buffer","Buffer","1","1:8","CML
+ECL
+LVDS","ECL","2.5
+3.3","0.2","20","0.16","80","7000","12000","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L111M","NB7L111MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L111MMNG","http://www.onsemi.com/pub/Collateral/NB7L111M-D.PDF","Clock / Data Driver, 2:1:10 Differential, 6.125 Gbps, 2.5 V / 3.3 V, with CML Output","Pb-free
+Halide free","Active","Clock / Data Driver, 2:1:10 Differential, 6.125 Gbps, 2.5 V / 3.3 V, with CML Output","Buffer","1","2:1:10","CML
+CMOS
+ECL
+LVDS
+TTL","CML","2.5
+3.3","0.2","20","0.24
+0.34","75",,"6000","QFN-52"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L111M","NB7L111MMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L111MMNR2G","http://www.onsemi.com/pub/Collateral/NB7L111M-D.PDF","Clock / Data Driver, 2:1:10 Differential, 6.125 Gbps, 2.5 V / 3.3 V, with CML Output","Pb-free
+Halide free","Active","Clock / Data Driver, 2:1:10 Differential, 6.125 Gbps, 2.5 V / 3.3 V, with CML Output","Buffer","1","2:1:10","CML
+CMOS
+ECL
+LVDS
+TTL","CML","2.5
+3.3","0.2","20","0.24
+0.34","75",,"6000","QFN-52"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L14","NB7L14MN1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L14MN1G","http://www.onsemi.com/pub/Collateral/NB7L14-D.PDF","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.5","15","0.165","60","8000","11000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L14","NB7L14MN1TWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L14MN1TWG","http://www.onsemi.com/pub/Collateral/NB7L14-D.PDF","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.5","15","0.165","60","8000","11000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L14","NB7L14MN1TXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L14MN1TXG","http://www.onsemi.com/pub/Collateral/NB7L14-D.PDF","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.5","15","0.165","60","8000","11000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L14","NB7L14MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L14MNG","http://www.onsemi.com/pub/Collateral/NB7L14-D.PDF","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.5","15","0.165","60","8000","11000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L14","NB7L14MNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L14MNHTBG","http://www.onsemi.com/pub/Collateral/NB7L14-D.PDF","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.5","15","0.165","60","8000","11000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L14","NB7L14MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L14MNTXG","http://www.onsemi.com/pub/Collateral/NB7L14-D.PDF","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Pb-free
+Halide free","ActiveNEW","Clock / Data Fanout Buffer, 7 GHz, 1:4 Differential, LVPECL, 2.5 V, 3.3 V","Buffer","1","1:4","CML
+LVCMOS
+LVDS
+LVPECL
+LVTTL","LVPECL","2.5
+3.3","0.5","15","0.165","60","8000","11000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L216","NB7L216MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L216MNG","http://www.onsemi.com/pub/Collateral/NB7L216-D.PDF","Multi Level Clock/Data Input to RSECL High Gain Receiver/Buffer/ Translator with Internal Termination","Pb-free
+Halide free","Active","Multi Level Clock/Data Input to RSECL High Gain Receiver/Buffer/ Translator with Internal Termination","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","2.5
+3.3","0.1",,"0.18","45","8500","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L216","NB7L216MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L216MNR2G","http://www.onsemi.com/pub/Collateral/NB7L216-D.PDF","Multi Level Clock/Data Input to RSECL High Gain Receiver/Buffer/ Translator with Internal Termination","Pb-free
+Halide free","Active","Multi Level Clock/Data Input to RSECL High Gain Receiver/Buffer/ Translator with Internal Termination","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","2.5
+3.3","0.1",,"0.18","45","8500","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L585R","NB7L585RMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L585RMNG","http://www.onsemi.com/pub/Collateral/NB7L585R-D.PDF","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 RSECL, 7 GHz / 10 Gbps","Pb-free
+Halide free","Active","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 RSECL, 7 GHz / 10 Gbps","Buffer","2","2:6","CML
+ECL
+LVDS","RSECL","2.5
+3.3","0.2","20","0.16
+0.2","70","7000","10000","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7L585R","NB7L585RMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7L585RMNR4G","http://www.onsemi.com/pub/Collateral/NB7L585R-D.PDF","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 RSECL, 7 GHz / 10 Gbps","Pb-free
+Halide free","Active","Input Mux - 2:1 Differential, 2.5 V / 3.3 V, Clock / Data Fanout Buffer - 1:6 RSECL, 7 GHz / 10 Gbps","Buffer","2","2:6","CML
+ECL
+LVDS","RSECL","2.5
+3.3","0.2","20","0.16
+0.2","70","7000","10000","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7VQ1006M","NB7VQ1006MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7VQ1006MMNG","http://www.onsemi.com/pub/Collateral/NB7VQ1006M-D.PDF","Fanout Buffer, Equalizer Receiver, 10 Gbps, 1.8 V / 2.5 V, with 1:6 Differential CML Outputs","Pb-free
+Halide free","Active","Fanout Buffer, Equalizer Receiver, 10 Gbps, 1.8 V / 2.5 V, with 1:6 Differential CML Outputs","Signal Driver","1","1:6","CML
+ECL
+LVDS","CML","1.8
+2.5","0.2","25","0.225","65","7500","10000","QFN-24"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7VQ1006M","NB7VQ1006MMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7VQ1006MMNTXG","http://www.onsemi.com/pub/Collateral/NB7VQ1006M-D.PDF","Fanout Buffer, Equalizer Receiver, 10 Gbps, 1.8 V / 2.5 V, with 1:6 Differential CML Outputs","Pb-free
+Halide free","Active","Fanout Buffer, Equalizer Receiver, 10 Gbps, 1.8 V / 2.5 V, with 1:6 Differential CML Outputs","Signal Driver","1","1:6","CML
+ECL
+LVDS","CML","1.8
+2.5","0.2","25","0.225","65","7500","10000","QFN-24"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7VQ572M","NB7VQ572MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7VQ572MMNG","http://www.onsemi.com/pub/Collateral/NB7VQ572M-D.PDF","Differential 4:1 Mux w/Input Equalizer to 1:2 CML Clock/Data Fanout / Translator","Pb-free
+Halide free","Active","Differential 4:1 Mux w/Input Equalizer to 1:2 CML Clock/Data Fanout / Translator","Buffer","1","4:2","CML
+LVDS
+LVPECL","CML","1.8
+2.5
+3.3","0.2","15","0.175","65","7000","11000","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NB7VQ572M","NB7VQ572MMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NB7VQ572MMNR4G","http://www.onsemi.com/pub/Collateral/NB7VQ572M-D.PDF","Differential 4:1 Mux w/Input Equalizer to 1:2 CML Clock/Data Fanout / Translator","Pb-free
+Halide free","Active","Differential 4:1 Mux w/Input Equalizer to 1:2 CML Clock/Data Fanout / Translator","Buffer","1","4:2","CML
+LVDS
+LVPECL","CML","1.8
+2.5
+3.3","0.2","15","0.175","65","7000","11000","QFN-32"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBA3N201S","NBA3N201SDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBA3N201SDG","http://www.onsemi.com/pub/Collateral/NBA3N201S-D.PDF","M-LVDS Driver Receiver Automotive Grade 3.3 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","M-LVDS Driver Receiver Automotive Grade 3.3 V","Signal Driver","1","1:1","LVCMOS
+M-LVDS","LVCMOS
+M-LVDS","3.3","2
+4",,"1.5
+4","1600
+2300","100","200","SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBA3N201S","NBA3N201SDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBA3N201SDR2G","http://www.onsemi.com/pub/Collateral/NBA3N201S-D.PDF","M-LVDS Driver Receiver Automotive Grade 3.3 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","M-LVDS Driver Receiver Automotive Grade 3.3 V","Signal Driver","1","1:1","LVCMOS
+M-LVDS","LVCMOS
+M-LVDS","3.3","2
+4",,"1.5
+4","1600
+2300","100","200","SOIC-8"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG11","NBSG11MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG11MNG","http://www.onsemi.com/pub/Collateral/NBSG11-D.PDF","SiGe Clock / Data Fanout Buffer, 1:2 Differential, 2.5 V / 3.3 V, with RSECL Outputs","Pb-free
+Halide free","Active","SiGe Clock / Data Fanout Buffer, 1:2 Differential, 2.5 V / 3.3 V, with RSECL Outputs","Buffer","1","1:2","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","2.5
+3.3","0.2","15","0.125","55","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG11","NBSG11MNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG11MNHTBG","http://www.onsemi.com/pub/Collateral/NBSG11-D.PDF","SiGe Clock / Data Fanout Buffer, 1:2 Differential, 2.5 V / 3.3 V, with RSECL Outputs","Pb-free
+Halide free","Active","SiGe Clock / Data Fanout Buffer, 1:2 Differential, 2.5 V / 3.3 V, with RSECL Outputs","Buffer","1","1:2","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","2.5
+3.3","0.2","15","0.125","55","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG11","NBSG11MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG11MNR2G","http://www.onsemi.com/pub/Collateral/NBSG11-D.PDF","SiGe Clock / Data Fanout Buffer, 1:2 Differential, 2.5 V / 3.3 V, with RSECL Outputs","Pb-free
+Halide free","Active","SiGe Clock / Data Fanout Buffer, 1:2 Differential, 2.5 V / 3.3 V, with RSECL Outputs","Buffer","1","1:2","CML
+CMOS
+ECL
+LVDS
+TTL","ECL","2.5
+3.3","0.2","15","0.125","55","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG16","NBSG16MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG16MNG","http://www.onsemi.com/pub/Collateral/NBSG16-D.PDF","SiGe Differential Driver / Receiver with RSECL Outputs","Pb-free
+Halide free","Active","SiGe Differential Driver / Receiver with RSECL Outputs","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","0.2
+0.3",,"0.12","50","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG16","NBSG16MNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG16MNHTBG","http://www.onsemi.com/pub/Collateral/NBSG16-D.PDF","SiGe Differential Driver / Receiver with RSECL Outputs","Pb-free
+Halide free","Active","SiGe Differential Driver / Receiver with RSECL Outputs","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","0.2
+0.3",,"0.12","50","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG16","NBSG16MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG16MNR2G","http://www.onsemi.com/pub/Collateral/NBSG16-D.PDF","SiGe Differential Driver / Receiver with RSECL Outputs","Pb-free
+Halide free","Active","SiGe Differential Driver / Receiver with RSECL Outputs","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","0.2
+0.3",,"0.12","50","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG16VS","NBSG16VSMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG16VSMNG","http://www.onsemi.com/pub/Collateral/NBSG16VS-D.PDF","SiGe Differential Driver / Receiver with Variable Output Swing","Pb-free
+Halide free","Active","SiGe Differential Driver / Receiver with Variable Output Swing","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","0.5",,"0.125
+0.135","55","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG16VS","NBSG16VSMNHTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG16VSMNHTBG","http://www.onsemi.com/pub/Collateral/NBSG16VS-D.PDF","SiGe Differential Driver / Receiver with Variable Output Swing","Pb-free
+Halide free","Active","SiGe Differential Driver / Receiver with Variable Output Swing","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","0.5",,"0.125
+0.135","55","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","NBSG16VS","NBSG16VSMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NBSG16VSMNR2G","http://www.onsemi.com/pub/Collateral/NBSG16VS-D.PDF","SiGe Differential Driver / Receiver with Variable Output Swing","Pb-free
+Halide free","Active","SiGe Differential Driver / Receiver with Variable Output Swing","Signal Driver","1","1:1","CML
+CMOS
+ECL
+LVDS
+TTL","RSECL","2.5
+3.3","0.5",,"0.125
+0.135","55","12000","12000","QFN-16"
+"on","时钟及数据分配---驱动器和扇出缓冲器","PCS2P2309NZ","PCS2I2309NZG16SR","http://www.onsemi.cn/PowerSolutions/product.do?id=PCS2I2309NZG16SR","http://www.onsemi.com/pub/Collateral/PCS2I2309NZ-D.PDF","3.3 V, 1:9 Clock Buffer","Pb-free
+Halide free","Active","3.3 V, 1:9 Clock Buffer","Buffer","1","1:9","CMOS","CMOS","3.3",,"250","4","2000",,,"SOIC-16"

@@ -1,0 +1,17 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","DSP Core (bits)","Coprocessor Type","MIPS","Dynamic Range (dB)","RAM (kB)","Istandby Typ (microA)","Audio Inputs","Audio Outputs","Package Type"
+"on","音频/视频的ASSP---音频DSP系统","LC703200AW","LC703200AW-8C99-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC703200AW-8C99-H","http://www.onsemi.com/pub/Collateral/ENA2234-D.PDF","Speech Processing LSI","Pb-free
+Halide free","Active","Speech Processing LSI","32",,"68","88",,"10","2","2","SPQFP-64 / SQFP-64"
+"on","音频/视频的ASSP---音频DSP系统","LC75056PE","LC75056PE-H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC75056PE-H","http://www.onsemi.com/pub/Collateral/LC75056PE-D.PDF","Car Audio DSP with Bongiovi DPS","Pb-free
+Halide free","Active","Car Audio DSP with Bongiovi DPS","24",,"110",,,,"Digital x5, Analog(Stereo) x2, Analog(Mono)x2","Digital x4, Analog(Stereo) x3","PQFP-100 / QIP-100E"
+"on","音频/视频的ASSP---音频DSP系统","LC78616PE","LC78616PE","http://www.onsemi.cn/PowerSolutions/product.do?id=LC78616PE","http://www.onsemi.com/pub/Collateral/LC78616PE-D.PDF","Digital Servo Processor LSI for Compact Disc Player with integrated RF Amplifier",,"Product Preview","Digital Servo Processor LSI for Compact Disc Player with integrated RF Amplifier",,,,,,,,,"PQFP-100 / QIP-100E"
+"on","音频/视频的ASSP---音频DSP系统","LC823430TA","LC823430TA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC823430TA-2H","http://www.onsemi.com/pub/Collateral/ENA2171-D.PDF","Audio Processing System for MP3 Recording and Playback","Pb-free
+Halide free","Active","Audio Processing System for MP3 Recording and Playback","32",,"60",,"246",,"2","2","TQFP-128 / TQFP-128L"
+"on","音频/视频的ASSP---音频DSP系统","LC823450","LC823450TA-2H","http://www.onsemi.cn/PowerSolutions/product.do?id=LC823450TA-2H","http://www.onsemi.com/pub/Collateral/LC823450-D.PDF","Low Power & High-Resolution Audio Processing System LSI","Pb-free
+Halide free","ActiveNEW","Low Power & High-Resolution Audio Processing System LSI","32",,"160",,"1656",,"2","2","TQFP-128 / TQFP-128L
+WLCSP-154"
+"on","音频/视频的ASSP---音频DSP系统","LC823450","LC823450XATBG","http://www.onsemi.cn/PowerSolutions/product.do?id=LC823450XATBG","http://www.onsemi.com/pub/Collateral/LC823450-D.PDF","Low Power & High-Resolution Audio Processing System LSI","Pb-free
+Halide free","ActiveNEW","Low Power & High-Resolution Audio Processing System LSI","32",,"160",,"1656",,"2","2","TQFP-128 / TQFP-128L
+WLCSP-154"
+"on","音频/视频的ASSP---音频DSP系统","LC823450","LC823450XBTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=LC823450XBTBG","http://www.onsemi.com/pub/Collateral/LC823450-D.PDF","Low Power & High-Resolution Audio Processing System LSI","Pb-free
+Halide free","ActiveNEW","Low Power & High-Resolution Audio Processing System LSI","32",,"160",,"1656",,"2","2","TQFP-128 / TQFP-128L
+WLCSP-154"

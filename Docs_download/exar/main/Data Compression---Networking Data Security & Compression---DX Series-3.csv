@@ -1,0 +1,5 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Crypto/Compression Performance          ","Public Key Performance (RSA Decrypt/Sign -1K Keys)          "
+"exar","Data Compression---Networking Data Security & Compression---DX Series","DX 1740","-","http://www.exar.com/network-security/data-security-and-compression/dx-series/express-dx-1700","6.4Gb/sec","13.9K Ops/sec"
+"exar","Data Compression---Networking Data Security & Compression---DX Series","DX 1730","-","http://www.exar.com/network-security/data-security-and-compression/dx-series/express-dx-1700","3.2Gb/sec","7.0K Ops/sec"
+"exar","Data Compression---Networking Data Security & Compression---DX Series","DX 1720","-","http://www.exar.com/network-security/data-security-and-compression/dx-series/express-dx-1700","1.6Gb/sec","3.5K Ops/sec"
+"exar","Data Compression---Networking Data Security & Compression---DX Series","DX 1710","-","http://www.exar.com/network-security/data-security-and-compression/dx-series/express-dx-1700","800Mb/sec","1.7K Ops/sec"

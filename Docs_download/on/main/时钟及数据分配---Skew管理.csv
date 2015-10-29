@@ -1,0 +1,107 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Input Level","Output Level","VCC Typ (V)","fMax Typ (MHz)","td(prog) Min (ns)","td(prog) Max (ns)","td(step) Typ (ps)","tJitter Typ (ps)","tR & tF Max (ps)","Package Type"
+"on","时钟及数据分配---Skew管理","MC100E195","MC100E195FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E195FNG","http://www.onsemi.com/pub/Collateral/MC10E195-D.PDF","Skew Management, 5.0 V, ECL Programmable Delay Chip","Pb-free
+Halide free","Active","Skew Management, 5.0 V, ECL Programmable Delay Chip","ECL","ECL","5","1000","2.05","2.6","17.5
+35
+70
+140
+280
+560
+1120","5","325
+650","PLCC-28"
+"on","时钟及数据分配---Skew管理","MC100E195","MC100E195FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E195FNR2G","http://www.onsemi.com/pub/Collateral/MC10E195-D.PDF","Skew Management, 5.0 V, ECL Programmable Delay Chip","Pb-free
+Halide free","Active","Skew Management, 5.0 V, ECL Programmable Delay Chip","ECL","ECL","5","1000","2.05","2.6","17.5
+35
+70
+140
+280
+560
+1120","5","325
+650","PLCC-28"
+"on","时钟及数据分配---Skew管理","MC100EP195B","MC100EP195BFAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP195BFAG","http://www.onsemi.com/pub/Collateral/MC100EP195B-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","300","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC100EP195B","MC100EP195BFAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP195BFAR2G","http://www.onsemi.com/pub/Collateral/MC100EP195B-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","300","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC100EP195B","MC100EP195BMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP195BMNG","http://www.onsemi.com/pub/Collateral/MC100EP195B-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","300","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC100EP195B","MC100EP195BMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP195BMNR4G","http://www.onsemi.com/pub/Collateral/MC100EP195B-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","300","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC100EP196B","MC100EP196BFAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP196BFAG","http://www.onsemi.com/pub/Collateral/MC100EP196B-D.PDF","3.3 V ECL Programmable Delay Chip with FTUNE","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip with FTUNE","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","140
+210","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC100EP196B","MC100EP196BFAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP196BFAR2G","http://www.onsemi.com/pub/Collateral/MC100EP196B-D.PDF","3.3 V ECL Programmable Delay Chip with FTUNE","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip with FTUNE","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","140
+210","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC100EP196B","MC100EP196BMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP196BMNG","http://www.onsemi.com/pub/Collateral/MC100EP196B-D.PDF","3.3 V ECL Programmable Delay Chip with FTUNE","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip with FTUNE","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","140
+210","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC100EP196B","MC100EP196BMNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP196BMNR4G","http://www.onsemi.com/pub/Collateral/MC100EP196B-D.PDF","3.3 V ECL Programmable Delay Chip with FTUNE","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip with FTUNE","CML
+ECL
+LVDS","ECL","3.3","1200","8.95","12.11","11","1.1
+2.6","140
+210","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC10EP195","MC10EP195FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP195FAG","http://www.onsemi.com/pub/Collateral/MC10EP195-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL","ECL","3.3","1200","7.85","10.95","14","1.09
+1.16","135
+200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC10EP195","MC10EP195FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP195FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP195-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL","ECL","3.3","1200","7.85","10.95","14","1.09
+1.16","135
+200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC10EP195","MC10EP195MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP195MNG","http://www.onsemi.com/pub/Collateral/MC10EP195-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL","ECL","3.3","1200","7.85","10.95","14","1.09
+1.16","135
+200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","MC10EP195","MC10EP195MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP195MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP195-D.PDF","3.3 V ECL Programmable Delay Chip","Pb-free
+Halide free","Active","3.3 V ECL Programmable Delay Chip","CML
+ECL","ECL","3.3","1200","7.85","10.95","14","1.09
+1.16","135
+200","LQFP-32
+QFN-32"
+"on","时钟及数据分配---Skew管理","NB6L295M","NB6L295MMNG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L295MMNG","http://www.onsemi.com/pub/Collateral/NB6L295M-D.PDF","Dual Channel Programmable Delay Line with CML Output","Pb-free
+Halide free","Active","Dual Channel Programmable Delay Line with CML Output","CML
+CMOS
+ECL
+LVDS","CML","2.5
+3.3","1500","0","6.9","8.4","2","150","QFN-24"
+"on","时钟及数据分配---Skew管理","NB6L295M","NB6L295MMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NB6L295MMNTXG","http://www.onsemi.com/pub/Collateral/NB6L295M-D.PDF","Dual Channel Programmable Delay Line with CML Output","Pb-free
+Halide free","Active","Dual Channel Programmable Delay Line with CML Output","CML
+CMOS
+ECL
+LVDS","CML","2.5
+3.3","1500","0","6.9","8.4","2","150","QFN-24"

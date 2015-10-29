@@ -1,0 +1,25 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Sensor---PIR","E931.98","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/03_pir/e931-98_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/passive-infrared.html?tx_pmproductlist_productlist%5Bproduct%5D=173&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=b5dc53f46bd5af66a4e360032e8b7fee","PIR Controller IC for Load Switch"," "," "," "," ","Motion DETECT,
+Threshold "," "," "," "," "," "," "," "," "," ","2.7V to 3.6V  "," ","70µA  "," "," "," "," "," "," "," "," "," "," "," ","SOIC14N
+TSSOP14 "," "," Insensitive to RF interference
+Instanteous settling after power up
+Adaptive mains zero cross switching"
+"elmos","Sensor---PIR","E931.97","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/03_pir/e931-97_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/passive-infrared.html?tx_pmproductlist_productlist%5Bproduct%5D=54&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=f2b05dc019b5da065f263dee1dd2a403","PIR Controller Integrated Circuit"," "," "," "," ","Motion DETECT,
+Threshold "," "," "," "," "," "," "," "," "," ","2.7V to 3.6V  "," ","12µA  "," "," "," "," "," "," "," "," "," "," "," ","SOIC14N
+TSSOP14 plastic package "," "," Outputs for Relay and LED
+Insensitive to RF interference
+Instanteous settling after power up"
+"elmos","Sensor---PIR","E931.06","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/03_pir/e931-06_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/passive-infrared.html?tx_pmproductlist_productlist%5Bproduct%5D=56&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=9cdcf267252bccf015a5cacbb50126d5","Single Channel PIR Signal Processor"," "," "," "," ","PIR Signal and
+Temperature (DOCI™) "," "," "," "," "," "," "," "," "," ","2.7V to 3.6V  "," ","15µA  "," "," "," "," "," "," "," "," "," "," "," ","Bare-Die "," "," Digital Signal Processing
+Single Wire Interface(DOCI™)"
+"elmos","Sensor---PIR","E931.96","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/03_pir/e931-96_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/passive-infrared.html?tx_pmproductlist_productlist%5Bproduct%5D=172&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=8441211405219001d868bdc761913285","PIR Controller Integrated Circuit"," "," "," "," ","Motion DETECT, Supply voltage for PIR Detector "," "," "," "," "," "," "," "," "," ","2.7V to 3.6V  "," ","5µA  "," "," "," "," "," "," "," "," "," "," "," ","SOIC8
+Bare-Die "," "," Ultra Low Power consumption
+Excellent power supply rejection
+Programmable detection criteria and operating modes"
+"elmos","Sensor---PIR","E910.97","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/03_pir/e910-97_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/passive-infrared.html?tx_pmproductlist_productlist%5Bproduct%5D=55&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=3106370903dc519e329c933972afae8a","Integrated Circuit for Smart PIR Detectors"," "," "," "," ","PIR Signal, digital "," "," "," "," "," "," "," "," "," ","2.7V to 3.6V  "," ","15µA  "," "," "," "," "," "," "," "," "," "," "," ","Bare-Die "," "," Outputs for Motion Detect
+Insensitive to RF interference
+Inputs for sensitivity and on time "
+"elmos","Sensor---PIR","E910.62","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/03_pir/e910-62_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/passive-infrared.html?tx_pmproductlist_productlist%5Bproduct%5D=57&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=70ee5d816b4cf321078a6f9147a73075","Dual Channel PIR Signal Processor"," "," "," "," ","PIR Signal and
+Temperature (DOCI™) "," "," "," "," "," "," "," "," "," ","2.7V to 3.6V  "," ","15µA  "," "," "," "," "," "," "," "," "," "," "," ","Bare-Die "," "," Dual Channel
+Digital Signal Processing
+Single Wire Interface(DOCI™)"

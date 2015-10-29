@@ -1,0 +1,48 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Topology","VI Min (V)","VI Max (V)","VO Max (V)","IO Max (mA)","fSW Typ (kHz)","Package Type"
+"on","LED Drivers---AC-DC LED Drivers","NCL30000","NCL30000DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30000DR2G","http://www.onsemi.com/pub/Collateral/NCL30000-D.PDF","LED Driver, Dimmable, Power Factor Corrected","Pb-free
+Halide free","Active","LED Driver, Dimmable, Power Factor Corrected","Flyback","12.5","20",,,"65","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30002","NCL30002DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30002DR2G","http://www.onsemi.com/pub/Collateral/NCL30002-D.PDF","LED Driver, Offline Buck, Power Factor Corrected","Pb-free
+Halide free","Active","LED Driver, Offline Buck, Power Factor Corrected","Step-Down","12.5",,,"2000","Up to 250","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30051","NCL30051DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30051DR2G","http://www.onsemi.com/pub/Collateral/NCL30051-D.PDF","Offline Controller, PFC and Half Bridge Resonant Mode, for LED Lighting","Pb-free
+Halide free","Active","Offline Controller, PFC and Half Bridge Resonant Mode, for LED Lighting","Half-Bridge","16.3","600","150","3000","Variable","SOIC-16"
+"on","LED Drivers---AC-DC LED Drivers","NCL30080","NCL30080ASNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30080ASNT1G","http://www.onsemi.com/pub/Collateral/NCL30080-D.PDF","Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting, , Latching for Critical Faults","Pb-free
+Halide free","Active","Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting","Flyback","9.4","26","200","2500","Up to 150","TSOP-6"
+"on","LED Drivers---AC-DC LED Drivers","NCL30080","NCL30080BSNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30080BSNT1G","http://www.onsemi.com/pub/Collateral/NCL30080-D.PDF","Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting","Pb-free
+Halide free","Active","Quasi-Resonant Primary Side Current-Mode Controller for LED Lighting","Flyback","9.4","26","200","2500","Up to 150","TSOP-6"
+"on","LED Drivers---AC-DC LED Drivers","NCL30082","NCL30082ADMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30082ADMR2G","http://www.onsemi.com/pub/Collateral/NCL30082-D.PDF","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback, and latching for critcal faults","Pb-free
+Halide free","Active","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Flyback","9.4","26","200","3000","Up to 150","Micro8™
+SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30082","NCL30082B1DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30082B1DMR2G","http://www.onsemi.com/pub/Collateral/NCL30082-D.PDF","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback, w/o CS short protection","Pb-free
+Halide free","Active","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Flyback","9.4","26","200","3000","Up to 150","Micro8™
+SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30082","NCL30082B1DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30082B1DR2G","http://www.onsemi.com/pub/Collateral/NCL30082-D.PDF","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Pb-free
+Halide free","Active","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Flyback","9.4","26","200","3000","Up to 150","Micro8™
+SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30082","NCL30082B3DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30082B3DR2G","http://www.onsemi.com/pub/Collateral/NCL30082-D.PDF","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback, Vref=0.33 V","Pb-free
+Halide free","Active","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Flyback","9.4","26","200","3000","Up to 150","Micro8™
+SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30082","NCL30082BDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30082BDMR2G","http://www.onsemi.com/pub/Collateral/NCL30082-D.PDF","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback, and auto-recoverable for faults","Pb-free
+Halide free","Active","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Flyback","9.4","26","200","3000","Up to 150","Micro8™
+SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30082","NCL30082BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30082BDR2G","http://www.onsemi.com/pub/Collateral/NCL30082-D.PDF","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Pb-free
+Halide free","Active","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Flyback","9.4","26","200","3000","Up to 150","Micro8™
+SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30082","NCL30082DDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30082DDR2G","http://www.onsemi.com/pub/Collateral/NCL30082-D.PDF","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback, dimmable","Pb-free
+Halide free","Active","Dimmable Quasi-Resonant Primary Side Current  Mode Controller for LED Lighting with thermal foldback","Flyback","9.4","26","200","3000","Up to 150","Micro8™
+SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30085","NCL30085ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30085ADR2G","http://www.onsemi.com/pub/Collateral/NCL30085-D.PDF","AC-DC Power Factor Corrected 3 Step Dimmable Quasi-Resonant Primary Side Current Mode Controller for LED Lighting,  with latching fault protection","Pb-free
+Halide free","Active","AC-DC Power Factor Corrected 3 Step Dimmable Quasi-Resonant Primary Side Current Mode Controller for LED Lighting","Flyback
+Step-Up/Step-Down","9.4","26","200","3000","Up to 150","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30085","NCL30085BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30085BDR2G","http://www.onsemi.com/pub/Collateral/NCL30085-D.PDF","AC-DC Power Factor Corrected 3 Step Dimmable Quasi-Resonant Primary Side Current Mode Controller for LED Lighting, with auto-recoverable fault handling","Pb-free
+Halide free","Active","AC-DC Power Factor Corrected 3 Step Dimmable Quasi-Resonant Primary Side Current Mode Controller for LED Lighting","Flyback
+Step-Up/Step-Down","9.4","26","200","3000","Up to 150","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30088","NCL30088ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30088ADR2G","http://www.onsemi.com/pub/Collateral/NCL30088-D.PDF","Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting, with latching protection","Pb-free
+Halide free","Active","Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting","Flyback","9.4","26","200","3000","Up to 150","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30088","NCL30088BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30088BDR2G","http://www.onsemi.com/pub/Collateral/NCL30088-D.PDF","Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting, with auto-recoverable protection","Pb-free
+Halide free","Active","Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting","Flyback","9.4","26","200","3000","Up to 150","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30088","NCL30088DDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30088DDR2G","http://www.onsemi.com/pub/Collateral/NCL30088-D.PDF","Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting, with auto-recoverable protection, Vref = 200mV","Pb-free
+Halide free","Active","Power Factor Corrected Quasi-Resonant Primary Side Current Mode Controller for LED Lighting","Flyback","9.4","26","200","3000","Up to 150","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30105","NCL30105DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30105DR2G","http://www.onsemi.com/pub/Collateral/NCL30105-D.PDF","Flexible Dimmable Buck LED Driver Controller","Pb-free
+Halide free","Active","Flexible Dimmable Buck LED Driver Controller","Step-Down","11","22","150","1200","100 - 400","SOIC-8"
+"on","LED Drivers---AC-DC LED Drivers","NCL30161","NCL30161MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30161MNTXG","http://www.onsemi.com/pub/Collateral/NCL30161-D.PDF","Buck Regulator, Constant Current, for Driving High Power LEDs","Pb-free
+Halide free","Active","Buck Regulator, Constant Current, for Driving High Power LEDs",,,,,,,"DFN-10"

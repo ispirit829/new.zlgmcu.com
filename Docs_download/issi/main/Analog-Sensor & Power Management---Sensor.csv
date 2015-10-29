@@ -1,0 +1,6 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Sensor Type","Vin(V)","No. Channels","Pkg-Pin(mm)","Document","Status"
+"issi","Analog-Sensor & Power Management---Sensor","IS31SE5000","http://www.issi.com/US/product-analog-pwr-mgmt.shtml","http://www.issi.com/WW/pdf/31SE5000.pdf","Gesture Sensor","2.7-5.5","1 Trans","UTQFN-12(2x2)",", 
+    ","Prod"
+"issi","Analog-Sensor & Power Management---Sensor","IS31SE5001","http://www.issi.com/US/product-analog-pwr-mgmt.shtml","http://www.issi.com/WW/pdf/31SE5001.pdf","Proximity Sensor","2.7-5.5","1 Trans","QFN-8(2x2)","-","Prod"
+"issi","Analog-Sensor & Power Management---Sensor","IS31SE5100","http://www.issi.com/US/product-analog-pwr-mgmt.shtml","http://www.issi.com/WW/pdf/31SE5100.pdf","Capacitive Touch","2.7-5.5","8 Cap Touch Input","QFN-24","-","Prod"
+"issi","Analog-Sensor & Power Management---Sensor","IS31SE5104","http://www.issi.com/US/product-analog-pwr-mgmt.shtml","http://www.issi.com/WW/pdf/31SE5104.pdf","Capacitive Touch","2.7-5.5","4 Cap Touch Input","QFN-16","-","Prod"

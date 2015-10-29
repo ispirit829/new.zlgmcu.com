@@ -1,0 +1,66 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Sensor Type","Data Transmission Standard","ICC Max (mA)","VCC Min (V)","VCC Max (V)","T Min (&#0176;C)","T Max (&#0176;C)","Temperature Error (&#0176;C)","Package Type"
+"on","热管理---温度传感器","ADM1021A","ADM1021AARQZ-R","http://www.onsemi.cn/PowerSolutions/product.do?id=ADM1021AARQZ-R","http://www.onsemi.com/pub/Collateral/ADM1021A-D.PDF","System Temperature Sensor","Pb-free
+Halide free","Active","System Temperature Sensor","Local & Remote","SMBus","0.2","3","5.5","-55","125","±3","QSOP-16"
+"on","热管理---温度传感器","ADM1032","ADM1032ARMZ-1RL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADM1032ARMZ-1RL","http://www.onsemi.com/pub/Collateral/ADM1032-D.PDF","System Temperature Sensor, Remote and Local","Pb-free
+Halide free","Active","System Temperature Sensor, Remote and Local","Local & Remote","SMBus","0.215","3","5.5","0","120","±1","Micro8™
+SOIC-8"
+"on","热管理---温度传感器","ADM1032","ADM1032ARMZ-2R","http://www.onsemi.cn/PowerSolutions/product.do?id=ADM1032ARMZ-2R","http://www.onsemi.com/pub/Collateral/ADM1032-D.PDF","System Temperature Sensor, Remote and Local","Pb-free
+Halide free","Active","System Temperature Sensor, Remote and Local","Local & Remote","SMBus","0.215","3","5.5","0","120","±1","Micro8™
+SOIC-8"
+"on","热管理---温度传感器","ADM1032","ADM1032ARMZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADM1032ARMZ-REEL","http://www.onsemi.com/pub/Collateral/ADM1032-D.PDF","System Temperature Sensor, Remote and Local","Pb-free
+Halide free","Active","System Temperature Sensor, Remote and Local","Local & Remote","SMBus","0.215","3","5.5","0","120","±1","Micro8™
+SOIC-8"
+"on","热管理---温度传感器","ADM1032","ADM1032ARZ-REEL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADM1032ARZ-REEL","http://www.onsemi.com/pub/Collateral/ADM1032-D.PDF","System Temperature Sensor, Remote and Local","Pb-free
+Halide free","Active","System Temperature Sensor, Remote and Local","Local & Remote","SMBus","0.215","3","5.5","0","120","±1","Micro8™
+SOIC-8"
+"on","热管理---温度传感器","ADT7461A","ADT7461AARMZ-R","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7461AARMZ-R","http://www.onsemi.com/pub/Collateral/ADT7461A-D.PDF","Temperature Sensor with Series Resistance Cancellation","Pb-free
+Halide free","Active","Temperature Sensor with Series Resistance Cancellation","Local & Remote","SMBus","0.35","3","3.6","-40","125","±1","Micro8™"
+"on","热管理---温度传感器","ADT7483A","ADT7483AARQZ-RL","http://www.onsemi.cn/PowerSolutions/product.do?id=ADT7483AARQZ-RL","http://www.onsemi.com/pub/Collateral/ADT7483A-D.PDF","Temperature Sensor, Over Temperature Alarm, Dual Channel","Pb-free
+Halide free","Active","Temperature Sensor, Over Temperature Alarm, Dual Channel","Local & Remote","SMBus","0.35","3","3.6","-40","125","±1","QSOP-16"
+"on","热管理---温度传感器","CAT34TS00","CAT34TS00VP2GT4A","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT34TS00VP2GT4A","http://www.onsemi.com/pub/Collateral/CAT34TS00-D.PDF","1.8 V Digital Temperature Sensor","Pb-free
+Halide free","Active","1.8 V Digital Temperature Sensor","Local","I2C
+SMBus","0.5","1.7","1.9","-20","125","±3","TDFN-8"
+"on","热管理---温度传感器","CAT34TS04","CAT34TS04HU4GT4A","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT34TS04HU4GT4A","http://www.onsemi.com/pub/Collateral/CAT34TS04-D.PDF","Digital Output Temperature Sensor with On-board SPD EEPROM,  UDFN 2x3","Pb-free
+Halide free","Active","Digital Output Temperature Sensor with On-board SPD EEPROM","Local","I2C","1","1.7","5.5","-20","125","±3","TDFN-8
+UDFN-8"
+"on","热管理---温度传感器","CAT34TS04","CAT34TS04VP2GT4A","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT34TS04VP2GT4A","http://www.onsemi.com/pub/Collateral/CAT34TS04-D.PDF","Digital Output Temperature Sensor with On-board SPD EEPROM,  TDFN 2x3","Pb-free
+Halide free","Active","Digital Output Temperature Sensor with On-board SPD EEPROM","Local","I2C","1","1.7","5.5","-20","125","±3","TDFN-8
+UDFN-8"
+"on","热管理---温度传感器","NCT1008","NCT1008CMT3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT1008CMT3R2G","http://www.onsemi.com/pub/Collateral/NCT1008-D.PDF","±1°C Digital Temperature Sensor with Series Resistance Cancellation","Pb-free
+Halide free","Active","±1°C Digital Temperature Sensor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","WDFN-8"
+"on","热管理---温度传感器","NCT1008","NCT1008DMT3R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT1008DMT3R2G","http://www.onsemi.com/pub/Collateral/NCT1008-D.PDF","±1°C Digital Temperature Sensor with Series Resistance Cancellation","Pb-free
+Halide free","Active","±1°C Digital Temperature Sensor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","WDFN-8"
+"on","热管理---温度传感器","NCT210","NCT210RQR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT210RQR2G","http://www.onsemi.com/pub/Collateral/NCT210-D.PDF","2-Channel Digital Thermometer with Under/Overtemperature Alarm","Pb-free
+Halide free","Active","2-Channel Digital Thermometer with Under/Overtemperature Alarm","Local & Remote","SMBus","0.37","3","5.5","-65","125","±3","QSOP-16"
+"on","热管理---温度传感器","NCT218","NCT218FCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT218FCT2G","http://www.onsemi.com/pub/Collateral/NCT218-D.PDF","Remote Temperature Sensor, Low Voltage","Pb-free
+Halide free","Active","Remote Temperature Sensor, Low Voltage","Remote","I2C",,"1.6","2.75",,,,"WDFN-8
+WLCSP-8"
+"on","热管理---温度传感器","NCT218","NCT218MTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT218MTR2G","http://www.onsemi.com/pub/Collateral/NCT218-D.PDF","Remote Temperature Sensor, Low Voltage","Pb-free
+Halide free","Active","Remote Temperature Sensor, Low Voltage","Remote","I2C",,"1.6","2.75",,,,"WDFN-8
+WLCSP-8"
+"on","热管理---温度传感器","NCT475","NCT475AFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT475AFCT2G","http://www.onsemi.com/pub/Collateral/NCT475-D.PDF","Digital Temperature Sensor with 2-Wire Interface","Pb-free
+Halide free","Product Preview","Digital Temperature Sensor with 2-Wire Interface","Local","SMBus","0.575","3","5.5","-55","125","±1","WLCSP-6"
+"on","热管理---温度传感器","NCT475","NCT475BFCT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT475BFCT2G","http://www.onsemi.com/pub/Collateral/NCT475-D.PDF","Digital Temperature Sensor with 2-Wire Interface","Pb-free
+Halide free","Product Preview","Digital Temperature Sensor with 2-Wire Interface","Local","SMBus","0.575","3","5.5","-55","125","±1","WLCSP-6"
+"on","热管理---温度传感器","NCT72","NCT72CMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT72CMNR2G","http://www.onsemi.com/pub/Collateral/NCT72-D.PDF","±1°C Temperature Monitor with Series Resistance Cancellation","Pb-free
+Halide free","Active","&#177;1&#0176;C Temperature Monitor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","DFN-8
+WDFN-8"
+"on","热管理---温度传感器","NCT72","NCT72CMTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT72CMTR2G","http://www.onsemi.com/pub/Collateral/NCT72-D.PDF","±1°C Temperature Monitor with Series Resistance Cancellation","Pb-free
+Halide free","Active","&#177;1&#0176;C Temperature Monitor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","DFN-8
+WDFN-8"
+"on","热管理---温度传感器","NCT72","NCT72DMNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT72DMNR2G","http://www.onsemi.com/pub/Collateral/NCT72-D.PDF","±1°C Temperature Monitor with Series Resistance Cancellation","Pb-free
+Halide free","Active","&#177;1&#0176;C Temperature Monitor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","DFN-8
+WDFN-8"
+"on","热管理---温度传感器","NCT72","NCT72DMTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT72DMTR2G","http://www.onsemi.com/pub/Collateral/NCT72-D.PDF","±1°C Temperature Monitor with Series Resistance Cancellation","Pb-free
+Halide free","Active","&#177;1&#0176;C Temperature Monitor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","DFN-8
+WDFN-8"
+"on","热管理---温度传感器","NCT80","NCT80DBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCT80DBR2G","http://www.onsemi.com/pub/Collateral/NCT80-D.PDF","Hardware Monitor with I2C serial interface","Pb-free
+Halide free","Active","Hardware Monitor with I2C serial interface","Local","I2C","0.58","2.8","5.75","-40","125","±2","TSSOP-24"
+"on","热管理---温度传感器","NVT211","NVT211CMTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NVT211CMTR2G","http://www.onsemi.com/pub/Collateral/NVT211-D.PDF","±1°C Digital Temperature Sensor with Series Resistance Cancellation, Local and Remote thermal sensor with Therm and Alert functionality","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","±1°C Digital Temperature Sensor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","WDFN-8"
+"on","热管理---温度传感器","NVT211","NVT211DMTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NVT211DMTR2G","http://www.onsemi.com/pub/Collateral/NVT211-D.PDF","±1°C Digital Temperature Sensor with Series Resistance Cancellation, Local and Remote thermal sensor with Therm and Alert functionality","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","±1°C Digital Temperature Sensor with Series Resistance Cancellation","Local & Remote","I2C","0.35","2.8","3.6","-40","125","±1","WDFN-8"

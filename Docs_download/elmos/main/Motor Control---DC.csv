@@ -1,0 +1,161 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Motor Control---DC","E910.72","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/data_sheet_e910_72.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=51&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=3915f73c6075c377a04925c3e0fa1216","6x Half-Bridge DC Motor with sensorless positioning","SPI™ for configuration  "," "," "," "," "," "," "," "," "," "," "," "," "," ","6V to 19V (40V)  "," "," ","-  ","540mA  "," ","≈7W
+(1 Motor Mode) "," "," "," ","1.25Ω "," "," "," ","QFN32L5 "," "," Sensorless motor positioning
+3 independent pulse detectors
+Excellent positioning performance
+Drives 3 or 5 DC actuators
+T
+c peak = +150°C"
+"elmos","Motor Control---DC","E523.60","http://www.elmos.com/-","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=481&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=c12e2725491f373a3da387e0c97f3c32","0.38A DC Motor 2x Full Bridge Controller  (LIN / PWM Interface)"," LIN 2.x (1.3) or
+SAE-J2602 or
+PWM bidirectional
+LIN auto-addressing
+(slave mode position
+detection)
+LIN Flash update 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 18V (5.5V to 42V)  "," "," ","-  ","380mA (1 Motor Mode)  "," ","≈7W
+(1 Motor Mode) "," "," "," ","1Ω (HS) 1Ω (LS) "," "," "," ","QFN32L6 "," "," Drives 1 or 2 DC motors
+8bit CPU, 8k FLASH, 64Byte E
+PROM
+Current chopper motor control
+Supply and read-out of up to 3, potentiometers or sensors
+GPIO-pins
+T
+ peak = +170°C
+(contact supplier for higher temperatures)
+(*Plug & Play) - Application software on request"
+"elmos","Motor Control---DC","E523.30","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/03_stepper/e523-30b-38b_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=480&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=6b0cbe84012c3b71b64ff3997cea4fba","1.6A DC Motor 2x Full Bridge Controller  (LIN / PWM Interface)"," LIN 2.x (1.3) or
+SAE-J2602 or
+PWM bidirectional
+LIN auto-addressing
+(slave mode position
+detection)
+LIN Flash update for
+EoL and Service 
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 20V (5.5V to 42V)  "," "," ","-  ","1.6A (1 Motor Mode)  ","≈25W (per Motor)  ","≈25W
+(per Motor) "," "," "," ","225mΩ (HS) 275mΩ (LS) "," "," "," ","QFN32L6 "," "," Drives 1 or 2 DC motors
+8bit CPU, 8k FLASH, 64Byte E
+PROM
+Current chopper motor control
+Supply and read-out of up to 3, potentiometers or sensors
+GPIO-pins
+T
+ peak = +170°C
+(contact supplier for higher temperatures)
+(*Plug & Play) - Application software on request"
+"elmos","Motor Control---DC","E523.05","http://www.elmos.com/-","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=485&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=06457f8e111f50f3691ae8f4d3dcb830","DC 2x Half-Bridge  Controller with 16bit CPU  (LIN / PWM Interface)"," LIN 2.x (1.3 comp.) or
+SAE-J2602 or
+PWM bidirectional
+SPI for configuration
+LIN Flash update
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","6x ±400mA  ","6x ±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN48L7 "," "," 16bit / 48 MHzCPU assisted by
+2 powerful co-processors
+Library  ROM for LIN-stack and UDS
+software update via LIN
+Charge Pump Driver included
+T
+ peak = +125°C
+(Contact supplier for higher temperature)
+(*Plug & Play) - Application software on request"
+"elmos","Motor Control---DC","E523.13","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-03-04-13-14_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=484&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=3c2000a3cd75506def3b8fcbcdc4fbe4","DC Motor LS FET Driver (LIN/PWM Interface)"," LIN 2.x (1.3) or
+SAE-J2602
+(only E523.03/13) or
+PWM bidirectional
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","±400mA  ","±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN20L4
+QFN32L5 (with high voltage spacer) "," "," Voltage Regulator
+E523.03/13: 5V | E523.04/14: 3.3V
+Watchdog/Diagnostics
+Fast LIN Flash update 
+T
+ peak = +170°C"
+"elmos","Motor Control---DC","E523.08","http://www.elmos.com/-","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=486&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=5bad24f319fd662b923b8ba02c65b88c","DC Motor LS FET Controller with 16bit CPU  (LIN / PWM Interface)"," LIN 2.x (1.3 comp.) or
+SAE-J2602 or
+PWM bidirectional
+SPI for configuration
+LIN Flash update for
+EoL and Service
+JTAG"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","±400mA  ","±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN32L6 "," "," 16bit / 48 MHzCPU assisted by
+2 powerful co-processors
+Library  ROM for LIN-stack and UDS
+software update via LIN
+Software support on request
+T
+ peak = +125°C
+(Contact supplier for higher temperature)
+(*Plug & Play) - Software for HVAC fan
+or other applications like pumps on request"
+"elmos","Motor Control---DC","E523.03","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-03-04-13-14_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=484&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=3c2000a3cd75506def3b8fcbcdc4fbe4","DC Motor LS FET Driver (LIN/PWM Interface)"," LIN 2.x (1.3) or
+SAE-J2602
+(only E523.03/13) or
+PWM bidirectional
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","±400mA  ","±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN20L4
+QFN32L5 (with high voltage spacer) "," "," Voltage Regulator
+E523.03/13: 5V | E523.04/14: 3.3V
+Watchdog/Diagnostics
+Fast LIN Flash update 
+T
+ peak = +170°C"
+"elmos","Motor Control---DC","E523.14","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-03-04-13-14_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=484&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=3c2000a3cd75506def3b8fcbcdc4fbe4","DC Motor LS FET Driver (LIN/PWM Interface)"," LIN 2.x (1.3) or
+SAE-J2602
+(only E523.03/13) or
+PWM bidirectional
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","±400mA  ","±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN20L4
+QFN32L5 (with high voltage spacer) "," "," Voltage Regulator
+E523.03/13: 5V | E523.04/14: 3.3V
+Watchdog/Diagnostics
+Fast LIN Flash update 
+T
+ peak = +170°C"
+"elmos","Motor Control---DC","E523.12","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-01c-02c-11c-12c_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=79&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=655f9d9a25c6b693bcdd9443d2199009","2x Half-Bridge Driver (LIN / PWM Interface)"," LIN 2.x (1.3) or SAE-J2602 or
+PWM bidirectional
+LIN Flash update 
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","4x ±400mA  ","4x ±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN44L7 "," "," Voltage Regulator (3.3V/5V) selectable
+Precise deadtime generation
+Watchdog/Diagnostics
+Various Diagnostic Functions
+T
+ peak = +170°C"
+"elmos","Motor Control---DC","E523.04","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-03-04-13-14_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=484&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=3c2000a3cd75506def3b8fcbcdc4fbe4","DC Motor LS FET Driver (LIN/PWM Interface)"," LIN 2.x (1.3) or
+SAE-J2602
+(only E523.03/13) or
+PWM bidirectional
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","±400mA  ","±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN20L4
+QFN32L5 (with high voltage spacer) "," "," Voltage Regulator
+E523.03/13: 5V | E523.04/14: 3.3V
+Watchdog/Diagnostics
+Fast LIN Flash update 
+T
+ peak = +170°C"
+"elmos","Motor Control---DC","E523.02","http://www.elmos.com/fileadmin/2013/02_products/03_motor-control/01_dc/e523-01c-02c-11c-12c_elmos_ds.pdf","http://www.elmos.com/english/products/motor-control/dc-motor.html?tx_pmproductlist_productlist%5Bproduct%5D=79&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=655f9d9a25c6b693bcdd9443d2199009","2x Half-Bridge Driver (LIN / PWM Interface)"," LIN 2.x (1.3) or SAE-J2602 or
+PWM bidirectional
+LIN Flash update 
+SPI for configuration"," "," "," "," "," "," "," "," "," "," "," "," "," ","7V to 28V (5V to 42V)  "," "," ","4x ±400mA  ","4x ±75mA  "," ","≈1.5kW
+(external FETs)
+≈1.3W
+(direct drive) "," "," "," ","8Ω (HS) 4Ω (LS) "," "," "," ","QFN44L7 "," "," Voltage Regulator (3.3V/5V) selectable
+Precise deadtime generation
+Watchdog/Diagnostics
+Various Diagnostic Functions
+T
+ peak = +170°C"

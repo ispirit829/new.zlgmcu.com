@@ -1,0 +1,8 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Package version","Package name","Tolerance","Operating temperature","R100","R25"
+"nxp","Sensors---Temperature sensors","KTY81","http://www.nxp.com/products/sensors/temperature_sensors/KTY81.html","http://www.nxp.com/documents/data_sheet/KTY81_SER.pdf","SOD70","PBCYT2","5","-55~150","3392","2000"
+"nxp","Sensors---Temperature sensors","KTY82","http://www.nxp.com/products/sensors/temperature_sensors/KTY82.html","http://www.nxp.com/documents/data_sheet/KTY82_SER.pdf","SOT23","TO-236AB","2","-55~150","1696","1000"
+"nxp","Sensors---Temperature sensors","PCT2075D","http://www.nxp.com/products/sensors/temperature_sensors/PCT2075D.html","http://www.nxp.com/documents/data_sheet/PCT2075.pdf","SOT96-1","SO8","","","",""
+"nxp","Sensors---Temperature sensors","PCT2075DP","http://www.nxp.com/products/sensors/temperature_sensors/PCT2075DP.html","http://www.nxp.com/documents/data_sheet/PCT2075.pdf","SOT505-1","TSSOP8","","","",""
+"nxp","Sensors---Temperature sensors","PCT2075GV","http://www.nxp.com/products/sensors/temperature_sensors/PCT2075GV.html","http://www.nxp.com/documents/data_sheet/PCT2075.pdf","SOT1353-1","TSOP6","","","",""
+"nxp","Sensors---Temperature sensors","PCT2075TP","http://www.nxp.com/products/sensors/temperature_sensors/PCT2075TP.html","http://www.nxp.com/documents/data_sheet/PCT2075.pdf","SOT1069-2","HWSON8","","","",""
+"nxp","Sensors---Temperature sensors","PCT2202UK","http://www.nxp.com/products/sensors/temperature_sensors/PCT2202UK.html","http://www.nxp.com/documents/data_sheet/PCT2202.pdf","","","","","",""

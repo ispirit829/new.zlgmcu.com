@@ -1,0 +1,96 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","Output","VCC Min (V)","VCC Max (V)","tpd Max (ns)","IO Max (mA)","Package Type"
+"on","标准逻辑---收发器","74LVC245","74LVC245ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC245ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC245A-D.PDF","Octal Transceiver, CMOS, Low Voltage","Pb-free
+Halide free","ActiveNEW","Octal Transceiver, CMOS, Low Voltage","8","3-State","1.2","3.6","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","74LVC245","74LVC245ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC245ADWR2G","http://www.onsemi.com/pub/Collateral/74LVC245A-D.PDF","Octal Transceiver, CMOS, Low Voltage","Pb-free
+Halide free","ActiveNEW","Octal Transceiver, CMOS, Low Voltage","8","3-State","1.2","3.6","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","FST3126","FST3126DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=FST3126DR2G","http://www.onsemi.com/pub/Collateral/74FST3126-D.PDF","4-bit Bus Switch","Pb-free
+Halide free","Active","4-bit Bus Switch","4","CMOS","4","5.5","0.25","128","SOIC-14
+TSSOP-14"
+"on","标准逻辑---收发器","FST3126","FST3126DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=FST3126DTR2G","http://www.onsemi.com/pub/Collateral/74FST3126-D.PDF","4-bit Bus Switch","Pb-free
+Halide free","Active","4-bit Bus Switch","4","CMOS","4","5.5","0.25","128","SOIC-14
+TSSOP-14"
+"on","标准逻辑---收发器","MC74AC646","MC74AC646DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC646DWG","http://www.onsemi.com/pub/Collateral/MC74AC646-D.PDF","Octal Bus Transceiver Register with 3-State Outputs (Non-inverting)","Pb-free
+Halide free","Active","Octal Bus Transceiver Register with 3-State Outputs (Non-inverting)","8","3-State","2","6","12","24","SOIC-24"
+"on","标准逻辑---收发器","MC74AC646","MC74AC646DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC646DWR2G","http://www.onsemi.com/pub/Collateral/MC74AC646-D.PDF","Octal Bus Transceiver Register with 3-State Outputs (Non-inverting)","Pb-free
+Halide free","Active","Octal Bus Transceiver Register with 3-State Outputs (Non-inverting)","8","3-State","2","6","12","24","SOIC-24"
+"on","标准逻辑---收发器","MC74ACT245","MC74ACT245DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT245DTG","http://www.onsemi.com/pub/Collateral/MC74AC245-D.PDF","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","Pb-free
+Halide free","Active","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","1","3-State","4.5","5.5","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74ACT245","MC74ACT245DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT245DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC245-D.PDF","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","Pb-free
+Halide free","Active","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","1","3-State","4.5","5.5","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74ACT245","MC74ACT245DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT245DWG","http://www.onsemi.com/pub/Collateral/MC74AC245-D.PDF","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","Pb-free
+Halide free","Active","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","1","3-State","4.5","5.5","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74ACT245","MC74ACT245DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT245DWR2G","http://www.onsemi.com/pub/Collateral/MC74AC245-D.PDF","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","Pb-free
+Halide free","Active","Octal Bidirectional Transceiver with 3-State Inputs/Outputs","1","3-State","4.5","5.5","8","24","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74ACT646","MC74ACT646DWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT646DWG","http://www.onsemi.com/pub/Collateral/MC74AC646-D.PDF","Octal Bus Transceiver/Register with 3-State Outputs (Non-inverting)","Pb-free
+Halide free","Active","Octal Bus Transceiver/Register with 3-State Outputs (Non-inverting)","8","3-State","4.5","5.5","14.5","24","SOIC-24"
+"on","标准逻辑---收发器","MC74ACT646","MC74ACT646DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT646DWR2G","http://www.onsemi.com/pub/Collateral/MC74AC646-D.PDF","Octal Bus Transceiver/Register with 3-State Outputs (Non-inverting)","Pb-free
+Halide free","Active","Octal Bus Transceiver/Register with 3-State Outputs (Non-inverting)","8","3-State","4.5","5.5","14.5","24","SOIC-24"
+"on","标准逻辑---收发器","MC74HC245A","MC74HC245ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC245ADTG","http://www.onsemi.com/pub/Collateral/MC74HC245A-D.PDF","Octal 3-State Non-Inverting Bus/Transceiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Bus/Transceiver","1","3-State","2","6","15","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74HC245A","MC74HC245ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC245ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC245A-D.PDF","Octal 3-State Non-Inverting Bus/Transceiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Bus/Transceiver","1","3-State","2","6","15","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74HC245A","MC74HC245ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC245ADWG","http://www.onsemi.com/pub/Collateral/MC74HC245A-D.PDF","Octal 3-State Non-Inverting Bus/Transceiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Bus/Transceiver","1","3-State","2","6","15","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74HC245A","MC74HC245ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC245ADWR2G","http://www.onsemi.com/pub/Collateral/MC74HC245A-D.PDF","Octal 3-State Non-Inverting Bus/Transceiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Bus/Transceiver","1","3-State","2","6","15","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74HC245A","NLV74HC245ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC245ADTG","http://www.onsemi.com/pub/Collateral/MC74HC245A-D.PDF","Octal 3-State Non-Inverting Bus/Transceiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Bus/Transceiver","1","3-State","2","6","15","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74HC245A","NLV74HC245ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC245ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC245A-D.PDF","Octal 3-State Non-Inverting Bus/Transceiver","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Octal 3-State Non-Inverting Bus/Transceiver","1","3-State","2","6","15","6","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74LCX16245","M74LCX16245DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74LCX16245DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX16245-D.PDF","Low Voltage CMOS 16-Bit Transceiver","Pb-free
+Halide free","Active","Low Voltage CMOS 16-Bit Transceiver","8","3-State","2","3.6","5.2","24","TSSOP-48"
+"on","标准逻辑---收发器","MC74LCX16245","MC74LCX16245DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX16245DTG","http://www.onsemi.com/pub/Collateral/MC74LCX16245-D.PDF","Low Voltage CMOS 16-Bit Transceiver","Pb-free
+Halide free","Active","Low Voltage CMOS 16-Bit Transceiver","8","3-State","2","3.6","5.2","24","TSSOP-48"
+"on","标准逻辑---收发器","MC74LVX245","MC74LVX245DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX245DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX245-D.PDF","Octal Bus Transceiver","Pb-free
+Halide free","Active","Octal Bus Transceiver","1","CMOS","2","3.6","10.1","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74LVX245","MC74LVX245DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX245DWR2G","http://www.onsemi.com/pub/Collateral/MC74LVX245-D.PDF","Octal Bus Transceiver","Pb-free
+Halide free","Active","Octal Bus Transceiver","1","CMOS","2","3.6","10.1","4","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74LVXC3245","MC74LVXC3245DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXC3245DTG","http://www.onsemi.com/pub/Collateral/MC74LVXC3245-D.PDF","Configurable Dual Supply Octal Transceiver","Pb-free
+Halide free","Active","Configurable Dual Supply Octal Transceiver","8","3-State","2.3","3.6","9","24","SOIC-24
+TSSOP-24"
+"on","标准逻辑---收发器","MC74LVXC3245","MC74LVXC3245DTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXC3245DTRG","http://www.onsemi.com/pub/Collateral/MC74LVXC3245-D.PDF","Configurable Dual Supply Octal Transceiver","Pb-free
+Halide free","Active","Configurable Dual Supply Octal Transceiver","8","3-State","2.3","3.6","9","24","SOIC-24
+TSSOP-24"
+"on","标准逻辑---收发器","MC74LVXC3245","MC74LVXC3245DWRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXC3245DWRG","http://www.onsemi.com/pub/Collateral/MC74LVXC3245-D.PDF","Configurable Dual Supply Octal Transceiver","Pb-free
+Halide free","Active","Configurable Dual Supply Octal Transceiver","8","3-State","2.3","3.6","9","24","SOIC-24
+TSSOP-24"
+"on","标准逻辑---收发器","MC74VHCT245A","MC74VHCT245ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT245ADTG","http://www.onsemi.com/pub/Collateral/MC74VHCT245A-D.PDF","Octal Bus Transceiver","Pb-free
+Halide free","Active","Octal Bus Transceiver","1","CMOS","4.5","5.5","8.7","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74VHCT245A","MC74VHCT245ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT245ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT245A-D.PDF","Octal Bus Transceiver","Pb-free
+Halide free","Active","Octal Bus Transceiver","1","CMOS","4.5","5.5","8.7","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74VHCT245A","MC74VHCT245ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT245ADWG","http://www.onsemi.com/pub/Collateral/MC74VHCT245A-D.PDF","Octal Bus Transceiver","Pb-free
+Halide free","Active","Octal Bus Transceiver","1","CMOS","4.5","5.5","8.7","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","MC74VHCT245A","MC74VHCT245ADWRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT245ADWRG","http://www.onsemi.com/pub/Collateral/MC74VHCT245A-D.PDF","Octal Bus Transceiver","Pb-free
+Halide free","Active","Octal Bus Transceiver","1","CMOS","4.5","5.5","8.7","8","SOIC-20W
+TSSOP-20"
+"on","标准逻辑---收发器","PCA9617A","PCA9617ADMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9617ADMR2G","http://www.onsemi.com/pub/Collateral/PCA9617A-D.PDF","Level-Translating I2C-Bus / SMBus Repeater, Level-Translating I2C-Bus / SMBus Repeater","Pb-free
+Halide free","Active","Level-Translating I2C-Bus / SMBus Repeater","1","Open Drain","0.8","5.5","173","13","Micro8™"

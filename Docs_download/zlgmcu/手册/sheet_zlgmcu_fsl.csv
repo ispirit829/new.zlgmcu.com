@@ -1,0 +1,365 @@
+﻿"brand","Series","FileType","Title","Url"
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet\10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4662】S08至Kinetis L系列MCU迁移指南,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/9_AN4662.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4655】Kinetis L MCU上的I2C引导加载程序设计,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/8_AN4655.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4631】使用Kinetis L系列的异步DMA特性,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/11_AN4631.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4637】使用GPIO方法在Kinetis L上集成触摸感应软件,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/6_AN4637.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4609】采用Kinetis L系列打造低成本的通用电机驱动,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/5_AN4609.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL4x（USB+分段式LCD）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL4 Sub-Family Documentation\Kinetis KL4 Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4662】S08至Kinetis L系列MCU迁移指南,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/9_AN4662.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4655】Kinetis L MCU上的I2C引导加载程序设计,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/8_AN4655.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4631】使用Kinetis L系列的异步DMA特性,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/11_AN4631.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4637】使用GPIO方法在Kinetis L上集成触摸感应软件,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/6_AN4637.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4609】采用Kinetis L系列打造低成本的通用电机驱动,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/5_AN4609.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL3x（分段式LCD）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL3 Sub-Family Documentation\Kinetis KL3 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4662】S08至Kinetis L系列MCU迁移指南,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/9_AN4662.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4655】Kinetis L MCU上的I2C引导加载程序设计,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/8_AN4655.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4631】使用Kinetis L系列的异步DMA特性,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/11_AN4631.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4637】使用GPIO方法在Kinetis L上集成触摸感应软件,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/6_AN4637.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4609】采用Kinetis L系列打造低成本的通用电机驱动,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/5_AN4609.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL2x（USB）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL2 Sub-Family Documentation\Kinetis KL2 Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4609】采用Kinetis L系列打造低成本的通用电机驱动,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/5_AN4609.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4637】使用GPIO方法在Kinetis L上集成触摸感应软件,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/6_AN4637.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4655】Kinetis L MCU上的I2C引导加载程序设计,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/8_AN4655.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL0x（入门级）,技术应用文档,【AN4662】S08至Kinetis L系列MCU迁移指南,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/9_AN4662.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4662】S08至Kinetis L系列MCU迁移指南,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/9_AN4662.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4655】Kinetis L MCU上的I2C引导加载程序设计,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/8_AN4655.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4631】使用Kinetis L系列的异步DMA特性,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/11_AN4631.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4637】使用GPIO方法在Kinetis L上集成触摸感应软件,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/6_AN4637.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4609】采用Kinetis L系列打造低成本的通用电机驱动,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/5_AN4609.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis L系列（M0+，低功耗）---MKL1x（基本型）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\KinetisLSub-FamilyData\Kinetis KL1 Sub-Family Documentation\Kinetis KL1 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK0x（入门级）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K00 Sub-Family Data\Kinetis K00 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4935】利用Kinetis KV10实现适用于风扇的PMSM无传感器磁场定向控制 (FOC),/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/23_AN4935.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4533】利用Kinetis微控制器的闪存交换功能实现稳健的在线固件更新,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/24_AN4533.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4393】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/25_AN4393.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4452】采用TWR-LCD电路板显示eGUI,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/26_AN4452.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK1x（基本型）,技术应用文档,【AN4282】将Kinetis FlexMemory作为增强型EEPROM使用,/UploadFiles\Freescale\Kinetis K10 Sub-Family Data\Kinetis K10 Sub-Family Datasheet/27_AN4282.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4533】利用Kinetis微控制器的闪存交换功能实现稳健的在线固件更新,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/24_AN4533.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4393】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/25_AN4393.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4452】采用TWR-LCD电路板显示eGUI,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/26_AN4452.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK2x（USB）,技术应用文档,【AN4282】将Kinetis FlexMemory作为增强型EEPROM使用,/UploadFiles\Freescale\Kinetis K20 Sub-Family Data\Kinetis K20 Sub-Family Datasheet/27_AN4282.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4533】利用Kinetis微控制器的闪存交换功能实现稳健的在线固件更新,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/24_AN4533.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4393】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/25_AN4393.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4470在Kinetis MCU上使用低功耗模式】,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4452】采用TWR-LCD电路板显示eGUI,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/26_AN4452.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4367】Kinetis MCU引导加载程序,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/29_AN4367.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4346】采用Kinetis塔式系统和MQX设计产品原型,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/28_AN4346.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK7x（图像LCD）,技术应用文档,【AN4282】将Kinetis FlexMemory作为增强型EEPROM使用,/UploadFiles\Freescale\Kinetis K70x Sub-Family Data\Kinetis K70 Sub-Family Datasheet/27_AN4282.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4533】利用Kinetis微控制器的闪存交换功能实现稳健的在线固件更新,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/24_AN4533.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4393】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/25_AN4393.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4452】采用TWR-LCD电路板显示eGUI,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/26_AN4452.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4367】Kinetis MCU引导加载程序,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/29_AN4367.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4346】采用Kinetis塔式系统和MQX设计产品原型,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/28_AN4346.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK5x（模拟测量引擎）,技术应用文档,【AN4282】将Kinetis FlexMemory作为增强型EEPROM使用,/UploadFiles\Freescale\Kinetis K50x Sub-Family Data\Kinetis K50 Sub-Family Datasheet/27_AN4282.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4533】利用Kinetis微控制器的闪存交换功能实现稳健的在线固件更新,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/24_AN4533.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制 ,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4393】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/25_AN4393.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用 ,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4452】采用TWR-LCD电路板显示eGUI,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/26_AN4452.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4346】采用Kinetis塔式系统和MQX设计产品原型,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/28_AN4346.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK4x（USB+分段式LCD）,技术应用文档,【AN4282】将Kinetis FlexMemory作为增强型EEPROM使用,/UploadFiles\Freescale\Kinetis K40 Sub-Family Data\Kinetis K40 Sub-Family Datasheet/27_AN4282.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4665】如何使用飞思卡尔USB协议栈来设置音频类设备,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/14_AN4665.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4533】利用Kinetis微控制器的闪存交换功能实现稳健的在线固件更新,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/24_AN4533.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4393】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/25_AN4393.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4452】采用TWR-LCD电路板显示eGUI,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/26_AN4452.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4367】Kinetis MCU引导加载程序,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/29_AN4367.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4346】采用Kinetis塔式系统和MQX设计产品原型,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/28_AN4346.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK6x（以太网+安全）,技术应用文档,【AN4282】将Kinetis FlexMemory作为增强型EEPROM使用,/UploadFiles\Freescale\Kinetis K60x Sub-Family Data\Kinetis K60 Sub-Family Datasheet/27_AN4282.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W2x Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,技术应用文档,【AN4368】USB大容量存储设备(MSD)主机引导加载程序,/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W2x Sub-Family Datasheet/15_AN4368.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,技术应用文档,【AN4370】Kinetis MCU USB设备固件更新(DFU),/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W2x Sub-Family Datasheet/16_AN4370.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W2x Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W2x Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW2x（M4内核）,技术应用文档,【AN4379】USB大容量存储设备(MSD)引导加载程序,/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W2x Sub-Family Datasheet/17_AN4379.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4745】优化Kinetis K系列MCU的性能,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/18_AN4745.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN2295】开发人员的串行引导加载程序,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/1_AN2295.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4590】在Kinetis K系列上使用DMA模拟ADC灵活扫描模式,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/19_AN4590.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4533】利用Kinetis微控制器的闪存交换功能实现稳健的在线固件更新,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/24_AN4533.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4254】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4393】将FlexBus接口用于Kinetis微控制器,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/25_AN4393.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4520】Kinetis MCU上的I2S (片间音频总线)应用,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/13_AN4520.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4470】在Kinetis MCU上使用低功耗模式,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/4_AN4470.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4452】采用TWR-LCD电路板显示eGUI,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/26_AN4452.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制 - Kinetis MCU,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4346】采用Kinetis塔式系统和MQX设计产品原型,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/28_AN4346.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4342】在ColdFire+和Kinetis上使用内部集成电路,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/22_AN4342.pdf
+NXP,MCU---Kinetis系列---Kinetis K系列（M4，通用）---MK3x（分段式LCD）,技术应用文档,【AN4282】将Kinetis FlexMemory作为增强型EEPROM使用,/UploadFiles\Freescale\Kinetis K30x Sub-Family Data\Kinetis K30 Sub-Family Datasheet/27_AN4282.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW0x（M0+内核）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW0x（M0+内核）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW0x（M0+内核）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW0x（M0+内核）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W0x Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis W系列（M0+/M4，无线）---MKW0x（M0+内核）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis W Sub-Family Data\Kinetis W0x Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM3x Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM3x Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM3x Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM3x Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM3x（分段式LCD）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM3x Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4911】利用MKV31F实现三相PMSM无传感器FOC,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/41_AN4911.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4862】利用MKV10x实现三相BLDC无传感器控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/39_AN4862.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4642】用于三相永磁同步电机(PMSM)的电机控制应用参数整定(MCAT)工具,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/40_AN4642.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV3x（）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV3x Sub-Family Data\Kinetis KV3x Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4911】利用MKV31F实现三相PMSM无传感器FOC,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/41_AN4911.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4862】利用MKV10x实现三相BLDC无传感器控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/39_AN4862.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4642】用于三相永磁同步电机(PMSM)的电机控制应用参数整定(MCAT)工具,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/40_AN4642.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV4x（）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV4x Sub-Family Data\Kinetis KV4x Sub-Family Reference Manual/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4935】利用MKV31F实现三相PMSM无传感器FOC,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/38_AN4935.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4862】利用MKV10x实现三相BLDC无传感器控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/39_AN4862.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4642】用于三相永磁同步电机(PMSM)的电机控制应用参数整定(MCAT)工具,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/40_AN4642.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4254】在Freescale MQX实时操作系统下进行电机控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/20_AN4254.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis V系列（MO+/M4）电机/数字电源---MKV1x（基准型）,技术应用文档,【AN4376】带霍尔效应传感器的BLDC电机控制,/UploadFiles\Freescale\Kinetis V Sub-Family Data\Kinetis KV1x Sub-Family Data\Kinetis KV1x Sub-Family Datasheet/21_AN4376.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,技术应用文档,【AN4649】面向塔式开发平台的电源选项,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM1x Sub-Family Datasheet/10_AN4649.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,技术应用文档,【AN4652】基于中断和阻塞机制的MQX I2C驱动程序,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM1x Sub-Family Datasheet/7_AN4652.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,技术应用文档,【AN4419】使用Kinetis DMA和通用IO仿真定时器功能,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM1x Sub-Family Datasheet/2_AN4419.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,技术应用文档,【AN4568】关于Kinetis K系列16位ADC PGA的分析,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM1x Sub-Family Datasheet/12_AN4568.pdf
+NXP,MCU---Kinetis系列---Kinetis M系列（M0+，计量）---MKM1x（基本型）,技术应用文档,【AN4447】采用MQX RTOS实现Kinetis MCU的低功耗管理,/UploadFiles\Freescale\Kinetis M Sub-Family Data\Kinetis KM1x Sub-Family Datasheet/3_AN4447.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,技术应用文档,【AN4839】如何在Kinetis E和EA MCU上使用PWT模块,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/35_AN4839.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,技术应用文档,【AN4838】如何在KE04和KE06 MCU上使用Bit-band和BME,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/37_AN4838.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,技术应用文档,【AN4757】S08至Kinetis E系列迁移指南,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/31_AN4757.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,技术应用文档,【AN4779】Kinetis E MCU EMC设计技巧,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/32_AN4779.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,技术应用文档,【AN4767】Kinetis E系列上的UART引导加载程序设计,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/33_AN4767.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE06x（入门级）,技术应用文档,【AN4775】Kinetis E系列上的I2C引导加载程序设,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/34_AN4775.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,技术应用文档,【AN4839】如何在Kinetis E和EA MCU上使用PWT模块,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/35_AN4839.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,技术应用文档,【AN4869】使用基于FRDM-KE04Z和塔式电路板的霍尔传感器实现无刷直流电机的正弦波控制,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/35_AN4869.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,技术应用文档,【AN4838】如何在KE04和KE06 MCU上使用Bit-band和BME,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/37_AN4838.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,技术应用文档,【AN4757】S08至Kinetis E系列迁移指南,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/31_AN4757.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,技术应用文档,【AN4779】Kinetis E MCU EMC设计技巧,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/32_AN4779.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,技术应用文档,【AN4767】Kinetis E系列上的UART引导加载程序设计,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/33_AN4767.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE04x（入门级）,技术应用文档,【AN4775】Kinetis E系列上的I2C引导加载程序设,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/34_AN4775.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,配套软件,【配套工具】ADC Calculator,/UploadFiles\Freescale\Tools and Software\Serve Software/1_ADC_CALCULATOR_CNV.zip
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,配套软件,【配套软件】FreeMASTER,/UploadFiles\Freescale\Tools and Software\Serve Software/2_FreeMASTER.rar
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,配套软件,【配套软件】PROCESSOR Exper,/UploadFiles\Freescale\Tools and Software\Serve Software/3_PROCESSOR Exper.rar
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,技术应用文档,【AN4796】采用FRDM-KE02Z和塔式系统电路板的无传感器BLDC电机控制,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/30_AN4796.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,技术应用文档,【AN4757】S08至Kinetis E系列迁移指南,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/31_AN4757.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,技术应用文档,【AN4779】Kinetis E MCU EMC设计技巧,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/32_AN4779.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,技术应用文档,【AN4767】Kinetis E系列上的UART引导加载程序设计,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/33_AN4767.pdf
+NXP,MCU---Kinetis系列---Kinetis E系列（M0+，ESD/EMC）---MKE02x（入门级）,技术应用文档,【AN4775】Kinetis E系列上的I2C引导加载程序设,/UploadFiles\Freescale\Kinetis E0 Sub-Family Data\Kinetis E0 Sub-Family Datasheet/34_AN4775.pdf

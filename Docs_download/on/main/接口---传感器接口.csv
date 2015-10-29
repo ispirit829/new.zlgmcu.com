@@ -1,0 +1,15 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Channels","VCC Min (V)","VCC Max (V)","IT Max (mA)","VI Typ (V)","TA Min (degreesC)","TA Max (degreesC)","Package Type"
+"on","接口---传感器接口","NCS37000","NCS37000DBRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS37000DBRG","http://www.onsemi.com/pub/Collateral/NCS37000-D.PDF","Ground Fault Circuit Interrupter (GFCI), NCS37000DBRG (20806-002)","Pb-free
+Halide free","Active","Ground Fault Circuit Interrupter (GFCI)","1","6","12","1.5","1.8","-40","85","QFN-16
+TSSOP-20"
+"on","接口---传感器接口","NCS37000","NCS37000MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS37000MNTWG","http://www.onsemi.com/pub/Collateral/NCS37000-D.PDF","Ground Fault Circuit Interrupter (GFCI), NCS37000MNTWG (20806-001)","Pb-free
+Halide free","Active","Ground Fault Circuit Interrupter (GFCI)","1","6","12","1.5","1.8","-40","85","QFN-16
+TSSOP-20"
+"on","接口---传感器接口","NCS37012","NCS37012DBRG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS37012DBRG","http://www.onsemi.com/pub/Collateral/NCS37012-D.PDF","Single CT UL943 GFCI with Self Test, NCS37012DBRG (21579-002)","Pb-free
+Halide free","Active","Single CT UL943 GFCI with Self Test","1","6","12","2.2","1.8
+null","-40","85","QFN-16
+TSSOP-20"
+"on","接口---传感器接口","NCS37012","NCS37012MNTWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS37012MNTWG","http://www.onsemi.com/pub/Collateral/NCS37012-D.PDF","Single CT UL943 GFCI with Self Test, NCS37012MNTWG (21579-001)","Pb-free
+Halide free","Active","Single CT UL943 GFCI with Self Test","1","6","12","2.2","1.8
+null","-40","85","QFN-16
+TSSOP-20"

@@ -1,0 +1,110 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","IT(RMS) Max (A)","VDRM Min (V)","ITSM Max (A)","IGT Max (mA)","Package Type"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","2N6071A","2N6071AG","http://www.onsemi.cn/PowerSolutions/product.do?id=2N6071AG","http://www.onsemi.com/pub/Collateral/2N6071-D.PDF","Sensitive Gate Triac","Pb-free
+Halide free","Active","Sensitive Gate Triac","4","200","30","5-5-5-10","TO-225-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","2N6071A","2N6071ATG","http://www.onsemi.cn/PowerSolutions/product.do?id=2N6071ATG","http://www.onsemi.com/pub/Collateral/2N6071-D.PDF","Sensitive Gate Triac","Pb-free
+Halide free","Active","Sensitive Gate Triac","4","200","30","5-5-5-10","TO-225-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","2N6073A","2N6073AG","http://www.onsemi.cn/PowerSolutions/product.do?id=2N6073AG","http://www.onsemi.com/pub/Collateral/2N6071-D.PDF","Sensitive Gate Triac","Pb-free
+Halide free","Active","Sensitive Gate Triac","4","400","30","5","TO-225-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","2N6075A","2N6075AG","http://www.onsemi.cn/PowerSolutions/product.do?id=2N6075AG","http://www.onsemi.com/pub/Collateral/2N6071-D.PDF","Sensitive Gate Triac","Pb-free
+Halide free","Active","Sensitive Gate Triac","4","600","30","5","TO-225-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","2N6344","2N6344G","http://www.onsemi.cn/PowerSolutions/product.do?id=2N6344G","http://www.onsemi.com/pub/Collateral/2N6344-D.PDF","Triac","Pb-free","Active","Triac","8","600","100","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","2N6348A","2N6348AG","http://www.onsemi.cn/PowerSolutions/product.do?id=2N6348AG","http://www.onsemi.com/pub/Collateral/2N6344A-D.PDF","Triac","Pb-free","Active","Triac","12","600","100","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA08-35MA","BTA08-600CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA08-600CW3G","http://www.onsemi.com/pub/Collateral/BTA08-600CW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 35 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 35 mA I<sub>GT</sub>, 8.0 A I<sub>T(RMS)</sub>","8","600","90","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA08-800CW","BTA08-800CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA08-800CW3G","http://www.onsemi.com/pub/Collateral/BTA08-800CW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 50 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 50 mA I<sub>GT</sub>, 8.0 A I<sub>T(RMS)</sub>","8","800","90","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA08-800CW","BTA08-800CW3LFG","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA08-800CW3LFG","http://www.onsemi.com/pub/Collateral/BTA08-800CW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 50 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 50 mA I<sub>GT</sub>, 8.0 A I<sub>T(RMS)</sub>","8","800","90","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA12-35MA","BTA12-600CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA12-600CW3G","http://www.onsemi.com/pub/Collateral/BTA12-600CW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 35 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 35 mA I<sub>GT</sub>, 12 A I<sub>T(RMS)</sub>","12","600
+800","105","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA12-35MA","BTA12-800CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA12-800CW3G","http://www.onsemi.com/pub/Collateral/BTA12-600CW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 35 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 35 mA I<sub>GT</sub>, 12 A I<sub>T(RMS)</sub>","12","600
+800","105","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA16-10MA","BTA16-600SW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA16-600SW3G","http://www.onsemi.com/pub/Collateral/BTA16-600SW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 10 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 10 mA I<sub>GT</sub>, 16 A I<sub>T(RMS)</sub>","16","600
+800","170","10","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA16-10MA","BTA16-800SW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA16-800SW3G","http://www.onsemi.com/pub/Collateral/BTA16-600SW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 10 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 10 mA I<sub>GT</sub>, 16 A I<sub>T(RMS)</sub>","16","600
+800","170","10","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA16-50MA","BTA16-600BW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA16-600BW3G","http://www.onsemi.com/pub/Collateral/BTA16-600BW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 50 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 50 mA I<sub>GT</sub>, 16 A I<sub>T(RMS)</sub>","16","600
+800","170","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA16-50MA","BTA16-800BW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA16-800BW3G","http://www.onsemi.com/pub/Collateral/BTA16-600BW3-D.PDF","Triac, 3 Quadrant Internally Isolated, 50 mA I","Pb-free
+Halide free","Active","Triac, 3 Quadrant Internally Isolated, 50 mA I<sub>GT</sub>, 16 A I<sub>T(RMS)</sub>","16","600
+800","170","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA25H-35MA","BTA25H-600CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA25H-600CW3G","http://www.onsemi.com/pub/Collateral/BTA25H-600CW3-D.PDF","25 A, 35 mA I","Pb-free
+Halide free","Active","25 A, 35 mA I<sub>GT</sub> High TJ Internally Isolated","25","600
+800","250","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA25H-35MA","BTA25H-800CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA25H-800CW3G","http://www.onsemi.com/pub/Collateral/BTA25H-600CW3-D.PDF","25 A, 35 mA I","Pb-free
+Halide free","Active","25 A, 35 mA I<sub>GT</sub> High TJ Internally Isolated","25","600
+800","250","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA30H-35MA","BTA30H-600CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA30H-600CW3G","http://www.onsemi.com/pub/Collateral/BTA30H-600CW3-D.PDF","30 A, 35 mA I","Pb-free
+Halide free","Active","30 A, 35 mA I<sub>GT</sub> 3 Quadrant Internally Isolated Triac High TJ","30","600
+800",,"35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTA30H-35MA","BTA30H-800CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTA30H-800CW3G","http://www.onsemi.com/pub/Collateral/BTA30H-600CW3-D.PDF","30 A, 35 mA I","Pb-free
+Halide free","Active","30 A, 35 mA I<sub>GT</sub> 3 Quadrant Internally Isolated Triac High TJ","30","600
+800",,"35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTB08-50MA","BTB08-600BW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTB08-600BW3G","http://www.onsemi.com/pub/Collateral/BTB08-600BW3-D.PDF","8.0 A, 50 mA I","Pb-free","Active","8.0 A, 50 mA I<sub>GT</sub> 3 Quadrant Triac","8","600
+800","90","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTB08-50MA","BTB08-800BW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTB08-800BW3G","http://www.onsemi.com/pub/Collateral/BTB08-600BW3-D.PDF","8.0 A, 50 mA I","Pb-free","Active","8.0 A, 50 mA I<sub>GT</sub> 3 Quadrant Triac","8","600
+800","90","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTB12-50MA","BTB12-600BW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTB12-600BW3G","http://www.onsemi.com/pub/Collateral/BTB12-600BW3-D.PDF","12 A, 50 mA I","Pb-free","Active","12 A, 50 mA I<sub>GT</sub> 3 Quadrant Triac","12","600
+800","120","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTB12-50MA","BTB12-800BW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTB12-800BW3G","http://www.onsemi.com/pub/Collateral/BTB12-600BW3-D.PDF","12 A, 50 mA I","Pb-free","Active","12 A, 50 mA I<sub>GT</sub> 3 Quadrant Triac","12","600
+800","120","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTB16-35MA","BTB16-600CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTB16-600CW3G","http://www.onsemi.com/pub/Collateral/BTB16-600CW3-D.PDF","16 A, 35 mA I","Pb-free","Active","16 A, 35 mA I<sub>GT</sub> 3 Quadrant Triac","16","600
+800","170","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","BTB16-35MA","BTB16-800CW3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BTB16-800CW3G","http://www.onsemi.com/pub/Collateral/BTB16-600CW3-D.PDF","16 A, 35 mA I","Pb-free","Active","16 A, 35 mA I<sub>GT</sub> 3 Quadrant Triac","16","600
+800","170","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC08B","MAC08BT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC08BT1G","http://www.onsemi.com/pub/Collateral/MAC08BT1-D.PDF","Sensitive Gate Triac","Pb-free
+Halide free","Active","Sensitive Gate Triac","0.8","200","8","10","SOT-223-4 / TO-261-4"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC12D","MAC12DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC12DG","http://www.onsemi.com/pub/Collateral/MAC12-D.PDF","Sensitive Gate Triac","Pb-free","Active","Sensitive Gate Triac","12","100","100","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC12HCM","MAC12HCMG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC12HCMG","http://www.onsemi.com/pub/Collateral/MAC12HC-D.PDF","Triac","Pb-free","Active","Triac","12","600","100","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC12M","MAC12MG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC12MG","http://www.onsemi.com/pub/Collateral/MAC12-D.PDF","Triac","Pb-free","Active","Triac","12","600","100","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC12SM","MAC12SMG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC12SMG","http://www.onsemi.com/pub/Collateral/MAC12SM-D.PDF","Sensitive Gate Triac","Pb-free","Active","Sensitive Gate Triac","12","600","90","5","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC15-10","MAC15-10G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC15-10G","http://www.onsemi.com/pub/Collateral/MAC15A4-D.PDF","Triac","Pb-free","Active","Triac","15","800","150","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC15A10","MAC15A10G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC15A10G","http://www.onsemi.com/pub/Collateral/MAC15A4-D.PDF","Triac","Pb-free","Active","Triac","15","800","150","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC15A8","MAC15A8G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC15A8G","http://www.onsemi.com/pub/Collateral/MAC15A4-D.PDF","Triac","Pb-free","Active","Triac","15","600","150","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC15N","MAC15NG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC15NG","http://www.onsemi.com/pub/Collateral/MAC15M-D.PDF","Triac","Pb-free","Active","Triac","15","800","150","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC16CN","MAC16CNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC16CNG","http://www.onsemi.com/pub/Collateral/MAC16C-D.PDF","Triac","Pb-free","Active","Triac","16","800","150","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC16HC","MAC16HCMG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC16HCMG","http://www.onsemi.com/pub/Collateral/MAC16HC-D.PDF","Triac","Pb-free","Active","Triac","16","600","150","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC16HCN","MAC16HCNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC16HCNG","http://www.onsemi.com/pub/Collateral/MAC16HC-D.PDF","Triac","Pb-free","Active","Triac","16","800","150","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC16N","MAC16NG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC16NG","http://www.onsemi.com/pub/Collateral/MAC16D-D.PDF","Triac","Pb-free","Active","Triac","16","800","150","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC210A8","MAC210A8G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC210A8G","http://www.onsemi.com/pub/Collateral/MAC210A8-D.PDF","Triac","Pb-free","Active","Triac","10","600","100","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC212A8","MAC212A8G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC212A8G","http://www.onsemi.com/pub/Collateral/MAC212A8-D.PDF","Triac","Pb-free","Active","Triac","12","600","100","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC228A4","MAC228A4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC228A4G","http://www.onsemi.com/pub/Collateral/MAC228A-D.PDF","200 V, 8.0 A Triac","Pb-free","Active","200 V, 8.0 A Triac","8","200","80","5","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC228A8","MAC228A8G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC228A8G","http://www.onsemi.com/pub/Collateral/MAC228A-D.PDF","600 V, 8.0 A Triac","Pb-free","Active","600 V, 8.0 A Triac","8","600","80","5","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC228A8","MAC228A8TG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC228A8TG","http://www.onsemi.com/pub/Collateral/MAC228A-D.PDF","600 V, 8.0 A Triac","Pb-free","Active","600 V, 8.0 A Triac","8","600","80","5","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC4DCN","MAC4DCN-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC4DCN-1G","http://www.onsemi.com/pub/Collateral/MAC4DCM-D.PDF","Triac","Pb-free
+Halide free","Active","Triac","4","800","40","35","DPAK-3
+IPAK-4"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC4DCN","MAC4DCNT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC4DCNT4G","http://www.onsemi.com/pub/Collateral/MAC4DCM-D.PDF","Triac","Pb-free
+Halide free","Active","Triac","4","800","40","35","DPAK-3
+IPAK-4"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC4DLM","MAC4DLM-1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC4DLM-1G","http://www.onsemi.com/pub/Collateral/MAC4DLM-D.PDF","Sensitive Gate Triac","Pb-free
+Halide free","Active","Sensitive Gate Triac","4","600","40","3","DPAK-3
+IPAK-4"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC4DLM","MAC4DLMT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC4DLMT4G","http://www.onsemi.com/pub/Collateral/MAC4DLM-D.PDF","Sensitive Gate Triac","Pb-free
+Halide free","Active","Sensitive Gate Triac","4","600","40","3","DPAK-3
+IPAK-4"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC4DSN","MAC4DSNT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC4DSNT4G","http://www.onsemi.com/pub/Collateral/MAC4DSM-D.PDF","4.0 A Sensitive Gate Triac","Pb-free
+Halide free","Active","4.0 A Sensitive Gate Triac","4","800","40","10","DPAK-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC8D","MAC8DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC8DG","http://www.onsemi.com/pub/Collateral/MAC8D-D.PDF","Triac","Pb-free","Active","Triac","8","400","80","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC8N","MAC8NG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC8NG","http://www.onsemi.com/pub/Collateral/MAC8D-D.PDF","Triac","Pb-free","Active","Triac","8","800","80","35","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC8SM","MAC8SMG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC8SMG","http://www.onsemi.com/pub/Collateral/MAC8S-D.PDF","Sensitive Gate Triac","Pb-free","Active","Sensitive Gate Triac","8","600","70","5","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC9D","MAC9DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC9DG","http://www.onsemi.com/pub/Collateral/MAC9-D.PDF","Triacs, 8 A, 400-800 V","Pb-free","Active","Triacs, 8 A, 400-800 V","8","400","80","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","MAC9N","MAC9NG","http://www.onsemi.cn/PowerSolutions/product.do?id=MAC9NG","http://www.onsemi.com/pub/Collateral/MAC9-D.PDF","Triac","Pb-free","Active","Triac","8","800","80","50","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","T2500D","T2500DG","http://www.onsemi.cn/PowerSolutions/product.do?id=T2500DG","http://www.onsemi.com/pub/Collateral/T2500-D.PDF","400 V, 6.0 A Triac","Pb-free","Active","400 V, 6.0 A Triac","6","400","60","25","TO-220-3"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","Z01XXMN","Z0103MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=Z0103MNT1G","http://www.onsemi.com/pub/Collateral/Z0103MN-D.PDF","600 V, 1.0 A Triac Z0103MA, Z0107MA, Z0109MA","Pb-free
+Halide free","Active","600 V, 1.0 A Triac Z0103MA, Z0107MA, Z0109MA","1","600","8","3
+5
+10","SOT-223-4 / TO-261-4"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","Z01XXMN","Z0107MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=Z0107MNT1G","http://www.onsemi.com/pub/Collateral/Z0103MN-D.PDF","600 V, 1.0 A Triac Z0103MA, Z0107MA, Z0109MA","Pb-free
+Halide free","Active","600 V, 1.0 A Triac Z0103MA, Z0107MA, Z0109MA","1","600","8","3
+5
+10","SOT-223-4 / TO-261-4"
+"on","晶闸管---三端双向可控硅开关元件 (TRIAC)","Z01XXMN","Z0109MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=Z0109MNT1G","http://www.onsemi.com/pub/Collateral/Z0103MN-D.PDF","600 V, 1.0 A Triac Z0103MA, Z0107MA, Z0109MA","Pb-free
+Halide free","Active","600 V, 1.0 A Triac Z0103MA, Z0107MA, Z0109MA","1","600","8","3
+5
+10","SOT-223-4 / TO-261-4"

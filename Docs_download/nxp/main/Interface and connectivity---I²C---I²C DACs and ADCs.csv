@@ -1,0 +1,2 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Package version","Application","Converter type","Function","Number of bits","Number of pins","Operating temperature","Operating/supply voltage (VCC,VP,VDD) [max]","VDD [max]"
+"nxp","Interface and connectivity---I²C---I²C DACs and ADCs","PCF8591T","http://www.nxp.com/products/interface_and_connectivity/i2c/i2c_dacs_and_adcs/PCF8591T.html","http://www.nxp.com/documents/data_sheet/PCF8591.pdf","SOT162-1","Radio, Audio and CD/DVD Systems","Analog-to-Digital; Digital-to-Analog","Converters","8","16","-40~70","2.5","6"

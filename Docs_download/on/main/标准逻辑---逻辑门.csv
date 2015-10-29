@@ -1,0 +1,1345 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Channels","VCC Min (V)","VCC Max (V)","tpd Max (ns)","IO Max (mA)","Package Type"
+"on","标准逻辑---逻辑门","74LVC00","74LVC00ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC00ADR2G","http://www.onsemi.com/pub/Collateral/74LVC00A-D.PDF","Low Voltage CMOS Quad 2-Input NAND Gate","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Quad 2-Input NAND Gate","NAND","4","1.2","3.6","5.1","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","74LVC00","74LVC00ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC00ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC00A-D.PDF","Low Voltage CMOS Quad 2-Input NAND Gate","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Quad 2-Input NAND Gate","NAND","4","1.2","3.6","5.1","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","74LVC04","74LVC04ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC04ADR2G","http://www.onsemi.com/pub/Collateral/74LVC04A-D.PDF","Low Voltage CMOS Hex Inverter","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Hex Inverter","Inverter","6","1.2","3.6","6","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","74LVC04","74LVC04ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC04ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC04A-D.PDF","Low Voltage CMOS Hex Inverter","Pb-free
+Halide free","ActiveNEW","Low Voltage CMOS Hex Inverter","Inverter","6","1.2","3.6","6","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","74LVC32","74LVC32ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC32ADR2G","http://www.onsemi.com/pub/Collateral/74LVC32A-D.PDF","Low Voltage Quad 2-Input OR Gate with 5V-Tolerant Inputs","Pb-free
+Halide free","ActiveNEW","Low Voltage Quad 2-Input OR Gate with 5V-Tolerant Inputs","OR","4","1.2","3.6","5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","74LVC32","74LVC32ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=74LVC32ADTR2G","http://www.onsemi.com/pub/Collateral/74LVC32A-D.PDF","Low Voltage Quad 2-Input OR Gate with 5V-Tolerant Inputs","Pb-free
+Halide free","ActiveNEW","Low Voltage Quad 2-Input OR Gate with 5V-Tolerant Inputs","OR","4","1.2","3.6","5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14001B","MC14001BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14001BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NOR Gate","NOR","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14001B","MC14001BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14001BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NOR Gate","NOR","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14001B","MC14001BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14001BDTR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NOR Gate","NOR","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14001B","NLV14001BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14001BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NOR Gate","NOR","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14001B","NLV14001BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14001BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NOR Gate","NOR","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14001B","NLV14001BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14001BDTR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NOR Gate","NOR","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14011B","MC14011BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14011BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14011B","MC14011BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14011BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14011B","MC14011BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14011BDTR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14011B","NLV14011BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14011BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14011B","NLV14011BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14011BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14011B","NLV14011BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14011BDTR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14012B","MC14012BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14012BDG","http://www.onsemi.com/pub/Collateral/MC14012B-D.PDF","Dual 4-Input NAND Gates","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual 4-Input NAND Gates","NAND","2","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14012B","MC14012BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14012BDR2G","http://www.onsemi.com/pub/Collateral/MC14012B-D.PDF","Dual 4-Input NAND Gates","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual 4-Input NAND Gates","NAND","2","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14012B","NLV14012BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14012BDG","http://www.onsemi.com/pub/Collateral/MC14012B-D.PDF","Dual 4-Input NAND Gates","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual 4-Input NAND Gates","NAND","2","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14012B","NLV14012BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14012BDR2G","http://www.onsemi.com/pub/Collateral/MC14012B-D.PDF","Dual 4-Input NAND Gates","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual 4-Input NAND Gates","NAND","2","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14025B","MC14025BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14025BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Triple 3-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Triple 3-Input NOR Gate","NOR","3","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14025B","MC14025BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14025BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Triple 3-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Triple 3-Input NOR Gate","NOR","3","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14025B","NLV14025BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14025BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Triple 3-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Triple 3-Input NOR Gate","NOR","3","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14025B","NLV14025BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14025BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Triple 3-Input NOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Triple 3-Input NOR Gate","NOR","3","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14070B","MC14070BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14070BDG","http://www.onsemi.com/pub/Collateral/MC14070B-D.PDF","Quad XOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad XOR Gate","XOR
+XOR/XNOR","4","3","18","150","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14070B","MC14070BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14070BDR2G","http://www.onsemi.com/pub/Collateral/MC14070B-D.PDF","Quad XOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad XOR Gate","XOR
+XOR/XNOR","4","3","18","150","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14070B","NLV14070BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14070BDR2G","http://www.onsemi.com/pub/Collateral/MC14070B-D.PDF","Quad XOR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad XOR Gate","XOR
+XOR/XNOR","4","3","18","150","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14073B","MC14073BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14073BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free","Active","Triple 3-Input AND Gate","AND","3","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14073B","MC14073BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14073BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free","Active","Triple 3-Input AND Gate","AND","3","3","18","130","2.25","SOIC-14"
+"on","标准逻辑---逻辑门","MC14081B","MC14081BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14081BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND
+AND/NAND","4","3","18","130","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14081B","MC14081BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14081BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND
+AND/NAND","4","3","18","130","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14081B","MC14081BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14081BDTR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND
+AND/NAND","4","3","18","130","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14081B","NLV14081BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14081BDG","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND
+AND/NAND","4","3","18","130","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14081B","NLV14081BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14081BDR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND
+AND/NAND","4","3","18","130","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14081B","NLV14081BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14081BDTR2G","http://www.onsemi.com/pub/Collateral/MC14001B-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND
+AND/NAND","4","3","18","130","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14093B","MC14093BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14093BDG","http://www.onsemi.com/pub/Collateral/MC14093B-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","AND/NAND
+NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14093B","MC14093BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14093BDR2G","http://www.onsemi.com/pub/Collateral/MC14093B-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","AND/NAND
+NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14093B","MC14093BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14093BDTR2G","http://www.onsemi.com/pub/Collateral/MC14093B-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","AND/NAND
+NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14093B","NLV14093BDG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14093BDG","http://www.onsemi.com/pub/Collateral/MC14093B-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","AND/NAND
+NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14093B","NLV14093BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14093BDR2G","http://www.onsemi.com/pub/Collateral/MC14093B-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","AND/NAND
+NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14093B","NLV14093BDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14093BDTR2G","http://www.onsemi.com/pub/Collateral/MC14093B-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","AND/NAND
+NAND","4","3","18","100","2.25","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC14572UB","MC14572UBDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14572UBDG","http://www.onsemi.com/pub/Collateral/MC14572UB-D.PDF","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","SmartGate","6","3","18","100","2.25","SOIC-16"
+"on","标准逻辑---逻辑门","MC14572UB","MC14572UBDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC14572UBDR2G","http://www.onsemi.com/pub/Collateral/MC14572UB-D.PDF","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","SmartGate","6","3","18","100","2.25","SOIC-16"
+"on","标准逻辑---逻辑门","MC14572UB","NLV14572UBDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV14572UBDR2G","http://www.onsemi.com/pub/Collateral/MC14572UB-D.PDF","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Gate; 4 Inverters; 1 NOR; 1 NAND","SmartGate","6","3","18","100","2.25","SOIC-16"
+"on","标准逻辑---逻辑门","MC74AC00","MC74AC00DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC00DG","http://www.onsemi.com/pub/Collateral/MC74AC00-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate","NAND","4","2","6","8","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC00","MC74AC00DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC00DR2G","http://www.onsemi.com/pub/Collateral/MC74AC00-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate","NAND","4","2","6","8","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC00","MC74AC00DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC00DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC00-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate","NAND","4","2","6","8","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC04","MC74AC04DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC04DG","http://www.onsemi.com/pub/Collateral/MC74AC04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","6","7","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC04","MC74AC04DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC04DR2G","http://www.onsemi.com/pub/Collateral/MC74AC04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","6","7","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC04","MC74AC04DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC04DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","6","7","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC10","MC74AC10DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC10DG","http://www.onsemi.com/pub/Collateral/MC74AC10-D.PDF","Triple 3-Input NAND Gate","Pb-free
+Halide free","Active","Triple 3-Input NAND Gate","NAND","3","2","6","7","24","SOIC-14"
+"on","标准逻辑---逻辑门","MC74AC10","MC74AC10DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC10DR2G","http://www.onsemi.com/pub/Collateral/MC74AC10-D.PDF","Triple 3-Input NAND Gate","Pb-free
+Halide free","Active","Triple 3-Input NAND Gate","NAND","3","2","6","7","24","SOIC-14"
+"on","标准逻辑---逻辑门","MC74AC132","MC74AC132DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC132DG","http://www.onsemi.com/pub/Collateral/MC74AC132-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","NAND","4","2","6","9","24","SOIC-14"
+"on","标准逻辑---逻辑门","MC74AC132","MC74AC132DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC132DR2G","http://www.onsemi.com/pub/Collateral/MC74AC132-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","NAND","4","2","6","9","24","SOIC-14"
+"on","标准逻辑---逻辑门","MC74AC20","MC74AC20DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC20DG","http://www.onsemi.com/pub/Collateral/MC74AC20-D.PDF","Dual 4-Input NAND Gate","Pb-free
+Halide free","Active","Dual 4-Input NAND Gate","NAND","2","2","6","7","24","SOIC-14"
+"on","标准逻辑---逻辑门","MC74AC20","MC74AC20DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC20DR2G","http://www.onsemi.com/pub/Collateral/MC74AC20-D.PDF","Dual 4-Input NAND Gate","Pb-free
+Halide free","Active","Dual 4-Input NAND Gate","NAND","2","2","6","7","24","SOIC-14"
+"on","标准逻辑---逻辑门","MC74AC86","MC74AC86DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC86DG","http://www.onsemi.com/pub/Collateral/MC74AC86-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","8.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC86","MC74AC86DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC86DR2G","http://www.onsemi.com/pub/Collateral/MC74AC86-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","8.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74AC86","MC74AC86DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74AC86DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC86-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","8.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT02","MC74ACT02DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT02DG","http://www.onsemi.com/pub/Collateral/MC74AC02-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free","Active","Quad 2-Input NOR Gate","NOR","4","4.5","5.5","9.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT02","MC74ACT02DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT02DR2G","http://www.onsemi.com/pub/Collateral/MC74AC02-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free","Active","Quad 2-Input NOR Gate","NOR","4","4.5","5.5","9.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT02","MC74ACT02DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT02DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC02-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free","Active","Quad 2-Input NOR Gate","NOR","4","4.5","5.5","9.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT08","MC74ACT08DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT08DG","http://www.onsemi.com/pub/Collateral/MC74AC08-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT08","MC74ACT08DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT08DR2G","http://www.onsemi.com/pub/Collateral/MC74AC08-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT08","MC74ACT08DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT08DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC08-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT11","MC74ACT11DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT11DR2G","http://www.onsemi.com/pub/Collateral/MC74AC11-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free","Active","Triple 3-Input AND Gate","AND","3","4.5","5.5","9.5","24","SOIC-14"
+"on","标准逻辑---逻辑门","MC74ACT14","MC74ACT14DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT14DG","http://www.onsemi.com/pub/Collateral/MC74AC14-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","11.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT14","MC74ACT14DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT14DR2G","http://www.onsemi.com/pub/Collateral/MC74AC14-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","11.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT14","MC74ACT14DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT14DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC14-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","11.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT32","MC74ACT32DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT32DG","http://www.onsemi.com/pub/Collateral/MC74AC32-D.PDF","Quad 2-Input OR Gate with TTL","Pb-free
+Halide free","Active","Quad 2-Input OR Gate with TTL","OR","4","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT32","MC74ACT32DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT32DR2G","http://www.onsemi.com/pub/Collateral/MC74AC32-D.PDF","Quad 2-Input OR Gate with TTL","Pb-free
+Halide free","Active","Quad 2-Input OR Gate with TTL","OR","4","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74ACT32","MC74ACT32DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74ACT32DTR2G","http://www.onsemi.com/pub/Collateral/MC74AC32-D.PDF","Quad 2-Input OR Gate with TTL","Pb-free
+Halide free","Active","Quad 2-Input OR Gate with TTL","OR","4","4.5","5.5","9","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC00A","MC74HC00ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC00ADG","http://www.onsemi.com/pub/Collateral/MC74HC00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC00A","MC74HC00ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC00ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC00A","MC74HC00ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC00ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC00A","NLV74HC00ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC00ADG","http://www.onsemi.com/pub/Collateral/MC74HC00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC00A","NLV74HC00ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC00ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC00A","NLV74HC00ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC00ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC03A","MC74HC03ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC03ADG","http://www.onsemi.com/pub/Collateral/MC74HC03A-D.PDF","Quad 2-Input NAND Gate with Open Drain Outputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Quad 2-Input NAND Gate with Open Drain Outputs","NAND","4","2","6","24","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC03A","MC74HC03ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC03ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC03A-D.PDF","Quad 2-Input NAND Gate with Open Drain Outputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Quad 2-Input NAND Gate with Open Drain Outputs","NAND","4","2","6","24","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC03A","MC74HC03ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC03ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC03A-D.PDF","Quad 2-Input NAND Gate with Open Drain Outputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Quad 2-Input NAND Gate with Open Drain Outputs","NAND","4","2","6","24","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC03A","NLV74HC03ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC03ADG","http://www.onsemi.com/pub/Collateral/MC74HC03A-D.PDF","Quad 2-Input NAND Gate with Open Drain Outputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Quad 2-Input NAND Gate with Open Drain Outputs","NAND","4","2","6","24","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC03A","NLV74HC03ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC03ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC03A-D.PDF","Quad 2-Input NAND Gate with Open Drain Outputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Quad 2-Input NAND Gate with Open Drain Outputs","NAND","4","2","6","24","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC03A","NLV74HC03ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC03ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC03A-D.PDF","Quad 2-Input NAND Gate with Open Drain Outputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Quad 2-Input NAND Gate with Open Drain Outputs","NAND","4","2","6","24","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC08A","MC74HC08ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC08ADG","http://www.onsemi.com/pub/Collateral/MC74HC08A-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC08A","MC74HC08ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC08ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC08A-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC08A","MC74HC08ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC08ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC08A-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC08A","NLV74HC08ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC08ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC08A-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC08A","NLV74HC08ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC08ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC08A-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC11A","MC74HC11ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC11ADG","http://www.onsemi.com/pub/Collateral/MC74HC11A-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free
+AEC Qualified","Active","Triple 3-Input AND Gate","AND","3","2","6","16","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC11A","MC74HC11ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC11ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC11A-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free
+AEC Qualified","Active","Triple 3-Input AND Gate","AND","3","2","6","16","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC11A","MC74HC11ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC11ADTG","http://www.onsemi.com/pub/Collateral/MC74HC11A-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free
+AEC Qualified","Active","Triple 3-Input AND Gate","AND","3","2","6","16","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC11A","MC74HC11ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC11ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC11A-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free
+AEC Qualified","Active","Triple 3-Input AND Gate","AND","3","2","6","16","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC11A","NLV74HC11ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC11ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC11A-D.PDF","Triple 3-Input AND Gate","Pb-free
+Halide free
+AEC Qualified","Active","Triple 3-Input AND Gate","AND","3","2","6","16","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","MC74HC14ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC14ADG","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","MC74HC14ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC14ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","MC74HC14ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC14ADTG","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","MC74HC14ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC14ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","NLJ74HC14ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLJ74HC14ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","NLV74HC14ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC14ADG","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","NLV74HC14ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC14ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","NLV74HC14ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC14ADTG","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC14A","NLV74HC14ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC14ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC1G00","MC74HC1G00DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G00DFT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free
+PPAP Capable","Active","Single 2-Input NAND Gate","NAND","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G00","MC74HC1G00DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G00DFT2G","http://www.onsemi.com/pub/Collateral/MC74HC1G00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free
+PPAP Capable","Active","Single 2-Input NAND Gate","NAND","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G00","MC74HC1G00DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G00DTT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free
+PPAP Capable","Active","Single 2-Input NAND Gate","NAND","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G00","NLV74HC1G00DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC1G00DFT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free
+PPAP Capable","Active","Single 2-Input NAND Gate","NAND","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G04","MC74HC1G04DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G04DFT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G04-D.PDF","Single Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G04","MC74HC1G04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G04DFT2G","http://www.onsemi.com/pub/Collateral/MC74HC1G04-D.PDF","Single Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G04","MC74HC1G04DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G04DTT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G04-D.PDF","Single Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G04","NLVHC1G04DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVHC1G04DFT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G04-D.PDF","Single Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G04","NLVHC1G04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVHC1G04DFT2G","http://www.onsemi.com/pub/Collateral/MC74HC1G04-D.PDF","Single Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G14","MC74HC1G14DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G14DFT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G14","MC74HC1G14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G14DFT2G","http://www.onsemi.com/pub/Collateral/MC74HC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1G14","MC74HC1G14DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1G14DTT1G","http://www.onsemi.com/pub/Collateral/MC74HC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1GU04","MC74HC1GU04DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1GU04DFT1G","http://www.onsemi.com/pub/Collateral/MC74HC1GU04-D.PDF","Single Unbuffered Inverter","Pb-free
+Halide free","Active","Single Unbuffered Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1GU04","MC74HC1GU04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1GU04DFT2G","http://www.onsemi.com/pub/Collateral/MC74HC1GU04-D.PDF","Single Unbuffered Inverter","Pb-free
+Halide free","Active","Single Unbuffered Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC1GU04","MC74HC1GU04DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC1GU04DTT1G","http://www.onsemi.com/pub/Collateral/MC74HC1GU04-D.PDF","Single Unbuffered Inverter","Pb-free
+Halide free","Active","Single Unbuffered Inverter","Inverter","1","2","6","20","2","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74HC30A","MC74HC30ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC30ADG","http://www.onsemi.com/pub/Collateral/MC74HC30A-D.PDF","8-Input NAND Gate","Pb-free
+Halide free","Active","8-Input NAND Gate","NAND","1","2","6","30","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC30A","MC74HC30ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC30ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC30A-D.PDF","8-Input NAND Gate","Pb-free
+Halide free","Active","8-Input NAND Gate","NAND","1","2","6","30","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC30A","MC74HC30ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC30ADTG","http://www.onsemi.com/pub/Collateral/MC74HC30A-D.PDF","8-Input NAND Gate","Pb-free
+Halide free","Active","8-Input NAND Gate","NAND","1","2","6","30","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC30A","MC74HC30ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC30ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC30A-D.PDF","8-Input NAND Gate","Pb-free
+Halide free","Active","8-Input NAND Gate","NAND","1","2","6","30","5.2","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC86A","MC74HC86ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC86ADG","http://www.onsemi.com/pub/Collateral/MC74HC86A-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","20","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC86A","MC74HC86ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC86ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC86A-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","20","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC86A","MC74HC86ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HC86ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC86A-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","20","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC86A","NLV74HC86ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC86ADG","http://www.onsemi.com/pub/Collateral/MC74HC86A-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","20","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC86A","NLV74HC86ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC86ADR2G","http://www.onsemi.com/pub/Collateral/MC74HC86A-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","20","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HC86A","NLV74HC86ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HC86ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HC86A-D.PDF","Quad 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input Exclusive OR Gate","XOR","4","2","6","20","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT08A","MC74HCT08ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT08ADG","http://www.onsemi.com/pub/Collateral/MC74HCT08A-D.PDF","Quad 2-Input AND Gate with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate with LSTTL Compatible Inputs","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT08A","MC74HCT08ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT08ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT08A-D.PDF","Quad 2-Input AND Gate with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate with LSTTL Compatible Inputs","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT08A","MC74HCT08ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT08ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT08A-D.PDF","Quad 2-Input AND Gate with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate with LSTTL Compatible Inputs","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT08A","MC74HCT08ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT08ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT08A-D.PDF","Quad 2-Input AND Gate with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate with LSTTL Compatible Inputs","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT08A","NLV74HCT08ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HCT08ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT08A-D.PDF","Quad 2-Input AND Gate with LSTTL Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input AND Gate with LSTTL Compatible Inputs","AND","4","2","6","15","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT14A","MC74HCT14ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT14ADG","http://www.onsemi.com/pub/Collateral/MC74HCT14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT14A","MC74HCT14ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT14ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT14A","MC74HCT14ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT14ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT14A","NLV74HCT14ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HCT14ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT14A","NLV74HCT14ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74HCT14ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT14A-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","4.5","5.5","32","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT259A","MC74HCT259ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT259ADG","http://www.onsemi.com/pub/Collateral/MC74HCT259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","1","4.5","5.5","42","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT259A","MC74HCT259ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT259ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","1","4.5","5.5","42","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT259A","MC74HCT259ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT259ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","1","4.5","5.5","42","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT259A","MC74HCT259ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT259ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT259A-D.PDF","8-Bit Addressable Latch 1-of-8 Decoder","Pb-free
+Halide free","Active","8-Bit Addressable Latch 1-of-8 Decoder","Coder/Decoder","1","4.5","5.5","42","5.2","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT365A","MC74HCT365ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADG","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","Buffer","6","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT365A","MC74HCT365ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","Buffer","6","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT365A","MC74HCT365ADTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADTG","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","Buffer","6","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT365A","MC74HCT365ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT365ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT365A-D.PDF","Hex buffer/line driver, 3-state, TTL","Pb-free
+Halide free","Active","Hex buffer/line driver, 3-state, TTL","Buffer","6","4.5","5.5","12","6","SOIC-16
+TSSOP-16"
+"on","标准逻辑---逻辑门","MC74HCT86A","MC74HCT86ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT86ADG","http://www.onsemi.com/pub/Collateral/MC74HCT86A-D.PDF","Quad 2-Input Exclusive OR Gate with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Quad 2-Input Exclusive OR Gate with LSTTL Compatible Inputs","XOR","4","2","6","17","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT86A","MC74HCT86ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT86ADR2G","http://www.onsemi.com/pub/Collateral/MC74HCT86A-D.PDF","Quad 2-Input Exclusive OR Gate with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Quad 2-Input Exclusive OR Gate with LSTTL Compatible Inputs","XOR","4","2","6","17","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74HCT86A","MC74HCT86ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74HCT86ADTR2G","http://www.onsemi.com/pub/Collateral/MC74HCT86A-D.PDF","Quad 2-Input Exclusive OR Gate with LSTTL Compatible Inputs","Pb-free
+Halide free","Active","Quad 2-Input Exclusive OR Gate with LSTTL Compatible Inputs","XOR","4","2","6","17","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX00","MC74LCX00DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX00DG","http://www.onsemi.com/pub/Collateral/MC74LCX00-D.PDF","Low Voltage CMOS Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Quad 2-Input NAND Gate","NAND","4","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX00","MC74LCX00DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX00DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX00-D.PDF","Low Voltage CMOS Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Quad 2-Input NAND Gate","NAND","4","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX00","MC74LCX00DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX00DTG","http://www.onsemi.com/pub/Collateral/MC74LCX00-D.PDF","Low Voltage CMOS Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Quad 2-Input NAND Gate","NAND","4","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX00","MC74LCX00DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX00DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX00-D.PDF","Low Voltage CMOS Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Quad 2-Input NAND Gate","NAND","4","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX00","NLV74LCX00DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74LCX00DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX00-D.PDF","Low Voltage CMOS Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Quad 2-Input NAND Gate","NAND","4","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX04","MC74LCX04DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX04DG","http://www.onsemi.com/pub/Collateral/MC74LCX04-D.PDF","Low Voltage CMOS Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Hex Inverter","Inverter","6","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX04","MC74LCX04DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX04DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX04-D.PDF","Low Voltage CMOS Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Hex Inverter","Inverter","6","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX04","MC74LCX04DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX04DTG","http://www.onsemi.com/pub/Collateral/MC74LCX04-D.PDF","Low Voltage CMOS Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Hex Inverter","Inverter","6","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX04","MC74LCX04DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX04DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX04-D.PDF","Low Voltage CMOS Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Hex Inverter","Inverter","6","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX04","NLV74LCX04DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74LCX04DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX04-D.PDF","Low Voltage CMOS Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Voltage CMOS Hex Inverter","Inverter","6","2","3.6","5.2","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX14","MC74LCX14DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX14DG","http://www.onsemi.com/pub/Collateral/MC74LCX14-D.PDF","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Inverter","6","2","3.6","6.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX14","MC74LCX14DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX14DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX14-D.PDF","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Inverter","6","2","3.6","6.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX14","MC74LCX14DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX14DTG","http://www.onsemi.com/pub/Collateral/MC74LCX14-D.PDF","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Inverter","6","2","3.6","6.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX14","MC74LCX14DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX14DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX14-D.PDF","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Pb-free
+Halide free","Active","Low Voltage CMOS Hex Inverter with 5.0 V-Tolerant Input and Schmitt Trigger Input","Inverter","6","2","3.6","6.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX86","MC74LCX86DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX86DR2G","http://www.onsemi.com/pub/Collateral/MC74LCX86-D.PDF","Low Voltage CMOS Quad 2-Input XOR Gate","Pb-free
+Halide free","Active","Low Voltage CMOS Quad 2-Input XOR Gate","XOR","4","2","3.6","6.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LCX86","MC74LCX86DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LCX86DTR2G","http://www.onsemi.com/pub/Collateral/MC74LCX86-D.PDF","Low Voltage CMOS Quad 2-Input XOR Gate","Pb-free
+Halide free","Active","Low Voltage CMOS Quad 2-Input XOR Gate","XOR","4","2","3.6","6.5","24","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX00","MC74LVX00DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX00DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX00-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate","NAND","4","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX00","MC74LVX00DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX00DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX00-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate","NAND","4","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX04","MC74LVX04DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX04DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX04","MC74LVX04DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX04DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX132","MC74LVX132DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX132DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX132-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","NAND","4","2","3.6","15.4","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX132","MC74LVX132DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX132DTG","http://www.onsemi.com/pub/Collateral/MC74LVX132-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","NAND","4","2","3.6","15.4","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX132","MC74LVX132DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX132DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX132-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","NAND","4","2","3.6","15.4","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX32","MC74LVX32DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX32DR2G","http://www.onsemi.com/pub/Collateral/MC74LVX32-D.PDF","Quad 2-Input OR Gate","Pb-free
+Halide free","Active","Quad 2-Input OR Gate","OR","4","2","3.6","10.1","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVX32","MC74LVX32DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVX32DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVX32-D.PDF","Quad 2-Input OR Gate","Pb-free
+Halide free","Active","Quad 2-Input OR Gate","OR","4","2","3.6","10.1","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVXU04","MC74LVXU04DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXU04DG","http://www.onsemi.com/pub/Collateral/MC74LVXU04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVXU04","MC74LVXU04DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXU04DR2G","http://www.onsemi.com/pub/Collateral/MC74LVXU04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVXU04","MC74LVXU04DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXU04DTG","http://www.onsemi.com/pub/Collateral/MC74LVXU04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74LVXU04","MC74LVXU04DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74LVXU04DTR2G","http://www.onsemi.com/pub/Collateral/MC74LVXU04-D.PDF","Hex Inverter","Pb-free
+Halide free","Active","Hex Inverter","Inverter","6","2","3.6","9.7","4","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC02","MC74VHC02DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC02DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC02-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free","Active","Quad 2-Input NOR Gate","NOR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC02","MC74VHC02DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC02DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC02-D.PDF","Quad 2-Input NOR Gate","Pb-free
+Halide free","Active","Quad 2-Input NOR Gate","NOR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC08","MC74VHC08DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC08DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC08-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","2","5.5","7.9","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC08","MC74VHC08DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC08DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC08-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","2","5.5","7.9","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC14","MC74VHC14DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC14DG","http://www.onsemi.com/pub/Collateral/MC74VHC14-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","5.5","10.6","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC14","MC74VHC14DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC14DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC14-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","5.5","10.6","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC14","MC74VHC14DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC14DTG","http://www.onsemi.com/pub/Collateral/MC74VHC14-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","5.5","10.6","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC14","MC74VHC14DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC14DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC14-D.PDF","Hex Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Hex Inverter with Schmitt Trigger Input","Inverter","6","2","5.5","10.6","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC1G01","MC74VHC1G01DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G01DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G01-D.PDF","Single 2-Input NAND Gate, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate, Open Drain","NAND","1","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G01","MC74VHC1G01DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G01DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G01-D.PDF","Single 2-Input NAND Gate, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate, Open Drain","NAND","1","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G01","MC74VHC1G01DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G01DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G01-D.PDF","Single 2-Input NAND Gate, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate, Open Drain","NAND","1","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G01","NLV74VHC1G01DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHC1G01DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G01-D.PDF","Single 2-Input NAND Gate, Open Drain","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate, Open Drain","NAND","1","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G03","MC74VHC1G03DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G03DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G03-D.PDF","Single 2-Input NOR Gate, Open Drain","Pb-free
+Halide free","Active","Single 2-Input NOR Gate, Open Drain","NOR","1","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G03","MC74VHC1G03DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G03DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G03-D.PDF","Single 2-Input NOR Gate, Open Drain","Pb-free
+Halide free","Active","Single 2-Input NOR Gate, Open Drain","NOR","1","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G03","MC74VHC1G03DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G03DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G03-D.PDF","Single 2-Input NOR Gate, Open Drain","Pb-free
+Halide free","Active","Single 2-Input NOR Gate, Open Drain","NOR","1","2","5.5","7.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G08","MC74VHC1G08DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G08DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","2","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G08","MC74VHC1G08DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G08DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","2","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G08","MC74VHC1G08DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G08DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","2","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G08","NLV74VHC1G08DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHC1G08DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","2","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G08","NLVVHC1G08DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G08DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","2","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G08","NLVVHC1G08DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G08DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","2","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G132","M74VHC1G132DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1G132DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G132-D.PDF","Single 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate with Schmitt Trigger Input","NAND","1","2","5.5","9.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G132","M74VHC1G132DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1G132DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G132-D.PDF","Single 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate with Schmitt Trigger Input","NAND","1","2","5.5","9.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G132","M74VHC1G132DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1G132DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G132-D.PDF","Single 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate with Schmitt Trigger Input","NAND","1","2","5.5","9.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G132","NLVVHC1G132DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G132DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G132-D.PDF","Single 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate with Schmitt Trigger Input","NAND","1","2","5.5","9.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G132","NLVVHC1G132DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G132DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G132-D.PDF","Single 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate with Schmitt Trigger Input","NAND","1","2","5.5","9.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G132","NLVVHC1G132DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G132DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G132-D.PDF","Single 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NAND Gate with Schmitt Trigger Input","NAND","1","2","5.5","9.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G14","MC74VHC1G14DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G14DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G14","MC74VHC1G14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G14DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G14","MC74VHC1G14DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G14DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G14","NLVVHC1G14DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G14DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G14","NLVVHC1G14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G14DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G14-D.PDF","Single Inverter, Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Inverter, Schmitt Trigger Input","Inverter","1","2","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G86","MC74VHC1G86DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G86DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input Exclusive OR Gate","XOR/XNOR","1","2","5.5","8.8","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G86","MC74VHC1G86DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G86DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1G86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input Exclusive OR Gate","XOR/XNOR","1","2","5.5","8.8","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G86","MC74VHC1G86DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC1G86DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input Exclusive OR Gate","XOR/XNOR","1","2","5.5","8.8","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1G86","NLVVHC1G86DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1G86DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1G86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input Exclusive OR Gate","XOR/XNOR","1","2","5.5","8.8","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT02","M74VHC1GT02DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT02DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT02-D.PDF","Single 2-Input NOR Gate TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NOR Gate TTL Level","NOR","1","3","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT02","M74VHC1GT02DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT02DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT02-D.PDF","Single 2-Input NOR Gate TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NOR Gate TTL Level","NOR","1","3","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT02","M74VHC1GT02DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT02DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT02-D.PDF","Single 2-Input NOR Gate TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NOR Gate TTL Level","NOR","1","3","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT02","NLV74VHC1GT02DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHC1GT02DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT02-D.PDF","Single 2-Input NOR Gate TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NOR Gate TTL Level","NOR","1","3","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT02","NLVVHC1GT02DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1GT02DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT02-D.PDF","Single 2-Input NOR Gate TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input NOR Gate TTL Level","NOR","1","3","5.5","7.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT08","M74VHC1GT08DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT08DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT08-D.PDF","Single 2-Input AND Gate, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate, TTL Level","AND","1","3","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT08","M74VHC1GT08DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT08DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT08-D.PDF","Single 2-Input AND Gate, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate, TTL Level","AND","1","3","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT08","M74VHC1GT08DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT08DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT08-D.PDF","Single 2-Input AND Gate, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate, TTL Level","AND","1","3","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT08","NLVVHC1GT08DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1GT08DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT08-D.PDF","Single 2-Input AND Gate, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate, TTL Level","AND","1","3","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT08","NLVVHC1GT08DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1GT08DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT08-D.PDF","Single 2-Input AND Gate, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate, TTL Level","AND","1","3","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT08","NLVVHC1GT08DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLVVHC1GT08DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT08-D.PDF","Single 2-Input AND Gate, TTL Level","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate, TTL Level","AND","1","3","5.5","7.9","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT14","M74VHC1GT14DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT14DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT14-D.PDF","Single Inverter with TTL Level Input, Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter with TTL Level Input, Schmitt Trigger Input","Inverter","1","3","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT14","M74VHC1GT14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT14DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT14-D.PDF","Single Inverter with TTL Level Input, Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter with TTL Level Input, Schmitt Trigger Input","Inverter","1","3","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT14","M74VHC1GT14DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT14DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT14-D.PDF","Single Inverter with TTL Level Input, Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter with TTL Level Input, Schmitt Trigger Input","Inverter","1","3","5.5","10.6","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT86","M74VHC1GT86DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT86DFT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT86-D.PDF","Single 2-Input Exclusive OR Gate, TTL Level","Pb-free
+Halide free","Active","Single 2-Input Exclusive OR Gate, TTL Level","XOR","1","3","5.5","8.8","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT86","M74VHC1GT86DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT86DFT2G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT86-D.PDF","Single 2-Input Exclusive OR Gate, TTL Level","Pb-free
+Halide free","Active","Single 2-Input Exclusive OR Gate, TTL Level","XOR","1","3","5.5","8.8","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC1GT86","M74VHC1GT86DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M74VHC1GT86DTT1G","http://www.onsemi.com/pub/Collateral/MC74VHC1GT86-D.PDF","Single 2-Input Exclusive OR Gate, TTL Level","Pb-free
+Halide free","Active","Single 2-Input Exclusive OR Gate, TTL Level","XOR","1","3","5.5","8.8","8","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","标准逻辑---逻辑门","MC74VHC32","MC74VHC32DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC32DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC32-D.PDF","2-1 Quad OR Gate","Pb-free
+Halide free","Active","2-1 Quad OR Gate","OR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC32","MC74VHC32DTG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC32DTG","http://www.onsemi.com/pub/Collateral/MC74VHC32-D.PDF","2-1 Quad OR Gate","Pb-free
+Halide free","Active","2-1 Quad OR Gate","OR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHC32","MC74VHC32DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHC32DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHC32-D.PDF","2-1 Quad OR Gate","Pb-free
+Halide free","Active","2-1 Quad OR Gate","OR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT00A","MC74VHCT00ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT00ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","5.5","7.9","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT00A","MC74VHCT00ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT00ADTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","5.5","7.9","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT00A","NLV74VHCT00ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHCT00ADTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT00A-D.PDF","Quad 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input NAND Gate","NAND","4","3","5.5","7.9","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT04A","MC74VHCT04ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT04ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT04A-D.PDF","Hex Inverter with LSTTL-Compatible Inputs","Pb-free
+Halide free","Active","Hex Inverter with LSTTL-Compatible Inputs","Inverter","6","4.5","5.5","7.7","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT04A","MC74VHCT04ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT04ADTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT04A-D.PDF","Hex Inverter with LSTTL-Compatible Inputs","Pb-free
+Halide free","Active","Hex Inverter with LSTTL-Compatible Inputs","Inverter","6","4.5","5.5","7.7","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT132A","MC74VHCT132ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT132ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT132A-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","NAND","4","4.5","5.5","9.7","8","SOIC-16
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT132A","MC74VHCT132ADTRG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT132ADTRG","http://www.onsemi.com/pub/Collateral/MC74VHCT132A-D.PDF","Quad 2-Input NAND Gate with Schmitt Trigger Input","Pb-free
+Halide free","Active","Quad 2-Input NAND Gate with Schmitt Trigger Input","NAND","4","4.5","5.5","9.7","8","SOIC-16
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT32A","MC74VHCT32ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT32ADR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT32A-D.PDF","Quad 2-Input OR Gate / CMOS Logic Level Shifter with LSTTL-Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input OR Gate / CMOS Logic Level Shifter with LSTTL-Compatible Inputs","OR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT32A","MC74VHCT32ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCT32ADTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT32A-D.PDF","Quad 2-Input OR Gate / CMOS Logic Level Shifter with LSTTL-Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input OR Gate / CMOS Logic Level Shifter with LSTTL-Compatible Inputs","OR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCT32A","NLV74VHCT32ADTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHCT32ADTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCT32A-D.PDF","Quad 2-Input OR Gate / CMOS Logic Level Shifter with LSTTL-Compatible Inputs","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Quad 2-Input OR Gate / CMOS Logic Level Shifter with LSTTL-Compatible Inputs","OR","4","2","5.5","7.5","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCU04","MC74VHCU04DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCU04DR2G","http://www.onsemi.com/pub/Collateral/MC74VHCU04-D.PDF","Unbuffered Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Unbuffered Hex Inverter","Inverter","6","2","5.5","7","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCU04","MC74VHCU04DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC74VHCU04DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCU04-D.PDF","Unbuffered Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Unbuffered Hex Inverter","Inverter","6","2","5.5","7","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","MC74VHCU04","NLV74VHCU04DTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV74VHCU04DTR2G","http://www.onsemi.com/pub/Collateral/MC74VHCU04-D.PDF","Unbuffered Hex Inverter","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Unbuffered Hex Inverter","Inverter","6","2","5.5","7","8","SOIC-14
+TSSOP-14"
+"on","标准逻辑---逻辑门","NL17SG02","NL17SG02AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG02AMUTCG","http://www.onsemi.com/pub/Collateral/NL17SG02-D.PDF","Single 2-Input NOR Gate","AEC Qualified
+Pb-free
+Halide free","Active","Single 2-Input NOR Gate","NOR","1","0.9","4.6","3.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG02","NL17SG02DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG02DFT2G","http://www.onsemi.com/pub/Collateral/NL17SG02-D.PDF","Single 2-Input NOR Gate","AEC Qualified
+Pb-free
+Halide free","Active","Single 2-Input NOR Gate","NOR","1","0.9","4.6","3.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG02","NL17SG02P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG02P5T5G","http://www.onsemi.com/pub/Collateral/NL17SG02-D.PDF","Single 2-Input NOR Gate","AEC Qualified
+Pb-free
+Halide free","Active","Single 2-Input NOR Gate","NOR","1","0.9","4.6","3.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG07","NL17SG07AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG07AMUTCG","http://www.onsemi.com/pub/Collateral/NL17SG07-D.PDF","Buffer with Open-Drain Output","AEC Qualified
+Pb-free
+Halide free","Active","Buffer with Open-Drain Output","Buffer","1","0.9","3.6","2.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG07","NL17SG07DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG07DFT2G","http://www.onsemi.com/pub/Collateral/NL17SG07-D.PDF","Buffer with Open-Drain Output","AEC Qualified
+Pb-free
+Halide free","Active","Buffer with Open-Drain Output","Buffer","1","0.9","3.6","2.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG07","NL17SG07P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG07P5T5G","http://www.onsemi.com/pub/Collateral/NL17SG07-D.PDF","Buffer with Open-Drain Output","AEC Qualified
+Pb-free
+Halide free","Active","Buffer with Open-Drain Output","Buffer","1","0.9","3.6","2.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG125","NL17SG125DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG125DFT2G","http://www.onsemi.com/pub/Collateral/NL17SG125-D.PDF","Bus Buffer with 3-State","Pb-free
+Halide free","Active","Bus Buffer with 3-State","Buffer","1","0.9","4.6","3.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SG125","NL17SG125P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG125P5T5G","http://www.onsemi.com/pub/Collateral/NL17SG125-D.PDF","Bus Buffer with 3-State","Pb-free
+Halide free","Active","Bus Buffer with 3-State","Buffer","1","0.9","4.6","3.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SG14","NL17SG14AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG14AMUTCG","http://www.onsemi.com/pub/Collateral/NL17SG14-D.PDF","Schmitt Inverter","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schmitt Inverter","Inverter","1","0.9","3.6","2.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG14","NL17SG14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG14DFT2G","http://www.onsemi.com/pub/Collateral/NL17SG14-D.PDF","Schmitt Inverter","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schmitt Inverter","Inverter","1","0.9","3.6","2.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG14","NL17SG14P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG14P5T5G","http://www.onsemi.com/pub/Collateral/NL17SG14-D.PDF","Schmitt Inverter","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schmitt Inverter","Inverter","1","0.9","3.6","2.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG14","NLV17SG14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SG14DFT2G","http://www.onsemi.com/pub/Collateral/NL17SG14-D.PDF","Schmitt Inverter","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Schmitt Inverter","Inverter","1","0.9","3.6","2.5","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG32","NL17SG32AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG32AMUTCG","http://www.onsemi.com/pub/Collateral/NL17SG32-D.PDF","Single 2-Input OR Gate","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","Single 2-Input OR Gate","OR
+OR/NOR","1","0.9","4.6","3.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG32","NL17SG32CMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG32CMUTCG","http://www.onsemi.com/pub/Collateral/NL17SG32-D.PDF","Single 2-Input OR Gate","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","Single 2-Input OR Gate","OR
+OR/NOR","1","0.9","4.6","3.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG32","NL17SG32DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG32DFT2G","http://www.onsemi.com/pub/Collateral/NL17SG32-D.PDF","Single 2-Input OR Gate","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","Single 2-Input OR Gate","OR
+OR/NOR","1","0.9","4.6","3.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG32","NL17SG32P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG32P5T5G","http://www.onsemi.com/pub/Collateral/NL17SG32-D.PDF","Single 2-Input OR Gate","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","Single 2-Input OR Gate","OR
+OR/NOR","1","0.9","4.6","3.7","8","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG86","NL17SG86AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG86AMUTCG","http://www.onsemi.com/pub/Collateral/NL17SG86-D.PDF","Single 2-Input XOR Gate","AEC Qualified
+Pb-free
+Halide free","Active","Single 2-Input XOR Gate","XOR
+XOR/XNOR","1","0.9","4.6","6.6","3","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG86","NL17SG86DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG86DFT2G","http://www.onsemi.com/pub/Collateral/NL17SG86-D.PDF","Single 2-Input XOR Gate","AEC Qualified
+Pb-free
+Halide free","Active","Single 2-Input XOR Gate","XOR
+XOR/XNOR","1","0.9","4.6","6.6","3","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SG86","NL17SG86P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SG86P5T5G","http://www.onsemi.com/pub/Collateral/NL17SG86-D.PDF","Single 2-Input XOR Gate","AEC Qualified
+Pb-free
+Halide free","Active","Single 2-Input XOR Gate","XOR
+XOR/XNOR","1","0.9","4.6","6.6","3","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953
+UDFN-6"
+"on","标准逻辑---逻辑门","NL17SH00","NL17SH00P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SH00P5T5G","http://www.onsemi.com/pub/Collateral/NL17SH00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free","Active","Single 2-Input NAND Gate","NAND","1","2","5.5","3","8","SOT-953"
+"on","标准逻辑---逻辑门","NL17SH04","NL17SH04P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SH04P5T5G","http://www.onsemi.com/pub/Collateral/NL17SH04-D.PDF","Single Inverter","Pb-free
+Halide free","Active","Single Inverter","Inverter","1","2","5.5","3.5","8","SOT-953"
+"on","标准逻辑---逻辑门","NL17SH125","NL17SH125P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SH125P5T5G","http://www.onsemi.com/pub/Collateral/NL17SH125-D.PDF","Non-Inverting 3-State Buffer","Pb-free
+Halide free","Active","Non-Inverting 3-State Buffer","Buffer","1","1.65","5.5","3.8","8","SOT-953"
+"on","标准逻辑---逻辑门","NL17SH14","NL17SH14P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SH14P5T5G","http://www.onsemi.com/pub/Collateral/NL17SH14-D.PDF","Single Schmitt-Trigger Inverter","Pb-free
+Halide free","Active","Single Schmitt-Trigger Inverter","Inverter","1","1.65","5.5","4","8","SOT-953"
+"on","标准逻辑---逻辑门","NL17SH32","NL17SH32P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SH32P5T5G","http://www.onsemi.com/pub/Collateral/NL17SH32-D.PDF","NL17SH32 Single 2-Input OR Gate","Pb-free
+Halide free","Active","NL17SH32 Single 2-Input OR Gate","OR","1","2","5.5","3.7","8","SOT-953"
+"on","标准逻辑---逻辑门","NL17SHT00","NL17SHT00P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SHT00P5T5G","http://www.onsemi.com/pub/Collateral/NL17SHT00-D.PDF","SINGLE 2-INPUT NAND GATE","Pb-free
+Halide free","Active","SINGLE 2-INPUT NAND GATE","NAND","1","3","5.5","6.9","10","SOT-953"
+"on","标准逻辑---逻辑门","NL17SHT08","NL17SHT08P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SHT08P5T5G","http://www.onsemi.com/pub/Collateral/NL17SHT08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free","Active","Single 2-Input AND Gate","AND","1","3","5.5","5.9","4","SOT-953"
+"on","标准逻辑---逻辑门","NL17SHT32","NL17SHT32P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SHT32P5T5G","http://www.onsemi.com/pub/Collateral/NL17SHT32-D.PDF","Single 2-Input OR Gate","Pb-free
+Halide free","Active","Single 2-Input OR Gate","OR","1","3","5.5","7.5","4","SOT-953"
+"on","标准逻辑---逻辑门","NL17SV02","NL17SV02XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SV02XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SV02-D.PDF","Single 2-Input NOR Gate, Ultra-Low Voltage","Pb-free
+Halide free","Active"," Single 2-Input NOR Gate, Ultra-Low Voltage","NOR","1","0.9","3.6","3.3","50","SOT-553"
+"on","标准逻辑---逻辑门","NL17SV08XV5T2","NL17SV08XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SV08XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SV08-D.PDF","2-Input AND Gate, Ultra-Low Voltage","Pb-free
+Halide free","Active"," 2-Input AND Gate, Ultra-Low Voltage","AND","1","0.9","3.6","1","24","SOT-553"
+"on","标准逻辑---逻辑门","NL17SZ00","NL17SZ00DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ00DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free","Active","Single 2-Input NAND Gate","NAND","1","1.65","5.5","4.3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ00","NL17SZ00P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ00P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free","Active","Single 2-Input NAND Gate","NAND","1","1.65","5.5","4.3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ00","NL17SZ00XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ00XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ00-D.PDF","Single 2-Input NAND Gate","Pb-free
+Halide free","Active","Single 2-Input NAND Gate","NAND","1","1.65","5.5","4.3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ04","NL17SZ04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ04DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter","Inverter","1","1.65","5.5","4.3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ04","NL17SZ04P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ04P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter","Inverter","1","1.65","5.5","4.3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ04","NL17SZ04XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ04XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter","Inverter","1","1.65","5.5","4.3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ04","NLV17SZ04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ04DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ04-D.PDF","Single Inverter, Automotive Device","Pb-free
+Halide free
+PPAP Capable","Active","Single Inverter","Inverter","1","1.65","5.5","4.3","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ08","NL17SZ08DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ08DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","1.65","5.5","4.5","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ08","NL17SZ08P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ08P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","1.65","5.5","4.5","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ08","NL17SZ08XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ08XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ08-D.PDF","Single 2-Input AND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","1.65","5.5","4.5","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ08","NLV17SZ08DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ08DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ08-D.PDF","Single 2-Input AND Gate, Automotive Version","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input AND Gate","AND","1","1.65","5.5","4.5","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ17","NL17SZ17DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ17DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ17-D.PDF","Single Non-Inverting Buffer with Schmitt Trigger Output","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer with Schmitt Trigger Output","Buffer","1","1.65","5.5","4.9","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ17","NL17SZ17P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ17P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ17-D.PDF","Single Non-Inverting Buffer with Schmitt Trigger Output","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer with Schmitt Trigger Output","Buffer","1","1.65","5.5","4.9","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ17","NL17SZ17XV5T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ17XV5T2G","http://www.onsemi.com/pub/Collateral/NL17SZ17-D.PDF","Single Non-Inverting Buffer with Schmitt Trigger Output","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer with Schmitt Trigger Output","Buffer","1","1.65","5.5","4.9","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ17","NLV17SZ17DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ17DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ17-D.PDF","Single Non-Inverting Buffer with Schmitt Trigger Output, Automotive Device","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single Non-Inverting Buffer with Schmitt Trigger Output","Buffer","1","1.65","5.5","4.9","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-553
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ86","NL17SZ86DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ86DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input Exclusive OR Gate","XOR","1","1.65","5.5","4.2","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ86","NL17SZ86P5T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL17SZ86P5T5G","http://www.onsemi.com/pub/Collateral/NL17SZ86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input Exclusive OR Gate","XOR","1","1.65","5.5","4.2","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953"
+"on","标准逻辑---逻辑门","NL17SZ86","NLV17SZ86DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV17SZ86DFT2G","http://www.onsemi.com/pub/Collateral/NL17SZ86-D.PDF","Single 2-Input Exclusive OR Gate, Automotive Device","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Single 2-Input Exclusive OR Gate","XOR","1","1.65","5.5","4.2","24","SC-88A-5 / SC-70-5 / SOT-323-5
+SOT-953"
+"on","标准逻辑---逻辑门","NL27WZ00","NL27WZ00USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ00USG","http://www.onsemi.com/pub/Collateral/NL27WZ00-D.PDF","Dual 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual 2-Input NAND Gate","NAND","2","1.65","5.5","3.6","32","US8"
+"on","标准逻辑---逻辑门","NL27WZ00","NLV27WZ00USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV27WZ00USG","http://www.onsemi.com/pub/Collateral/NL27WZ00-D.PDF","Dual 2-Input NAND Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual 2-Input NAND Gate","NAND","2","1.65","5.5","3.6","32","US8"
+"on","标准逻辑---逻辑门","NL27WZ04","NL27WZ04DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ04DFT1G","http://www.onsemi.com/pub/Collateral/NL27WZ04-D.PDF","Dual Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Dual Inverter","Inverter","2","1.65","5.5","3.6","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ04","NL27WZ04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ04DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ04-D.PDF","Dual Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Dual Inverter","Inverter","2","1.65","5.5","3.6","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ04","NL27WZ04DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ04DTT1G","http://www.onsemi.com/pub/Collateral/NL27WZ04-D.PDF","Dual Inverter","Pb-free
+Halide free
+PPAP Capable","Active","Dual Inverter","Inverter","2","1.65","5.5","3.6","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ04","NLV27WZ04DFT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV27WZ04DFT1G","http://www.onsemi.com/pub/Collateral/NL27WZ04-D.PDF","Dual Inverter, Automotive Device","Pb-free
+Halide free
+PPAP Capable","Active","Dual Inverter","Inverter","2","1.65","5.5","3.6","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ04","NLV27WZ04DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV27WZ04DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ04-D.PDF","Dual Inverter, Automotive Device","Pb-free
+Halide free
+PPAP Capable","Active","Dual Inverter","Inverter","2","1.65","5.5","3.6","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ14","NL27WZ14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ14DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ14-D.PDF","Dual Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Inverter with Schmitt Trigger Input","Inverter","2","1.65","5.5","4.9","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ14","NL27WZ14DTT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ14DTT1G","http://www.onsemi.com/pub/Collateral/NL27WZ14-D.PDF","Dual Inverter with Schmitt Trigger Input","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Inverter with Schmitt Trigger Input","Inverter","2","1.65","5.5","4.9","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ14","NLV27WZ14DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV27WZ14DFT2G","http://www.onsemi.com/pub/Collateral/NL27WZ14-D.PDF","Dual Inverter with Schmitt Trigger Input, Automotive Device","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Dual Inverter with Schmitt Trigger Input","Inverter","2","1.65","5.5","4.9","32","SC-88-6 / SC-70-6 / SOT-363-6
+TSOP-6"
+"on","标准逻辑---逻辑门","NL27WZ86","NL27WZ86USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL27WZ86USG","http://www.onsemi.com/pub/Collateral/NL27WZ86-D.PDF","Dual 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual 2-Input Exclusive OR Gate","XOR","2","1.65","5.5","4.2","32","US8"
+"on","标准逻辑---逻辑门","NL27WZ86","NLV27WZ86USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLV27WZ86USG","http://www.onsemi.com/pub/Collateral/NL27WZ86-D.PDF","Dual 2-Input Exclusive OR Gate","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Dual 2-Input Exclusive OR Gate","XOR","2","1.65","5.5","4.2","32","US8"
+"on","标准逻辑---逻辑门","NL37WZ04","NL37WZ04USG","http://www.onsemi.cn/PowerSolutions/product.do?id=NL37WZ04USG","http://www.onsemi.com/pub/Collateral/NL37WZ04-D.PDF","Triple Inverter","Pb-free
+Halide free","Active","Triple Inverter","Inverter","3","1.65","5.5","3.6","32","US8"
+"on","标准逻辑---逻辑门","NL7SZ57","NL7SZ57DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL7SZ57DFT2G","http://www.onsemi.com/pub/Collateral/NL7SZ57-D.PDF","Configurable Multifunction Gate (9 Selectable Functions)","Pb-free
+Halide free","Active","Configurable Multifunction Gate (9 Selectable Functions)","SmartGate","1","1.65","5.5","2.5","32","SC-88-6 / SC-70-6 / SOT-363-6"
+"on","标准逻辑---逻辑门","NL7SZ97","NL7SZ97DFT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NL7SZ97DFT2G","http://www.onsemi.com/pub/Collateral/NL7SZ97-D.PDF","Flexible Choice Logic (9 Configurable Functions)","Pb-free
+Halide free","Active","Flexible Choice Logic (9 Configurable Functions)","SmartGate","3","1.65","5.5","2.5","32","SC-88-6 / SC-70-6 / SOT-363-6"
+"on","标准逻辑---逻辑门","NLSF308","NLSF308MNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NLSF308MNR2G","http://www.onsemi.com/pub/Collateral/NLSF308-D.PDF","Quad 2-Input AND Gate","Pb-free
+Halide free","Active","Quad 2-Input AND Gate","AND","4","2","5.5","7.9","8","QFN-16"
+"on","标准逻辑---逻辑门","NLU1G04","NLU1G04MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1G04MUTCG","http://www.onsemi.com/pub/Collateral/NLU1G04-D.PDF","Single Inverter","Pb-free
+Halide free","Active","Single Inverter","Inverter","1","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU1G14","NLU1G14MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1G14MUTCG","http://www.onsemi.com/pub/Collateral/NLU1G14-D.PDF","Single Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter with Schmitt Trigger Input","Inverter","1","1.65","5.5","8.6","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU1G86","NLU1G86AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1G86AMUTCG","http://www.onsemi.com/pub/Collateral/NLU1G86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free","Active","Single 2-Input Exclusive OR Gate","XOR
+XOR/XNOR","1","1.65","5.5","6.8","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU1G86","NLU1G86MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1G86MUTCG","http://www.onsemi.com/pub/Collateral/NLU1G86-D.PDF","Single 2-Input Exclusive OR Gate","Pb-free
+Halide free","Active","Single 2-Input Exclusive OR Gate","XOR
+XOR/XNOR","1","1.65","5.5","6.8","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU1GT14","NLU1GT14AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT14AMUTCG","http://www.onsemi.com/pub/Collateral/NLU1GT14-D.PDF","Single Inverter with LSTTL-Compatible Input and Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter with LSTTL-Compatible Input and Schmitt Trigger Input","Inverter","1","1.65","5.5","8.6","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU1GT14","NLU1GT14MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT14MUTCG","http://www.onsemi.com/pub/Collateral/NLU1GT14-D.PDF","Single Inverter with LSTTL-Compatible Input and Schmitt Trigger Input","Pb-free
+Halide free","Active","Single Inverter with LSTTL-Compatible Input and Schmitt Trigger Input","Inverter","1","1.65","5.5","8.6","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU1GT86","NLU1GT86MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU1GT86MUTCG","http://www.onsemi.com/pub/Collateral/NLU1GT86-D.PDF","Single 2-Input Exclusive OR Gate, TTL-Level","Pb-free
+Halide free","Active","Single 2-Input Exclusive OR Gate, TTL-Level","XOR","1","1.65","5.5","6.8","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU2G04","NLU2G04AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G04AMUTCG","http://www.onsemi.com/pub/Collateral/NLU2G04-D.PDF","Dual Inverter","Pb-free
+Halide free","Active","Dual Inverter","Inverter","2","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU2G04","NLU2G04CMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G04CMUTCG","http://www.onsemi.com/pub/Collateral/NLU2G04-D.PDF","Dual Inverter","Pb-free
+Halide free","Active","Dual Inverter","Inverter","2","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU2G04","NLU2G04MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G04MUTCG","http://www.onsemi.com/pub/Collateral/NLU2G04-D.PDF","Dual Inverter","Pb-free
+Halide free","Active","Dual Inverter","Inverter","2","1.65","5.5","5.5","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU2G14","NLU2G14MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU2G14MUTCG","http://www.onsemi.com/pub/Collateral/NLU2G14-D.PDF","Dual Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Dual Inverter with Schmitt Trigger Input","Inverter","2","1.65","5.5","8.6","8","UDFN-6"
+"on","标准逻辑---逻辑门","NLU3G14","NLU3G14MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLU3G14MUTAG","http://www.onsemi.com/pub/Collateral/NLU3G14-D.PDF","Triple Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Triple Inverter with Schmitt Trigger Input","Inverter","3","1.65","5.5","8.6","8","UDFN-8"
+"on","标准逻辑---逻辑门","NLX1G332","NLX1G332AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX1G332AMUTCG","http://www.onsemi.com/pub/Collateral/NLX1G332-D.PDF","3-Input OR Gate","Pb-free
+Halide free","Active","3-Input OR Gate","OR","1","1.65","5.5","8","24","UDFN-6"
+"on","标准逻辑---逻辑门","NLX1G97","NLX1G97MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX1G97MUTCG","http://www.onsemi.com/pub/Collateral/NLX1G97-D.PDF","Flexible Choice Logic (9 Configurable Functions), Flexible Choice Logic","Pb-free
+Halide free","Active","Flexible Choice Logic (9 Configurable Functions)","SmartGate","1","1.65","5.5","6.3","24","UDFN-6"
+"on","标准逻辑---逻辑门","NLX2G04","NLX2G04AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G04AMUTCG","http://www.onsemi.com/pub/Collateral/NLX2G04-D.PDF","Dual Inverter","Pb-free
+Halide free","Active","Dual Inverter","Inverter","2","1.65","5.5","1.8","24","UDFN-6
+ULLGA-6"
+"on","标准逻辑---逻辑门","NLX2G04","NLX2G04BMX1TCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G04BMX1TCG","http://www.onsemi.com/pub/Collateral/NLX2G04-D.PDF","Dual Inverter","Pb-free
+Halide free","Active","Dual Inverter","Inverter","2","1.65","5.5","1.8","24","UDFN-6
+ULLGA-6"
+"on","标准逻辑---逻辑门","NLX2G14","NLX2G14AMUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G14AMUTCG","http://www.onsemi.com/pub/Collateral/NLX2G14-D.PDF","Dual Inverter with Schmitt Trigger Input, Dual Inverter with Schmitt Trigger Input","Pb-free
+Halide free","Active","Dual Inverter with Schmitt Trigger Input","Inverter","2","1.65","5.5","4.9","32","UDFN-6"
+"on","标准逻辑---逻辑门","NLX2G86","NLX2G86MUTCG","http://www.onsemi.cn/PowerSolutions/product.do?id=NLX2G86MUTCG","http://www.onsemi.com/pub/Collateral/NLX2G86-D.PDF","Dual 2-Input Exclusive OR Gate","Pb-free
+Halide free","Active","Dual 2-Input Exclusive OR Gate","XOR","2","1.65","5.5","4.8","24","UQFN-8"

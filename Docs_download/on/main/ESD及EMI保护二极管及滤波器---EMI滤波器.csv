@@ -1,0 +1,200 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Interface","Number of Lines","Filter Type","R Typ (Ohms)","C Typ (pF)","IR Max (microA)","V(BR) Typ (V)","VRWM Max (V)","Package Type"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1402","CM1402-03CP","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1402-03CP","http://www.onsemi.com/pub/Collateral/CM1402-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","SIM Card","4","R-C","100","20","1","6.8","3.3","WLCSP-10"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1442","CM1442-06CP","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1442-06CP","http://www.onsemi.com/pub/Collateral/CM1442-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","Display Port
+General I/O","6
+8","R-C","100","30","1","6.8","3.3","WLCSP-15"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1442","CM1442-08CP","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1442-08CP","http://www.onsemi.com/pub/Collateral/CM1442-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","Display Port
+General I/O","6
+8","R-C","100","30","1","6.8","3.3","WLCSP-15"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1457","CM1457-04CP","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1457-04CP","http://www.onsemi.com/pub/Collateral/CM1457-D.PDF","EMI Filter, 4,6 and 8-Channel, with ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 4,6 and 8-Channel, with ESD Protection","Display Port
+General I/O","4
+6
+8","L-C","45","12.5","0.5","6.8","3.3","WLCSP-10
+WLCSP-15
+WLCSP-20"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1457","CM1457-06CP","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1457-06CP","http://www.onsemi.com/pub/Collateral/CM1457-D.PDF","EMI Filter, 4,6 and 8-Channel, with ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 4,6 and 8-Channel, with ESD Protection","Display Port
+General I/O","4
+6
+8","L-C","45","12.5","0.5","6.8","3.3","WLCSP-10
+WLCSP-15
+WLCSP-20"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1457","CM1457-08CP","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1457-08CP","http://www.onsemi.com/pub/Collateral/CM1457-D.PDF","EMI Filter, 4,6 and 8-Channel, with ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 4,6 and 8-Channel, with ESD Protection","Display Port
+General I/O","4
+6
+8","L-C","45","12.5","0.5","6.8","3.3","WLCSP-10
+WLCSP-15
+WLCSP-20"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1693","CM1693-04DE","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1693-04DE","http://www.onsemi.com/pub/Collateral/CM1693-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","Display Port","4
+8","L-C","2.3","22","1","6.8","3.3","UDFN-16
+UDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CM1693","CM1693-08DE","http://www.onsemi.cn/PowerSolutions/product.do?id=CM1693-08DE","http://www.onsemi.com/pub/Collateral/CM1693-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","Display Port","4
+8","L-C","2.3","22","1","6.8","3.3","UDFN-16
+UDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CSPEMI202A","CSPEMI202AG","http://www.onsemi.cn/PowerSolutions/product.do?id=CSPEMI202AG","-","EMI Filter with ESD Protection, Headset Microphone","Pb-free
+Halide free","ActiveNEW","EMI Filter with ESD Protection, Headset Microphone","Audio
+General I/O","2","R-C","68
+68Ω","94","1","6.8","5","WLCSP-5
+WLCSP5 1.41x0.94"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","CSPEMI202A","CSPEMI202FCTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=CSPEMI202FCTAG","-","EMI Filter with ESD Protection, Headset Microphone, 2CH Audio Filter","Pb-free
+Halide free","ActiveNEW","EMI Filter with ESD Protection, Headset Microphone","Audio
+General I/O","2","R-C","68
+68Ω","94","1","6.8","5","WLCSP-5
+WLCSP5 1.41x0.94"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI2121","EMI2121MTTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI2121MTTAG","http://www.onsemi.com/pub/Collateral/EMI2121MT-D.PDF","EMI Common Mode Filter with ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","EMI Common Mode Filter with ESD Protection","USB 2.0","3","Common Mode","8","0.8","1","7.25","5","WDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI2121","SZEMI2121MTTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=SZEMI2121MTTAG","http://www.onsemi.com/pub/Collateral/EMI2121MT-D.PDF","EMI Common Mode Filter with ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","EMI Common Mode Filter with ESD Protection","USB 2.0","3","Common Mode","8","0.8","1","7.25","5","WDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI2180","EMI2180MTTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI2180MTTBG","http://www.onsemi.com/pub/Collateral/EMI2180-D.PDF","EMI Common Mode Filter with ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","EMI Common Mode Filter with ESD Protection","Display Port
+HDMI 1.3/1.4","2","Common Mode","3.5","2","1","7.8","9","WDFN-6"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI2180","SZEMI2180MTTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=SZEMI2180MTTBG","http://www.onsemi.com/pub/Collateral/EMI2180-D.PDF","EMI Common Mode Filter with ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","EMI Common Mode Filter with ESD Protection","Display Port
+HDMI 1.3/1.4","2","Common Mode","3.5","2","1","7.8","9","WDFN-6"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI4172","EMI4172MTTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI4172MTTAG","http://www.onsemi.com/pub/Collateral/EMI4172-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","DVI
+HDMI 1.3/1.4
+MIPI","4","Common Mode","8","0.9","1","5","6.8","WDFN-10"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI4182MU","SZEMI4182MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=SZEMI4182MUTAG","http://www.onsemi.com/pub/Collateral/EMI4182MU-D.PDF","EMI Common Mode Filter with ESD Protection","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Various","EMI Common Mode Filter with ESD Protection","DVI
+MIPI","4","Common Mode","8","0.8","1","7.3","5","UDFN-10"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI4183MU","SZEMI4183MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=SZEMI4183MUTAG","http://www.onsemi.com/pub/Collateral/EMI4183MU-D.PDF","EMI Common Mode Filter  with ESD Protection","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Various","EMI Common Mode Filter  with ESD Protection","MIPI","6","Common Mode","8","0.8","1","7.3","5","UDFN-16"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI4192MTTAG","EMI4192MTTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI4192MTTAG","http://www.onsemi.com/pub/Collateral/EMI4192-D.PDF","Low Resistance Common Mode Filter with ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Resistance Common Mode Filter with ESD Protection","DVI
+HDMI 1.3/1.4
+MIPI","4","Common Mode","4","0.9","1","6.8","5","WDFN-10"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI4192MTTAG","SZEMI4192MTTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=SZEMI4192MTTAG","http://www.onsemi.com/pub/Collateral/EMI4192-D.PDF","Low Resistance Common Mode Filter with ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Low Resistance Common Mode Filter with ESD Protection","DVI
+HDMI 1.3/1.4
+MIPI","4","Common Mode","4","0.9","1","6.8","5","WDFN-10"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI520","EMI5204MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI5204MUTAG","http://www.onsemi.com/pub/Collateral/EMI5204MU-D.PDF","EMI Filter with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter with Integrated ESD Protection","Display Port
+General I/O","4
+6
+8","R-C","100","7","0.1","7","5","UDFN-12
+UDFN-16
+UDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI520","EMI5206MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI5206MUTAG","http://www.onsemi.com/pub/Collateral/EMI5204MU-D.PDF","EMI Filter with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter with Integrated ESD Protection","Display Port
+General I/O","4
+6
+8","R-C","100","7","0.1","7","5","UDFN-12
+UDFN-16
+UDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI520","EMI5208MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI5208MUTAG","http://www.onsemi.com/pub/Collateral/EMI5204MU-D.PDF","EMI Filter with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter with Integrated ESD Protection","Display Port
+General I/O","4
+6
+8","R-C","100","7","0.1","7","5","UDFN-12
+UDFN-16
+UDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI7112","EMI7112FCTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI7112FCTAG","http://www.onsemi.com/pub/Collateral/EMI7112-D.PDF","EMI Filter with ESD Protection, 2Channel Audio Filter","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","Audio","2","L-C","0.35","250","0.4","7","3","WLCSP-5"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI7206MU","EMI7206MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI7206MUTAG","http://www.onsemi.com/pub/Collateral/EMI7204MU-D.PDF","EMI Filter, 6-Channel, with Integrated ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","EMI Filter, 6-Channel, with Integrated ESD Protection","Display Port
+General I/O","6","L-C","10","24.2","1","6.8","5","UDFN-12"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI7206MU","SZEMI7206MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=SZEMI7206MUTAG","http://www.onsemi.com/pub/Collateral/EMI7204MU-D.PDF","EMI Filter, 6-Channel, with Integrated ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","EMI Filter, 6-Channel, with Integrated ESD Protection","Display Port
+General I/O","6","L-C","10","24.2","1","6.8","5","UDFN-12"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI7403","EMI7403FCTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI7403FCTBG","http://www.onsemi.com/pub/Collateral/EMI7403-D.PDF","EMI Filter with ESD Protection for MicroSD Card Applications, Micro SD Filter","Pb-free
+Halide free","Active","EMI Filter with ESD Protection for MicroSD Card Applications","General I/O","6","R-C","40","21","0.1","7","3.3","WLCSP-15"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI813X","EMI8131MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI8131MUTAG","http://www.onsemi.com/pub/Collateral/EMI8132-D.PDF","Common Mode Filter with ESD Protection, 1Pair CMF for MIPI","Pb-free
+Halide free","Active","Common Mode Filter with ESD Protection","USB 3.0","1
+2
+3","Common Mode","6",,"1","7.8","3.3","XDFN-10
+XDFN-16
+XDFN-6"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI813X","EMI8132MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI8132MUTAG","http://www.onsemi.com/pub/Collateral/EMI8132-D.PDF","Common Mode Filter with ESD Protection, 2Pair CMF for MIPI","Pb-free
+Halide free","Active","Common Mode Filter with ESD Protection","USB 3.0","1
+2
+3","Common Mode","6",,"1","7.8","3.3","XDFN-10
+XDFN-16
+XDFN-6"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI813X","EMI8133MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI8133MUTAG","http://www.onsemi.com/pub/Collateral/EMI8132-D.PDF","Common Mode Filter with ESD Protection, 3Pair CMF for MIPI","Pb-free
+Halide free","Active","Common Mode Filter with ESD Protection","USB 3.0","1
+2
+3","Common Mode","6",,"1","7.8","3.3","XDFN-10
+XDFN-16
+XDFN-6"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","EMI9106","EMI9106MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=EMI9106MUTAG","http://www.onsemi.com/pub/Collateral/EMI9106-D.PDF","EMI Filter for MicroSD Interfaces, EMI Filter for MicroSD","Pb-free
+Halide free","Active","EMI Filter for MicroSD Interfaces","General I/O","6","R-C","40","20","0.1","6.8","3.3","UDFN-16"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NCP4810","NCP4810DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP4810DR2G","http://www.onsemi.com/pub/Collateral/NCP4810-D.PDF","X2 capacitor discharger","Pb-free
+Halide free","Active","X2 capacitor discharger","N/A","1","N/A","560000","0","15","700","700","SOIC-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF2221","NUF2221W1T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF2221W1T2G","http://www.onsemi.com/pub/Collateral/NUF2221W1T2-D.PDF","EMI Filter, Upstream Terminator with ESD Protection","Pb-free
+Halide free","Active","EMI Filter, Upstream Terminator with ESD Protection","General I/O","3","R-C","22","42","0.1","6.8","5.25","SC-88-6 / SC-70-6 / SOT-363-6"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF3102","NUF3102MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF3102MUTAG","http://www.onsemi.com/pub/Collateral/NUF3102MU-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","General I/O","4","R-C","100","13","1","7","5","UDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF4211","NUF4211MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF4211MNT1G","http://www.onsemi.com/pub/Collateral/NUF4211MN-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","Display Port
+General I/O","4","R-C","100","8.5","0.1","7","5","DFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF4310","NUF4310MNTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF4310MNTAG","http://www.onsemi.com/pub/Collateral/NUF4310MN-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","Display Port
+General I/O","4","R-C","100","18","0.1","7","5","WDFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF4402MN","NUF4402MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF4402MNT1G","http://www.onsemi.com/pub/Collateral/NUF4402MN-D.PDF","EMI Filter, 4-Channel, with Integrated ESD Protection","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","EMI Filter, 4-Channel, with Integrated ESD Protection","Display Port
+General I/O","4","R-C","100","12","0.1","7","5","DFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF4402MN","SZNUF4402MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SZNUF4402MNT1G","http://www.onsemi.com/pub/Collateral/NUF4402MN-D.PDF","EMI Filter, 4-Channel, with Integrated ESD Protection","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","EMI Filter, 4-Channel, with Integrated ESD Protection","Display Port
+General I/O","4","R-C","100","12","0.1","7","5","DFN-8"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF6001MU","NUF6001MUT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF6001MUT2G","http://www.onsemi.com/pub/Collateral/NUF6001MU-D.PDF","EMI Filter, 6-Channel, with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 6-Channel, with Integrated ESD Protection","Display Port
+General I/O","6","R-C","100","17","0.1","7","5","UDFN-12"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF6105","NUF6105FCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF6105FCT1G","http://www.onsemi.com/pub/Collateral/NUF6105FCT1-D.PDF","EMI Filter, 6-Channel, with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 6-Channel, with Integrated ESD Protection","General I/O","6","R-C","100","27","0.1","7","5","Flip-Chip-15"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF6401MN","NUF6401MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF6401MNT1G","http://www.onsemi.com/pub/Collateral/NUF6401-D.PDF","EMI Filter, 6-Channel, with Integrated ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","EMI Filter, 6-Channel, with Integrated ESD Protection","Display Port
+General I/O","6","R-C","100","17","1","7","5","DFN-12"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF6401MN","SNUF6401MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SNUF6401MNT1G","http://www.onsemi.com/pub/Collateral/NUF6401-D.PDF","EMI Filter, 6-Channel, with Integrated ESD Protection","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","EMI Filter, 6-Channel, with Integrated ESD Protection","Display Port
+General I/O","6","R-C","100","17","1","7","5","DFN-12"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF6406","NUF6406MNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF6406MNT1G","http://www.onsemi.com/pub/Collateral/NUF6406MN-D.PDF","EMI Filter, 6-Channel, with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 6-Channel, with Integrated ESD Protection","Display Port
+General I/O","6","R-C","100","13","1","7","5","DFN-12"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF8001MU","NUF8001MUT2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF8001MUT2G","http://www.onsemi.com/pub/Collateral/NUF8001MU-D.PDF","EMI Filter, 8-Channel, with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 8-Channel, with Integrated ESD Protection","Display Port
+General I/O","8","R-C","100","12","0.1","7","5","UDFN-16"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF8401","NUF8401MNT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF8401MNT4G","http://www.onsemi.com/pub/Collateral/NUF8401MN-D.PDF","EMI Filter, 8-Channel, with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 8-Channel, with Integrated ESD Protection","Display Port
+General I/O","8","R-C","100","12","0.1","7","5","DFN-16"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF8410","NUF8410MNT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF8410MNT4G","http://www.onsemi.com/pub/Collateral/NUF8410MN-D.PDF","EMI Filter, 8-Channel, with Integrated ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 8-Channel, with Integrated ESD Protection","Display Port
+General I/O","8","R-C","100","8.5","0.1","7","5","DFN-16"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NUF8610","NUF8610MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NUF8610MNTXG","http://www.onsemi.com/pub/Collateral/NUF8610-D.PDF","EMI Filter, 8-Line, with ESD Protection","Pb-free
+Halide free","Active","EMI Filter, 8-Line, with ESD Protection","Display Port
+General I/O","8","R-C","50","8.5","0.1","7","5","DFN-16"
+"on","ESD及EMI保护二极管及滤波器---EMI滤波器","NZF220TT1","NZF220TT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NZF220TT1G","http://www.onsemi.com/pub/Collateral/NZF220TT1-D.PDF","EMI Filter with ESD Protection","Pb-free
+Halide free","Active","EMI Filter with ESD Protection","General I/O","1","R-C","100","22","1","7","3","SC-75-3"

@@ -1,0 +1,475 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Rail to Rail","Channels","VCC Min (V)","VCC Max (V)","IO Min (mA)","IO Typ (mA)","ID Typ (mA)","GBW Typ (MHz)","SR Typ (V/uS)","VIO Max (mV)","Package Type"
+"on","放大器和比较器---运算放大器","LA6500","LA6500-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LA6500-E","http://www.onsemi.com/pub/Collateral/LA6500-D.PDF","Power Operational Amplifier","Pb-free","Active","Power Operational Amplifier","No","1","4.5","18",,"1000","6",,"0.15","6","TO-220-5"
+"on","放大器和比较器---运算放大器","LM201A","LM201ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM201ADG","http://www.onsemi.com/pub/Collateral/LM301A-D.PDF","Operational Amplifier, Non-Compensated, Single, T","Pb-free
+Halide free","Active","Operational Amplifier, Non-Compensated, Single","No","1","3","22","7.5","10","1.8","1","0.5","2","SOIC-8"
+"on","放大器和比较器---运算放大器","LM201A","LM201ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM201ADR2G","http://www.onsemi.com/pub/Collateral/LM301A-D.PDF","Operational Amplifier, Non-Compensated, Single, T","Pb-free
+Halide free","Active","Operational Amplifier, Non-Compensated, Single","No","1","3","22","7.5","10","1.8","1","0.5","2","SOIC-8"
+"on","放大器和比较器---运算放大器","LM201A","LM201AVDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM201AVDR2G","http://www.onsemi.com/pub/Collateral/LM301A-D.PDF","Operational Amplifier, Non-Compensated, Single, T","Pb-free
+Halide free","Active","Operational Amplifier, Non-Compensated, Single","No","1","3","22","7.5","10","1.8","1","0.5","2","SOIC-8"
+"on","放大器和比较器---运算放大器","LM258","LM258DG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM258DG","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","5","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM258","LM258DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM258DMR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","5","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM258","LM258DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM258DR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","5","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM258","LM258NG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM258NG","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","5","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2902S","LM2902SNG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2902SNG","http://www.onsemi.com/pub/Collateral/LM324S-D.PDF","Operational Amplifier, Single supply, Quad, Bipolar Value Line - Quad Channel Op Amp -40C to +105C","Pb-free
+Halide free","Active","Operational Amplifier, Single supply, Quad","No","4","3","32","5","20","1.2",,,"10","PDIP-14"
+"on","放大器和比较器---运算放大器","LM2904","LM2904ADMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904ADMR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904","LM2904DG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904DG","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904","LM2904DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904DMR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904","LM2904DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904DR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904","LM2904NG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904NG","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904V","LM2904VDG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904VDG","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904V","LM2904VDMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904VDMR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904V","LM2904VDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904VDR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM2904V","LM2904VNG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM2904VNG","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","LM324","LM324DG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM324DG","http://www.onsemi.com/pub/Collateral/LM324-D.PDF","Operational Amplifier, Single Supply, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","32","20","40","1.4","1","0.6","7","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","LM324","LM324DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM324DR2G","http://www.onsemi.com/pub/Collateral/LM324-D.PDF","Operational Amplifier, Single Supply, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","32","20","40","1.4","1","0.6","7","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","LM324","LM324DTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM324DTBG","http://www.onsemi.com/pub/Collateral/LM324-D.PDF","Operational Amplifier, Single Supply, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","32","20","40","1.4","1","0.6","7","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","LM324","LM324DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM324DTBR2G","http://www.onsemi.com/pub/Collateral/LM324-D.PDF","Operational Amplifier, Single Supply, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","32","20","40","1.4","1","0.6","7","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","LM324","LM324NG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM324NG","http://www.onsemi.com/pub/Collateral/LM324-D.PDF","Operational Amplifier, Single Supply, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","32","20","40","1.4","1","0.6","7","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","LM324S","LM324SNG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM324SNG","http://www.onsemi.com/pub/Collateral/LM324S-D.PDF","Operational Amplifier, Single Supply, Quad, Bipolar Value Line - Quad Channel Op Amp","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","32","5","20","1.2","null",,"9","PDIP-14"
+"on","放大器和比较器---运算放大器","LM358S","LM358SNG","http://www.onsemi.cn/PowerSolutions/product.do?id=LM358SNG","http://www.onsemi.com/pub/Collateral/LM358S-D.PDF","Single Supply Dual Operational Amplifiers, Bipolar Value Line - Dual Channel Operational Amplifier","Pb-free
+Halide free","Active","Single Supply Dual Operational Amplifiers","No","2","3","32","10","30","0.5",,,"10","PDIP-8"
+"on","放大器和比较器---运算放大器","LM7301","LM7301SN1T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=LM7301SN1T1G","http://www.onsemi.com/pub/Collateral/LM7301-D.PDF","32V Rail-to-Rail Input & Output, 4MHz, Single Op-Amp, SINGLE, Rail to Rail, 4MHZ OPAMP","Pb-free
+Halide free","Active","32V Rail-to-Rail Input & Output, 4MHz, Single Op-Amp","Input/Output","1","1.8","32","5.5
+8","9.8
+10.5",,"4","1.25","6","TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","LMV301","LMV301SN3T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV301SN3T1G","http://www.onsemi.com/pub/Collateral/LMV301-D.PDF","Ultra Low Input Bias Current, Rail-Rail Output, Single Op-Amp","Pb-free
+Halide free","Active","Ultra Low Input Bias Current, Rail-Rail Output, Single Op-Amp","Output","1","1.8","5.5","10","60","0.2","1","1","9","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","LMV301","LMV301SQ3T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV301SQ3T2G","http://www.onsemi.com/pub/Collateral/LMV301-D.PDF","Ultra Low Input Bias Current, Rail-Rail Output, Single Op-Amp","Pb-free
+Halide free","Active","Ultra Low Input Bias Current, Rail-Rail Output, Single Op-Amp","Output","1","1.8","5.5","10","60","0.2","1","1","9","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","LMV324","LMV324DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV324DR2G","http://www.onsemi.com/pub/Collateral/LMV321-LMV358-LMV324-D.PDF","Ultra Low Cost & Power, Rail-Rail Output, Quad Op-Amp","Pb-free
+Halide free","Active","Ultra Low Cost & Power, Rail-Rail Output, Quad Op-Amp","Output","4","2.5","5.5","10","160","0.08","1","1","9","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","LMV324","LMV324DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV324DTBR2G","http://www.onsemi.com/pub/Collateral/LMV321-LMV358-LMV324-D.PDF","Ultra Low Cost & Power, Rail-Rail Output, Quad Op-Amp","Pb-free
+Halide free","Active","Ultra Low Cost & Power, Rail-Rail Output, Quad Op-Amp","Output","4","2.5","5.5","10","160","0.08","1","1","9","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","LMV821","LMV821SQ3T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV821SQ3T2G","http://www.onsemi.com/pub/Collateral/LMV821-D.PDF","Low Power, Rail-Rail Output, High Output Drive, Large CL stable, Single Op-Amp","Pb-free
+Halide free","Active","Low Power, Rail-Rail Output, High Output Drive, Large CL stable, Single Op-Amp","Output","1","2.5","5.5","12","26","0.3","5","2","3.5","SC-88A-5 / SC-70-5 / SOT-323-5"
+"on","放大器和比较器---运算放大器","LMV931","LMV931SN3T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV931SN3T1G","http://www.onsemi.com/pub/Collateral/LMV931-D.PDF","Low Cost, Low Power 75µA, Rail to Rail I/O, Single Op-Amp","Pb-free
+Halide free","Active","Low Cost, Low Power 75µA, Rail to Rail I/O, Single Op-Amp","Input/Output","1","1.8","5","68","80","0.075","1.4","0.48","6","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","LMV931","LMV931SQ3T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV931SQ3T2G","http://www.onsemi.com/pub/Collateral/LMV931-D.PDF","Low Cost, Low Power 75µA, Rail to Rail I/O, Single Op-Amp","Pb-free
+Halide free","Active","Low Cost, Low Power 75µA, Rail to Rail I/O, Single Op-Amp","Input/Output","1","1.8","5","68","80","0.075","1.4","0.48","6","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","LMV982","LMV982MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=LMV982MUTAG","http://www.onsemi.com/pub/Collateral/LMV981-D.PDF","Low Cost, Low Power 1µA, Rail to Rail I/O, Dual Op-Amp with Shutdown","Pb-free
+Halide free","Active"," Low Cost, Low Power 1µA, Rail to Rail I/O, Dual Op-Amp with Shutdown  ","Input/Output","2","1.8","5","58","80","0.001","1.5","0.48","7.5","UQFN-10"
+"on","放大器和比较器---运算放大器","MC33071","MC33071ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33071ADG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","No","1","3","44","10","30","1.9","4.5","10","5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33071","MC33071ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33071ADR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","No","1","3","44","10","30","1.9","4.5","10","5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33071","MC33071DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33071DG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","No","1","3","44","10","30","1.9","4.5","10","5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33071","MC33071DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33071DR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Single","No","1","3","44","10","30","1.9","4.5","10","5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33074","MC33074ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074ADG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074ADR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074ADTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074ADTBG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074ADTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074ADTBR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074APG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074APG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074DG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074DR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074DTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074DTBG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074DTBR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","MC33074PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33074PG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","NCV33074ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33074ADR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","NCV33074ADTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33074ADTBR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33074","NCV33074DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33074DR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33078","MC33078DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33078DG","http://www.onsemi.com/pub/Collateral/MC33078-D.PDF","Operational Amplifier, Low Noise, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Dual","No","2","5","18","15","29","4","16","7","2","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33078","MC33078DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33078DR2G","http://www.onsemi.com/pub/Collateral/MC33078-D.PDF","Operational Amplifier, Low Noise, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Dual","No","2","5","18","15","29","4","16","7","2","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33078","MC33078PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33078PG","http://www.onsemi.com/pub/Collateral/MC33078-D.PDF","Operational Amplifier, Low Noise, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Dual","No","2","5","18","15","29","4","16","7","2","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33078","NCV33078DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33078DR2G","http://www.onsemi.com/pub/Collateral/MC33078-D.PDF","Operational Amplifier, Low Noise, Dual","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Dual","No","2","5","18","15","29","4","16","7","2","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33171","MC33171DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33171DG","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Single","No","1","3","44","3","5","0.22","1.8","2.1","4.5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33171","MC33171DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33171DR2G","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Single","No","1","3","44","3","5","0.22","1.8","2.1","4.5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33174","MC33174DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33174DG","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad, Quad; T","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","No","4","3","44","3","5","0.88","1.8","2.1","4.5","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33174","MC33174DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33174DR2G","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad, Quad; T","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","No","4","3","44","3","5","0.88","1.8","2.1","4.5","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33174","MC33174DTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33174DTBG","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad, Quad; T","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","No","4","3","44","3","5","0.88","1.8","2.1","4.5","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33174","MC33174DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33174DTBR2G","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad, Quad; T","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","No","4","3","44","3","5","0.88","1.8","2.1","4.5","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33174","MC33174VDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33174VDG","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","No","4","3","44","3","5","0.88","1.8","2.1","4.5","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33174","MC33174VDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33174VDR2G","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad, Quad; T","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","No","4","3","44","3","5","0.88","1.8","2.1","4.5","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33174","NCV33174DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33174DTBR2G","http://www.onsemi.com/pub/Collateral/MC33171-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Power, Quad","No","4","3","44","3","5","0.88","1.8","2.1","4.5","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33179","MC33179DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33179DG","http://www.onsemi.com/pub/Collateral/MC33178-D.PDF","Operational Amplifier, Low Power, Low Noise, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Low Power, Low Noise, Quad","No","4","4","36","50","80","1.7","5","2","3","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33179","MC33179DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33179DR2G","http://www.onsemi.com/pub/Collateral/MC33178-D.PDF","Operational Amplifier, Low Power, Low Noise, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Low Power, Low Noise, Quad","No","4","4","36","50","80","1.7","5","2","3","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33179","MC33179DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33179DTBR2G","http://www.onsemi.com/pub/Collateral/MC33178-D.PDF","Operational Amplifier, Low Power, Low Noise, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Low Power, Low Noise, Quad","No","4","4","36","50","80","1.7","5","2","3","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","MC33202","MC33202DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33202DG","http://www.onsemi.com/pub/Collateral/MC33201-D.PDF","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp, Dual; T","Pb-free
+Halide free","Active","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","Input/Output","2","1.8","12","50","80","0.9","2.2","1","8","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33202","MC33202DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33202DMR2G","http://www.onsemi.com/pub/Collateral/MC33201-D.PDF","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp, Dual; T","Pb-free
+Halide free","Active","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","Input/Output","2","1.8","12","50","80","0.9","2.2","1","8","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33202","MC33202DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33202DR2G","http://www.onsemi.com/pub/Collateral/MC33201-D.PDF","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp, Dual; T","Pb-free
+Halide free","Active","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","Input/Output","2","1.8","12","50","80","0.9","2.2","1","8","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33202","MC33202VDG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33202VDG","http://www.onsemi.com/pub/Collateral/MC33201-D.PDF","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp, Dual; T","Pb-free
+Halide free","Active","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","Input/Output","2","1.8","12","50","80","0.9","2.2","1","8","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33202","MC33202VDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33202VDR2G","http://www.onsemi.com/pub/Collateral/MC33201-D.PDF","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp, Dual; T","Pb-free
+Halide free","Active","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","Input/Output","2","1.8","12","50","80","0.9","2.2","1","8","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","MC33272A","MC33272ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33272ADG","http://www.onsemi.com/pub/Collateral/MC33272A-D.PDF","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Dual","No","2","3","36","25","37","4.3","24","10","1
+2.5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33272A","MC33272ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33272ADR2G","http://www.onsemi.com/pub/Collateral/MC33272A-D.PDF","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Dual","No","2","3","36","25","37","4.3","24","10","1
+2.5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC33272A","NCV33272ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33272ADR2G","http://www.onsemi.com/pub/Collateral/MC33272A-D.PDF","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Dual","No","2","3","36","25","37","4.3","24","10","1
+2.5","SOIC-8"
+"on","放大器和比较器---运算放大器","MC3403","MC3403DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC3403DG","http://www.onsemi.com/pub/Collateral/MC3403-D.PDF","Operational Amplifier, Single Supply, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","36","10","20","2.8","1","0.6","10","SOIC-14"
+"on","放大器和比较器---运算放大器","MC3403","MC3403DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC3403DR2G","http://www.onsemi.com/pub/Collateral/MC3403-D.PDF","Operational Amplifier, Single Supply, Quad","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Quad","No","4","3","36","10","20","2.8","1","0.6","10","SOIC-14"
+"on","放大器和比较器---运算放大器","MC34071A","MC34071ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34071ADG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Single","No","1","3","44","10","30","1.9","4.5","10","3","SOIC-8"
+"on","放大器和比较器---运算放大器","MC34071A","MC34071ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34071ADR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Single","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Single","No","1","3","44","10","30","1.9","4.5","10","3","SOIC-8"
+"on","放大器和比较器---运算放大器","MC34072A","MC34072ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34072ADG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual, Dual; T","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual","No","2","3","44","10","30","3.8","4.5","10","3
+5","PDIP-8
+SOIC-8
+WQFN-10"
+"on","放大器和比较器---运算放大器","MC34072A","MC34072ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34072ADR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual, Dual; T","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual","No","2","3","44","10","30","3.8","4.5","10","3
+5","PDIP-8
+SOIC-8
+WQFN-10"
+"on","放大器和比较器---运算放大器","MC34072A","MC34072AMTTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34072AMTTBG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual, Dual; T","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual","No","2","3","44","10","30","3.8","4.5","10","3
+5","PDIP-8
+SOIC-8
+WQFN-10"
+"on","放大器和比较器---运算放大器","MC34072A","MC34072APG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34072APG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual, Dual; T","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Dual","No","2","3","44","10","30","3.8","4.5","10","3
+5","PDIP-8
+SOIC-8
+WQFN-10"
+"on","放大器和比较器---运算放大器","MC34074A","MC34074ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34074ADG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Quad, Quad; T","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14"
+"on","放大器和比较器---运算放大器","MC34074A","MC34074ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34074ADR2G","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Quad, Quad; T","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14"
+"on","放大器和比较器---运算放大器","MC34074A","MC34074APG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34074APG","http://www.onsemi.com/pub/Collateral/MC34071-D.PDF","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Quad, Quad; T","Pb-free
+Halide free","Active","Operational Amplifier, Single Supply 3.0 V to 44 V, Low Input Offset Voltage, Quad","No","4","3","44","10","30","7.6","4.5","10","3","PDIP-14
+SOIC-14"
+"on","放大器和比较器---运算放大器","NCS2002","NCS2002SN1T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2002SN1T1G","http://www.onsemi.com/pub/Collateral/NCS2002-D.PDF","0.9V Supply, Rail to Rail I/O, Single Op-Amp with Shutdown","Pb-free
+Halide free","Active","0.9V Supply, Rail to Rail I/O, Single Op-Amp with Shutdown","Input/Output","1","0.9","7","65","86","0.002","1","1.2","6","TSOP-6"
+"on","放大器和比较器---运算放大器","NCS2002","NCS2002SN2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2002SN2T1G","http://www.onsemi.com/pub/Collateral/NCS2002-D.PDF","0.9V Supply, Rail to Rail I/O, Single Op-Amp with Shutdown","Pb-free
+Halide free","Active","0.9V Supply, Rail to Rail I/O, Single Op-Amp with Shutdown","Input/Output","1","0.9","7","65","86","0.002","1","1.2","6","TSOP-6"
+"on","放大器和比较器---运算放大器","NCS20032","NCS20032DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS20032DR2G","http://www.onsemi.com/pub/Collateral/NCS2003-D.PDF","Operational Amplifier, High Slew Rate, Low Voltage, Rail-to-Rail Output","Pb-free
+Halide free","ActiveNEW","Operational Amplifier, High Slew Rate, Low Voltage, Rail-to-Rail Output",,"2","1.7","5.5","5","76","325","7","8","4","SOIC-8"
+"on","放大器和比较器---运算放大器","NCS2004","NCS2004AMUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2004AMUTAG","http://www.onsemi.com/pub/Collateral/NCS2004-D.PDF","16V Low Noise & Power, 3.5MHz, Rail-to-Rail Output, Single Op-Amp in Tiny Package","Pb-free
+Halide free","ActiveNEW","16V Low Noise & Power, 3.5MHz, Rail-to-Rail Output, Single Op-Amp in Tiny Package","Output","1","2.5","16","0","4","0.39","3.5","2.6","3
+5","SC-88A-5 / SC-70-5 / SOT-323-5
+UDFN-6"
+"on","放大器和比较器---运算放大器","NCS2004","NCS2004MUTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2004MUTAG","http://www.onsemi.com/pub/Collateral/NCS2004-D.PDF","16V Low Noise & Power, 3.5MHz, Rail-to-Rail Output, Single Op-Amp in Tiny Package","Pb-free
+Halide free","ActiveNEW","16V Low Noise & Power, 3.5MHz, Rail-to-Rail Output, Single Op-Amp in Tiny Package","Output","1","2.5","16","0","4","0.39","3.5","2.6","3
+5","SC-88A-5 / SC-70-5 / SOT-323-5
+UDFN-6"
+"on","放大器和比较器---运算放大器","NCS2004","NCS2004SQ3T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2004SQ3T2G","http://www.onsemi.com/pub/Collateral/NCS2004-D.PDF","16V Low Noise & Power, 3.5MHz, Rail-to-Rail Output, Single Op-Amp in Tiny Package","Pb-free
+Halide free","ActiveNEW","16V Low Noise & Power, 3.5MHz, Rail-to-Rail Output, Single Op-Amp in Tiny Package","Output","1","2.5","16","0","4","0.39","3.5","2.6","3
+5","SC-88A-5 / SC-70-5 / SOT-323-5
+UDFN-6"
+"on","放大器和比较器---运算放大器","NCS20062","NCS20062DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS20062DR2G","http://www.onsemi.com/pub/Collateral/NCS2006-D.PDF","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Input/Output","Dual","1.8","5.5",,,"0.125","3","1.2","3.5
+4","SOIC-8
+TSSOP-8"
+"on","放大器和比较器---运算放大器","NCS20062","NCS20062DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS20062DTBR2G","http://www.onsemi.com/pub/Collateral/NCS2006-D.PDF","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Input/Output","Dual","1.8","5.5",,,"0.125","3","1.2","3.5
+4","SOIC-8
+TSSOP-8"
+"on","放大器和比较器---运算放大器","NCS20062","NCV20062DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV20062DR2G","http://www.onsemi.com/pub/Collateral/NCS2006-D.PDF","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Input/Output","Dual","1.8","5.5",,,"0.125","3","1.2","3.5
+4","SOIC-8
+TSSOP-8"
+"on","放大器和比较器---运算放大器","NCS20062","NCV20062DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV20062DTBR2G","http://www.onsemi.com/pub/Collateral/NCS2006-D.PDF","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","ActiveNEW","Operational Amplifier, 5.5V Rail-to-Rail Input and Output, 3 MHz, Dual","Input/Output","Dual","1.8","5.5",,,"0.125","3","1.2","3.5
+4","SOIC-8
+TSSOP-8"
+"on","放大器和比较器---运算放大器","NCS20074","NCS20074DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS20074DR2G","http://www.onsemi.com/pub/Collateral/NCS20071-D.PDF","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Output","4","2.7","36",,"50","0.405","3.2","2.8","3","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","NCS20074","NCS20074DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS20074DTBR2G","http://www.onsemi.com/pub/Collateral/NCS20071-D.PDF","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Output","4","2.7","36",,"50","0.405","3.2","2.8","3","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","NCS20074","NCV20074DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV20074DR2G","http://www.onsemi.com/pub/Collateral/NCS20071-D.PDF","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Output","4","2.7","36",,"50","0.405","3.2","2.8","3","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","NCS20074","NCV20074DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV20074DTBR2G","http://www.onsemi.com/pub/Collateral/NCS20071-D.PDF","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","36V Rail-Rail Output, 3MHz, Low Noise, Quad Op-Amp","Output","4","2.7","36",,"50","0.405","3.2","2.8","3","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","NCS2372","NCS2372DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS2372DWR2G","http://www.onsemi.com/pub/Collateral/NCS2372-D.PDF","Operational Amplifier, 1.0 A, Dual","Pb-free
+Halide free","Active","Operational Amplifier, 1.0 A, Dual",,"2","5","40",,"1000","8","1.4","1.4","15","SOIC-16W"
+"on","放大器和比较器---运算放大器","NCS333","NCS333SN2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS333SN2T1G","http://www.onsemi.com/pub/Collateral/NCS333-D.PDF","Single Operational Amplifier, 10 µV Offset, 0.07 µV/°C, Zero-Drift Precision, Low Power","Pb-free
+Halide free","Active","Single Operational Amplifier, 10 µV Offset, 0.07 µV/°C, Zero-Drift Precision, Low Power","Input/Output","1","1.8","5.5",,"6","0.021","0.35","0.1","0.01","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","NCS333","NCS333SQ3T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS333SQ3T2G","http://www.onsemi.com/pub/Collateral/NCS333-D.PDF","Single Operational Amplifier, 10 µV Offset, 0.07 µV/°C, Zero-Drift Precision, Low Power","Pb-free
+Halide free","Active","Single Operational Amplifier, 10 µV Offset, 0.07 µV/°C, Zero-Drift Precision, Low Power","Input/Output","1","1.8","5.5",,"6","0.021","0.35","0.1","0.01","SC-88A-5 / SC-70-5 / SOT-323-5
+TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","NCS5651","NCS5651MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS5651MNTXG","http://www.onsemi.com/pub/Collateral/NCS5651-D.PDF","Power Line Communcation (PLC) Driver, 2 Amp","Pb-free
+Halide free","Active","Power Line Communcation (PLC) Driver, 2 Amp",,,,,,,,,,,"QFN-20"
+"on","放大器和比较器---运算放大器","NCV2002","NCV2002SN1T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2002SN1T1G","http://www.onsemi.com/pub/Collateral/NCS2002-D.PDF","0.9V Supply, Rail to Rail I/O, Single Op-Amp w/Extended Temperature, Pinout Style: 1","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","0.9V Supply, Rail to Rail I/O, Single Op-Amp w/Extended Temperature","Input/Output","1","0.9","7","0","86","0.002","1","1.2","6","TSOP-6"
+"on","放大器和比较器---运算放大器","NCV2002","NCV2002SN2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2002SN2T1G","http://www.onsemi.com/pub/Collateral/NCS2002-D.PDF","0.9V Supply, Rail to Rail I/O, Single Op-Amp w/Extended Temperature, Pinout Style: 2","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","0.9V Supply, Rail to Rail I/O, Single Op-Amp w/Extended Temperature","Input/Output","1","0.9","7","0","86","0.002","1","1.2","6","TSOP-6"
+"on","放大器和比较器---运算放大器","NCV2904","NCV2904DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2904DMR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","NCV2904","NCV2904DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV2904DR2G","http://www.onsemi.com/pub/Collateral/LM358-D.PDF","Operational Amplifier, Single Supply, Dual","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Operational Amplifier, Single Supply, Dual","No","2","3","32","20","40","1.5","1","0.6","7","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","NCV33202","NCV33202DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33202DMR2G","http://www.onsemi.com/pub/Collateral/MC33201-D.PDF","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active"," 12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","Input/Output","2","1.8","12","50","80","0.9","2","1","8","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","NCV33202","NCV33202VDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33202VDR2G","http://www.onsemi.com/pub/Collateral/MC33201-D.PDF","12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active"," 12V Low Noise, Rail-Rail I/O, High Output Drive, Dual Op-Amp","Input/Output","2","1.8","12","50","80","0.9","2","1","8","Micro8™
+SOIC-8"
+"on","放大器和比较器---运算放大器","NCV33274A","NCV33274ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33274ADG","http://www.onsemi.com/pub/Collateral/MC33272A-D.PDF","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Quad","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Quad","No","4","3","36","25","37","8.6","24","10","1","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","NCV33274A","NCV33274ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33274ADR2G","http://www.onsemi.com/pub/Collateral/MC33272A-D.PDF","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Quad","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Quad","No","4","3","36","25","37","8.6","24","10","1","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","NCV33274A","NCV33274ADTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV33274ADTBR2G","http://www.onsemi.com/pub/Collateral/MC33272A-D.PDF","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Quad","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Operational Amplifiers, Single Supply, High Slew Rate, Low Input Offset Voltage, Quad","No","4","3","36","25","37","8.6","24","10","1","SOIC-14
+TSSOP-14"
+"on","放大器和比较器---运算放大器","NCV952","NCV952DTBR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV952DTBR2G","http://www.onsemi.com/pub/Collateral/NCV952-D.PDF","26V Rail-Rail Input/Output, 3.5MHz, Dual Op-Amp","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","26V Rail-Rail Input/Output, 3.5MHz, Dual Op-Amp","Input/Output","2","2.7","26","10","10","0.7","3.5","1","8","TSSOP-8"
+"on","放大器和比较器---运算放大器","NE5517","AU5517DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=AU5517DR2G","http://www.onsemi.com/pub/Collateral/NE5517-D.PDF","Operational Transconductance Amplifier, Dual, -40 to +125 °C","Pb-free
+Halide free","Active","Operational Transconductance Amplifier, Dual","No","2","-18","18",,"0.005","2.6","2","50","5","SOIC-16"
+"on","放大器和比较器---运算放大器","NE5517","NE5517DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NE5517DG","http://www.onsemi.com/pub/Collateral/NE5517-D.PDF","Operational Transconductance Amplifier, Dual, 0 to +70 °C","Pb-free
+Halide free","Active","Operational Transconductance Amplifier, Dual","No","2","-18","18",,"0.005","2.6","2","50","5","SOIC-16"
+"on","放大器和比较器---运算放大器","NE5517","NE5517DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NE5517DR2G","http://www.onsemi.com/pub/Collateral/NE5517-D.PDF","Operational Transconductance Amplifier, Dual, 0 to +70 °C","Pb-free
+Halide free","Active","Operational Transconductance Amplifier, Dual","No","2","-18","18",,"0.005","2.6","2","50","5","SOIC-16"
+"on","放大器和比较器---运算放大器","NE5534","NE5534ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=NE5534ADG","http://www.onsemi.com/pub/Collateral/NE5534-D.PDF","Operational Amplifier, Low Noise, Single, 0 to 70°C","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Single","No","1","3","20",,"38","8","10","13","4","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","NE5534","NE5534ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NE5534ADR2G","http://www.onsemi.com/pub/Collateral/NE5534-D.PDF","Operational Amplifier, Low Noise, Single, 0 to 70°C","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Single","No","1","3","20",,"38","8","10","13","4","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","NE5534","NE5534DG","http://www.onsemi.cn/PowerSolutions/product.do?id=NE5534DG","http://www.onsemi.com/pub/Collateral/NE5534-D.PDF","Operational Amplifier, Low Noise, Single, 0 to 70°C","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Single","No","1","3","20",,"38","8","10","13","4","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","NE5534","NE5534DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NE5534DR2G","http://www.onsemi.com/pub/Collateral/NE5534-D.PDF","Operational Amplifier, Low Noise, Single, 0 to 70°C","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Single","No","1","3","20",,"38","8","10","13","4","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","NE5534","SA5534ADG","http://www.onsemi.cn/PowerSolutions/product.do?id=SA5534ADG","http://www.onsemi.com/pub/Collateral/NE5534-D.PDF","Operational Amplifier, Low Noise, Single, -40 to +85°C","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Single","No","1","3","20",,"38","8","10","13","4","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","NE5534","SA5534ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=SA5534ADR2G","http://www.onsemi.com/pub/Collateral/NE5534-D.PDF","Operational Amplifier, Low Noise, Single, -40 to +85°C","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Single","No","1","3","20",,"38","8","10","13","4","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","NE5534","SA5534NG","http://www.onsemi.cn/PowerSolutions/product.do?id=SA5534NG","http://www.onsemi.com/pub/Collateral/NE5534-D.PDF","Operational Amplifier, Low Noise, Single, -40 to +85°C","Pb-free
+Halide free","Active","Operational Amplifier, Low Noise, Single","No","1","3","20",,"38","8","10","13","4","PDIP-8
+SOIC-8"
+"on","放大器和比较器---运算放大器","TLV271","TLV271SN1T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=TLV271SN1T1G","http://www.onsemi.com/pub/Collateral/TLV271-D.PDF","16V Low Noise & Bias Current, 3.5MHz, Low Power, Rail-to-Rail Output, Single Op-Amp","Pb-free
+Halide free","Active","16V Low Noise & Bias Current, 3.5MHz, Low Power, Rail-to-Rail Output, Single Op-Amp ","Output","1","2.7","16","5","13","0.38","3.5","2.6","5","TSOP-5 / SOT-23-5"
+"on","放大器和比较器---运算放大器","TLV271","TLV271SN2T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=TLV271SN2T1G","http://www.onsemi.com/pub/Collateral/TLV271-D.PDF","16V Low Noise & Bias Current, 3.5MHz, Low Power, Rail-to-Rail Output, Single Op-Amp","Pb-free
+Halide free","Active","16V Low Noise & Bias Current, 3.5MHz, Low Power, Rail-to-Rail Output, Single Op-Amp ","Output","1","2.7","16","5","13","0.38","3.5","2.6","5","TSOP-5 / SOT-23-5"

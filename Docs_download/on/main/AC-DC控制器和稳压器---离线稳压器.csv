@@ -1,0 +1,257 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Control Mode","fsw Typ (kHz)","fJitter Typ (%)","Stand-by Mode","RDS(ON) Typ (Ohms)","V(BR)DSS Max (V)","IPeak (mA)","HV Start-up Min (V)","DSS (mA)","UVLO","Short Circuit Protection","Over Power Comp.","Brown-out","Latch","Package Type"
+"on","AC-DC控制器和稳压器---离线稳压器","MC33363A","MC33363ADWG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33363ADWG","http://www.onsemi.com/pub/Collateral/MC33363A-D.PDF","High Voltage Switching Regulator","Pb-free
+Halide free","Active","High Voltage Switching Regulator","Current Mode","285","No","No","14","700","400","Yes","No","Yes","No","No","No","No","SOIC-16W"
+"on","AC-DC控制器和稳压器---离线稳压器","MC33363A","MC33363ADWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33363ADWR2G","http://www.onsemi.com/pub/Collateral/MC33363A-D.PDF","High Voltage Switching Regulator","Pb-free
+Halide free","Active","High Voltage Switching Regulator","Current Mode","285","No","No","14","700","400","Yes","No","Yes","No","No","No","No","SOIC-16W"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1010","NCP1010AP065G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1010AP065G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","25","700","100","Yes","8.5","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1010","NCP1010AP100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1010AP100G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","25","700","100","Yes","8.5","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1010","NCP1010AP130G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1010AP130G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","25","700","100","Yes","8.5","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1010","NCP1010ST100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1010ST100T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","25","700","100","Yes","8.5","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1010","NCP1010ST130T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1010ST130T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","25","700","100","Yes","8.5","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1010","NCP1010ST65T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1010ST65T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","25","700","100","Yes","8.5","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1012","NCP1012AP065G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1012AP065G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130
+133","Yes","Yes","11","700","250","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1012","NCP1012AP100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1012AP100G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130
+133","Yes","Yes","11","700","250","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1012","NCP1012AP133G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1012AP133G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130
+133","Yes","Yes","11","700","250","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1012","NCP1012ST100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1012ST100T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130
+133","Yes","Yes","11","700","250","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1012","NCP1012ST130T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1012ST130T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130
+133","Yes","Yes","11","700","250","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1012","NCP1012ST65T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1012ST65T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130
+133","Yes","Yes","11","700","250","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1014","NCP1014AP065G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1014AP065G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","Yes","Yes","11","700","450","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1014","NCP1014AP100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1014AP100G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","Yes","Yes","11","700","450","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1014","NCP1014ST100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1014ST100T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","Yes","Yes","11","700","450","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1014","NCP1014ST65T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1014ST65T3G","http://www.onsemi.com/pub/Collateral/NCP1010-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","Yes","Yes","11","700","450","Yes","8","Yes","Yes","No","No","Yes","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1027","NCP1027P065G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1027P065G","http://www.onsemi.com/pub/Collateral/NCP1027-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","Yes","Yes","5.6","700","800","Yes","N/A","Yes","Yes","Yes","Yes","Yes","PDIP-7"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1027","NCP1027P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1027P100G","http://www.onsemi.com/pub/Collateral/NCP1027-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","Yes","Yes","5.6","700","800","Yes","N/A","Yes","Yes","Yes","Yes","Yes","PDIP-7"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1030","NCP1030DMR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1030DMR2G","http://www.onsemi.com/pub/Collateral/NCP1030-D.PDF","Integrated DC-DC Converter for PoE and Telecom","Pb-free
+Halide free","Active","Integrated DC-DC Converter for PoE and Telecom","Current Mode","300","No","No","4.1","200","515","Yes","12.5","Yes","No","No","No","Yes","Micro8™"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1032","NCP1032AMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1032AMNTXG","http://www.onsemi.com/pub/Collateral/NCP1032-D.PDF","Integrated DC-DC Converter, PWM, 3.0W, OV enabled","Pb-free
+Halide free","Active","Integrated DC-DC Converter, PWM, 3.0W",,,,,,,,,,,,,,,"WDFN-8"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1032","NCP1032BMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1032BMNTXG","http://www.onsemi.com/pub/Collateral/NCP1032-D.PDF","Integrated DC-DC Converter, PWM, 3.0W","Pb-free
+Halide free","Active","Integrated DC-DC Converter, PWM, 3.0W",,,,,,,,,,,,,,,"WDFN-8"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1051","NCP1051ST100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1051ST100T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","44
+100
+136","Yes","Yes","30","700","200","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1051","NCP1051ST136T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1051ST136T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","44
+100
+136","Yes","Yes","30","700","200","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1051","NCP1051ST44T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1051ST44T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","44
+100
+136","Yes","Yes","30","700","200","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1053","NCP1053ST100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1053ST100T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","44
+100
+136","Yes","Yes","15","700","400","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1053","NCP1053ST136T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1053ST136T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","44
+100
+136","Yes","Yes","15","700","400","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1053","NCP1053ST44T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1053ST44T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","44
+100
+136","Yes","Yes","15","700","400","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1055","NCP1055ST100T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1055ST100T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","45.5
+100
+140","Yes","Yes","15","700","680","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1055","NCP1055ST136T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1055ST136T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","45.5
+100
+140","Yes","Yes","15","700","680","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1055","NCP1055ST44T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1055ST44T3G","http://www.onsemi.com/pub/Collateral/NCP1050-D.PDF","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Pb-free
+Halide free","Active","Monolithic High Voltage Gated Oscillator Power Switching Regulator","Current Mode","45.5
+100
+140","Yes","Yes","15","700","680","Yes","6.3","Yes","Yes","No","No","Yes","SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1063","NCP1063AD060R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1063AD060R2G","http://www.onsemi.com/pub/Collateral/NCP1060-D.PDF","High-Voltage Switcher for low Power offline SMPS, NCP1063 60kHz in SOIC16","Pb-free
+Halide free","Active","High-Voltage Switcher for low Power offline SMPS","Current Mode","60
+100","Yes","Yes","11.4","700","650","Yes","8","7 V Typ.","Yes","Yes","No","No","PDIP-7
+SOIC-16"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1063","NCP1063AD100R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1063AD100R2G","http://www.onsemi.com/pub/Collateral/NCP1060-D.PDF","High-Voltage Switcher for low Power offline SMPS, NCP1063 100kHz in SOIC16","Pb-free
+Halide free","Active","High-Voltage Switcher for low Power offline SMPS","Current Mode","60
+100","Yes","Yes","11.4","700","650","Yes","8","7 V Typ.","Yes","Yes","No","No","PDIP-7
+SOIC-16"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1063","NCP1063AP060G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1063AP060G","http://www.onsemi.com/pub/Collateral/NCP1060-D.PDF","High-Voltage Switcher for low Power offline SMPS, NCP1063 60kHz in P-DIP7","Pb-free
+Halide free","Active","High-Voltage Switcher for low Power offline SMPS","Current Mode","60
+100","Yes","Yes","11.4","700","650","Yes","8","7 V Typ.","Yes","Yes","No","No","PDIP-7
+SOIC-16"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1063","NCP1063AP100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1063AP100G","http://www.onsemi.com/pub/Collateral/NCP1060-D.PDF","High-Voltage Switcher for low Power offline SMPS, NCP1063 100kHz in P-DIP7","Pb-free
+Halide free","Active","High-Voltage Switcher for low Power offline SMPS","Current Mode","60
+100","Yes","Yes","11.4","700","650","Yes","8","7 V Typ.","Yes","Yes","No","No","PDIP-7
+SOIC-16"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1071","NCP1071P065G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1071P065G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High-Voltage Switcher for Low Power Offline SMPS","Pb-free
+Halide free","Active","High-Voltage Switcher for Low Power Offline SMPS","Current Mode","65
+100
+130","6","Yes","22","700","350","Yes","8","6.3","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1071","NCP1071P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1071P100G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High-Voltage Switcher for Low Power Offline SMPS","Pb-free
+Halide free","Active","High-Voltage Switcher for Low Power Offline SMPS","Current Mode","65
+100
+130","6","Yes","22","700","350","Yes","8","6.3","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1071","NCP1071P130G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1071P130G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High-Voltage Switcher for Low Power Offline SMPS","Pb-free
+Halide free","Active","High-Voltage Switcher for Low Power Offline SMPS","Current Mode","65
+100
+130","6","Yes","22","700","350","Yes","8","6.3","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1071","NCP1071STAT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1071STAT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High-Voltage Switcher for Low Power Offline SMPS","Pb-free
+Halide free","Active","High-Voltage Switcher for Low Power Offline SMPS","Current Mode","65
+100
+130","6","Yes","22","700","350","Yes","8","6.3","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1071","NCP1071STBT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1071STBT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High-Voltage Switcher for Low Power Offline SMPS","Pb-free
+Halide free","Active","High-Voltage Switcher for Low Power Offline SMPS","Current Mode","65
+100
+130","6","Yes","22","700","350","Yes","8","6.3","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1071","NCP1071STCT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1071STCT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High-Voltage Switcher for Low Power Offline SMPS","Pb-free
+Halide free","Active","High-Voltage Switcher for Low Power Offline SMPS","Current Mode","65
+100
+130","6","Yes","22","700","350","Yes","8","6.3","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1075","NCP1075P065G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1075P065G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","11","700","450","No","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1075","NCP1075P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1075P100G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","11","700","450","No","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1075","NCP1075P130G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1075P130G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","11","700","450","No","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1075","NCP1075STAT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1075STAT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","11","700","450","No","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1075","NCP1075STBT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1075STBT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","11","700","450","No","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1075","NCP1075STCT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1075STCT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","11","700","450","No","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1077","NCP1077P065G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1077P065G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","4","700","800","Yes","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1077","NCP1077P100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1077P100G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","4","700","800","Yes","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1077","NCP1077P130G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1077P130G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","4","700","800","Yes","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1077","NCP1077STAT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1077STAT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","4","700","800","Yes","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1077","NCP1077STBT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1077STBT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","4","700","800","Yes","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1077","NCP1077STCT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1077STCT3G","http://www.onsemi.com/pub/Collateral/NCP1070-D.PDF","High Voltage Switching Regulator for Offline SMPS","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100
+130","Yes","Yes","4","700","800","Yes","8","6.4","Yes","No","No","No","PDIP-7
+SOT-223-4 / TO-261-4"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1126","NCP1126AP100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1126AP100G","http://www.onsemi.com/pub/Collateral/NCP1126-D.PDF","High Voltage Switching Regulator for Offline SMPS, 6-Ohm, Latch","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","+/-5% of FSW","Yes","6","650","0","Yes","0","8.8","Yes","No","No","No
+Yes","PDIP-8"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1126","NCP1126AP65G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1126AP65G","http://www.onsemi.com/pub/Collateral/NCP1126-D.PDF","High Voltage Switching Regulator for Offline SMPS, 6-Ohm, Latch","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","+/-5% of FSW","Yes","6","650","0","Yes","0","8.8","Yes","No","No","No
+Yes","PDIP-8"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1126","NCP1126BP100G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1126BP100G","http://www.onsemi.com/pub/Collateral/NCP1126-D.PDF","High Voltage Switching Regulator for Offline SMPS, 6-Ohm, Auto-recovery","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","+/-5% of FSW","Yes","6","650","0","Yes","0","8.8","Yes","No","No","No
+Yes","PDIP-8"
+"on","AC-DC控制器和稳压器---离线稳压器","NCP1126","NCP1126BP65G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1126BP65G","http://www.onsemi.com/pub/Collateral/NCP1126-D.PDF","High Voltage Switching Regulator for Offline SMPS, 6-Ohm, Auto-recovery","Pb-free
+Halide free","Active","High Voltage Switching Regulator for Offline SMPS","Current Mode","65
+100","+/-5% of FSW","Yes","6","650","0","Yes","0","8.8","Yes","No","No","No
+Yes","PDIP-8"

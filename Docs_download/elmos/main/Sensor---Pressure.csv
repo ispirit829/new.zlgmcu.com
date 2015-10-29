@@ -1,0 +1,20 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Sensor---Pressure","E520.44","http://www.elmos.com/-","http://www.elmos.com/english/products/sensor/sensor-signal-processor.html?tx_pmproductlist_productlist%5Bproduct%5D=123&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=a0a949feaee04bd0af7745285a50f479","Sensor Signal Processor with Analog or Sent Output"," "," "," "," ","Analog voltage
+Digital: SENT interface ","Sensor Sensitivity
+1mV/V to 50mV/V "," "," "," "," "," "," "," "," ","5 to ±0.5V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L5
+Bare-Die "," "," Automotive protection (±28V) 
+Low noise front-end
+Extended self diagnostics 
+Analog voltage output
+SENT interface acc. SAE J2716, Jan2010"
+"elmos","Sensor---Pressure","E520.33","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/05_pressure/e520-33_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/sensor-signal-processor.html?tx_pmproductlist_productlist%5Bproduct%5D=58&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=0d85e94e82f114f57941a5544768c61d","Advanced Versatile Sensor Signal Processor"," "," "," "," ","Digital: SENT data interface ","Sensor Sensitivity 
+1mV/V to 130 mV/V "," "," "," "," "," "," "," "," ","5V ±0.25V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","TSSOP20
+Bare-Die "," "," Automotive protection (±18V) 
+Single wire interface for calibration
+Extended self diagnostics 
+SENT interface acc. SAE J2716, Jan2010"
+"elmos","Sensor---Pressure","E520.18","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/05_pressure/e520-18_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/sensor-signal-processor.html?tx_pmproductlist_productlist%5Bproduct%5D=91&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=7cda565abe7286a062f8ba64809a5dcd","Advanced Versatile Sensor Signal Processor"," "," "," "," ","Analog voltage, PWM, SPI, I²C ","Sensor Sensitivity
+1mV/V to 130mV/V "," "," "," "," "," "," "," "," ","3.3V to 16V,  up to 36V  with external transistor  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN32L5
+Bare-Die "," "," In-Circuit system calibration via OWI, SPI or I²C
+Built-in self test capability and self diagnostics during operation
+Direct supply from car battery"

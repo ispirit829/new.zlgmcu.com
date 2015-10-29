@@ -1,0 +1,321 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Configuration","VRRM Min (V)","VF Max (V)","IRM Max (uA)","IF Max (A)","trr Max (ns)","Cj Max (pF)","Package Type"
+"on","二极管和整流器---小信号开关二极管","1SS400","1SS400T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=1SS400T1G","http://www.onsemi.com/pub/Collateral/1SS400T1-D.PDF","Switching Diode, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, 100 V","Single","100","1.2","0.1","0.2","4","3","SOD-523-2"
+"on","二极管和整流器---小信号开关二极管","1SS400","1SS400T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=1SS400T5G","http://www.onsemi.com/pub/Collateral/1SS400T1-D.PDF","Switching Diode, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, 100 V","Single","100","1.2","0.1","0.2","4","3","SOD-523-2"
+"on","二极管和整流器---小信号开关二极管","1SS400","NSV1SS400T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSV1SS400T1G","http://www.onsemi.com/pub/Collateral/1SS400T1-D.PDF","Switching Diode, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, 100 V","Single","100","1.2","0.1","0.2","4","3","SOD-523-2"
+"on","二极管和整流器---小信号开关二极管","BAS116L","BAS116LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS116LT1G","http://www.onsemi.com/pub/Collateral/BAS116LT1-D.PDF","75 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","75 V Switching Diode","Single","75","1.1","0.005","0.2","3000","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS116L","BAS116LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS116LT3G","http://www.onsemi.com/pub/Collateral/BAS116LT1-D.PDF","75 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","75 V Switching Diode","Single","75","1.1","0.005","0.2","3000","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS116L","NSVBAS116LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS116LT3G","http://www.onsemi.com/pub/Collateral/BAS116LT1-D.PDF","75 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","75 V Switching Diode","Single","75","1.1","0.005","0.2","3000","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS116L","SBAS116LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS116LT1G","http://www.onsemi.com/pub/Collateral/BAS116LT1-D.PDF","75 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","75 V Switching Diode","Single","75","1.1","0.005","0.2","3000","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS16","BAS16DXV6T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS16DXV6T1G","http://www.onsemi.com/pub/Collateral/BAS16DXV6-D.PDF","Dual Switching Diode, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Dual Switching Diode, 100 V","Dual","100","1","0.02","0.2","6","2","SOT-563"
+"on","二极管和整流器---小信号开关二极管","BAS16","SBAS16DXV6T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS16DXV6T1G","http://www.onsemi.com/pub/Collateral/BAS16DXV6-D.PDF","Dual Switching Diode, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Dual Switching Diode, 100 V","Dual","100","1","0.02","0.2","6","2","SOT-563"
+"on","二极管和整流器---小信号开关二极管","BAS16L","BAS16LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS16LT1G","http://www.onsemi.com/pub/Collateral/BAS16LT1-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode","Single","100","1","1","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS16L","BAS16LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS16LT3G","http://www.onsemi.com/pub/Collateral/BAS16LT1-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode","Single","100","1","1","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS16L","SBAS16LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS16LT1G","http://www.onsemi.com/pub/Collateral/BAS16LT1-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode","Single","100","1","1","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS16L","SBAS16LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS16LT3G","http://www.onsemi.com/pub/Collateral/BAS16LT1-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode","Single","100","1","1","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS16P2","BAS16P2T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS16P2T5G","http://www.onsemi.com/pub/Collateral/BAS16P2-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","100 V Switching Diode","Single","100","1.25","100","0.2","6","2","SOD-923-2"
+"on","二极管和整流器---小信号开关二极管","BAS16W","BAS16WT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS16WT1G","http://www.onsemi.com/pub/Collateral/BAS16WT1-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode","Single","100","1","0.02","0.2","6","2","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","BAS16W","NSVBAS16WT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS16WT3G","http://www.onsemi.com/pub/Collateral/BAS16WT1-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode","Single","100","1","0.02","0.2","6","2","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","BAS16W","SBAS16WT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS16WT1G","http://www.onsemi.com/pub/Collateral/BAS16WT1-D.PDF","100 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode","Single","100","1","0.02","0.2","6","2","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","BAS19L","BAS19LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS19LT1G","http://www.onsemi.com/pub/Collateral/BAS19LT1-D.PDF","Switching Diode, High Voltage 120 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Voltage 120 V","Single","120","1","0.1","0.2","50","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS19L","BAS19LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS19LT3G","http://www.onsemi.com/pub/Collateral/BAS19LT1-D.PDF","Switching Diode, High Voltage 120 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Voltage 120 V","Single","120","1","0.1","0.2","50","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS19L","NSVBAS19LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS19LT1G","http://www.onsemi.com/pub/Collateral/BAS19LT1-D.PDF","Switching Diode, High Voltage 120 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Voltage 120 V","Single","120","1","0.1","0.2","50","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS20L","BAS20LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS20LT1G","http://www.onsemi.com/pub/Collateral/BAS19LT1-D.PDF","200 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","200 V Switching Diode","Single","200","1","0.1","0.2","50","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS20L","NSVBAS20LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS20LT3G","http://www.onsemi.com/pub/Collateral/BAS19LT1-D.PDF","200 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","200 V Switching Diode","Single","200","1","0.1","0.2","50","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS20L","SBAS20LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAS20LT1G","http://www.onsemi.com/pub/Collateral/BAS19LT1-D.PDF","200 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","200 V Switching Diode","Single","200","1","0.1","0.2","50","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAS21AH","BAS21AHT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS21AHT1G","http://www.onsemi.com/pub/Collateral/BAS21AHT1-D.PDF","Switching Diode, Low Leakage","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, Low Leakage","Single","250","1","0.04","0.2","50","5","SOD-323"
+"on","二极管和整流器---小信号开关二极管","BAS21AH","NSVBAS21AHT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS21AHT1G","http://www.onsemi.com/pub/Collateral/BAS21AHT1-D.PDF","Switching Diode, Low Leakage","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, Low Leakage","Single","250","1","0.04","0.2","50","5","SOD-323"
+"on","二极管和整流器---小信号开关二极管","BAS21M3T5G","BAS21M3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS21M3T5G","http://www.onsemi.com/pub/Collateral/BAS21M3-D.PDF","Switching Diode, High Voltage, 250 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Voltage, 250 V","Single","250","1","0.1","0.2","50","5","SOT-723-3"
+"on","二极管和整流器---小信号开关二极管","BAS21M3T5G","NSVBAS21M3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS21M3T5G","http://www.onsemi.com/pub/Collateral/BAS21M3-D.PDF","Switching Diode, High Voltage, 250 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Voltage, 250 V","Single","250","1","0.1","0.2","50","5","SOT-723-3"
+"on","二极管和整流器---小信号开关二极管","BAS21TMR6","BAS21TMR6T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAS21TMR6T1G","http://www.onsemi.com/pub/Collateral/BAS21TMR6-D.PDF","High Voltage Switching Diode, 250 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","ActiveNEW","High Voltage Switching Diode, 250 V","Triple","250","1.25","0.1","0.2","50","5","SC-74"
+"on","二极管和整流器---小信号开关二极管","BAS21TMR6","NSVBAS21TMR6T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS21TMR6T1G","http://www.onsemi.com/pub/Collateral/BAS21TMR6-D.PDF","High Voltage Switching Diode, 250 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","ActiveNEW","High Voltage Switching Diode, 250 V","Triple","250","1.25","0.1","0.2","50","5","SC-74"
+"on","二极管和整流器---小信号开关二极管","BAS21TMR6","NSVBAS21TMR6T2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAS21TMR6T2G","http://www.onsemi.com/pub/Collateral/BAS21TMR6-D.PDF","High Voltage Switching Diode, 250 V, Triple High Voltage Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","ActiveNEW","High Voltage Switching Diode, 250 V","Triple","250","1.25","0.1","0.2","50","5","SC-74"
+"on","二极管和整流器---小信号开关二极管","BAV23CLT1G","BAV23CLT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAV23CLT1G","http://www.onsemi.com/pub/Collateral/BAV23CLT1-D.PDF","250 V Dual High Voltage Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","250 V Dual High Voltage Common Cathode Switching Diode","Common Cathode","250","1","0.1","0.4","150","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV23CLT1G","BAV23CLT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAV23CLT3G","http://www.onsemi.com/pub/Collateral/BAV23CLT1-D.PDF","250 V Dual High Voltage Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","250 V Dual High Voltage Common Cathode Switching Diode","Common Cathode","250","1","0.1","0.4","150","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV23CLT1G","NSVBAV23CLT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAV23CLT1G","http://www.onsemi.com/pub/Collateral/BAV23CLT1-D.PDF","250 V Dual High Voltage Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","250 V Dual High Voltage Common Cathode Switching Diode","Common Cathode","250","1","0.1","0.4","150","5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV70L","BAV70LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAV70LT1G","http://www.onsemi.com/pub/Collateral/BAV70LT1-D.PDF","100 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Dual Common Cathode Switching Diode","Common Cathode","100","1","2.5","0.2","6","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV70L","BAV70LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAV70LT3G","http://www.onsemi.com/pub/Collateral/BAV70LT1-D.PDF","100 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Dual Common Cathode Switching Diode","Common Cathode","100","1","2.5","0.2","6","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV70L","SBAV70LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAV70LT1G","http://www.onsemi.com/pub/Collateral/BAV70LT1-D.PDF","100 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Dual Common Cathode Switching Diode","Common Cathode","100","1","2.5","0.2","6","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV70L","SBAV70LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAV70LT3G","http://www.onsemi.com/pub/Collateral/BAV70LT1-D.PDF","100 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Dual Common Cathode Switching Diode","Common Cathode","100","1","2.5","0.2","6","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV70T","BAV70TT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAV70TT1G","http://www.onsemi.com/pub/Collateral/BAV70TT1-D.PDF","100 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Dual Common Cathode Switching Diode","Common Cathode","100","1","5","0.2","6","1.5","SC-75-3"
+"on","二极管和整流器---小信号开关二极管","BAV70T","NSVBAV70TT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAV70TT1G","http://www.onsemi.com/pub/Collateral/BAV70TT1-D.PDF","100 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Dual Common Cathode Switching Diode","Common Cathode","100","1","5","0.2","6","1.5","SC-75-3"
+"on","二极管和整流器---小信号开关二极管","BAV70T","NSVBAV70TT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSVBAV70TT3G","http://www.onsemi.com/pub/Collateral/BAV70TT1-D.PDF","100 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Dual Common Cathode Switching Diode","Common Cathode","100","1","5","0.2","6","1.5","SC-75-3"
+"on","二极管和整流器---小信号开关二极管","BAV74L","BAV74LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAV74LT1G","http://www.onsemi.com/pub/Collateral/BAV74LT1-D.PDF","50 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","50 V Dual Common Cathode Switching Diode","Common Cathode","50","1","0.1","0.2","4","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAV99RW","BAV99RWT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAV99RWT1G","http://www.onsemi.com/pub/Collateral/BAV99WT1-D.PDF","100 V Switching Diode, dual, series (reverse)","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode, dual, series (reverse)","Dual Series","100","1","2.5","0.215","6","1.5","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","BAV99RW","SBAV99RWT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAV99RWT1G","http://www.onsemi.com/pub/Collateral/BAV99WT1-D.PDF","100 V Switching Diode, dual, series (reverse)","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode, dual, series (reverse)","Dual Series","100","1","2.5","0.215","6","1.5","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","BAW56L","BAW56LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAW56LT1G","http://www.onsemi.com/pub/Collateral/BAW56LT1-D.PDF","70 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Dual Common Anode Switching Diode","Common Anode","70","1","2.4","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAW56L","BAW56LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAW56LT3G","http://www.onsemi.com/pub/Collateral/BAW56LT1-D.PDF","70 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Dual Common Anode Switching Diode","Common Anode","70","1","2.4","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAW56L","SBAW56LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAW56LT1G","http://www.onsemi.com/pub/Collateral/BAW56LT1-D.PDF","70 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Dual Common Anode Switching Diode","Common Anode","70","1","2.4","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAW56L","SBAW56LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAW56LT3G","http://www.onsemi.com/pub/Collateral/BAW56LT1-D.PDF","70 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Dual Common Anode Switching Diode","Common Anode","70","1","2.4","0.2","6","2","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","BAW56T","BAW56TT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=BAW56TT1G","http://www.onsemi.com/pub/Collateral/BAW56TT1-D.PDF","70 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Dual Common Anode Switching Diode","Common Anode","70","1","2.5","0.2","6","2","SC-75-3"
+"on","二极管和整流器---小信号开关二极管","BAW56T","SBAW56TT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SBAW56TT1G","http://www.onsemi.com/pub/Collateral/BAW56TT1-D.PDF","70 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Dual Common Anode Switching Diode","Common Anode","70","1","2.5","0.2","6","2","SC-75-3"
+"on","二极管和整流器---小信号开关二极管","DA121T","DA121TT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=DA121TT1G","http://www.onsemi.com/pub/Collateral/DA121TT1-D.PDF","80 V Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","80 V Switching Diode","Single","80","1","1","0.2","6","2","SC-75-3"
+"on","二极管和整流器---小信号开关二极管","DAN222M3T5G","DAN222M3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=DAN222M3T5G","http://www.onsemi.com/pub/Collateral/DAN222M3-D.PDF","Switching Diode, Dual, Common Cathode","AEC Qualified
+Pb-free
+Halide free","Active","Switching Diode, Dual, Common Cathode","Dual Common Cathode","80","1.2","0.1","0.1","4","3.5","SOT-723-3"
+"on","二极管和整流器---小信号开关二极管","DAP222M3T5G","DAP222M3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=DAP222M3T5G","http://www.onsemi.com/pub/Collateral/DAP222M3-D.PDF","Switching Diode, Dual, Common Anode, 80 V","AEC Qualified
+Pb-free
+Halide free","Active","Switching Diode, Dual, Common Anode, 80 V","Common Anode","80","1.2","0.1","0.1","4","3.5","SOT-723-3"
+"on","二极管和整流器---小信号开关二极管","DCC010","DCC010-TB-E","http://www.onsemi.cn/PowerSolutions/product.do?id=DCC010-TB-E","-","Ultrahigh-Speed Switching Diode","Pb-free","Active","Ultrahigh-Speed Switching Diode","Dual Series","80","1.2","0.5","0.1","4","3","SC-59 / CP"
+"on","二极管和整流器---小信号开关二极管","DCG010","DCG010-TL-E","http://www.onsemi.cn/PowerSolutions/product.do?id=DCG010-TL-E","-","Ultrahigh-Speed Switching Diode","Pb-free","Active","Ultrahigh-Speed Switching Diode","Common Cathode","80","1.2","0.5","0.1","4","3","SC-70FL / MCPH-3"
+"on","二极管和整流器---小信号开关二极管","M1MA141K","M1MA141KT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M1MA141KT1G","http://www.onsemi.com/pub/Collateral/M1MA141KT1-D.PDF","40 V Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","40 V Switching Diode","Single","40","1.2","0.1","0.1","3","2","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","M1MA142WA","M1MA142WAT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M1MA142WAT1G","http://www.onsemi.com/pub/Collateral/M1MA141WAT1-D.PDF","80 V Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","80 V Common Anode Switching Diode","Common Anode","80","1.2","0.1","0.1","10","15","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","M1MA142WA","SM1MA142WAT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SM1MA142WAT1G","http://www.onsemi.com/pub/Collateral/M1MA141WAT1-D.PDF","80 V Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","80 V Common Anode Switching Diode","Common Anode","80","1.2","0.1","0.1","10","15","SC-70-3 / SOT-323-3"
+"on","二极管和整流器---小信号开关二极管","M1MA151K","M1MA151KT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M1MA151KT1G","http://www.onsemi.com/pub/Collateral/M1MA151KT1-D.PDF","40 V Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","40 V Switching Diode","Single","40","1.2","0.1","0.1","3","2","SC-59-3"
+"on","二极管和整流器---小信号开关二极管","M1MA151WK","M1MA151WKT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M1MA151WKT1G","http://www.onsemi.com/pub/Collateral/M1MA151WKT1-D.PDF","40 V Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Common Cathode Switching Diode","Common Cathode","40","1.2","0.1","0.1","3","2","SC-59-3"
+"on","二极管和整流器---小信号开关二极管","M1MA151WK","SM1MA151WKT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SM1MA151WKT1G","http://www.onsemi.com/pub/Collateral/M1MA151WKT1-D.PDF","40 V Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","40 V Common Cathode Switching Diode","Common Cathode","40","1.2","0.1","0.1","3","2","SC-59-3"
+"on","二极管和整流器---小信号开关二极管","M1MA152WA","M1MA152WAT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=M1MA152WAT1G","http://www.onsemi.com/pub/Collateral/M1MA151WAT1-D.PDF","80 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","80 V Dual Common Anode Switching Diode","Common Anode","80","1.2","0.1","0.1","10","15","SC-59-3"
+"on","二极管和整流器---小信号开关二极管","MMBD2835L","MMBD2835LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD2835LT1G","http://www.onsemi.com/pub/Collateral/MMBD2835LT1-D.PDF","35 V Dual Common Anode Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","35 V Dual Common Anode Switching Diode","Common Anode","35","1","0.1","0.1","4","4","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD2837L","MMBD2837LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD2837LT1G","http://www.onsemi.com/pub/Collateral/MMBD2837LT1-D.PDF","35 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","35 V Dual Common Cathode Switching Diode","Common Cathode","35","1","0.1","0.1","4","4","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD2837L","SMMBD2837LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMBD2837LT1G","http://www.onsemi.com/pub/Collateral/MMBD2837LT1-D.PDF","35 V Dual Common Cathode Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","35 V Dual Common Cathode Switching Diode","Common Cathode","35","1","0.1","0.1","4","4","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD6050L","MMBD6050LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD6050LT1G","http://www.onsemi.com/pub/Collateral/MMBD6050LT1-D.PDF","70 V Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","70 V Switching Diode","Single","70","1.1","0.1","0.2","4","2.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD6050L","MMBD6050LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD6050LT3G","http://www.onsemi.com/pub/Collateral/MMBD6050LT1-D.PDF","70 V Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","70 V Switching Diode","Single","70","1.1","0.1","0.2","4","2.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD7000L","MMBD7000LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD7000LT1G","http://www.onsemi.com/pub/Collateral/MMBD7000LT1-D.PDF","100 V Switching Diode, Dual, Series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode, Dual, Series","Dual Series","100","1.1","1","0.2","4","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD7000L","MMBD7000LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMBD7000LT3G","http://www.onsemi.com/pub/Collateral/MMBD7000LT1-D.PDF","100 V Switching Diode, Dual, Series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode, Dual, Series","Dual Series","100","1.1","1","0.2","4","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD7000L","SMMBD7000LT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMBD7000LT1G","http://www.onsemi.com/pub/Collateral/MMBD7000LT1-D.PDF","100 V Switching Diode, Dual, Series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode, Dual, Series","Dual Series","100","1.1","1","0.2","4","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMBD7000L","SMMBD7000LT3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMBD7000LT3G","http://www.onsemi.com/pub/Collateral/MMBD7000LT1-D.PDF","100 V Switching Diode, Dual, Series","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","100 V Switching Diode, Dual, Series","Dual Series","100","1.1","1","0.2","4","1.5","SOT-23-3"
+"on","二极管和整流器---小信号开关二极管","MMDL6050","MMDL6050T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMDL6050T1G","http://www.onsemi.com/pub/Collateral/MMDL6050T1-D.PDF","70 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Switching Diode","Single","70","0.7","0.1","0.2","4","2.5","SOD-323"
+"on","二极管和整流器---小信号开关二极管","MMDL6050","SMMDL6050T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMDL6050T1G","http://www.onsemi.com/pub/Collateral/MMDL6050T1-D.PDF","70 V Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","70 V Switching Diode","Single","70","0.7","0.1","0.2","4","2.5","SOD-323"
+"on","二极管和整流器---小信号开关二极管","MMSD103","MMSD103T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMSD103T1G","http://www.onsemi.com/pub/Collateral/MMSD103T1-D.PDF","250 V High Voltage Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","250 V High Voltage Switching Diode","Single","250","1","1","0.2","50","5","SOD-123"
+"on","二极管和整流器---小信号开关二极管","MMSD103","SMMSD103T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMSD103T1G","http://www.onsemi.com/pub/Collateral/MMSD103T1-D.PDF","250 V High Voltage Switching Diode","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","250 V High Voltage Switching Diode","Single","250","1","1","0.2","50","5","SOD-123"
+"on","二极管和整流器---小信号开关二极管","MMSD914","MMSD914T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMSD914T1G","http://www.onsemi.com/pub/Collateral/MMSD914T1-D.PDF","Switching Diode, High Speed, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Speed, 100 V","Single","100","1","5","0.2","4","4","SOD-123"
+"on","二极管和整流器---小信号开关二极管","MMSD914","MMSD914T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=MMSD914T3G","http://www.onsemi.com/pub/Collateral/MMSD914T1-D.PDF","Switching Diode, High Speed, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Speed, 100 V","Single","100","1","5","0.2","4","4","SOD-123"
+"on","二极管和整流器---小信号开关二极管","MMSD914","SMMSD914T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMSD914T1G","http://www.onsemi.com/pub/Collateral/MMSD914T1-D.PDF","Switching Diode, High Speed, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Speed, 100 V","Single","100","1","5","0.2","4","4","SOD-123"
+"on","二极管和整流器---小信号开关二极管","MMSD914","SMMSD914T3G","http://www.onsemi.cn/PowerSolutions/product.do?id=SMMSD914T3G","http://www.onsemi.com/pub/Collateral/MMSD914T1-D.PDF","Switching Diode, High Speed, 100 V","AEC Qualified
+Pb-free
+Halide free
+PPAP Capable","Active","Switching Diode, High Speed, 100 V","Single","100","1","5","0.2","4","4","SOD-123"
+"on","二极管和整流器---小信号开关二极管","NSD914F3T5G","NSD914F3T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSD914F3T5G","http://www.onsemi.com/pub/Collateral/NSD914F3-D.PDF","Switching Diode","AEC Qualified
+Pb-free
+Halide free","Active","Switching Diode","Single","100","1","5","0.2","4","4","SOT-1123-3"
+"on","二极管和整流器---小信号开关二极管","NSDEMP11XV6","NSDEMP11XV6T1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSDEMP11XV6T1G","http://www.onsemi.com/pub/Collateral/NSDEMP11XV6T1-D.PDF","80 V Common Anode Switching Diode, quad, two duals","AEC Qualified
+Pb-free
+Halide free","Active","80 V Common Anode Switching Diode, quad, two duals","Dual Common Anode","80","1.2","0.1","0.1","4","3.5",
+"RD0106T","Pb-free
+Halide free","Active","Planar Ultrafast Rectifier, Fast trr type, 1A, 600V, 50ns, TP/TP-FA","Single","600","1.3","10","1","50",,"DPAK / TP-FA
+IPAK / TP"
+"on","二极管和整流器---小信号开关二极管","NSDEMP11XV6","NSDEMP11XV6T5G","http://www.onsemi.cn/PowerSolutions/product.do?id=NSDEMP11XV6T5G","http://www.onsemi.com/pub/Collateral/NSDEMP11XV6T1-D.PDF","80 V Common Anode Switching Diode, quad, two duals","AEC Qualified
+Pb-free
+Halide free","Active","80 V Common Anode Switching Diode, quad, two duals","Dual Common Anode","80","1.2","0.1","0.1","4","3.5",
+"RD0106T","Pb-free
+Halide free","Active","Planar Ultrafast Rectifier, Fast trr type, 1A, 600V, 50ns, TP/TP-FA","Single","600","1.3","10","1","50",,"DPAK / TP-FA
+IPAK / TP"
+"on","二极管和整流器---小信号开关二极管","RD0306T","RD0306T-H","http://www.onsemi.cn/PowerSolutions/product.do?id=RD0306T-H","http://www.onsemi.com/pub/Collateral/ENA1573-D.PDF","Planar Ultrafast Rectifier, Fast trr type, 3A, 600V, 50ns, TP/TP-FA","Pb-free
+Halide free","Active","Planar Ultrafast Rectifier, Fast trr type, 3A, 600V, 50ns, TP/TP-FA","Single","600","1.5","100","3","50",,"DPAK / TP-FA
+IPAK / TP"
+"on","二极管和整流器---小信号开关二极管","RD0306T","RD0306T-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=RD0306T-TL-H","http://www.onsemi.com/pub/Collateral/ENA1573-D.PDF","Planar Ultrafast Rectifier, Fast trr type, 3A, 600V, 50ns, TP/TP-FA","Pb-free
+Halide free","Active","Planar Ultrafast Rectifier, Fast trr type, 3A, 600V, 50ns, TP/TP-FA","Single","600","1.5","100","3","50",,"DPAK / TP-FA
+IPAK / TP"
+"on","二极管和整流器---小信号开关二极管","RD2006FR","RD2006FR-H","http://www.onsemi.cn/PowerSolutions/product.do?id=RD2006FR-H","http://www.onsemi.com/pub/Collateral/ENA1832-D.PDF","Planar Ultrafast Rectifier, Fast trr type, 20A, 600V, 50ns, TO-220F-2FS","Pb-free
+Halide free","Active","Planar Ultrafast Rectifier, Fast trr type, 20A, 600V, 50ns, TO-220F-2FS","Single","600","1.75","100",,"50",,"TO-220 FP / TO-220F-2FS"
+"on","二极管和整流器---小信号开关二极管","UD1006FR","UD1006FR-H","http://www.onsemi.cn/PowerSolutions/product.do?id=UD1006FR-H","http://www.onsemi.com/pub/Collateral/ENA1745-D.PDF","Planar Ultrafast Rectifier, Low VF type, 10A, 600V, 1.3V, TO-220F-2FS","Pb-free
+Halide free","Active","Planar Ultrafast Rectifier, Low VF type, 10A, 600V, 1.3V, TO-220F-2FS","Single","600","1.3","100",,"150",,"TO-220 FP / TO-220F-2FS"

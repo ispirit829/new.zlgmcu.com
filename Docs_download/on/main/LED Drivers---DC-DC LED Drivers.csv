@@ -1,0 +1,104 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Topology","VIN Min (V)","VIN Max (V)","VO Max (V)","IO Max (mA)","fSW Typ (kHz)","Package Type"
+"on","LED Drivers---DC-DC LED Drivers","CAT32","CAT32TDI-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT32TDI-GT3","http://www.onsemi.com/pub/Collateral/CAT32-D.PDF","White LED Driver","Pb-free
+Halide free","Active","White LED Driver","Step-Up","2","5.5","20","25","1200","TSOT-23-6"
+"on","LED Drivers---DC-DC LED Drivers","CAT3604A","CAT3604AHV4-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT3604AHV4-T2","http://www.onsemi.com/pub/Collateral/CAT3604A-D.PDF","White LED Driver, 4-Channel, Regulated Charge Pump","Pb-free
+Halide free","Active","White LED Driver, 4-Channel, Regulated Charge Pump","Charge Pump","3","5.5","6","30","1000","TQFN-16"
+"on","LED Drivers---DC-DC LED Drivers","CAT3626","CAT3626HV4-GT2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT3626HV4-GT2","http://www.onsemi.com/pub/Collateral/CAT3626-D.PDF","LED Driver, Charge Pump, 6-Channel, I","Pb-free
+Halide free","Active","LED Driver, Charge Pump, 6-Channel, I<sup>2</sup>C Interface","Charge Pump","3","5.5","6","192","1000","TQFN-16"
+"on","LED Drivers---DC-DC LED Drivers","CAT3649","CAT3649HV3-GT2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT3649HV3-GT2","http://www.onsemi.com/pub/Collateral/CAT3649-D.PDF","LED Driver, 6-Channel, with 32 Dimming Levels and PWM","Pb-free
+Halide free","Active","LED Driver, 6-Channel, with 32 Dimming Levels and PWM","Charge Pump","2.4","5.5","6","25","1000","TQFN-16"
+"on","LED Drivers---DC-DC LED Drivers","CAT4106","CAT4106HV4-GT2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4106HV4-GT2","http://www.onsemi.com/pub/Collateral/CAT4106-D.PDF","LED Driver, 4-Channel, 6 Watt with Diagnostics","Pb-free
+Halide free","Active","LED Driver, 4-Channel, 6 Watt with Diagnostics","Step-Up","3","5.5","40","175","1000","TQFN-16
+TSSOP-16"
+"on","LED Drivers---DC-DC LED Drivers","CAT4106","CAT4106YP-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4106YP-T2","http://www.onsemi.com/pub/Collateral/CAT4106-D.PDF","LED Driver, 4-Channel, 6 Watt with Diagnostics","Pb-free
+Halide free","Active","LED Driver, 4-Channel, 6 Watt with Diagnostics","Step-Up","3","5.5","40","175","1000","TQFN-16
+TSSOP-16"
+"on","LED Drivers---DC-DC LED Drivers","CAT4139","CAT4139TD-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4139TD-GT3","http://www.onsemi.com/pub/Collateral/CAT4139-D.PDF","White LED Driver, High Current Boost, 22 V","Pb-free
+Halide free","Active","White LED Driver, High Current Boost, 22 V","Step-Up","2.2","5.5","24","350","1000","TSOT-23-5"
+"on","LED Drivers---DC-DC LED Drivers","CAT4237","CAT4237TD-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT4237TD-GT3","http://www.onsemi.com/pub/Collateral/CAT4237-D.PDF","White LED Driver, CMOS Boost Converter, High Voltage","Pb-free
+Halide free","Active","White LED Driver, CMOS Boost Converter, High Voltage","Step-Up","2.8","5.5","30","100","1000","TSOT-23-5"
+"on","LED Drivers---DC-DC LED Drivers","CAV4201","CAV4201TD-GT3","http://www.onsemi.cn/PowerSolutions/product.do?id=CAV4201TD-GT3","http://www.onsemi.com/pub/Collateral/CAV4201-D.PDF","LED Driver, Buck Converter, 350 mA","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","LED Driver, Buck Converter, 350 mA","Step-Down","7",,"32","350","1000","TSOT-23-5"
+"on","LED Drivers---DC-DC LED Drivers","LV5216CS","LV5216CS-TE-L-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LV5216CS-TE-L-E","http://www.onsemi.com/pub/Collateral/ENA1968-D.PDF","LED Driver, 10-channel","Pb-free","Active","LED Driver, 10-channel","Charge Pump","3","4.5","5","38.4","500","WLCSP-36 / WLP-36"
+"on","LED Drivers---DC-DC LED Drivers","LV52204MU","LV52204MUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=LV52204MUTBG","http://www.onsemi.com/pub/Collateral/ENA2176-D.PDF","LED Boost Driver with PWM and 1-Wire Dimming","Pb-free
+Halide free","Active","LED Boost Driver with PWM and 1-Wire Dimming","Step-Up","2.7","5.5","37","20","600","UDFN-6"
+"on","LED Drivers---DC-DC LED Drivers","LV52206XA","LV52206XA-MH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV52206XA-MH","http://www.onsemi.com/pub/Collateral/ENA2203-D.PDF","LED Boost Driver, Dual Channel, with PWM and 1-Wire Dimming","Pb-free
+Halide free","Active","LED Boost Driver, Dual Channel, with PWM and 1-Wire Dimming","Step-Up","2.7","5.5","40","27","600","WLCSP-9 / WLP-9"
+"on","LED Drivers---DC-DC LED Drivers","LV52207NXA","LV52207NXA-VH","http://www.onsemi.cn/PowerSolutions/product.do?id=LV52207NXA-VH","http://www.onsemi.com/pub/Collateral/ENA2346-D.PDF","Dual channel LED Boost Driver with PWM and 1-Wire Dimming","Pb-free
+Halide free","Active","Dual channel LED Boost Driver with PWM and 1-Wire Dimming","Step-Up","2.7","5.5","36","40","600","WLCSP-9"
+"on","LED Drivers---DC-DC LED Drivers","NCP3063","NCP3063BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3063BDR2G","http://www.onsemi.com/pub/Collateral/NCP3063-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","150","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP3063","NCP3063BMNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3063BMNTXG","http://www.onsemi.com/pub/Collateral/NCP3063-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","150","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP3063","NCP3063DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3063DR2G","http://www.onsemi.com/pub/Collateral/NCP3063-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","150","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP3063","NCP3063MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3063MNTXG","http://www.onsemi.com/pub/Collateral/NCP3063-D.PDF","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A, T","Pb-free
+Halide free","Active","Boost / Buck / Inverting Converter, Switching Regulator, 1.5 A","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","150","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP3066","NCP3066DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3066DR2G","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","250","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP3066","NCP3066MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP3066MNTXG","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","250","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP3066","NCV3066DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3066DR2G","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","250","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP3066","NCV3066MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV3066MNTXG","http://www.onsemi.com/pub/Collateral/NCP3066-D.PDF","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","Buck / Boost / Inverting Regulator, Switching, Constant Current, 1.5 A, for HB-LEDs with Enable","Step-Down
+Step-Up
+Step-Up/Step-Down","3","40","40","1500","250","DFN-8
+SOIC-8"
+"on","LED Drivers---DC-DC LED Drivers","NCP5006","NCP5006SNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5006SNT1G","http://www.onsemi.com/pub/Collateral/NCP5006.PDF","LED Driver, Boost, Compact Backlight","Pb-free
+Halide free","Active","LED Driver, Boost, Compact Backlight","Step-Up","2.7","20","22","50","1200","TSOP-5 / SOT-23-5"
+"on","LED Drivers---DC-DC LED Drivers","NCP5030","NCP5030MTTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5030MTTXG","http://www.onsemi.com/pub/Collateral/NCP5030-D.PDF","Buck-Boost Converter, Fixed Frequency, PWM, for LED Lighting","Pb-free
+Halide free","Active","Buck-Boost Converter, Fixed Frequency, PWM, for LED Lighting","Step-Up/Step-Down","2.7","5.5","5.5","1200","700","WDFN-12"
+"on","LED Drivers---DC-DC LED Drivers","NCP5623B","NCP5623BMUTBG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP5623BMUTBG","http://www.onsemi.com/pub/Collateral/NCP5623B-D.PDF","LED Driver, Triple Output, RGB, I2C Controlled","Pb-free
+Halide free","Active","LED Driver, Triple Output, RGB, I2C Controlled","Charge Pump","2.7","5.5","5.5","80","1000","LLGA-12"
+"on","LED Drivers---DC-DC LED Drivers","NCS29001","NCS29001DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCS29001DR2G","http://www.onsemi.com/pub/Collateral/NCS29001-D.PDF","LED Driver, Single Channel","Pb-free
+Halide free","Active","LED Driver, Single Channel","Step-Up","8.5","18","240",,"200","SOIC-14"
+"on","LED Drivers---DC-DC LED Drivers","NCV78763","NCV78763DQ0R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV78763DQ0R2G","http://www.onsemi.com/pub/Collateral/NCV78763-D.PDF","Power Ballast and Dual LED Driver for Automotive Front Lighting 2nd gen / 1.6A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Power Ballast and Dual LED Driver for Automotive Front Lighting 2nd gen / 1.6A","Step-Up/Step-Down","4","40","68","1600
+1900","350","QFN-32
+SSOP-36 EP"
+"on","LED Drivers---DC-DC LED Drivers","NCV78763","NCV78763MW0R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV78763MW0R2G","http://www.onsemi.com/pub/Collateral/NCV78763-D.PDF","Power Ballast and Dual LED Driver for Automotive Front Lighting 2nd gen / 1.6A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Power Ballast and Dual LED Driver for Automotive Front Lighting 2nd gen / 1.6A","Step-Up/Step-Down","4","40","68","1600
+1900","350","QFN-32
+SSOP-36 EP"
+"on","LED Drivers---DC-DC LED Drivers","NCV78763","NCV78763MW1R2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV78763MW1R2G","http://www.onsemi.com/pub/Collateral/NCV78763-D.PDF","Power Ballast and Dual LED Driver for Automotive Front Lighting 2nd gen / 1.6A","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Power Ballast and Dual LED Driver for Automotive Front Lighting 2nd gen / 1.6A","Step-Up/Step-Down","4","40","68","1600
+1900","350","QFN-32
+SSOP-36 EP"

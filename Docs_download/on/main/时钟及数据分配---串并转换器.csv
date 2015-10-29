@@ -1,0 +1,35 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Bits","Input Level","Output Level","VCC Typ (V)","fdr Typ (Gb/sec)","tpd Typ (ns)","tsu Min (ns)","th Min (ns)","tJitter Typ (ps)","tR & tF Max (ps)","Package Type"
+"on","时钟及数据分配---串并转换器","MC100E446","MC100E446FNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E446FNG","http://www.onsemi.com/pub/Collateral/MC10E446-D.PDF","5.0 V ECL 4-Bit Parallel to Serial Converter","Pb-free
+Halide free","Active","5.0 V ECL 4-Bit Parallel to Serial Converter","Parallel/Serial","4","ECL","ECL","5","1.6","1.2","-0.2","0.65
+0.9","1","350","PLCC-28"
+"on","时钟及数据分配---串并转换器","MC100E446","MC100E446FNR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100E446FNR2G","http://www.onsemi.com/pub/Collateral/MC10E446-D.PDF","5.0 V ECL 4-Bit Parallel to Serial Converter","Pb-free
+Halide free","Active","5.0 V ECL 4-Bit Parallel to Serial Converter","Parallel/Serial","4","ECL","ECL","5","1.6","1.2","-0.2","0.65
+0.9","1","350","PLCC-28"
+"on","时钟及数据分配---串并转换器","MC100EP446","MC100EP446FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP446FAG","http://www.onsemi.com/pub/Collateral/MC10EP446-D.PDF","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Pb-free
+Halide free","Active","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Parallel/Serial","8","CML
+ECL","ECL","3.3
+5","3.4","0.8","-0.45","-0.6","0.2","150","LQFP-32
+QFN-32"
+"on","时钟及数据分配---串并转换器","MC100EP446","MC100EP446FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP446FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP446-D.PDF","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Pb-free
+Halide free","Active","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Parallel/Serial","8","CML
+ECL","ECL","3.3
+5","3.4","0.8","-0.45","-0.6","0.2","150","LQFP-32
+QFN-32"
+"on","时钟及数据分配---串并转换器","MC100EP446","MC100EP446MNG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP446MNG","http://www.onsemi.com/pub/Collateral/MC10EP446-D.PDF","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Pb-free
+Halide free","Active","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Parallel/Serial","8","CML
+ECL","ECL","3.3
+5","3.4","0.8","-0.45","-0.6","0.2","150","LQFP-32
+QFN-32"
+"on","时钟及数据分配---串并转换器","MC100EP446","MC100EP446MNR4G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC100EP446MNR4G","http://www.onsemi.com/pub/Collateral/MC10EP446-D.PDF","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Pb-free
+Halide free","Active","Serial to Parallel Converter, 3.3 V / 5 V, 8-Bit, CMOS / ECL / TTL Data Input","Parallel/Serial","8","CML
+ECL","ECL","3.3
+5","3.4","0.8","-0.45","-0.6","0.2","150","LQFP-32
+QFN-32"
+"on","时钟及数据分配---串并转换器","MC10EP445","MC10EP445FAG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP445FAG","http://www.onsemi.com/pub/Collateral/MC10EP445-D.PDF","3.3 V / 5.0 V ECL 8-Bit Serial to Parallel Converter","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 8-Bit Serial to Parallel Converter","Serial/Parallel","8","CML
+ECL","ECL","3.3
+5","2.5","1.6","-0.44","0.56","0.2","400","LQFP-32"
+"on","时钟及数据分配---串并转换器","MC10EP445","MC10EP445FAR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC10EP445FAR2G","http://www.onsemi.com/pub/Collateral/MC10EP445-D.PDF","3.3 V / 5.0 V ECL 8-Bit Serial to Parallel Converter","Pb-free
+Halide free","Active","3.3 V / 5.0 V ECL 8-Bit Serial to Parallel Converter","Serial/Parallel","8","CML
+ECL","ECL","3.3
+5","2.5","1.6","-0.44","0.56","0.2","400","LQFP-32"

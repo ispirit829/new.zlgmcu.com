@@ -1,0 +1,7 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","Type","Number of Cells Charged","VCC Min (V)","VCC Max (V)","ID Max (microA)","Package Type"
+"on","DC-DC控制器、转换器和稳压器---电池充电控制器","HPM10","HPM10-W29A100G","http://www.onsemi.cn/PowerSolutions/product.do?id=HPM10-W29A100G","http://www.onsemi.com/pub/Collateral/HPM10-D.PDF","Power Management IC (PMIC) for Hearing Aids, WLCSP29, Bare Die","Pb-free
+Halide free","ActiveNEW","Power Management IC (PMIC) for Hearing Aids",,,,,,"WLCSP29 2.05x1.74"
+"on","DC-DC控制器、转换器和稳压器---电池充电控制器","NCP1851","NCP1851AFCCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1851AFCCT1G","http://www.onsemi.com/pub/Collateral/NCP1851-D.PDF","Switching Battery Charger, 1.6 A, with Power Path Management","Pb-free
+Halide free","Active","Switching Battery Charger, 1.6 A, with Power Path Management ","Li-Ion/Polymer","1","3.6","28","5","Flip-Chip-25"
+"on","DC-DC控制器、转换器和稳压器---电池充电控制器","NCP1854","NCP1854FCCT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1854FCCT1G","http://www.onsemi.com/pub/Collateral/NCP1854-D.PDF","Switching Battery Charger, 2.5 A, with Power Path Management, Switching Battery Charger, 2.5 A, with Power Path Management","Pb-free
+Halide free","Active","Switching Battery Charger, 2.5 A, with Power Path Management","Li-Ion/Polymer","1","4","28","5","Flip-Chip-25"

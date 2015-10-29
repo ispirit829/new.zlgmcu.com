@@ -1,0 +1,26 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Sensor---HALIOS®","E909.11","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/04_halios/e909-11_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/haliosr.html?tx_pmproductlist_productlist%5Bproduct%5D=121&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=20061f452a3763fa90792c69c961775b","Ultra Low Power HALIOS®"," "," "," "," "," "," "," "," "," ","Proximity
+1...3 dimensional input devices
+Ambient Light Measurement ","- ","- "," "," ","2.2V to 3.6V  "," "," "," "," "," "," "," "," ","10µA (typical), 4.5µA (idle), 0.4µA (sleep)  "," "," "," "," ","QFN20L4
+Bare-Die "," "," IC for gesture control solutions, proximity and ambient light measurements
+Adaptive power saving control
+Self-calibration
+I
+C Interface"
+"elmos","Sensor---HALIOS®","E527.16","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/04_halios/e527-16_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/haliosr.html?tx_pmproductlist_productlist%5Bproduct%5D=122&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=b9f6c6af5983a5dd0ef789c536877f8c","HALIOS® Gesture Switch"," "," "," "," "," "," "," "," "," ","Proximity
+Awareness ","- ","- "," "," ","2.25V to 2.75V 3.3V (periphery)  "," "," "," "," "," "," "," "," ","3.5mA (typical)  "," "," "," "," ","QFN32L5 "," "," Advanced ready-to-use function
+Implemented gesture recognition
+PWM-Output for innovative motion-controlled lighting application"
+"elmos","Sensor---HALIOS®","E909.06","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/04_halios/e909-06_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/haliosr.html?tx_pmproductlist_productlist%5Bproduct%5D=113&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=72b9013576e5732a85c7105b7c155584","HALIOS® Multi Purpose Sensor for Automotive"," "," "," "," "," "," "," "," "," ","Proximity
+1...3 dimensional input devices
+Touch ","- ","- "," "," ","2.25V to 2.75V, 3.3V (GPIO)  "," "," "," "," "," "," "," "," ","2.5mA (typical), <50µA (stop mode)  "," "," "," "," ","QFN32L5 "," "," Optical/capacitive sensor IC for gesture control and object detection
+5 LED drivers, 8x GPIO
+16 bit µC with flash
+SPI-compatible, I
+C Interface, LIN UART
+Internal temp. compensation
+Standard Firmware implemented"
+"elmos","Sensor---HALIOS®","E909.07","http://www.elmos.com/fileadmin/2013/02_products/04_sensor/04_halios/e909-07_elmos_ds.pdf","http://www.elmos.com/english/products/sensor/haliosr.html?tx_pmproductlist_productlist%5Bproduct%5D=112&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=c1109008ae4dffc269dea0af2e783d52","Transimpedance Amplifier with High Sensitivity"," "," "," "," "," "," "," "," "," ","- ","172dBOhm ","500kHz "," "," ","3V to 3.5V  "," "," "," "," "," "," "," "," ","3mA  (typical), <1µA (sleep)  "," "," "," "," ","QFN20L4
+Bare-Die "," "," Enlarges detection range of HALIOS® ICs E909.06
+Limiting amplifier output
+High resistive output stage"

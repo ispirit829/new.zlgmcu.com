@@ -1,0 +1,30 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","IOUT VTT Max (A)","IQ Typ (µA)","VCC Bias Min (V)","VCC Bias Max (V)","Remote Sense","Power Good","Package Type"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51145","NCP51145MNTAG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP51145MNTAG","http://www.onsemi.com/pub/Collateral/NCP51145-D.PDF","1.8A  Source / Sink VTT DDR Termination Regulator","Pb-free
+Halide free","Active","1.8A  Source / Sink VTT DDR Termination Regulator","1.8","1000","4.75","5.25","No","No","DFN-8
+SOIC-8 NB EP"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51145","NCP51145PDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP51145PDR2G","http://www.onsemi.com/pub/Collateral/NCP51145-D.PDF","1.8A  Source / Sink VTT DDR Termination Regulator","Pb-free
+Halide free","Active","1.8A  Source / Sink VTT DDR Termination Regulator","1.8","1000","4.75","5.25","No","No","DFN-8
+SOIC-8 NB EP"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51198","NCP51198PDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP51198PDR2G","http://www.onsemi.com/pub/Collateral/NCP51198-D.PDF","1.5 A DDR Termination Regulator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1.5 A DDR Termination Regulator","1.5","380","2.2","5.5","Yes","No","SOIC-8 NB EP"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51198","NCV51198PDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV51198PDR2G","http://www.onsemi.com/pub/Collateral/NCP51198-D.PDF","1.5 A DDR Termination Regulator","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","1.5 A DDR Termination Regulator","1.5","380","2.2","5.5","Yes","No","SOIC-8 NB EP"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51200","NCP51200MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP51200MNTXG","http://www.onsemi.com/pub/Collateral/NCP51200-D.PDF","3A Source / Sink VTT Termination Regulator for DDR1, DDR2, DDR3, LPDDR3, DDR4","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","3A Source / Sink VTT Termination Regulator for DDR1, DDR2, DDR3, LPDDR3, DDR4","3","700","2.375","3.5","Yes","Yes","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51200","NCV51200MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV51200MNTXG","http://www.onsemi.com/pub/Collateral/NCP51200-D.PDF","3A Source / Sink VTT Termination Regulator for DDR1, DDR2, DDR3, LPDDR3, DDR4","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","3A Source / Sink VTT Termination Regulator for DDR1, DDR2, DDR3, LPDDR3, DDR4","3","700","2.375","3.5","Yes","Yes","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51200","NCV51200MWTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCV51200MWTXG","http://www.onsemi.com/pub/Collateral/NCP51200-D.PDF","3A Source / Sink VTT Termination Regulator for DDR1, DDR2, DDR3, LPDDR3, DDR4","Pb-free
+Halide free
+AEC Qualified
+PPAP Capable","Active","3A Source / Sink VTT Termination Regulator for DDR1, DDR2, DDR3, LPDDR3, DDR4","3","700","2.375","3.5","Yes","Yes","DFN-10"
+"on","DC-DC控制器、转换器和稳压器---DDR Termination Regulators","NCP51401","NCP51401MNTXG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP51401MNTXG","http://www.onsemi.com/pub/Collateral/NCP51401-D.PDF","3 Amp VTT Termination Regulator DDR1, DDR2, DDR3, LPDDR3, DDR4","AEC Qualified
+Pb-free
+Halide free","ActiveNEW","3 Amp VTT Termination Regulator DDR1, DDR2, DDR3, LPDDR3, DDR4","3","700","2.375","5.5","Yes","Yes","DFN-10"

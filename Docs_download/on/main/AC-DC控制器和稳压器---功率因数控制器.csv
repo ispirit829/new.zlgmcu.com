@@ -1,0 +1,105 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","PFC Mode","Frequency Operation","Control Mode","Topology","fSW Typ (kHz)","VCC Max (V)","Drive Cap. (mA)","UVLO (V)","Latch","UVP","Inhibition","Package Type"
+"on","AC-DC控制器和稳压器---功率因数控制器","MC33262","MC33262DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33262DG","http://www.onsemi.com/pub/Collateral/MC34262-D.PDF","Power Factor Controller","PPAP Capable
+Pb-free
+Halide free","Active","Power Factor Controller","CRM","Variable","Current Mode","Step-Up","Variable","30","500 / 500","8 - 13","Yes","No","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","MC33262","MC33262DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33262DR2G","http://www.onsemi.com/pub/Collateral/MC34262-D.PDF","Power Factor Controller","PPAP Capable
+Pb-free
+Halide free","Active","Power Factor Controller","CRM","Variable","Current Mode","Step-Up","Variable","30","500 / 500","8 - 13","Yes","No","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","MC33262","MC33262PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC33262PG","http://www.onsemi.com/pub/Collateral/MC34262-D.PDF","Power Factor Controller","PPAP Capable
+Pb-free
+Halide free","Active","Power Factor Controller","CRM","Variable","Current Mode","Step-Up","Variable","30","500 / 500","8 - 13","Yes","No","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","MC34262","MC34262DG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34262DG","http://www.onsemi.com/pub/Collateral/MC34262-D.PDF","Power Factor Controller","PPAP Capable
+Pb-free
+Halide free","Active","Power Factor Controller","CCM","Variable","Current Mode","Boost","50","30","500 / 500","Yes","Fixed","No","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","MC34262","MC34262DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34262DR2G","http://www.onsemi.com/pub/Collateral/MC34262-D.PDF","Power Factor Controller","PPAP Capable
+Pb-free
+Halide free","Active","Power Factor Controller","CCM","Variable","Current Mode","Boost","50","30","500 / 500","Yes","Fixed","No","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","MC34262","MC34262PG","http://www.onsemi.cn/PowerSolutions/product.do?id=MC34262PG","http://www.onsemi.com/pub/Collateral/MC34262-D.PDF","Power Factor Controller","PPAP Capable
+Pb-free
+Halide free","Active","Power Factor Controller","CCM","Variable","Current Mode","Boost","50","30","500 / 500","Yes","Fixed","No","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCL30030","NCL30030B1DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30030B1DR2G","http://www.onsemi.com/pub/Collateral/NCL30030-D.PDF","Ac-Dc Combination Power Factor Correction & Quasi-Resonant Flyback Controller optimized for LED Lighting, with Bi-Level 1.77:1 PFC Output Ratio and auto-recoverable Fault Handling","Pb-free
+Halide free","Active","Ac-Dc Combination Power Factor Correction & Quasi-Resonant Flyback Controller optimized for LED Lighting","CRM","Variable","Current Mode","Flyback","80","30","500 / 800","7.5","No",,"yes","SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCL30030","NCL30030B2DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30030B2DR2G","http://www.onsemi.com/pub/Collateral/NCL30030-D.PDF","Ac-Dc Combination Power Factor Correction & Quasi-Resonant Flyback Controller optimized for LED Lighting, with Bi-level 2:1 PFC Output Ratio and auto-recoverable Fault Handling","Pb-free
+Halide free","Active","Ac-Dc Combination Power Factor Correction & Quasi-Resonant Flyback Controller optimized for LED Lighting","CRM","Variable","Current Mode","Flyback","80","30","500 / 800","7.5","No",,"yes","SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCL30030","NCL30030B3DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCL30030B3DR2G","http://www.onsemi.com/pub/Collateral/NCL30030-D.PDF","Ac-Dc Combination Power Factor Correction & Quasi-Resonant Flyback Controller optimized for LED Lighting, with Fixed PFC output level over line and auto-recoverable Fault Handling","Pb-free
+Halide free","Active","Ac-Dc Combination Power Factor Correction & Quasi-Resonant Flyback Controller optimized for LED Lighting","CRM","Variable","Current Mode","Flyback","80","30","500 / 800","7.5","No",,"yes","SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1602","NCP1602ABASNT1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1602ABASNT1G","http://www.onsemi.com/pub/Collateral/NCP1602-D.PDF","Power Factor Controller, Enhanced, High Efficiency","Pb-free
+Halide free","Product Preview","Power Factor Controller, Enhanced, High Efficiency","CRM","Variable","Current Mode","Step-Up","Variable","18",,,,,,"TSOP-6"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1607","NCP1607BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1607BDR2G","http://www.onsemi.com/pub/Collateral/NCP1607-D.PDF","Power Factor Controller, Cost Effective","Pb-free
+Halide free","Active","Power Factor Controller, Cost Effective","CRM","Variable","Voltage Mode","Step-Up","Variable","20","500 / 800","9.5 - 12","Yes","Yes","Yes","SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1611","NCP1611BDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1611BDR2G","http://www.onsemi.com/pub/Collateral/NCP1611-D.PDF","Power Factor Controller, Enhanced, High Efficiency, with 17 V Startup (typ)","Pb-free
+Halide free","Active","Power Factor Controller, Enhanced, High Efficiency","CRM","Variable","Current Mode","Step-Up","Variable","35","500 / 800","9","No","Yes","Yes","SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1615","NCP1615ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1615ADR2G","http://www.onsemi.com/pub/Collateral/NCP1615-D.PDF","Power Factor Controller, High Voltage, Active X2","Pb-free
+Halide free","Active","Power Factor Controller, High Voltage, Active X2","CRM
+DCM","Variable","Current Mode","Step-Up","Variable","28","500 / 800","9","Yes","Yes","Yes","SOIC-14 NB
+SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1615","NCP1615C2DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1615C2DR2G","http://www.onsemi.com/pub/Collateral/NCP1615-D.PDF","Power Factor Controller, High Voltage, Active X2","Pb-free
+Halide free","Active","Power Factor Controller, High Voltage, Active X2","CRM
+DCM","Variable","Current Mode","Step-Up","Variable","28","500 / 800","9","Yes","Yes","Yes","SOIC-14 NB
+SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1615","NCP1615C3DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1615C3DR2G","http://www.onsemi.com/pub/Collateral/NCP1615-D.PDF","Power Factor Controller, High Voltage, Active X2","Pb-free
+Halide free","Active","Power Factor Controller, High Voltage, Active X2","CRM
+DCM","Variable","Current Mode","Step-Up","Variable","28","500 / 800","9","Yes","Yes","Yes","SOIC-14 NB
+SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1615","NCP1615CDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1615CDR2G","http://www.onsemi.com/pub/Collateral/NCP1615-D.PDF","Power Factor Controller, High Voltage, Active X2","Pb-free
+Halide free","Active","Power Factor Controller, High Voltage, Active X2","CRM
+DCM","Variable","Current Mode","Step-Up","Variable","28","500 / 800","9","Yes","Yes","Yes","SOIC-14 NB
+SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1615","NCP1615D2DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1615D2DR2G","http://www.onsemi.com/pub/Collateral/NCP1615-D.PDF","Power Factor Controller, High Voltage, Active X2","Pb-free
+Halide free","Active","Power Factor Controller, High Voltage, Active X2","CRM
+DCM","Variable","Current Mode","Step-Up","Variable","28","500 / 800","9","Yes","Yes","Yes","SOIC-14 NB
+SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1615","NCP1615DDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1615DDR2G","http://www.onsemi.com/pub/Collateral/NCP1615-D.PDF","Power Factor Controller, High Voltage, Active X2","Pb-free
+Halide free","Active","Power Factor Controller, High Voltage, Active X2","CRM
+DCM","Variable","Current Mode","Step-Up","Variable","28","500 / 800","9","Yes","Yes","Yes","SOIC-14 NB
+SOIC-16 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1650","NCP1650DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1650DR2G","http://www.onsemi.com/pub/Collateral/NCP1650-D.PDF","Power Factor Correction Controller","Pb-free
+Halide free","Active","Power Factor Correction Controller","CCM","Fixed","Current Mode","Step-Up","25 - 250","20","1500 / 1500","10 - 10.5","Yes","No","Yes","SOIC-16"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1653","NCP1653ADR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1653ADR2G","http://www.onsemi.com/pub/Collateral/NCP1653-D.PDF","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","Pb-free
+Halide free","Active","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","CCM","Fixed","Current Mode","Step-Up","67
+100","18","1000 / 1000","8.7 - 13.25","Yes","Fixed","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1653","NCP1653APG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1653APG","http://www.onsemi.com/pub/Collateral/NCP1653-D.PDF","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","Pb-free
+Halide free","Active","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","CCM","Fixed","Current Mode","Step-Up","67
+100","18","1000 / 1000","8.7 - 13.25","Yes","Fixed","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1653","NCP1653DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1653DR2G","http://www.onsemi.com/pub/Collateral/NCP1653-D.PDF","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","Pb-free
+Halide free","Active","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","CCM","Fixed","Current Mode","Step-Up","67
+100","18","1000 / 1000","8.7 - 13.25","Yes","Fixed","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1653","NCP1653PG","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1653PG","http://www.onsemi.com/pub/Collateral/NCP1653-D.PDF","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","Pb-free
+Halide free","Active","Controller, PFC, Continuous Conduction Mode, Fixed Frequency, Compact","CCM","Fixed","Current Mode","Step-Up","67
+100","18","1000 / 1000","8.7 - 13.25","Yes","Fixed","Yes","PDIP-8
+SOIC-8"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1910","NCP1910A100DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1910A100DWR2G","http://www.onsemi.com/pub/Collateral/NCP1910-D.PDF","High Performance Combo Controller for ATX Power Supplies","Pb-free
+Halide free","Active","High Performance Combo Controller for ATX Power Supplies","CCM","Variable","Current Mode","Half-Bridge","Up to 500","20","500 / 1000","9/10.4","Yes","Yes","Yes","SOIC-24"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1910","NCP1910A65DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1910A65DWR2G","http://www.onsemi.com/pub/Collateral/NCP1910-D.PDF","High Performance Combo Controller for ATX Power Supplies","Pb-free
+Halide free","Active","High Performance Combo Controller for ATX Power Supplies","CCM","Variable","Current Mode","Half-Bridge","Up to 500","20","500 / 1000","9/10.4","Yes","Yes","Yes","SOIC-24"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1910","NCP1910B100DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1910B100DWR2G","http://www.onsemi.com/pub/Collateral/NCP1910-D.PDF","High Performance Combo Controller for ATX Power Supplies","Pb-free
+Halide free","Active","High Performance Combo Controller for ATX Power Supplies","CCM","Variable","Current Mode","Half-Bridge","Up to 500","20","500 / 1000","9/10.4","Yes","Yes","Yes","SOIC-24"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1910","NCP1910B65DWR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1910B65DWR2G","http://www.onsemi.com/pub/Collateral/NCP1910-D.PDF","High Performance Combo Controller for ATX Power Supplies","Pb-free
+Halide free","Active","High Performance Combo Controller for ATX Power Supplies","CCM","Variable","Current Mode","Half-Bridge","Up to 500","20","500 / 1000","9/10.4","Yes","Yes","Yes","SOIC-24"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937A1DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937A1DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937A2DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937A2DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937A3DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937A3DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937B1DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937B1DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937B2DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937B2DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937B3DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937B3DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937C1DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937C1DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937C4DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937C4DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"
+"on","AC-DC控制器和稳压器---功率因数控制器","NCP1937","NCP1937C61DR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=NCP1937C61DR2G","http://www.onsemi.com/pub/Collateral/NCP1937-D.PDF","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","Pb-free
+Halide free","Active","Combination Power Factor Correction & Quasi-Resonant Flyback Controller","CRM","Variable","Current Mode","Flyback","Variable","30","0.5","Yes","Yes","Yes","Yes","SOIC-20 NB"

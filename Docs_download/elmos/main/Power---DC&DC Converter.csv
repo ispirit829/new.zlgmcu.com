@@ -1,0 +1,111 @@
+﻿"brand","Series","PartNo","DataSheet","DetailLink","Description","Interface","FlexRay  Standard","Recommended I MAX","Efficiency","Output","Range","Transducer frequency","Driver output","Memory","Detection","Sensitivity","Bandwidth","V BAT","V OUT","V SUPPLY","Protection","I SUPPLY","I PEAK","I  DC MAX","P(Motor) peak","P(Motor)max","V DD","V ER","Iq","RDS ON","ESD (kV)","Bitrate","Cranking Support","Package ","Status","Comment"
+"elmos","Power---DC/DC Converter","E522.78","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=160&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=851aea68af7d2bb3dd0a510f3267a7b6","Low Power Step Down Converter (3.3V/1A)"," "," ","1000mA ",">90% "," "," "," "," "," "," "," "," "," ","3.3V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP ","Production "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.77","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=159&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=cf981e677e330754d3a6ff2451ffc201","Low Power Step Down Converter (5V/1A)"," "," ","1000mA ",">90% "," "," "," "," "," "," "," "," "," ","5V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP ","Production "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.01","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=46&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=d8c211b8b0f548e77b1c79db6b7fae99","Low Quiescent Current Step Down Converter (5V/500mA)"," "," ","500mA ",">92% "," "," "," "," "," "," "," "," "," ","5V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4
+TSSOP16 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.79","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=161&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=2ddf0fe2351e85aa2e4922ab365d7292","Low Power Step Down Converter (Adjustable Voltage)"," "," ","1000mA ",">90% "," "," "," "," "," "," "," "," "," ","1.5V to 40V  ","4.2V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.76","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=158&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=51f9682d9727e36a1593f117274b0a90","Low Power Step Down Converter (Adjustable Voltage/350mA)"," "," ","350mA ",">90% "," "," "," "," "," "," "," "," "," ","1.5V to 40V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.73","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=155&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=794e560a8625d36c7579b68cff33d407","Low Power Step Down Converter (5V/350mA)"," "," ","350mA ",">90% "," "," "," "," "," "," "," "," "," ","5V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.70","http://www.elmos.com/-","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=130&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=6410ab799d3e8dd2e5a8bf01221261e1","Low Power Step Down Converter (2A Buck Converter)"," "," ","2000mA ",">90% "," "," "," "," "," "," "," "," "," ","0.8V to 40V  ","3.6V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 15µA typ.
+Sleep current of 10µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.74","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=156&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=e26b7d361977a4850e3ed63e75bc12f0","Low Power Step Down Converter (3.3V/350mA)"," "," ","350mA ",">90% "," "," "," "," "," "," "," "," "," ","3.3V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.10","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-10_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=444&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=ffcff4c3b26707cd85cd754b777e8d4a","Low Quiescent Current Step Down Converter (2A Buck Converter)"," "," ","2000mA ",">90% "," "," "," "," "," "," "," "," "," ","0.8V to 40V  ","3.6V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4
+SOIC8-EP "," "," Idle current of 15µA typ.
+Sleep current of 10µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.71","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=116&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=c307ebc327feaafb027036b6e7f6cfd5","Low Power Step Down Converter (5V/500V)"," "," ","500mA ",">90% "," "," "," "," "," "," "," "," "," ","5V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.75","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=157&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=0d50dbfef50f7a0037bebab45b9fd517","Low Power Step Down Converter (Adjustable Voltage /500mA)"," "," ","500mA ",">90% "," "," "," "," "," "," "," "," "," ","1.5V to 40V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.72","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-71-72-73-74-75-76-77-78-79_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=154&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=3812c5476444036e1538382692f1a43b","Low Power Step Down Converter (3.3V/500mA)"," "," ","500mA ",">90% "," "," "," "," "," "," "," "," "," ","3.3V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","SOIC8-EP "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.41","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-41_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=440&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=e53e31b78f36a3097ba037ba59ef4cf8","Automotive USB 2.0 Power & Protect"," "," ","2500mA ",">90% "," "," "," "," "," "," "," "," "," ","5V  ","6V to 32V (tran. 42V)  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L5 "," "," Fixed frequency 250kHz..2MHz ± 25% synchronizable
+Fixed 5V ±3% USB Bus voltage with seven programmable negative resistance adjustments
+SDP, BC 1.2 CDP, DCP individual USB charging modes"
+"elmos","Power---DC/DC Converter","E522.09","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=147&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=eb4591af9ab2cce5b2f3d1e82b4839af","Low Quiescent Current Step Down Converter (Adjustable Voltage/1A)"," "," ","1000mA ",">92% "," "," "," "," "," "," "," "," "," ","1.5V to 40V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.08","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=146&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=f355a5fcd2be2a72ac580caf396445ec","Low Quiescent Current Step Down Converter (3.3V/1A)"," "," ","1000mA ",">92% "," "," "," "," "," "," "," "," "," ","3.3V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.07","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=145&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=9222f97b540f8f6f90fc47e1856c2a84","Low Quiescent Current Step Down Converter (5V/1A)"," "," ","1000mA ",">92% "," "," "," "," "," "," "," "," "," ","5V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.04","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=140&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=d731426aa4b0b798a88c964bc582543f","Low Quiescent Current Step Down Converter (3.3V/350mA)"," "," ","350mA ",">92% "," "," "," "," "," "," "," "," "," ","3.3V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4
+TSSOP16 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.06","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=144&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=e852e839c333207c4bbbb1912893b685","Low Quiescent Current Step Down Converter (Adjustable Voltage/350mA)"," "," ","350mA ",">92% "," "," "," "," "," "," "," "," "," ","1.5V to 40V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4
+TSSOP16 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.03","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=138&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=e97ce02ceaa558a41f186a44711f9520","Low Quiescent Current Step Down Converter (5V/350mA)"," "," ","350mA ",">92% "," "," "," "," "," "," "," "," "," ","5V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4
+TSSOP16 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.05","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=141&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=5ef3c8dbdcb47ec3d0913c6cf2dd6a16","Low Quiescent Current Step Down Converter (Adjustable Voltage/500mA)"," "," ","500mA ",">92% "," "," "," "," "," "," "," "," "," ","1.5V to 40V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4
+TSSOP16 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"
+"elmos","Power---DC/DC Converter","E522.02","http://www.elmos.com/fileadmin/2013/02_products/02_power/02_dcdc-converter/e522-01-02-03-04-05-06-07-08-09_elmos_ds.pdf","http://www.elmos.com/english/products/power/dcdc-converter.html?tx_pmproductlist_productlist%5Bproduct%5D=137&tx_pmproductlist_productlist%5Baction%5D=showProduct&tx_pmproductlist_productlist%5Bcontroller%5D=Product&cHash=01c90f9173cfa1c9f967c2a3b1065bb6","Low Quiescent Current Step Down Converter (3.3V/500mA)"," "," ","500mA ",">92% "," "," "," "," "," "," "," "," "," ","3.3V  ","4.3V to 40V  "," "," "," "," "," "," "," "," "," "," "," "," "," ","QFN20L4
+TSSOP16 "," "," Idle current of 12µA typ.
+Sleep current of 8µA typ.
+Input voltage up to 40V
+Up to 100% duty cycle
+Undervoltage lockout"

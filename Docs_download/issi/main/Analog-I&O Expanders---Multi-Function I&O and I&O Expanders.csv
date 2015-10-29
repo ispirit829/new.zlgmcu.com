@@ -1,0 +1,4 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","I/O Port","Vdd(V)","ISD(uA)","Ctrl. Interface","Interrupt Output","Pkg-Pin(mm)","Documents","Status"
+"issi","Analog-I/O Expanders---Multi-Function I/O and I/O Expanders","IS31IO7325","http://www.issi.com/US/product-analog-io-expanders.shtml","http://www.issi.com/WW/pdf/31IO7325.pdf","16","2.4-5.5","0.3","I2C","I/O state change","QFN-24,SOP-24","-","Prod"
+"issi","Analog-I/O Expanders---Multi-Function I/O and I/O Expanders","IS31IO7326","http://www.issi.com/US/product-analog-io-expanders.shtml","http://www.issi.com/WW/pdf/31IO7326.pdf","16","2.4-5.5","0.3","I2C","Key pressed input","QFN-24(4x4)","-","Prod"
+"issi","Analog-I/O Expanders---Multi-Function I/O and I/O Expanders","IS31IO7328","http://www.issi.com/US/product-analog-io-expanders.shtml","http://www.issi.com/WW/pdf/31IO7328.pdf","8","2.4-5.5","0.3","I2C","I/O state change","QFN-16(3x3)","-","Prod"

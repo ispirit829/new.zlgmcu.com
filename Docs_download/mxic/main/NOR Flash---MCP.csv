@@ -1,0 +1,22 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Product Type","NOR Density","pSRAM Density","NOR Bus Width","pSRAM Bus Width","Voltage","Packages","Temperature Range"
+"mxic","NOR Flash---MCP","MX65U28F64","http://www.macronix.com/en-us/Product/NORFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NORFlash/Documents/MX65U28F64MX65U64F32ver11.pdf","QPI Mode","128Mb","64Mb","x4","x16","1.8V","6.2x7.7mm 56-TFBGA","-25°C to +85°C","
+     
+   "
+"mxic","NOR Flash---MCP","MX65U64F32","http://www.macronix.com/en-us/Product/NORFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NORFlash/Documents/MX65U28F64MX65U64F32ver11.pdf","QPI Mode","64Mb","32Mb","x4","x16","1.8V","6.2x7.7mm 56-TFBGA","-25°C to +85°C","
+     
+"
+"mxic","NOR Flash---MCP","MX69GL126F","http://www.macronix.com/en-us/Product/NORFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NORFlash/Documents/MX69GL126Fver10.pdf","De-Mux","128Mb","32Mb","x16","x16","3V","7x9mm 56-TFBGA","-40°C to +85°C","
+     
+   "
+"mxic","NOR Flash---MCP","MX69GL640E","http://www.macronix.com/en-us/Product/NORFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NORFlash/Documents/MX69GL642E640E-Iver12.pdf","De-Mux","64Mb","32Mb","x16","x16","3V","7x9mm 56-TFBGA","-40°C to +85°C","
+     
+   "
+"mxic","NOR Flash---MCP","MX69V28F64","http://www.macronix.com/en-us/Product/NORFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NORFlash/Documents/MX69V28F64ver13.pdf","AD-Mux","128Mb","64Mb","x16","x16","1.8V","6.2x7.7mm 56-TFBGA","-25°C to +85°C","
+     
+   "
+"mxic","NOR Flash---MCP","MX69N64E32","http://www.macronix.com/en-us/Product/NORFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NORFlash/Documents/MX69N-Ever15.pdf","AD-Mux","64Mb","32Mb","x16","x16","1.8V","6.2x7.7mm 56-TFBGA","-25°C to +85°C  -40°C to +85°C","
+     
+   "
+"mxic","NOR Flash---MCP","MX69N64E32","http://www.macronix.com/en-us/Product/NORFlash/Pages/MCP.aspx","http://www.macronix.com/en-us/Product/NORFlash/Documents/MX69N-E-6x6mm52TFBGAver10.pdf","AD-Mux","64Mb","32Mb","x16","x16","1.8V","6x6mm 52-TFBGA","-40°C to +85°C","
+     
+   "

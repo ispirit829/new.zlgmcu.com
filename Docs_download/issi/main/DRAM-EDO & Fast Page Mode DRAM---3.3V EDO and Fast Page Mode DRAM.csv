@@ -1,0 +1,5 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Den","Org","Type","Vcc","Refsh","Speed","Pkg(Pins)","Status","Models","Comment"
+"issi","DRAM-EDO & Fast Page Mode DRAM---3.3V EDO and Fast Page Mode DRAM","IS41LV16256C","http://www.issi.com/US/product-dram-EDO-FPM.shtml","http://www.issi.com/WW/pdf/41C-LV16256C.pdf","4M","256Kx16","EDO","3.3V","512","35","TSOP2(40/44)","Prod","-"," "
+"issi","DRAM-EDO & Fast Page Mode DRAM---3.3V EDO and Fast Page Mode DRAM","IS41LV16257C","http://www.issi.com/US/product-dram-EDO-FPM.shtml","http://www.issi.com/WW/pdf/41C-LV16257C.pdf"," ","256Kx16","FP","3.3V","512","35","TSOP2(40/44)","Prod","-"," "
+"issi","DRAM-EDO & Fast Page Mode DRAM---3.3V EDO and Fast Page Mode DRAM","IS41LV16100C","http://www.issi.com/US/product-dram-EDO-FPM.shtml","http://www.issi.com/WW/pdf/41C-LV16100C.pdf","16M","1Kx16","EDO","3.3V","1K","50","SOJ(42),TSOP2(44/50)","Prod","-"," "
+"issi","DRAM-EDO & Fast Page Mode DRAM---3.3V EDO and Fast Page Mode DRAM","IS41LV16105C","http://www.issi.com/US/product-dram-EDO-FPM.shtml","http://www.issi.com/WW/pdf/41C-LV16105C.pdf"," ","1Kx16","FP","3.3V","1K","50","SOJ(42),TSOP2(44/50)","Prod","-"," "

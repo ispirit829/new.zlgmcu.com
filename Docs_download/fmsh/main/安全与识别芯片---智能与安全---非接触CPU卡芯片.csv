@@ -1,0 +1,18 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","容量","符合标准","接口","封装形式","典型应用"
+"fmsh","安全与识别芯片---智能与安全---非接触CPU卡芯片","FM1280","http://www.fmsh.com/38bd06c9-d430-70e2-eb5c-393c198068a4/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20150529/FM1280简单说明书.pdf&fileExt=file","
+","ISO14443TypeA,ISO7816
+","接触、非接触、双界面
+","非接触模块，接触模块，双界面模块","公交卡、消费、银行卡、社保卡、健康卡、门禁、身份识别等应用
+","公交卡、消费、银行卡、社保卡、健康卡、门禁、身份识别等应用
+","-"
+"fmsh","安全与识别芯片---智能与安全---非接触CPU卡芯片","FM12CD32","http://www.fmsh.com/38bd06c9-d430-70e2-eb5c-393c198068a4/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140710/FM1232_ps_chs.pdf&fileExt=file","32K byte","ISO14443TypeA,ISO7816","接触、非接触、双界面","非接触模块，接触模块，双界面模块，QFN28","公交卡、消费、银行卡、社保卡、健康卡、门禁、身份识别等应用
+","公交卡、消费、银行卡、社保卡、健康卡、门禁、身份识别等应用","-"
+"fmsh","安全与识别芯片---智能与安全---非接触CPU卡芯片","FM1216","http://www.fmsh.com/38bd06c9-d430-70e2-eb5c-393c198068a4/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140711/FM1216_ps_chs.pdf&fileExt=file","16K Byte","ISO14443TypeA,ISO7816","接触、非接触、双界面","非接触模块，接触模块，双界面模块","公交卡、消费、银行卡、社保卡、门禁、身份识别等应用
+","公交卡、消费、银行卡、社保卡、门禁、身份识别等应用","-"
+"fmsh","安全与识别芯片---智能与安全---非接触CPU卡芯片","FM1208/FM1208M01/FM1208M04","http://www.fmsh.com/38bd06c9-d430-70e2-eb5c-393c198068a4/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140801/FM1208_ds_chs.pdf&fileExt=file","8K Byte
+","ISO14443TypeA
+","非接触
+","XOA2
+","公交、校园卡、消费、门禁、身份识别等应用
+","公交、校园卡、消费、门禁、身份识别等应用
+","-"

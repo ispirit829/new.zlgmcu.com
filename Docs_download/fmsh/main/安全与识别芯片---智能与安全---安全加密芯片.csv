@@ -1,0 +1,16 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","容量","符合标准","接口","封装形式","典型应用"
+"fmsh","安全与识别芯片---智能与安全---安全加密芯片","FM151M","http://www.fmsh.com/23d860a8-2992-4b90-9f6a-608b56b106df/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=&fileExt=file","
+","ISO7816，SWP
+","接触、SWP、Uart、SPI、GPIO
+","SSOP28,DIP8，SOP8,接触卡片，SWP SIM卡封装","SWP SIM、PSAM卡等应用
+","SWP SIM、PSAM卡等应用
+","-"
+"fmsh","安全与识别芯片---智能与安全---安全加密芯片","FM15160","http://www.fmsh.com/23d860a8-2992-4b90-9f6a-608b56b106df/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140801/FM15160_ps_chs.pdf&fileExt=file","160K Byte
+","ISO7816，USB2.0
+
+","USB2.0(全速)、接触、SPI、Uart、GPIO
+","SSOP28,SOP8,VSOP8,接触卡片封装
+","USB Key、PSAM卡等应用
+
+","USB Key、PSAM卡等应用
+","-"

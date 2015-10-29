@@ -1,0 +1,19 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","I/O","Cascadable","VCC Min (V)","VCC Max (V)","Interrupt Output","I/O Pullups","LED Blink/PWM","IO Min (mA)","Package Type"
+"on","标准逻辑---I/O扩展器","CAT9532","CAT9532HV6I-GT2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT9532HV6I-GT2","http://www.onsemi.com/pub/Collateral/CAT9532-D.PDF","I/O Port Expander, I2C / SMBus, 16-Bit, with LED Dimming","Pb-free
+Halide free","Active","I/O Port Expander, I2C / SMBus, 16-Bit, with LED Dimming","16","8 Slave ID Addresses","2.3","5.5","No","No","Yes","25","TQFN-24
+TSSOP-24"
+"on","标准逻辑---I/O扩展器","CAT9532","CAT9532YI-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT9532YI-T2","http://www.onsemi.com/pub/Collateral/CAT9532-D.PDF","I/O Port Expander, I2C / SMBus, 16-Bit, with LED Dimming","Pb-free
+Halide free","Active","I/O Port Expander, I2C / SMBus, 16-Bit, with LED Dimming","16","8 Slave ID Addresses","2.3","5.5","No","No","Yes","25","TQFN-24
+TSSOP-24"
+"on","标准逻辑---I/O扩展器","CAT9555","CAT9555YI-T2","http://www.onsemi.cn/PowerSolutions/product.do?id=CAT9555YI-T2","http://www.onsemi.com/pub/Collateral/CAT9555-D.PDF","I/O Port Expander, I2C / SMBus, 16-Bit, with Active Low Interrupt","Pb-free
+Halide free","Active","I/O Port Expander, I2C / SMBus, 16-Bit, with Active Low Interrupt","16","8 Slave ID Addresses","2.3","5.5","Yes","Yes","No","10","TSSOP-24"
+"on","标准逻辑---I/O扩展器","LC709006A","LC709006A-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC709006A-E","http://www.onsemi.com/pub/Collateral/EN8265-D.PDF","I/O Expander for Microcontroller","Pb-free","Active","I/O Expander for Microcontroller","24",,"2","6","No","No","No","12","SOIC-36 W / MFP-36SDJ"
+"on","标准逻辑---I/O扩展器","LC709006A","LC709006A-TLM-E","http://www.onsemi.cn/PowerSolutions/product.do?id=LC709006A-TLM-E","http://www.onsemi.com/pub/Collateral/EN8265-D.PDF","I/O Expander for Microcontroller","Pb-free","Active","I/O Expander for Microcontroller","24",,"2","6","No","No","No","12","SOIC-36 W / MFP-36SDJ"
+"on","标准逻辑---I/O扩展器","PCA9654E","PCA9654EDR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9654EDR2G","http://www.onsemi.com/pub/Collateral/PCA9654E-D.PDF","I/O Expander, I","AEC Qualified
+Pb-free
+Halide free","Active","I/O Expander, I<sup>2</sup>C / SMBus, 8-bit, with Interrupt","8",,"1.65","5.5","Yes","Yes","No","8","SOIC-16
+TSSOP-16"
+"on","标准逻辑---I/O扩展器","PCA9654E","PCA9654EDTR2G","http://www.onsemi.cn/PowerSolutions/product.do?id=PCA9654EDTR2G","http://www.onsemi.com/pub/Collateral/PCA9654E-D.PDF","I/O Expander, I","AEC Qualified
+Pb-free
+Halide free","Active","I/O Expander, I<sup>2</sup>C / SMBus, 8-bit, with Interrupt","8",,"1.65","5.5","Yes","Yes","No","8","SOIC-16
+TSSOP-16"

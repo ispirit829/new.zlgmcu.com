@@ -1,0 +1,10 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","工作电压","工作温度","ROM","RAM","Uarts","7816","I2C"
+"fmsh","智能电表---智能电表专用MCU","FM330X","http://www.fmsh.com/966296f7-f745-7060-a4ce-e5c185c9a098/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140731/FM330x系列智能电能表专用MCU芯片简介.pdf&fileExt=file","2.5V ～ 5.5V","-40℃～85℃","60K","3.5K","3","2","1"
+"fmsh","智能电表---智能电表专用MCU","FM3307","http://www.fmsh.com/966296f7-f745-7060-a4ce-e5c185c9a098/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140814/FM3307智能电表专用MCU芯片.pdf&fileExt=file","2.5V ～ 5.5V","-40℃～85℃","60K","3.5K","3","2","1"
+"fmsh","智能电表---智能电表专用MCU","FM3308","http://www.fmsh.com/966296f7-f745-7060-a4ce-e5c185c9a098/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140814/FM3308智能电表专用MCU芯片.pdf&fileExt=file","2.5V～5.5V","-40℃～85℃","60K","3.5K","3","2","1"
+"fmsh","智能电表---智能电表专用MCU","FM331X","http://www.fmsh.com/966296f7-f745-7060-a4ce-e5c185c9a098/","http://www.fmsh.com/AjaxFile/DownLoadFile.aspx?FilePath=/UpLoadFile/20140903/FM331X系列智能电能表专用MCU芯片简介.pdf&fileExt=file","2.2V～5.5V
+","-40℃～85℃
+","128K
+","4K
+","4
+","2","1"

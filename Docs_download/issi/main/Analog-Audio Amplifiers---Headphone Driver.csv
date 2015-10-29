@@ -1,0 +1,3 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Channels","Power(mW)","THD+N","PSRR(dB)","Vdd(V)","ISD(uA)","ICC(mA)","Pkg-Pin(mm)","Document","Status"
+"issi","Analog-Audio Amplifiers---Headphone Driver","IS31AP4912","http://www.issi.com/US/product-analog-audio-amp.shtml","http://www.issi.com/WW/pdf/31AP4912.pdf","2","30","0.024%","95","2.7-5.5","1.0","5.0","UTQFN-12(2x2)","-","Prod"
+"issi","Analog-Audio Amplifiers---Headphone Driver","IS31AP4913","http://www.issi.com/US/product-analog-audio-amp.shtml","http://www.issi.com/WW/pdf/31AP4913.pdf","2","30","0.05%","92","2.7-5.5","1.0","5.0","QFN-20(3x3)","-","Prod"

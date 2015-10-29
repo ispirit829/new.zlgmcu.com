@@ -1,0 +1,112 @@
+﻿"brand","Series","Series-2","PartNo","DetailLink","dataSheet","Descrption","Compliance","Status","Description","V(BR)CES Typ (V)","IC Max (A)","VCE(sat) Typ (V)","VF Typ (V)","Eoff Typ (mJ)","Eon Typ (mJ)","Trr Typ (ns)","Irr Typ (A)","Gate Charge Typ (nC)","Short Circuit Withstand (us)","EAS Typ (mJ)","PD Max (W)","Co-Packaged Diode","Package Type"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGB15N41A","NGB15N41ACLT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGB15N41ACLT4G","http://www.onsemi.com/pub/Collateral/NGD15N41CL-D.PDF","Ignition IGBT, 15 A, 410 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Ignition IGBT, 15 A, 410 V","410","15","1.9",,,,,,,,"250","107","No","D<sup>2</sup>PAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGB8202A","NGB8202ANT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGB8202ANT4G","http://www.onsemi.com/pub/Collateral/NGB8202N-D.PDF","Ignition IGBT, N-Channel, 20 A, 400 V","Pb-free
+Halide free","Active","Ignition IGBT, N-Channel, 20 A, 400 V","400","20","1.3",,,,,,,,"250","150","No","D<sup>2</sup>PAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGB8206A","NGB8206ANSL3G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGB8206ANSL3G","http://www.onsemi.com/pub/Collateral/NGB8206N-D.PDF","Ignition IGBT, N-Channel, 20 A, 350 V","Pb-free
+Halide free","Active","Ignition IGBT, N-Channel, 20 A, 350 V","350","20","1.3",,,,,,,,"250","150","No","D<sup>2</sup>PAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGB8206A","NGB8206ANT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGB8206ANT4G","http://www.onsemi.com/pub/Collateral/NGB8206N-D.PDF","Ignition IGBT, N-Channel, 20 A, 350 V","Pb-free
+Halide free","Active","Ignition IGBT, N-Channel, 20 A, 350 V","350","20","1.3",,,,,,,,"250","150","No","D<sup>2</sup>PAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGB8206A","NGB8206ANTF4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGB8206ANTF4G","http://www.onsemi.com/pub/Collateral/NGB8206N-D.PDF","Ignition IGBT, N-Channel, 20 A, 350 V","Pb-free
+Halide free","Active","Ignition IGBT, N-Channel, 20 A, 350 V","350","20","1.3",,,,,,,,"250","150","No","D<sup>2</sup>PAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGB8207B","NGB8207BNT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGB8207BNT4G","http://www.onsemi.com/pub/Collateral/NGB8207N-D.PDF","Ignition IGBT, N-Channel, 20 A, 365 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Ignition IGBT, N-Channel, 20 A, 365 V","365","20","1.5",,,,,,,,"500","165","No","D<sup>2</sup>PAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGD15N41A","NGD15N41ACLT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGD15N41ACLT4G","http://www.onsemi.com/pub/Collateral/NGD15N41CL-D.PDF","Ignition IGBT, 15 A, 410 V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Ignition IGBT, 15 A, 410 V","410","15","1.9",,,,,,,,"250","107","No","DPAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGD18N45","NGD18N45CLBT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGD18N45CLBT4G","http://www.onsemi.com/pub/Collateral/NGD18N45CLB-D.PDF","Ignition IGBT 18A,450V","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active"," Ignition IGBT 18A,450V","450","18","2.07",,,,,,,,"360","115","No","DPAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGD8201B","NGD8201BNT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGD8201BNT4G","http://www.onsemi.com/pub/Collateral/NGD8201B-D.PDF","Ignition IGBT","AEC Qualified
+PPAP Capable
+Pb-free
+Halide free","Active","Ignition IGBT","400","20","1.5",,,,,,,,"435","115","No","DPAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB03N60R2DT4G","NGTB03N60R2DT4G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB03N60R2DT4G","http://www.onsemi.com/pub/Collateral/NGTB03N60R2DT4G-D.PDF","IGBT, 600V, 4.5A, N-Channel","Pb-free
+Halide free","Active","IGBT, 600V, 4.5A, N-Channel","600","4.5","1.7","1.5","27","50","65","NA","17","5","NA","49","Yes","DPAK-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB10N60FG","NGTB10N60FG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB10N60FG","http://www.onsemi.com/pub/Collateral/ENA2283-D.PDF","N-Channel IGBT, 600V, 10A, VCE(sat)=1.5V, TO-220F-3FS","Pb-free
+Halide free","Active","N-Channel IGBT, 600V, 10A, VCE(sat)=1.5V, TO-220F-3FS","600","10","1.5","1.3","NA","NA","70","NA","55","5","NA","40","Yes","TO-220F-3FS"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB15N120FL","NGTB15N120FLWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB15N120FLWG","http://www.onsemi.com/pub/Collateral/NGTB15N120FLW-D.PDF","IGBT, 1200 V, 15 A, FS1 Solar/UPS","Pb-free
+Halide free","Active","IGBT, 1200 V, 15 A, FS1 Solar/UPS","1200","15","2","1.8","0.55","1.17","166","12","150","10",,"156","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB15N120IH","NGTB15N120IHWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB15N120IHWG","http://www.onsemi.com/pub/Collateral/NGTB15N120IHW-D.PDF","IGBT, 15 A, 1200V in TO247","Pb-free
+Halide free","Active","IGBT, 15 A, 1200V in TO247","1200","15","2.1","2","0.36",,,,"120",,,"278",,"TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB15N120IHR","NGTB15N120IHRWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB15N120IHRWG","http://www.onsemi.com/pub/Collateral/NGTB15N120IHR-D.PDF","IGBT 1200V 15A FS2-RC Induction Heating","Pb-free
+Halide free","Active","IGBT 1200V 15A FS2-RC Induction Heating","1200","15","2.1","1.75","0.34",,,,"160",,,"333","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB15N135IHR","NGTB15N135IHRWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB15N135IHRWG","http://www.onsemi.com/pub/Collateral/NGTB15N135IHR-D.PDF","IGBT 1350V 15A FS2-RC Induction Heating","Pb-free
+Halide free","Active","IGBT 1350V 15A FS2-RC Induction Heating","1350","15","2.15","1.85","0.42",,,,"156",,,"357","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB15N60R2FG","NGTB15N60R2FG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB15N60R2FG","http://www.onsemi.com/pub/Collateral/NGTB15N60R2FG-D.PDF","IGBT, 600V, 14A, N-Channel","Pb-free
+Halide free","ActiveNEW","IGBT, 600V, 14A, N-Channel","600","14","1.85","1.7","220","550","95","NA","80","10","NA","54","Yes","TO-220F-3FS"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB20N120IH","NGTB20N120IHWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB20N120IHWG","http://www.onsemi.com/pub/Collateral/NGTB20N120IHW-D.PDF","IGBT, 20 A, 1200 V in TO-247","Pb-free
+Halide free","Active","IGBT, 20 A, 1200 V in TO-247","1200","20","2.2","2.2","0.48",,,,"150",,,"341",,"TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB20N120IHR","NGTB20N120IHRWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB20N120IHRWG","http://www.onsemi.com/pub/Collateral/NGTB20N120IHR-D.PDF","IGBT 1200V 20A FS2-RC Induction Heating","Pb-free
+Halide free","Active","IGBT 1200V 20A FS2-RC Induction Heating","1200","20","2.1","1.75","0.45",,,,"225",,,"384","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB20N120L","NGTB20N120LWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB20N120LWG","http://www.onsemi.com/pub/Collateral/NGTB20N120L-D.PDF","IGBT 1200V 20A FS1 Gen Mkt","Pb-free","Active","IGBT 1200V 20A FS1 Gen Mkt","1200","20","1.8","1.55","0.7","3.1",,,"200","5",,"192","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB20N60L2TF1G","NGTB20N60L2TF1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB20N60L2TF1G","http://www.onsemi.com/pub/Collateral/ENA2196-D.PDF","N-Channel IGBT 600V, 20A, VCE(sat);1.45V TO-3PF-3L with Low VF Switching Diode","Pb-free
+Halide free","Active","N-Channel IGBT 600V, 20A, VCE(sat);1.45V TO-3PF-3L with Low VF Switching Diode","600","20","1.45","1.5",,,"70",,"84","NA","NA","64","Yes","TO-3PF-3L"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB25N120FL2","NGTB25N120FL2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB25N120FL2WG","http://www.onsemi.com/pub/Collateral/NGTB25N120FL2W-D.PDF","IGBT 1200V 25A FS2 SOLAR/UPS","Pb-free
+Halide free","Active","IGBT 1200V 25A FS2 SOLAR/UPS","1200","25","2","2.1","0.6","1.95","154","15","178","10",,"385","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB25N120L","NGTB25N120LWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB25N120LWG","http://www.onsemi.com/pub/Collateral/NGTB25N120L-D.PDF","IGBT 1200V 25A FS1 Gen Mkt","Pb-free","Active","IGBT 1200V 25A FS1 Gen Mkt","1200","25","1.85","1.7","0.8","3.4",,,"200","5",,"192","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB30N120FL2","NGTB30N120FL2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB30N120FL2WG","http://www.onsemi.com/pub/Collateral/NGTB30N120FL2W-D.PDF","IGBT 1200V 30A FS2 Solar/UPS","Pb-free
+Halide free","Active","IGBT 1200V 30A FS2 Solar/UPS","1200","30","2","1.75","0.7","2.6","240","18","220","10",,"452","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB30N120IHR","NGTB30N120IHRWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB30N120IHRWG","http://www.onsemi.com/pub/Collateral/NGTB30N120IHR-D.PDF","IGBT 1200V 30A FS2-RC Induction Heating","Pb-free
+Halide free","Active","IGBT 1200V 30A FS2-RC Induction Heating","1200","30","2.2","1.9","0.7",,,,"225",,,"384","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB30N120IHS","NGTB30N120IHSWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB30N120IHSWG","http://www.onsemi.com/pub/Collateral/NGTB30N120IHSW-D.PDF","IGBT 1200V 30A FS1 Induction Heating","Pb-free
+Halide free","Active","IGBT 1200V 30A FS1 Induction Heating","1200","30","2","1.8","1",,,,"220",,,"192","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB30N120L2","NGTB30N120L2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB30N120L2WG","http://www.onsemi.com/pub/Collateral/NGTB30N120L2W-D.PDF","IGBT 1200V 30A FS2 Low VCEsat","Pb-free
+Halide free","Active","IGBT 1200V 30A FS2 Low VCEsat","1200","30","1.7","1.5","1.4","4.4","450","32","310","10",,"534","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB30N60FLWG","NGTB30N60FLWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB30N60FLWG","http://www.onsemi.com/pub/Collateral/NGTB30N60FLW-D.PDF","IGBT, 600 V, 30 A, FS1 Solar/UPS","Pb-free
+Halide free","Active","IGBT, 600 V, 30 A, FS1 Solar/UPS","600","30","1.65","1.9","0.28","0.7","72","6","170","5",,"167","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB30N60IHLWG","NGTB30N60IHLWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB30N60IHLWG","http://www.onsemi.com/pub/Collateral/NGTB30N60IHLW-D.PDF","IGBT, Field Stop (FS), 30 A, 600 V","Pb-free
+Halide free","Active","IGBT, Field Stop (FS), 30 A, 600 V","600","30","1.8","1.2","0.28",,"400","23","130",,,"250","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB30N60S","NGTB30N60SWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB30N60SWG","http://www.onsemi.com/pub/Collateral/NGTB30N60SW-D.PDF","IGBT 600V 30A Welding","Pb-free
+Halide free","Active","IGBT 600V 30A Welding","600","30","1.9","2.3","0.54","0.75","200","9","90",,,"189","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB35N60FL2","NGTB35N60FL2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB35N60FL2WG","http://www.onsemi.com/pub/Collateral/NGTB35N60FL2W-D.PDF","IGBT 600V 35A FS2 Solar/UPS","Pb-free
+Halide free","Active","IGBT 600V 35A FS2 Solar/UPS","600","35","1.7","2.2","0.28","0.84","68","7","125","5",,"300","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB40N120FL","NGTB40N120FLWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB40N120FLWG","http://www.onsemi.com/pub/Collateral/NGTB40N120FLW-D.PDF","IGBT, 1200 V, 40 A, FS1 Solar/UPS","Pb-free
+Halide free","Active","IGBT, 1200 V, 40 A, FS1 Solar/UPS","1200","40","2","2.7","1.6","2.6","200","15","415","10",,"320","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB40N120IHL","NGTB40N120IHLWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB40N120IHLWG","http://www.onsemi.com/pub/Collateral/NGTB40N120IHLW-D.PDF","IGBT 1200V 40A FS1 Induction Heating","Pb-free
+Halide free","Active","IGBT 1200V 40A FS1 Induction Heating","1200","40","1.9","1.6","1.4",,,,"420",,,"329","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB40N120L","NGTB40N120LWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB40N120LWG","http://www.onsemi.com/pub/Collateral/NGTB40N120L-D.PDF","IGBT 1200V 40A FS1 Gen Mkt","Pb-free
+Halide free","Active","IGBT 1200V 40A FS1 Gen Mkt","1200","40","1.9","1.6","1.4","5.5",,,"420","5",,"260","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB40N135IHR","NGTB40N135IHRWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB40N135IHRWG","http://www.onsemi.com/pub/Collateral/NGTB40N135IHR-D.PDF","IGBT 1350V 40A FS2-RC Induction Heating","Pb-free
+Halide free","Active","IGBT 1350V 40A FS2-RC Induction Heating","1350","40","2.4","2.3","1.3",,,,"234",,,"394","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB40N60FLWG","NGTB40N60FLWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB40N60FLWG","http://www.onsemi.com/pub/Collateral/NGTB40N60FLW-D.PDF","IGBT 600V 40A FS1 Solar/UPS","Pb-free
+Halide free","Active","IGBT 600V 40A FS1 Solar/UPS","600","40","1.85","2.2","1.85","0.89","77","7","171","5",,"257","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB40N60L2","NGTB40N60L2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB40N60L2WG","http://www.onsemi.com/pub/Collateral/NGTB40N60L2W-D.PDF","IGBT 600V 40A FS2 Low VCEsat","Pb-free
+Halide free","Active","IGBT 600V 40A FS2 Low VCEsat","600","40","2","2.4","0.28","1.17","73","6.7","228","5",,"417","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB40N65IHL2","NGTB40N65IHL2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB40N65IHL2WG","http://www.onsemi.com/pub/Collateral/NGTB40N65IHL2W-D.PDF","IGBT 650V 40A FS2 Induction Heating","Pb-free
+Halide free","Active","IGBT 650V 40A FS2 Induction Heating","650","45","1.8","1.2","0.36",,"465","36","135",,,"300","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB45N60S1","NGTB45N60S1WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB45N60S1WG","http://www.onsemi.com/pub/Collateral/NGTB45N60S1W-D.PDF","IGBT 600 V/45 A - Welding","Pb-free
+Halide free","Active","IGBT 600 V/45 A - Welding","600","45","2","2.45","0.53","1.25","70","7","125","5",,"300","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB50N120FL2","NGTB50N120FL2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB50N120FL2WG","http://www.onsemi.com/pub/Collateral/NGTB50N120FL2W-D.PDF","IGBT 1200V 50A FS2 Solar/UPS","Pb-free
+Halide free","Active","IGBT 1200V 50A FS2 Solar/UPS","1200","50","2.2","2","1.4","4.4","256","19","311","10",,"535","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB50N60FLWG","NGTB50N60FLWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB50N60FLWG","http://www.onsemi.com/pub/Collateral/NGTB50N60FLW-D.PDF","IGBT, 600 V, 50 A, FS1 Solar/UPS","Pb-free
+Halide free","Active","IGBT, 600 V, 50 A, FS1 Solar/UPS","600","50","1.65","1.85","0.6","1.1","85","8","310","5",,"223","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB50N60L2","NGTB50N60L2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB50N60L2WG","http://www.onsemi.com/pub/Collateral/NGTB50N60L2W-D.PDF","IGBT 600V 50A FS2 Low VCEsat","Pb-free
+Halide free","Active","IGBT 600V 50A FS2 Low VCEsat","600","50","1.5","1.7","0.6","0.8","67","7.4","310","5",,"500","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB50N60S1","NGTB50N60S1WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB50N60S1WG","http://www.onsemi.com/pub/Collateral/NGTB50N60S1W-D.PDF","IGBT 600V/50A - Welding","Pb-free
+Halide free","Active","IGBT 600V/50A - Welding","600","50","1.8","2.1","0.46","1.5","94","8","220","5",,"417","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB60N60S","NGTB60N60SWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB60N60SWG","http://www.onsemi.com/pub/Collateral/NGTB60N60SW-D.PDF","IGBT","Pb-free
+Halide free","Active","IGBT","600","60","2","1.98","0.6","1.41","76","7","173",,,"298","Yes","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTB75N60S","NGTB75N60SWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTB75N60SWG","http://www.onsemi.com/pub/Collateral/NGTB75N60SW-D.PDF","IGBT 600V/75A - Welding","Pb-free
+Halide free","Active","IGBT 600V/75A - Welding","600","75","1.7","2.2","1","1.5","80","8","310","5",,"595","Yes","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTG12N60TF1G","NGTG12N60TF1G","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTG12N60TF1G","http://www.onsemi.com/pub/Collateral/ENA2219-D.PDF","N-Channel IGBT, 600V, 12A, VCE(sat)=1.4V, TO-3PF-3L, N-Channel IGBT, 600V, 12A, VCE(sat)=1.4V, TO-3PF-3L","Pb-free","Active","N-Channel IGBT, 600V, 12A, VCE(sat)=1.4V, TO-3PF-3L","600","12","1.4","NA","NA","NA","NA","NA","84","5","NA","54","No","TO-3PF-3L"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTG15N60S1","NGTG15N60S1EG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTG15N60S1EG","http://www.onsemi.com/pub/Collateral/NGTG15N60S1E-D.PDF","IGBT 600V 15A NPT","Pb-free","Active","IGBT 600V 15A NPT","600","15","1.5",,"0.35","0.55",,,"88","5",,"117","No","TO-220-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTG25N120FL2","NGTG25N120FL2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTG25N120FL2WG","http://www.onsemi.com/pub/Collateral/NGTG25N120FL2W-D.PDF","IGBT 1200V 25A SOLAR/UPS","Pb-free
+Halide free","Active","IGBT 1200V 25A SOLAR/UPS","1200","25","2",,"0.6","1.95",,,"178","10",,"385","No","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTG30N60FWG","NGTG30N60FWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTG30N60FWG","http://www.onsemi.com/pub/Collateral/NGTG30N60FW.PDF","IGBT, 600 V, 30 A, PFC, Low Frequency","Pb-free
+Halide free","Active","IGBT, 600 V, 30 A, PFC, Low Frequency","600","30","1.45",,"0.65","0.65",,,"170","5",,"167","No","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTG40N120FL2","NGTG40N120FL2WG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTG40N120FL2WG","http://www.onsemi.com/pub/Collateral/NGTG40N120FL2W-D.PDF","IGBT 1200V 40A SOLAR/UPS","Pb-free
+Halide free","Active","IGBT 1200V 40A SOLAR/UPS","1200","40","2",,"1.1","3.4",,,"313","10",,"535","No","TO-247"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","NGTG50N60FWG","NGTG50N60FWG","http://www.onsemi.cn/PowerSolutions/product.do?id=NGTG50N60FWG","http://www.onsemi.com/pub/Collateral/NGTG50N60FW-D.PDF","IGBT, 600 V, 50 A, PFC, Low Frequency","Pb-free
+Halide free","Active","IGBT, 600 V, 50 A, PFC, Low Frequency","600","50","1.45",,"1.2","1.1",,,"310","5",,"223","No","TO-247-3"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","TIG056BF","TIG056BF-1E","http://www.onsemi.cn/PowerSolutions/product.do?id=TIG056BF-1E","http://www.onsemi.com/pub/Collateral/TIG056BF-D.PDF","IGBT, N-Channel, 240 A, 430 V","Pb-free","Active","IGBT, N-Channel, 240 A, 430 V","430","240","3.6",,,,,,,,,"30","No","TO-220F-3FS"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","TIG065E8","TIG065E8-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=TIG065E8-TL-H","http://www.onsemi.com/pub/Collateral/ENA1862-D.PDF","N-Channel IGBT, 400V, 150A, VCE(sat);4.2V, Single ECH8","Pb-free
+Halide free","Active","N-Channel IGBT, 400V, 150A, VCE(sat);4.2V, Single ECH8","400","150","4.2",,,,,,,,,,"No","SOT-28 FL / ECH-8"
+"on","IGBT 和 FET---绝缘门双极晶体管 (IGBT)","TIG074E8","TIG074E8-TL-H","http://www.onsemi.cn/PowerSolutions/product.do?id=TIG074E8-TL-H","http://www.onsemi.com/pub/Collateral/ENA2209-D.PDF","N-Channel IGBT  400V, 150A, VCE(sat); 3.8V Single ECH8","Pb-free
+Halide free","Active","N-Channel IGBT  400V, 150A, VCE(sat); 3.8V Single ECH8","400","150","3.8",,,,,,,,,,"No","SOT-28 FL / ECH-8"

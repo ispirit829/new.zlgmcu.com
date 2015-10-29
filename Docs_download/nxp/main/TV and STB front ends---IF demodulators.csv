@@ -1,0 +1,2 @@
+﻿"brand","Series","PartNo","DetailLink","dataSheet","Package version","Package name","IF interface","Group delay  equalizer","Silicon tuner compatibility","Power supply [Typ]","Total consuption [typ]","Video gain equalizer"
+"nxp","TV and STB front ends---IF demodulators","TDA8296HN","http://www.nxp.com/products/tv_and_stb_front_ends/if_demodulators/TDA8296HN.html","http://www.nxp.com/documents/data_sheet/TDA8296.pdf","SOT618-1","HVQFN40","Low IF","yes","yes","1.2/3.3","270","yes"
